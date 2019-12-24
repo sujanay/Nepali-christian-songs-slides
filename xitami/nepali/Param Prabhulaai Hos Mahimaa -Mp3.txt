@@ -1,0 +1,56 @@
+param prabhulaai hos mahimaa -mp3
+utf-8~Param prabhulaai hos mahimaa -mp3
+~Mp3~Param prabhulaai hos mahimaa~0-1,19.8-2,58.9-3,100.8-1,114.4-4,158.7-1,178-2,217.9-0
+
+~Chorus:
+(परमप्रभुलाई होस् महिमा
+परमप्रभुलाई होस् प्रशंसा) २
+बाँचेका मात्र छैनौं
+हामी जीवित पनि छौं
+<HR>
+(param-prabhu-laai hos mahimaa
+param-prabhu-laai hos prashaňsaa) ~2
+baaňcekaa maatra chainauň
+haami jivit pani chauň
+
+~Chorus1a:
+(परमप्रभुलाई होस् धन्यवाद
+यहाँसम्म हामीलाई ल्याउनुभो) २
+(परमप्रभुलाई होस् महिमा
+परमप्रभुलाई होस् प्रशंसा) २
+<HR>
+(param prabhu-laai hos dhanyebaad
+yahaaň-samma haami-laai lyaaunu-bho) ~2
+(param-prabhu-laai hos mahimaa
+param-prabhu-laai hos prashaňsaa) ~2
+
+~Verse 1:
+(यात्रा अझै बाँकी छ
+हामी अघी बढ़नु छ
+परमप्रभु गोठालो भइ डोर्याउनुहुन्छ) २
+(हाम्रो भविष्य छ हाम्रो आशा छ) २
+उनै परमप्रभुमा
+<HR>
+(yaatraa ajhai baaňki cha
+haami aghi baRhnu cha
+param prabhu goThaalo bhai
+Doryaaunu-huncha) ~2
+(haamro bhabishye cha haamro aashaa cha) ~2
+unai param-prabhu-maa
+
+~Verse 2:
+(वचन अझै छर्नु छ
+आत्मा धेरै जित्‍नु छ
+पालको डोरी तन्काएर फैलाउनु पर्छ) २
+(हाम्रो भबिश्य छ हाम्रो आशा छ) २
+उनै परमप्रभुमा
+<HR>
+(bacan ajhai charnu cha
+aatmaa dherei jitnu cha
+paal-ko Dori tankaa-yera failaaunu parcha) ~2
+(haamro bhabishye cha haamro aashaa cha) ~2
+unai param-prabhu-maa
+
+~Info:
+Lyrics/Music: Pasang David Sherpa
+Vocal: Nepal Isai Mandali choir

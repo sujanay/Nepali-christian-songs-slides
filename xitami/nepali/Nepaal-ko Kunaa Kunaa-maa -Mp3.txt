@@ -1,0 +1,36 @@
+nepaal-ko kunaa kunaa-maa -mp3
+utf-8~Nepaal-ko kunaa kunaa-maa
+~Mp3~Nepaal-ko kunaa kunaa-maa~0-1,32.4-2,64.8-3,103-0
+
+~Verse 1:
+नेपालको कुना कुनामा
+गुन्जीरहेछ येशूको नाउँ
+कति प्यारो येशूको नाउँ
+(हल्लेलू हल्लेलूयाह) २
+<HR>
+nepaal-ko kunaa kunaa-maa
+gunji-rahecha yeshu-ko naauň
+kati pyaaro yeshu-ko naauň
+(hallelu halleluyaah) ~2
+
+~Verse 2:
+मलेशियाको कुना कुनामा
+गुन्जीरहेछ येशूको नाउँ
+कति प्यारो येशूको नाउँ
+(हल्लेलू हल्लेलूयाह) २
+<HR>
+maleshiyaa-ko kunaa kunaa-maa
+gunji-rahecha yeshu-ko naauň
+kati pyaaro yeshu-ko naauň
+(hallelu halleluyaah) ~2
+
+~Verse 3:
+संसारको कुना कुनामा
+गुन्जीरहेछ येशूको नाउँ
+कति प्यारो येशूको नाउँ
+(हल्लेलू हल्लेलूयाह) २
+<HR>
+sansaar-ko kunaa kunaa-maa
+gunji-rahecha yeshu-ko naauň
+kati pyaaro yeshu-ko naauň
+(hallelu halleluyaah) ~2

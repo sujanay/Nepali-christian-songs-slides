@@ -1,0 +1,3 @@
+Aa Welcome
+
+<img src=/projection/images/common/welcome2_gmc.jpg width=495 height=360 vspace=15>

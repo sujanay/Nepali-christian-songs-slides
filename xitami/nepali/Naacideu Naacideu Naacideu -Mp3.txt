@@ -1,0 +1,70 @@
+naacideu naacideu naacideu -mp3
+utf-8~Naacideu naacideu naacideu -mp3
+~Mp3~Naacideu naacideu naacideu~0-1,21.7-2,40.8-3,59.7-4,79.3-7,90.4-0
+
+~Verse 1:
+(नाचिदेऊ नाचिदेऊ नाचिदेऊ) २
+नाचिदेऊ नाचिदेऊ
+(येशूको माया सम्झी नाचिदेऊ) २
+<HR>
+(naaci-deu naaci-deu naaci-deu) ~2
+naaci-deu naaci-deu
+(yeshu-ko maayaa samjhi naaci-deu) ~2
+
+~Verse 2:
+(हाँसिदेऊ हाँसिदेऊ हाँसिदेऊ) २
+हाँसिदेऊ हाँसिदेऊ
+(येशूको माया सम्झी हाँसिदेऊ) २
+<HR>
+(haaňsi-deu haaňsi-deu haaňsi-deu) ~2
+haaňsi-deu haaňsi-deu
+(yeshu-ko maayaa samjhi haaňsi-deu) ~2
+
+~Verse 3:
+(उफ्रिदेऊ उफ्रिदेऊ उफ्रिदेऊ) २
+उफ्रिदेऊ उफ्रिदेऊ
+(येशूको माया सम्झी उफ्रिदेउ) २
+<HR>
+(ufri-deu ufri-deu ufri-deu) ~2
+ufri-deu ufri-deu
+(yeshu-ko maayaa samjhi ufri-deu) ~2
+
+~Verse 4:
+(घुमिदेऊ घुमिदेऊ घुमिदेऊ) २
+घुमिदेऊ घुमिदेऊ
+(येशूको माया सम्झी घुमिदेऊ) २
+<HR>
+(ghumi-deu ghumi-deu ghumi-deu) ~2
+ghumi-deu ghumi-deu
+(yeshu-ko maayaa samjhi ghumi-deu) ~2
+
+~Verse 5:
+(दौदिदेऊ दौदिदेऊ दौदिदेऊ) २
+दौदिदेऊ दौदिदेऊ
+(येशूको माया सम्झी दौदिदेऊ) २
+<HR>
+(daudi-deu daudi-deu daudi-deu) ~2
+daudi-deu daudi-deu
+(yeshu-ko maayaa samjhi daudi-deu) ~2
+
+~Verse 6:
+(बसिदेउ बसिदेउ बसिदेउ) २
+बसिदेउ बसिदेउ
+(येशूको माया सम्झी बसिदेउ) २
+<HR>
+(basi-deu basi-deu basi-deu) ~2
+basi-deu basi-deu
+(yeshu-ko maayaa samjhi basi-deu) ~2
+
+~Ending:
+येशूको माया सम्झी नाचिदेऊ
+येशूको माया सम्झी हाँसिदेऊ
+येशूको माया सम्झी नाचिदेऊ
+<HR>
+yeshu-ko maayaa samjhi naaci-deu
+yeshu-ko maayaa samjhi haaňsi-deu
+yeshu-ko maayaa samjhi naaci-deu
+
+~Info:
+Vocal: Samuel Tamang
+Video: <a href="http://www.youtube.com/watch?v=VErpk8Xhzkk" target='new'>Video with vocal</a>

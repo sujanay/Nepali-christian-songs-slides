@@ -1,0 +1,50 @@
+aa Passage1
+utf-8~Aa Passage1
+~Align=left
+
+~Psg1:
+<Bible Ver=Nepali Psg=2ti2:25>
+
+<Bible Ver=Nepali Psg=isa55:6>
+
+<Bible Ver=Nepali Psg=isa55:7>
+
+<Bible Ver=Nepali Psg=ps32:5>
+
+<Bible Ver=Nepali Psg=col3:13>
+
+<Bible Ver=Nepali Psg=He8:12>
+
+<Bible Ver=Nepali Psg=Mt3:2>
+
+<Bible Ver=Nepali Psg=ac3:19>
+
+<Bible Ver=Nepali Psg=2ch7:14>
+
+<Bible Ver=Nepali Psg=1jn1:9>
+
+<Bible Ver=Nepali Psg=he12:17>
+
+<Bible Ver=Nepali Psg=pro28:13-14>
+
+<Bible Ver=Nepali Psg=jas4:8>
+
+<Bible Ver=Nepali Psg=jas4:9-10>
+
+<Bible Ver=Nepali Psg=2ti2:25>
+
+<Bible Ver=Nepali Psg=2co7:9>
+
+<Bible Ver=Nepali Psg=2co7:10>
+
+<Bible Ver=Nepali Psg=ps51:1>
+
+<Bible Ver=Nepali Psg=ps51:2>
+
+<Bible Ver=Nepali Psg=ps51:3>
+
+<Bible Ver=Nepali Psg=ps32:4-5>
+
+<Bible Ver=Nepali Psg=lk13:4>
+
+<Bible Ver=Nepali Psg=lk13:5>

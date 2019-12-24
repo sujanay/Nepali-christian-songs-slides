@@ -1,0 +1,47 @@
+aau, aau, vishwaasi ho -mp3
+utf-8~Aau, aau, vishwaasi ho
+~Mp3~Aau, aau, vishwaasi ho~0-1,32-2,48-1,76-3,93-1,122-4,196-0
+
+~Chorus:
+आऊ, आऊ, विश्‍वासी हो
+गाउ हल्लेलूयाह
+आऊ, आऊ, विश्‍वासी हो
+गाउ हल्लेलूयाह
+<HR>
+aau, aau, vishwaasi ho
+gaau halleluyaah
+aau, aau, vishwaasi ho
+gaau halleluyaah
+
+~Verse 1:
+आऊ हामी सबै, नाउँ उनको भजौं
+थुमाको गाउँदै, प्रशंसा चढाऔँ
+आऊ हामी सबै, स्तुति चढाउँदै
+हरपल उहाँको सबैले महिमा गाउँदै
+<HR>
+aau haami sabai, naauň un-ko bhajauň
+thumaa-ko gaauňdai, prashaňsaa caDhaauň
+aau haami sabai, stuti caDhaauňdai
+harpal uhaaňko sabai-le mahimaa gaauňdai
+
+~Verse 2:
+आऊ हामी सबै, नाउँ उनको भजौं
+थुमाको गाउँदै, प्रशंसा चढाऔँ
+आऊ हामी सबै, स्तुति चढाउँदै
+हरपल थुमाको सबैले महिमा गाउँदै
+<HR>
+aau haami sabai, naauň un-ko bhajauň
+thumaa-ko gaauňdai, prashaňsaa caDhaauň
+aau haami sabai, stuti caDhaauňdai
+harpal thumaa-ko sabai-le mahimaa gaauňdai
+
+~Ending:
+(योग्य, योग्य, योग्य,
+महिमा, महिमा, महिमा,
+स्तुति प्रशंसा आदर
+जयजयकार हल्लेलूयाह) ४
+<HR>
+(yogye, yogye, yogye,
+mahimaa, mahimaa, mahimaa
+stuti prashaňsaa aadar
+jaijaikaar halleluyaah) ~4x

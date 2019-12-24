@@ -1,0 +1,18 @@
+sewaa garchaun mahaan prabhuko - K021
+
+(सेवा गर्छौं महान् प्रभुको) ४
+(गाउँदै प्रभुको प्रशंसा गर) ४
+(नाच्दै प्रभुको प्रशंसा गर) ४
+(ताली बजाउँदै प्रशंसा गर) ४
+<HR>
+(sewaa garchauň mahaan prabhu-ko) ~4
+(gaauň-dai prabhu-ko prashaňsaa gara) ~4
+(naac-dai prabhu-ko prashaňsaa gara) ~4
+(taali bajaauň-dai prashaňsaa gara) ~4
+
+~Info:
+स्केल: F#,
+ताल: 4/4
+<HR>
+Key: F#,
+Beat: 4/4

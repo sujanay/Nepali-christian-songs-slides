@@ -1,0 +1,66 @@
+1,1,Genesis,Gen
+2,1,Exodus,Ex
+3,1,Leviticus,Lev
+4,1,Numbers,Num
+5,1,Deuteronomy,Deut
+6,1,Joshua,Josh
+7,1,Judges,Judg
+8,1,Ruth,Ruth
+9,1,1 Samuel,1 Sam
+10,1,2 Samuel,2 Sam
+11,1,1 Kings,1 Kings
+12,1,2 Kings,2 Kings
+13,1,1 Chronicles,1 Chron
+14,1,2 Chronicles,2 Chron
+15,1,Ezra,Ezra
+16,1,Nehemiah,Neh
+17,1,Esther,Est
+18,1,Job,Job
+19,1,Psalms,Ps
+20,1,Proverbs,Prov
+21,1,Ecclesiastes,Eccles
+22,1,Song of Solomon,Song
+23,1,Isaiah,Isa
+24,1,Jeremiah,Jer
+25,1,Lamentations,Lam
+26,1,Ezekiel,Ezek
+27,1,Daniel,Dan
+28,1,Hosea,Hos
+29,1,Joel,Joel
+30,1,Amos,Amos
+31,1,Obadiah,Obad
+32,1,Jonah,Jonah
+33,1,Micah,Mic
+34,1,Nahum,Nah
+35,1,Habakkuk,Hab
+36,1,Zephaniah,Zeph
+37,1,Haggai,Hag
+38,1,Zechariah,Zech
+39,1,Malachi,Mal
+40,2,Matthew,Matt
+41,2,Mark,Mark
+42,2,Luke,Luke
+43,2,John,John
+44,2,Acts,Acts
+45,2,Romans,Rom
+46,2,1 Corinthians,1 Cor
+47,2,2 Corinthians,2 Cor
+48,2,Galatians,Gal
+49,2,Ephesians,Eph
+50,2,Philippians,Phil
+51,2,Colossians,Col
+52,2,1 Thessalonians,1 Thess
+53,2,2 Thessalonians,2 Thess
+54,2,1 Timothy,1 Tim
+55,2,2 Timothy,2 Tim
+56,2,Titus,Titus
+57,2,Philemon,Philem
+58,2,Hebrews,Heb
+59,2,James,James
+60,2,1 Peter,1 Pet
+61,2,2 Peter,2 Pet
+62,2,1 John,1 John
+63,2,2 John,2 John
+64,2,3 John,3 John
+65,2,Jude,Jude
+66,2,Revelation,Rev

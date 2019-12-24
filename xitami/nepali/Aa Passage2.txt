@@ -1,0 +1,10 @@
+aa Passage2
+utf-8~Aa Passage2
+~Align=left
+
+~Psg1:
+<Bible ver=Nepali Psg=Ps42:1-5>
+
+<Bible ver=Nepali Psg=Ps134:1-2>
+
+<Bible ver=Nepali Psg=Ps134:3>

@@ -1,0 +1,41 @@
+mahimaa hos, mahimaa hos, mahimaa hos, sworga-maa
+utf-8~Mahimaa hos, mahimaa hos, mahimaa hos, sworga-maa
+
+~Verse 1:
+महिमा होस्,
+महिमा होस्,
+महिमा होस्, स्वर्गमा
+<hr>
+mahimaa hos,
+mahimaa hos,
+mahimaa hos, sworga-maa
+
+~Verse1a:
+महिमा होस्, यो पृथ्विमा
+महिमा होस्, यो मन्दिरमा
+येशूलाई, येशूलाई,
+महिमा होस्।
+<hr>
+mahimaa hos, yo prithivi-maa
+mahimaa hos, yo mandir-maa
+yeshu-laai, yeshu-laai,
+mahimaa hos.
+
+~Verse 2:
+आराधना होस् प्रभुलाई,
+आराधना होस् प्रभुलाई,
+आराधना होस्, यो पृथ्विमा
+<hr>
+aaradhnaa hos prabhu-laai,
+aaradhnaa hos prabhu-laai,
+aaradhnaa hos, yo prithivi-maa
+
+~Verse2a:
+आराधना होस्, यो स्वर्गमा
+येशूलाई, येशूलाई,
+आराधना होस्।
+<hr>
+aaradhnaa hos, yo sworga-maa
+aaradhnaa hos, yo mandir-maa
+yeshu-laai, yeshu-laai,
+aaradhnaa hos.
