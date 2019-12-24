@@ -2,23 +2,24 @@
 
 {y} {/y}
 ---[Verse:1]---
-
+{y} {/y}
 ---[Chorus:1]---
 
 ---[Verse:2]---
-
+{y} {/y}
 ---[Chorus:1]---
 
 ---[Verse:3]---
-
+{y} {/y}
 ---[Chorus:1]---
 
 ---[Verse:4]---
-
+{y} {/y}
 ---[Chorus:1]---
 
 ---[Verse:5]---
-
+{y} {/y}
 ---[Chorus:1]---
 
 ---[Verse:6]---
+{y} {/y}
