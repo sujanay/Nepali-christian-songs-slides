@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:06:42">
+  <properties>
+    <titles>
+      <title>C006 - naauň unko ucca cha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1a">
+      <lines>नाउँ उनको उच्च छ<br/>अरू नाउँभन्दा<br/>नाउँ उनको येशू,<br/>येशू प्रभु<br/><br/><tag name="y">naauň unko ucca cha<br/>aru naauň-bhanda<br/>naauň unko yeshu,<br/>yeshu prabhu<br/></tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>नाउँ उनको उदेकको,<br/>नाउँ उनको सल्लाहकार<br/>शान्तिको राजकुमार<br/>महान् ईश्‍वर<br/><br/><tag name="y">naauň unko udekko,<br/>naauň unko sallaah-kaar<br/>shaantiko raajkumaar<br/>mahaan ishwor<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:23:30">
+  <properties>
+    <titles>
+      <title>C028 - ishwor-ko raaj pahile khoji gara</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>ईश्‍वरको राज पहिले खोजी गर,<br/>उहाँको धार्मिकता,<br/>सबै थोक तिमीलाई थपिनेछ<br/>हल्लेलू हल्लेलूयाह ।<br/><br/><tag name="y">ishwor-ko raaj pahile khoji gara,<br/>uhaaň-ko dhaarmiktaa,<br/>sabai thok timi-laai thapi-necha,<br/>hallelu halleluyaah.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(हल्लेलूयाह) ३<br/>आमिन, हल्लेलू, हल्लेलूयाह<br/><br/><tag name="y">(halleluyaah) ~3<br/>aamin, hallelu, halleluyaah.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>रोटीले मात्र मानिस बाँच्दैन<br/>तर हरेक वचनले<br/>जो, परमेश्‍वरको मुखबाट निस्कन्छ<br/>हल्लेलू हल्लेलूयाह ।<br/><br/><tag name="y">roTi-le maatra maanis baaňc-daina,<br/>tara harek bacan-le<br/>jo parmeshwor-ko mukh-baaTa niskan-cha<br/>hallelu halleluyaah.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>माग त तिमीलाई दिइनेछ,<br/>खोज त भेट्टाउनेछौ<br/>घच्घचाऊ, ढोका उघारिनेछ,<br/>हल्लेलू हल्लेलूयाह<br/><br/><tag name="y">maaga ta timi-laai dinecha,<br/>khoja ta bheTTaau-nechau<br/>ghac-ghacaau, Dhokaa ugari-necha<br/>hallelu halleluyaah.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

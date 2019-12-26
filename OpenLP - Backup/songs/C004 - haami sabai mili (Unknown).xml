@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:03:42">
+  <properties>
+    <titles>
+      <title>C004 - haami sabai mili</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(हामी सबै मिली) २<br/>गाऔं, भजौं, पुजौं ख्रीष्ट येशूलाई<br/>(हामी सबै मिली) २<br/>गाऔं, भजौं, पुजौं ख्रीष्ट येशूलाई<br/><br/><tag name="y">(haami sabai mili) ~2x<br/>gaauň, bhajauň, pujauň khrisT yeshu-laai<br/>(haami sabai mili) ~2x<br/>gaauň, bhajauň, pujauň khrisT yeshu-laai<br/></tag><br/><br/>(हामी सबै जन मिली<br/>गाऔं, भजौं, पुजौं ख्रीष्ट येशूलाई) २<br/>(गाऔं, भजौं, पुजौं ख्रीष्ट येशूलाई) ४<br/><br/><tag name="y">(haami sabai jana mili<br/>gaauň, bhajauň, pujauň khrisT yeshu-laai) ~2x<br/>(gaauň, bhajauň, pujauň khrisT yeshu-laai) ~4x<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

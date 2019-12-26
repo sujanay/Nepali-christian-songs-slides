@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:36:00">
+  <properties>
+    <titles>
+      <title>C038 - naauň unko udek-ko</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(नाउँ उनको उदेकको) ३<br/>प्रभु येशू<br/>प्रबल राजा उनी, सबै थोकको धनी<br/>नाउँ उनको उदेकको, प्रभु येशू<br/><br/><tag name="y">(naauň unko udek-ko) ~3x,<br/>prabhu yeshu<br/>prabal raajaa uni, sabai thok-ko dhani<br/>naauň unko udek-ko, prabhu yeshu<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>असल गोठालो, सनातानको चट्टान<br/>शक्तिमान् ईश्‍वर उनी<br/>दण्डवत् गरौं उनलाई,<br/>आदर, भक्ति चढ़ाई<br/>नाउँ उनको उदेकको, प्रभु येशू<br/><br/><tag name="y">asal goThaalo, sanaataan-ko caTTaan<br/>shaktimaan ishwor uni,<br/>daNDwat garauň un-laai,<br/>aadar, bhakti caRhaai,<br/>naauň unko udek-ko, prabhu yeshu<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

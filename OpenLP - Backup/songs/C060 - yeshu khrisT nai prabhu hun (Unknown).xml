@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:47:04">
+  <properties>
+    <titles>
+      <title>C060 - yeshu khrisT nai prabhu hun</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(येशू ख्रीष्ट नै प्रभु हुन्<br/>सब पृथ्वीका प्रभु) ४<br/><br/><tag name="y">(yeshu khrisT nai prabhu hun,<br/>sab prithivi-kaa prabhu) ~4<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>एक मात्र ईश्‍वर राष्ट्रहरूमाथि,<br/>एक मात्र परमेश्‍वर<br/>अरू नाउँमा छैन त्यो मुक्ति<br/>येशू ख्रीष्ट नै सबका प्रभु ।<br/><br/><tag name="y">ek maatra ishwor raasTra-haru-maathi,<br/>ek maatra parmeshwor,<br/>aru naauň-maa chaina tyo mukti,<br/>yeshu khrisT nai sab-kaa prabhu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

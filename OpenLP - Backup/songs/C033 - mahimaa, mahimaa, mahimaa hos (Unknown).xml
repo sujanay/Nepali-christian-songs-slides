@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:30:56">
+  <properties>
+    <titles>
+      <title>C033 - mahimaa, mahimaa, mahimaa hos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(महिमा) ३ होस्‌,<br/>(महिमा) ३ होस्‌<br/>(ईश्‍वरलाई महिमा होस्‌,<br/>महिमा होस्‌) २<br/><br/><tag name="y">mahimaa, mahimaa, mahimaa hos,<br/>mahimaa, mahimaa, mahimaa hos,<br/>(ishwor-laai mahimaa hos,<br/>mahimaa hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(प्रशंसा) ३ होस्‌<br/>(प्रशंसा) ३ होस्‌<br/>(ईश्‍वरलाई प्रशंसा होस्‌,<br/>प्रशंसा होस्‌) २<br/><br/><tag name="y">prashaňsaa, prashaňsaa, prashaňsaa hos<br/>prashaňsaa, prashaňsaa, prashaňsaa hos<br/>(ishwor-laai prashaňsaa hos,<br/>(prashaňsaa hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(धन्यवाद) ३ होस्‌<br/>(धन्यवाद) ३ होस्‌<br/>(ईश्‍वरलाई धन्यवाद होस्‌,<br/>धन्यवाद होस्‌) २<br/><br/><tag name="y">dhanyebaad, dhanyebaad, dhanyebaad hos<br/>dhanyebaad, dhanyebaad, dhanyebaad hos<br/>(ishwor-laai dhanyebaad hos,<br/>dhanyebaad hos) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
