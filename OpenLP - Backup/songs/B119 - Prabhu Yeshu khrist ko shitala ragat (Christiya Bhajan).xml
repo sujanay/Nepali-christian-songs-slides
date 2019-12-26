@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-22T16:38:23">
+  <properties>
+    <titles>
+      <title>B119 - Prabhu Yeshu khrist ko shitala ragat</title>
+    </titles>
+    <authors>
+      <author>Christiya Bhajan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(प्रभु येशू ख्रीष्टको शीतल रगत<br/>मुटुमा सुरुरु) २<br/>(उहाँको माया नबिर्स बहिनी,<br/>मन रुन्छ धुरुरु) २<br/><br/><tag name="y">(prabhu yeshu khrisT-ko shitala ragat<br/>mutu-maa shururu) 2<br/>(uhaaň-ko maayaa na-birsa bahini,<br/>man runcha dhururu) 2</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(म, तिमी, हामी सबैको लागि<br/>आफ्‍‌नो पुत्र दिएको) २<br/>(त्यागेको प्राण सम्झना राखौं,<br/>रगतले लेखेको ।) २<br/><br/>(ma, timi, haami sabai-ko laagi<br/>aafno putra diyeko) 2<br/>(tyaageko praaNa samjhanaa rakhauň,<br/>ragat-le lekheko.) 2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(प्रभु येशू ख्रीष्टको शीतल रगत<br/>मुटुमा सुरुरु) २<br/>(उहाँको माया नबिर्स बहिनी,<br/>मन रुन्छ धुरुरु) २<br/><br/>(prabhu yeshu khrisT-ko shitala ragat<br/>mutu-maa shururu) 2<br/>(uhaaň-ko maayaa na-birsa bahini,<br/>man runcha dhururu) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(रगतको धारा आलो छ बहिनी,<br/>गलगथा पहाड़मा) २<br/>(तिम्रो र मेरो निम्तिमा गुथेँ<br/>काड़ा त्यो शिरमा ।) २<br/><br/>(ragat-ko dhaaraa aalo cha bahini,<br/>galgathaa pahaaR-maa) 2<br/>(timro ra mero nimti-maa gutheň<br/>kaaRaa tyo shira-maa.) 2</lines>
+    </verse>
+    <verse name="c3">
+      <lines>(प्रभु येशू ख्रीष्टको शीतल रगत<br/>मुटुमा सुरुरु) २<br/>(उहाँको माया नबिर्स बहिनी,<br/>मन रुन्छ धुरुरु) २<br/><br/>(prabhu yeshu khrisT-ko shitala ragat<br/>mutu-maa shururu) 2<br/>(uhaaň-ko maayaa na-birsa bahini,<br/>man runcha dhururu) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(बोकेको थिए दयनीय क्रूस,<br/>मनमा गुनन) २<br/>(हृदयमा अङ्कित प्रभुको देन,<br/>तिमीले सम्झन।) २<br/><br/>(bokeko thiye dainiye krusa,<br/>mana-maa gunana) 2<br/>(ridai-maa aňgkit prabhu-ko dena,<br/>timi-le samjhana.) 2</lines>
+    </verse>
+    <verse name="c4">
+      <lines>(प्रभु येशू ख्रीष्टको शीतल रगत<br/>मुटुमा सुरुरु) २<br/>(उहाँको माया नबिर्स बहिनी,<br/>मन रुन्छ धुरुरु) २<br/><br/>(prabhu yeshu khrisT-ko shitala ragat<br/>mutu-maa shururu) 2<br/>(uhaaň-ko maayaa na-birsa bahini,<br/>man runcha dhururu) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(नभुलौं बहिनी, कष्टका घुटको,<br/>येशूले पिएको) २<br/>(सबैमा थियो उद्धार उनको<br/>प्राणदान दिएमा ।) २<br/><br/>(na-bhulauň bahini, kasTa-kaa ghuT-ko<br/>yeshu-le piyeko) 2<br/>(sabai-maa thiyo uddhaara unko<br/>praaN-daana diye-maa.) 2</lines>
+    </verse>
+    <verse name="c5">
+      <lines>(प्रभु येशू ख्रीष्टको शीतल रगत<br/>मुटुमा सुरुरु) २<br/>(उहाँको माया नबिर्स बहिनी,<br/>मन रुन्छ धुरुरु) २<br/><br/><tag name="y">(prabhu yeshu khrisT-ko shitala ragat<br/>mutu-maa shururu) 2<br/>(uhaaň-ko maayaa na-birsa bahini,<br/>man runcha dhururu) 2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(प्रभुका गुण नम्र र दीन,<br/>मुटुमा गाँसौन) २<br/>(ज्योतिका सन्तान बनेर फिरौं<br/>बोकेर बासना ।) २<br/><br/>(prabhu-kaa guNa namra ra dina,<br/>muTu-maa gaaň-sauna) 2<br/>(jyoti-kaa santaan banera firauň<br/>bokera baasanaa.) 2</lines>
+    </verse>
+  </lyrics>
+</song>

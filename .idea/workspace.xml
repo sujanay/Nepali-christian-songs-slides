@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c684f7a-9d46-46b2-9db2-2bed670f1e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible/complete_bible_nnrv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bible/nepali_bible.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/nepali_bible.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B001 - Halleluyaah Hosannaa_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art)_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B014 - Kuhu-kuhu Garne Banmaa Udne Koili Cari Chan_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B021 - Bhedi Goth Cardaa Ni Cardaa_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B025 - Prabhu Hai Janme Gaaiko Gothmaa_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B026 - Lagdacha Malaai Ramaailo_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B031 - Shaantamai Raat (Silent Night)_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B035 - Herana Aakaashmaa Taaraako Ujyaalo_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B480 - Haans-khela Gardai Bhani-deu_edited.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B480 - Haans-khela Gardai Bhani-deu_edited.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C334 - Yeshu Sab Tapaainlaai (Jesus All For You)_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C335 - Tapaainko Saamu Ma Aaunchu Mero Karmale Hoina_edited.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C336 - Prabhu Bhalo Chan (God Is So Good)_edited.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xitami/songs_formatter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xitami/OpenLP format - JT/B068 - raajaa yeshu aa-ye (Unknown).xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xitami/songs_formatter.py" />
+        <option value="$PROJECT_DIR$/xitami/OpenLP format - JT/B068 - raajaa yeshu aa-ye (Unknown).xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Nepali-christian-songs-slides.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Nepali-christian-songs-slides" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nepali-christian-songs-slides" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nepali-christian-songs-slides" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nepali-christian-songs-slides" type="462c0819:PsiDirectoryNode" />
+              <item name="xitami" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nepali-christian-songs-slides" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nepali-christian-songs-slides" type="462c0819:PsiDirectoryNode" />
+              <item name="xitami" type="462c0819:PsiDirectoryNode" />
+              <item name="OpenLP format - JT" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c684f7a-9d46-46b2-9db2-2bed670f1e6e" name="Default Changelist" comment="" />
+      <created>1577212387664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577212387664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19196428" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5220949" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bible/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xitami/songs_formatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xitami/OpenLP format - JT/B068 - raajaa yeshu aa-ye (Unknown).xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

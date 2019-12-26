@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T18:17:26">
+  <properties>
+    <titles>
+      <title>B001 - Halleluyaah Hosannaa</title>
+    </titles>
+    <authors>
+      <author>Christiya Bhajan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>परमपिताको स्तुति गाऔँ,<br/>हामीलाई बचाउने उनै हुन्<br/>सबै पापीलाई गर्छन् क्षमा,<br/>सबै रोगीलाई गर्छन् चङ्गा।<br/><br/><tag name="y">parama-pitaa-ko stuti gaa-uň,<br/>haami-laai bacaaune unai hun<br/>sabai paapi-laai garchan chyemaa,<br/>sabai rogi-laai garchan cangaa.</tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines><br/>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>धन्यवाद दिई उनको आसनमा,<br/>आनन्दित भई आऊ उनको चनणमा<br/>सङ्गीत गाउँदै खुशीले<br/>मुक्तिको पहरामा जयजय गरौं।<br/><br/><tag name="y">dhanyevaad di unko aasana-maa,<br/>aanandit bhai aau unko caraN-maa<br/>sangita gaauňdai khushi-le<br/>muktiko pa'araa-maa jai-jai gara-uň.</tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>उनै हुन् हाम्रा परामपिता,<br/>हामीलाई ठिटाउँछन् सर्वसदा<br/>कालो बादलको पर्दाजस्तो<br/>पापलाई हटाइदिन्छन् सदा।<br/><br/><tag name="y">unai hun haamraa parama-pitaa,<br/>haami-laai ThiTaauň-chan sarva-sadaa<br/>kaalo baadal-ko pardaa-jasto<br/>paapa-laai haTaai-dinchan sadaa.</tag></lines>
+    </verse>
+    <verse name="c1d">
+      <lines>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>आमाले झैँ उनले शान्ति दिए,<br/>दुनियाँको डरमा छोडेनन् कैले<br/>चोखो दूध वचनको पियाइ,<br/>जीवन अमर दिए उनले।<br/><br/><tag name="y">aamaale jhaiň unle shaanti diye,<br/>duniyaaň-ko Dar-maa choDe-nan kaile,<br/>cokho dudha bacan-ko piyaai,<br/>jivana amara diye un-le.</tag></lines>
+    </verse>
+    <verse name="c1e">
+      <lines>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>गोठालोले झैँ खोजी उनले<br/>निकाले पापको दलदलदेखि<br/>प्राण त्यागी बचाए उनले,<br/>गराए सबलाई आफ्नै अनि।<br/><br/><tag name="y">goThaalo-le jhaiň khoji un-le<br/>nikaale paapa-ko dal-dal-dekhi<br/>praaN tyaagi bacaaye una-le,<br/>garaaye saba-laai aafne ani.</tag></lines>
+    </verse>
+    <verse name="c1f">
+      <lines>(हल्लेलूयाह होसन्‍ना हल्लेलूयाह) ४<br/><br/><tag name="y">(halleluyaah hosannaa halleluyaah) 4</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>गुँडलाई घरिघरि भत्काइदिए,<br/>सिकाए हामीलाई उड्न आफै<br/>पखेटामा उठाइ उकाबले झैँ<br/>पारेनन् हामीलालई चोट कतै।<br/><br/><tag name="y">guňRa-laai ghari-ghari bhat-kaai-diye,<br/>sikaaye haami-laai uRna aafai<br/>pakheTaa-maa uThaai ukaaba-le jhaiň<br/>paarenan haami-laai coTa katai.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

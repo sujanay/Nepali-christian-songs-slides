@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-24T17:18:48">
+  <properties>
+    <titles>
+      <title>C200 - ma tapaaiň-ko muhaar herna caahanchu</title>
+      <title>म तपाईंको मुहार हेर्न चाहन्छु</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(म तपाईंको मुहार हेर्न चाहन्छु,<br/>म तपाईंको मुहार खोजी गर्छु) २<br/>(आराधना गर्छु<br/>पवित्रताको सुन्दरतामा) २<br/><br/><tag name="y">(ma tapaaiň-ko muhaar herna caahanchu,<br/>ma tapaaiň-ko muhaar khoji garchu) ~2<br/>(aaraadhnaa garchu<br/>pavitrataa-ko sundartaa-maa) ~2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हृदय सब खोली आउँछु) २<br/>(स्तुति गाउन) ४<br/>(हल्लेलूयाह, हल्लेलूयाह) २<br/><br/><tag name="y">(ridai sab kholi aauň-chu) ~2<br/>(stuti gaauna) ~4<br/>(halleluyaah, halleluyaah) ~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(येशू महान्, येशू महान्) २<br/>(इम्मानुएल, इम्मानुएल) २<br/>(हल्लेलूयाह, हल्लेलूयाह) २<br/><br/><tag name="y">(yeshu mahaan, yeshu mahaan) ~ 2<br/>(immaanuel, immaanuel) ~ 2<br/>(halleluyaah, halleluyaah) ~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>
