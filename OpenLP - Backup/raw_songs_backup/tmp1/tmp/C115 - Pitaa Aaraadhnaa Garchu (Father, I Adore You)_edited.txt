@@ -1,0 +1,27 @@
+---[Verse 1:]---
+पिता आराधना गर्छु,
+मेरो जीवन अर्पण गर्छु,
+म तपाईंलाई प्रेम गर्छु
+
+{y}pitaa aaraadhnaa garchu,
+mero jivan ar-paN garchu,
+ma tapaaiň-laai prem garchu
+{/y}
+---[Verse 2:]---
+येशू आराधना गर्छु,
+मेरो जीवन अर्पण गर्छु,
+म तपाईंलाई प्रेम गर्छु
+
+{y}yeshu aaraadhnaa garchu,
+mero jivan ar-paN garchu,
+ma tapaaiň-laai prem garchu
+{/y}
+---[Verse 3:]---
+पवित्र आत्मा आराधना गर्छु ,
+मेरो जीवन अर्पण गर्छु,
+म तपाईंलाई प्रेम गर्छु
+
+{y}pavitra aatmaa aaraadhnaa garchu,
+mero jivan ar-paN garchu,
+ma tapaaiň-laai prem garchu
+{/y}

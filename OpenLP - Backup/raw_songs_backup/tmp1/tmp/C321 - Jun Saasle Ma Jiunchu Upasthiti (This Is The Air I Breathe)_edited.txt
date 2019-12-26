@@ -1,0 +1,24 @@
+जुन सासले म जिउँछु
+उपस्थिति तपाईंको म भित्र छ
+अनि म तपाईंविना हराउँछु
+अनि म तपाईंविना छट्पटिन्छु
+अनि म तपाईंविना हराउँछु।
+
+{y}jun saas-le ma jiuň-chu
+upasthiti tapaaiň-ko ma bhitra cha
+ani ma tapaaiň-binaa haraauň-chu
+ani ma tapaaiň-binaa chaT-paTin-chu
+ani ma tapaaiň-binaa haraauň-chu.
+{/y}
+जुन भोजनले म जिउँछु
+उपस्थिति तपाईंको म भित्र छ
+अनि म तपाईंविना हराउँछु
+अनि म तपाईंविना छट्पटिन्छु
+अनि म तपाईंविना हराउँछु।
+
+{y}jun bhojan-le ma jiuň-chu
+upasthiti tapaaiň-ko ma bhitra cha
+ani ma tapaaiň-binaa haraauň-chu
+ani ma tapaaiň-binaa chaT-paTin-chu
+ani ma tapaaiň-binaa haraauň-chu.
+{/y}

@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c684f7a-9d46-46b2-9db2-2bed670f1e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art).txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B026 - Lagdacha Malaai Ramaailo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B026 - Lagdacha Malaai Ramaailo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B031 - Shaantamai Raat (Silent Night).txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B031 - Shaantamai Raat (Silent Night).txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/complete_bible_nnrv.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bible/nepali_bible.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/nepali_bible.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B001 - Halleluyaah Hosannaa_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art)_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B014 - Kuhu-kuhu Garne Banmaa Udne Koili Cari Chan_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B021 - Bhedi Goth Cardaa Ni Cardaa_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B025 - Prabhu Hai Janme Gaaiko Gothmaa_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B026 - Lagdacha Malaai Ramaailo_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B031 - Shaantamai Raat (Silent Night)_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B035 - Herana Aakaashmaa Taaraako Ujyaalo_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B480 - Haans-khela Gardai Bhani-deu_edited.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/B480 - Haans-khela Gardai Bhani-deu_edited.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C334 - Yeshu Sab Tapaainlaai (Jesus All For You)_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C335 - Tapaainko Saamu Ma Aaunchu Mero Karmale Hoina_edited.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xitami/OpenLP format - JT/backup/tmp/C336 - Prabhu Bhalo Chan (God Is So Good)_edited.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -142,7 +133,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19196428" />

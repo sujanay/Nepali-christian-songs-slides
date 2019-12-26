@@ -1,0 +1,72 @@
+---[Verse 1:]---
+(जब प्रभुको आत्मा
+मेरो हृदयमा छ
+म गाउँछु दाऊदझैँ) २
+
+{y}(jaba prabhu-ko aatmaa
+mero ridai-maa cha
+ma gaauň-chu daaud-jhaiň) ~2
+{/y}
+---[Verse1a:]---
+(म गाउँछु,
+म गाउँछु,
+म गाउँछु, दाऊदझैँ) २
+
+{y}(ma gaauň-chu,
+ma gaauň-chu,
+ma gaauň-chu, daaud-jhaiň) ~2
+{/y}
+---[Verse 2:]---
+(जब प्रभुको आत्मा
+मेरो हृदयमा छ
+स्तुति गर्छु दाऊदझैँ) २
+
+{y}(jaba prabhu-ko aatmaa
+mero ridai-maa cha
+stuti garchu daaud-jhaiň) ~2
+{/y}
+---[Verse2a:]---
+(स्तुति गर्छु,
+स्तुति गर्छु,
+स्तुति गर्छु, दाऊदझैँ) २
+
+{y}(stuti garchu,
+stuti garchu,
+stuti garchu, daaud-jhaiň) ~2
+{/y}
+---[Verse 3:]---
+(जब प्रभुको आत्मा
+मेरो हृदयमा छ
+ताली बजाउँछु दाऊदझैँ) २
+
+{y}(jaba prabhu-ko aatmaa
+mero ridai-maa cha
+taali bajaauň-chu daaud-jhaiň) ~2
+{/y}
+---[Verse3a:]---
+(ताली बजाउँछु,
+ताली बजाउँछु,
+ताली बजाउँछु, दाऊदझैँ) २
+
+{y}(taali bajaauň-chu,
+taali bajaauň-chu,
+taali bajaauň-chu, daaud-jhaiň) ~2
+{/y}
+---[Verse 4:]---
+(जब प्रभुको आत्मा
+मेरो हृदयमा छ
+म नाच्छु दाऊदझैँ) २
+
+{y}(jaba prabhu-ko aatmaa
+mero ridai-maa cha
+ma naac-chu daaud-jhaiň) ~2
+{/y}
+---[Verse4a:]---
+(म नाच्छु,
+म नाच्छु,
+म नाच्छु, दाऊदझैँ) २
+
+{y}(ma naac-chu,
+ma naac-chu,
+ma naac-chu, daaud-jhaiň) ~2
+{/y}

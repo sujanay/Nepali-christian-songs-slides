@@ -1,0 +1,32 @@
+आदर र महिमा र
+(जय तपाईंलाई होस्) ३
+आदर र महिमा र
+जय तपाईंलाई होस् ।
+
+{y}aadar ra mahimaa ra
+(jai tapaaiň-laai hos) ~3
+aadar ra mahimaa ra
+jai tapaaiň-laai hos
+{/y}
+सिंहासनमा तपाईंलाई
+स्तुति, स्तुति सबैले भनून् स्तुति
+स्तुति, स्तुति सिंहासनमा तपाईंलाई
+
+{y}siňhaasan-maa tapaaiň-laai
+stuti, stuti sabai-le bhanun stuti
+stuti, stuti siňhaasan-maa tapaaiň-laai
+{/y}
+(हल्लेलूयाह, हल्लेलूयाह, हल्लेलूयाह) २
+(हो ... हो ... हो ... हल्लेलूयाह) २
+
+{y}(halleluyaah, halleluyaah, halleluyaah) ~2
+(ho ... ho ... ho ... halleluyaah) ~2
+{/y}
+(हल्लेलूयाह) ४
+आमिन
+(हल्लेलूयाह, आमिन) ५
+
+{y}(halleluyaah) ~4x
+aamin
+(halleluyaah, aamin) ~5x
+{/y}

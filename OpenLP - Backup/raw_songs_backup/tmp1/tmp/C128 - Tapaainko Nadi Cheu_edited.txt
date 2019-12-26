@@ -1,0 +1,27 @@
+---[Verse 1:]---
+(तपाईंको नदी छेउ आउन दिनोस्‌) ३
+आउन दिनोस्‌, पिउन दिनोस्‌,
+जिउन दिनोस्‌।
+
+{y}(tapaaiň-ko nadi cheu aauna dinos) ~3
+aauna dinos, piuna dinos,
+jiuna dinos.
+{/y}
+---[Verse 2:]---
+(तपाईंको नदीबाट पिउन दिनोस्‌) ३
+आउन दिनोस्‌, पिउन दिनोस्‌,
+जिउन दिनोस्‌।
+
+{y}(tapaaiň-ko nadi-baaTa piuna dinos) ~3
+aauna dinos, piuna dinos,
+jiuna dinos.
+{/y}
+---[Verse 3:]---
+(तपाईंको नदीद्वारा जिउन दिनोस्‌) ३
+आउन दिनोस्‌, पिउन दिनोस्‌,
+जिउन दिनोस्‌।
+
+{y}(tapaaiň-ko nadi-dwaaraa jiuna dinos) ~3
+aauna dinos, piuna dinos,
+jiuna dinos.
+{/y}
