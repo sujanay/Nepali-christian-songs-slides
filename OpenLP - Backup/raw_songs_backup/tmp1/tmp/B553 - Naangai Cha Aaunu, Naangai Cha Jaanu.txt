@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 नाङ्गै छ आउनु, नाङ्गै छ जानु
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,
@@ -9,7 +9,7 @@ ye ni lai lai kaThai
 ye meri pyaari mitra,
 laanu kehi sakdaina.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापैमा जन्मे, पापैमा बढ़े
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,
@@ -20,7 +20,7 @@ ye ni lai lai kaThai
 ye meri pyaari mitra,
 paapai-maa marnu-cha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पापैको ज्याला अनन्त मृत्यु
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,
@@ -31,7 +31,7 @@ ye ni lai lai kaThai
 ye meri pyaari mitra,
 narak-maa bhog-necha.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 बचाईराख आत्मालाई तिम्रो
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,
@@ -42,7 +42,7 @@ ye ni lai lai kaThai
 ye meri pyaari mitra,
 samai huňdaa nai.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 स्वर्गको मुनि संसारभरि
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,
@@ -53,7 +53,7 @@ ye ni lai lai kaThai
 ye meri pyaari mitra,
 kohi chaina bacaaune.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 बाटो र सत्य, आनन्द जीवन
 ए नि लै लै कठै
 ए मेरी प्यारी मित्र,

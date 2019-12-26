@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (पवित्र आत्मा
 आउनुहोस्‌ हामीमा) ३
 (हृदयको द्वार खोली
@@ -9,7 +9,7 @@ aau-nuhos haami-maa) ~3
 (ridai-ko dwaara kholi
 bolaauň-chauň tapaaiň-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पवित्र आत्मा
 आउनुहोस्‌ हामीमा) ३
 (हृदयको द्वार खोली
@@ -20,7 +20,7 @@ aau-nuhos haami-maa) ~3
 (ridai-ko dwaara kholi
 gra'aN gar-chauň tapaaiň-laai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (पवित्र आत्मा
 आउनुहोस्‌ हामीमा) ३
 (हृदयको द्वार खोली
@@ -31,7 +31,7 @@ aau-nuhos haami-maa) ~3
 (ridai-ko dwaara kholi
 bolaauň-chauň tapaaiň-laai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (पवित्र आत्मा
 आउनुहोस्‌ हामीमा) ३
 (हृदयको द्वार खोली

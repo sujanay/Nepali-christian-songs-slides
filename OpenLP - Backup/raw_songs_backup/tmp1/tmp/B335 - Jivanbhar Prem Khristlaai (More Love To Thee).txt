@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जीवनभर प्रेम ख्रीष्टलाई म गर्नेछु,
 सुनिदेऊ प्रार्थनालाई शरण पर्छु
 जीवनभर भक्तिसाथ अधिक
@@ -11,7 +11,7 @@ jivan-bhar bhakti-saath adhik
 prem ma garchu,
 tyo adhik prem khrisT ma garchu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सांसारिक मोहमा खोजेँ आराम,
 विन्ती छ देऊ मलाई आत्मिक विश्राम
 सधैँ-सधैँ भक्तिसाथ,
@@ -24,7 +24,7 @@ sadhaiň-sadhaiň bhaktisaath,
 adhik prem ma garchu,
 tyo adhik prem khrisT ma garchu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 शैतानले बारम्बार गर्‍यो लाचार,
 तिमी छौ तारणहार लाउँछौ भव पार
 जयजयगानसाथ प्रभु,
@@ -36,7 +36,7 @@ timi chau taaraNahaar laauňchau bhav paar jaijaigaan-saath prabhu,
 adhik prem ma garchu,
 tyo adhik prem, khrisT ma garchu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 संसार जब त्याग्दछु,
 ख्रीष्ट मलाई लेऊ,
 त्रिएक ईश्‍वरको म भक्त बन्‍‌नेछु

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 लडाइँ हुँदै छ, शत्रु आउँदै छ,
 सिपाही येशूको झन्डा लेऊ
 पोशाक सब लगाऊ, उनैलाई समाऊ,
@@ -20,7 +20,7 @@ sidhaa uTha, haat-maa astra leu
 chiTo hiňDa, karaai-karaai gaa-u,
 yeshu aauňdai chan tayaari hou
 
----[Verse 2:]---
+---[Verse:2]---
 शत्रु आउँदै छन्‌, अघि बढ्‌दै जाऊ,
 नडराई गाऊ 'जय येशू जय'
 ढाल र झन्डा लेऊ, अघि बढ्‌दै जाऊ,
@@ -31,7 +31,7 @@ na-Daraai gaau 'jai yeshu jai'
 Dhaal ra jhanDaa leu, aghi baDhdai jaau,
 stuti gardai gaau, yeshu-ko jai.
 
----[Verse 3:]---
+---[Verse:3]---
 हाम्रा प्रभु प्रार्थना सुन्दछन्‌,
 वीर सिपाही होऊ प्रभुमा
 लडाइँ सकिन्छ विजय पाउनेछौं,

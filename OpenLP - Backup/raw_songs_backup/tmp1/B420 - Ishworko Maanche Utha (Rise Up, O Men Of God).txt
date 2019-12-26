@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरको मान्छे उठ,
 छोड अयोग्य कर्मलाई
 हृदय, मन, आत्मा सामर्थ देऊ
@@ -9,7 +9,7 @@ choDa ayogye karma-laai
 ridai, man, aatmaa saamartha deu
 khrisT yeshu raajaa-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 ईश्‍वरको मान्छे उठ,
 राज्य आउँदै छ ढिलो
 सङ्गतको दिन अब छिटो ल्याऊ,
@@ -20,7 +20,7 @@ raajye aauňdai cha Dhilo
 sangat-ko din aba chiTo lyaau,
 haTaau raat paapai-ko.
 
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वरको मान्छे उठ,
 मण्डली पर्खंदछ
 त्यो काम निमित्त नसक्‍‌ने हो
@@ -31,7 +31,7 @@ maNDali parkhaň-dacha
 tyo kaam nimitta na-sakne ho
 us-laai prasiddha banaau.
 
----[Verse 4:]---
+---[Verse:4]---
 येशूको क्रूस उठाऊ हिँड बाटो उनैको
 मान्छेको पुत्रका
 दाज्यू-भाइको रूपमा

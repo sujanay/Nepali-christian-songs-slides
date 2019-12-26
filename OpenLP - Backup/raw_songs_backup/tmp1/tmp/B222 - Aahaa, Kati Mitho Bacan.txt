@@ -9,7 +9,7 @@ prabhu-le diyeko racanaa
 aahaa, kati miTho bacana,
 prabhu-le diyeko racanaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जब म वचन पढ्दछु
 झन् ठूलो इच्छा बढ्दछ
 जब म वचन सुन्दछु
@@ -20,7 +20,7 @@ jhana Thulo ichyaa baRh-dacha
 jaba ma bacana sun-dachu
 taba mana khushi-le bhar-dacha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जब म पापले भरियथेँ
 तब अन्धकारले छोपीयथेँ
 प्रभुले मलाई बोलाउनुभो
@@ -31,7 +31,7 @@ taba andhakaara-le chopi-yetheň
 prabhu-le ma-laai bolaau-nubho
 'ani khushi-ko khabar sunaau-nubho'
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म, तिमी हामी सबै पापी थियौँ
 अनि साँचो प्रभुलाई चिन्दैनथ्यौँ
 प्रभु आए आफै स्वर्ग छोड़ेर,
@@ -42,7 +42,7 @@ ani saaňco prabhu-laai cin-daina-thyauň
 prabhu aaye aafai sworga choRera
 haamro-laagi ujyaalo jyoti baalera.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 क्रूसमा प्रभु मर्नुभयो,
 हाम्रो पापको भार उठाउनुभयो
 मृत्युबाट प्रभु बौरी उठ्‍‌नुभो
@@ -53,7 +53,7 @@ haamro paap-ko bhaara uThaaunu-bhayo
 mrityu-baaTa prabhu bauri uTh-nubho
 ra haami-laai sworga-ko dhokaa khol-nubho
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आऊ दाज्यू–भाइ, दिदी–बहिनी,
 प्रभुको मीठो वचन पढ्‍‌न
 आफ्‍‌ना पापलाई हटाई

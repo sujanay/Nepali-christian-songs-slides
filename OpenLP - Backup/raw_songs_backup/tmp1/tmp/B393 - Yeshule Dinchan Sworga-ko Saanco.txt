@@ -9,7 +9,7 @@ sansaar-ko dukha-bic-maa sworga lyaai-dine
 kalwari DaaňDaa-ko krus-laai hera,
 tyesai-le khol-dacha sworga-ko saano dwaara
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कठिनाइदेखी निराश
 नहोऊ सङ्कष्ट देखेर) २
 ती सबै भिन्‍‌न साँचाहरू हुन
@@ -20,7 +20,7 @@ na-hou sangkasTa dekhera) ~2
 ti sabai bhinna saaňcaa-haru huna
 sworgiye harsa-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (संसारको पछि नजाऊ है
 तिमी भ्रममा परेर) २
 क्रूस बोकी आऊ,
@@ -31,7 +31,7 @@ timi bhrama-maa parera) ~2
 krus boki aau,
 yeshule bhane sarva-swo tyaagera.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (दु:खमा खुशी, आँसुमा हाँसो
 येशूले दिनेछन्‌) २
 प्रकट हुने भावी आनन्द

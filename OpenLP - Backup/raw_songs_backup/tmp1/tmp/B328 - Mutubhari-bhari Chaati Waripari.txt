@@ -20,7 +20,7 @@ khrisT-kai prem-maa bhulchu ma sadaa-sadaa
 chuTaauna sakcha kun cij-le,
 bhana kas-le garcha baadhaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उनको प्रेम आकाशभन्दा अग्लो,
 (सागरभन्दा गहिरो, अत्यन्त दामी,
 भेदभावरहित, अवर्णनिय) २
@@ -38,7 +38,7 @@ bhedbhaav-rahit, abarNniye) ~2
 kasle dincha tyesto prem
 haamrai mukti-daataa yeshu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जब म हराएको थिएँ,
 (सहाराहीन थिएँ यो पापी
 जगमा प्रभु आउनुभो,

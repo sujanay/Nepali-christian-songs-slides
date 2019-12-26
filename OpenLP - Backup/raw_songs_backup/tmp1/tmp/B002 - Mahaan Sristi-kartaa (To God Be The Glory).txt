@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 महान्‌ सृष्टिकर्ता परमेश्‍वरको जय,
 संसारलाई प्रेम गरी ख्रीष्ट पुत्र दिए
 जो प्राण आफ्‍‌नो त्यागी बने तारणहार
@@ -31,7 +31,7 @@ pitaa-kahaaň aau
 ra ishwor-ko jaijai-kaar
 stuti caDhaau.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हो रगतले किनेको पूरा उद्धार
 विश्‍वासीहरूलाई ईश्‍वरको करार,
 जो सबभन्दा तुच्छ त्यो विश्‍वास गरे
@@ -42,7 +42,7 @@ vishwaasi-haru-laai ishwor-ko karaar,
 jo sab-bhandaa tuccha tyo vishwaas gare
 tyes-laai chyemaa garchan jhaT-Tai yeshu-le.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दिए महान्‌ शिक्षा, गरे महान्‌ काम,
 महान्‌ छ नि येशूमा हर्ष इनाम,
 तै यसभन्दा बढ्‌ता छ आनन्द अपार,

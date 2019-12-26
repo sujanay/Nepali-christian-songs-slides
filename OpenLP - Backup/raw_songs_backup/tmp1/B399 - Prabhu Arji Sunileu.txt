@@ -7,7 +7,7 @@
 (gorkhaali-le mukti paaune
 Dhokaa kholi-de-u) ~2x
 
----[Verse 1:]---
+---[Verse:1]---
 पिता, पुत्र, पवित्रात्मा,
 अर्जी हाम्रो लेऊन्
 आगो मेघको खाँबो उभ्याई
@@ -18,7 +18,7 @@ arji haamro le-un
 aago megh-ko khaaňbo ubhyaai
 baaTo dekhaai-deun
 
----[Verse 2:]---
+---[Verse:2]---
 पूर्वा दक्षिण, पश्चिम दिशा
 अनेक धर्मका जन छन्।
 उत्तर तिब्बत, मध्ये नेपाल
@@ -29,7 +29,7 @@ anek dharma-kaa jan chan
 uttar tibbat, madhye nepaal
 gokaarli-kaa basti chan
 
----[Verse 3:]---
+---[Verse:3]---
 कीर्तिपुर, भाद्‍गाउँ, पाटन,
 काठमाण्डू छन् शहर
 तिनलाई तिम्रो भक्ति पार्नु,
@@ -40,7 +40,7 @@ kathmandu chan shahar
 tin-laai timro bhakti paarnu
 prabhu haamro rahar.
 
----[Verse 4:]---
+---[Verse:4]---
 उठ भाइ हो, जानै पर्छ,
 पचाई निन्दा, लाज
 धन, जन, चैन र सुख

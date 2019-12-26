@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूलाई म सब थोक दिन्छु,
 सबै थोक अर्पण गर्छु,
 प्रतिदिन तपाईंको साथमा
@@ -20,7 +20,7 @@ sab thok dinchu ma,
 mukti-daataa tapaaiň-laai
 sab thok dinchu ma,
 
----[Verse 2:]---
+---[Verse:2]---
 येशूलाई म सब थोक दिन्छु,
 दण्डवत् गर्छु तपाईंलाई
 सांसारिक इच्छा म छोड्छु,
@@ -31,7 +31,7 @@ daNDawat garchu tapaaiň-laai
 saaňsaarik icchaa ma choDchu,
 tapaaiň linuhos malaai.
 
----[Verse 3:]---
+---[Verse:3]---
 येशूलाई म सब थोक दिन्छु,
 आफ्नै बनाउनोस् मलाई
 पवित्रात्मा हवस् सक्षी
@@ -42,7 +42,7 @@ aafnai banaaunos malaai
 pavitraatmaa haus sakchi
 khrisT hun meraa, ma khrisT-kai.
 
----[Verse 4:]---
+---[Verse:4]---
 येशूलाई म सब थोक दिन्छु,
 मेरो जीवन लिनुहोस्
 प्रेम र शक्ति ममा भर्नोस्,
@@ -53,7 +53,7 @@ mero jivan linu-hos
 prem ra shakti ma-maa bharnos,
 aashis-le bharpur garnos.
 
----[Verse 5:]---
+---[Verse:5]---
 येशूलाई म सब थोक दिन्छु,
 पवित्रात्मा याद गर्छु
 पूरा मुक्तिमा खुशी छु,

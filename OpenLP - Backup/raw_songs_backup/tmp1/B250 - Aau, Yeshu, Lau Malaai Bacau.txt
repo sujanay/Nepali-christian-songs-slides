@@ -7,7 +7,7 @@
 bacaau paap-ko
 yo bhaari aaňdhi-maa) ~2x
 
----[Verse 1:]---
+---[Verse:1]---
 (सांसारिक सागरको
 हे बलियो माझी) २
 दु:ख–दर्द बुझिहिँड़्‍‌ने
@@ -29,7 +29,7 @@ param-upakari) ~2x
 saccaa pakkaa dharma lyaaune
 adharma pakhaali
 
----[Verse 2:]---
+---[Verse:2]---
 (सुपदेश दिन्थ्यौ, प्रभु,
 दुनियाँ चहारी) २
 धर्मीलाई धन्य भनी
@@ -51,7 +51,7 @@ haaňsu-rouň nabhai) ~2x
 krus-maathi caRhyau prabhu,
 jivan dina kaThai.
 
----[Verse 3:]---
+---[Verse:3]---
 (नगरी देऊ ढिलो प्रभू,
 लौ न छिटो आऊ न) २
 दुष्कर्मको बाढ़ी बग्यो,

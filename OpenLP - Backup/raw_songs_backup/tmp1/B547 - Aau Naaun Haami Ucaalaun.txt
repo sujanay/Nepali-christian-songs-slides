@@ -9,7 +9,7 @@ srisTi-kartaa elohim-ko,
 yehwe ma huň mahaa-mahim-ko,
 yehwe mahaa-mahim-ko.
 
----[Verse 1:]---
+---[Verse:1]---
 सर्वशक्तिमान्‌
 तपाईं एल-शद्दाई,
 सारा संसारको मालिक एडोनाई,
@@ -29,7 +29,7 @@ sab khaaňco puryaaune,
 yehwe-rofe
 malaai cangaai paarne.
 
----[Verse 2:]---
+---[Verse:2]---
 यह्वे-निस्सी
 मलाई विजय दिने,
 यह्वे-म'काद्देश
@@ -51,7 +51,7 @@ mero shaanti-daataa,
 yehwe-sid-kenu
 mero dharmik-taa.
 
----[Verse 3:]---
+---[Verse:3]---
 मेरो जाति गोठाला
 यह्वे-रो'ए,
 यह्वे-शम्माह

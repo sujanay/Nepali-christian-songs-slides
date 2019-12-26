@@ -5,7 +5,7 @@
 (chaina bharosaa yo jindagi-ko) ~2
 (garauň bhajan aba yeshu-ji-ko) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (बालककाल बित्यो खेलैमा खेली) २
 (जवानी बित्यो प्रेमैमा भुली) २
 (वृद्धकाल बित्दै छ जञ्‍जालमा डुबी) २
@@ -16,7 +16,7 @@
 (briddha-kaal bitdai cha janjaal-maa Dubi) ~2
 (garauň bhajan aba yeshu-ji-ko) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जञ्‍जालमा डुबिरहन्छौ कति) २
 (चेत गरी अब सुधार गति) २
 (छैन बेला भाइ अब अति) २
@@ -27,7 +27,7 @@
 (chaina belaa bhaai aba ati) ~2
 (garauň bhajan aba yeshu-ji-ko) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (पाप र सन्ताप बढ्‌दछन्‌ जति) २
 (हुनेछन्‌ नष्ट जीवन उति) २
 (फर्काऊ मन अब येशूपट्टि) २

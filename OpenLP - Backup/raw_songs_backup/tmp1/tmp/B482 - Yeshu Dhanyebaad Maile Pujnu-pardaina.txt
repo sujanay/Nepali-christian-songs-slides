@@ -9,7 +9,7 @@ na aakaash, na prithivi-kaa aakriti-haru) ~2
 timi-le cinaai-diyo saaňco parmeshwora-laai
 yeshu dhanyevaad.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पहाड़, नदी, जङ्गल र बादल
 तिम्रै सृष्टि हो) २
 कसरी पुजूँ मैले
@@ -27,7 +27,7 @@ timraa haata-kaa racanaa-haru?
 {y}timi-le bataai-diyau aadi-anta
 timi nai hau.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तोडूँ कति मेरो जीवनलाई
 मुक्तिको खोजीमा) २
 पुण्य गरेँ भन्छु,

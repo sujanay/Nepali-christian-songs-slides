@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 धन्य उद्धारक करुणा-सागर,
 धेरै नै दयालु स्वतन्त्रता
 मजस्तो निर्धोको तपाईं अडेस,
@@ -20,7 +20,7 @@ buddhi-kaa dhaaraa sanaatan-kaa
 aashaa, vishwaas-kaa prakaash, unaiko,
 khrisT muktidaataa-kai prashaňsaa
 
----[Verse 2:]---
+---[Verse:2]---
 धन्य उद्धारक, डर कति छैन,
 तपाईंमा पाउँछौं शरण, रक्षा
 खुशी भई पुज्छु र विश्‍वास गर्छु,
@@ -31,7 +31,7 @@ tapaaiň-maa paauňchauň sharaNa, rakchyaa
 khushi bhai pujchu ra vishwaas garchu,
 sthira bhai aauňchu tapaaiň cheumaa.
 
----[Verse 3:]---
+---[Verse:3]---
 धन्य उद्धारक, कृपालु कोमल,
 अहिले सर्वदै रहन ममा
 तपाईं सहायक ढाल र रक्षक,

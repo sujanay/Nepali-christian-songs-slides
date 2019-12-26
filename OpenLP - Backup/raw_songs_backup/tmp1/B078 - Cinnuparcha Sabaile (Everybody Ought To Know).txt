@@ -11,7 +11,7 @@ cinnu-parcha sabai-le,
 cinnu-parcha sabai-le
 yeshu ko hun
 
----[Verse 1:]---
+---[Verse:1]---
 उनी शान्ति दिने ख्रीष्ट हुन्,
 जगतका हुन तारणहार
 तिम्रा-मेरा मुक्तिदाता
@@ -22,7 +22,7 @@ jagat-kaa hun taarNa-haar
 timraa-meraa mukti-daataa
 cinnu-parcha sabai-le.
 
----[Verse 2:]---
+---[Verse:2]---
 उनी मेरो प्यारो मित्र,
 मनमा खुशी दिँदछन्
 मेरो जीवनका उज्यालो,
@@ -33,7 +33,7 @@ man-maa khushi diňda-chan
 mero jivan-kaa ujyaalo,
 cinnu-parcha sabai-le.
 
----[Verse 3:]---
+---[Verse:3]---
 उनी निष्कलङ्क अवतार,
 पुत्र हुन् परमेश्‍वरका
 फेरि पछि आउने राजा,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सर्वशक्तिमान राजा,
 तपाईंको स्तुति गाउन,
 सघाउनुहोस् ! महामहिम पिता,
@@ -11,7 +11,7 @@ saghaau-nuhos ! mahaa-mahim pitaa,
 sarvocca bijetaa
 raaj garnos haami-maa, praacin din-kaa .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 देहरूपी वचन, लिनोस् आफ्नो तलवार,
 प्रार्थना सुनोस् , आशिष खन्याउनुहोस् ,
 वचन फैलाउनुहोस्
@@ -22,7 +22,7 @@ praarthnaa sunos , aashis khanyaau-nuhos,
 bacan failaau-nuhos
 pavitra-taa-ko aatmaa dinu-hos .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पवित्र शान्तिदाता,
 आनन्दको यो घडीमा
 साक्षी दिनोस् पूर्ण सामर्थ्यमा,
@@ -35,7 +35,7 @@ sakchi dinos purNa saamarthye-maa,
 harek ridai-maa
 aatmaa saamarthye-kaa, rahanos sadaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 त्रिएक महान् प्रभुलाई,
 स्तुति होस् अनन्तलाई,
 महामहिम सदाकाल सार्वभौम,

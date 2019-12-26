@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे विश्‍वासी, सेवा पूरा गर्नुछ,
 परमप्रभुको ज्योतिलाई फैलाऊ,
 सारा सृष्टिको कर्ता चाहनुहुन्‍न
@@ -16,7 +16,7 @@ ek aatmaa narak-maa haraa-yeko .
 {y}ghosaNaa gara shaanti saňndesh,
 ghosaNaa gara yeshu khrisT uddhaarak hun .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नियाल त्यहाँ हजारौं आत्माहरू,
 पापको निस्तेज बन्धनमा रहेका ।
 कहाँ छन् मुक्तिको सन्देश ल्याउनेहरू ?
@@ -27,7 +27,7 @@ paap-ko nistej bandhan-maa rahe-kaa.
 kahaaň chan mukti-ko sandesh lyaaune-haru ?
 kas-le yeshu-ko sandesh sunaau-laa ?
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हर देश र हर भाषामा बयान गर,
 प्रभुको प्रेम आफ्नो सृष्टि प्रति
 होचिए उनी हामीलाई अल्गाउन,

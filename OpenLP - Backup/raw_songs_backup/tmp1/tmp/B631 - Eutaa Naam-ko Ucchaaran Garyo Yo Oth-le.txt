@@ -9,7 +9,7 @@ garyo yo oTh-le
 yo dharti-maa thaahaa bho
 sworga ke ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (चारैतिर बगी हिँड्ने यो हावा
 जस्तै हल्का भयो चित्त मेरो
 आकाशबाटै उडी जाने
@@ -42,7 +42,7 @@ hera naacyo yesa naam-le
 uddhaar bhayo
 paapi-ko aaja yeshu naam-le.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रशंसाका ध्वनिहरूले
 उचालौँ हृदय स्तुतिका धुनहरूले
 गुञ्‍जिएको धर्तीको गाना

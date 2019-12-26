@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आऊ येशूकहाँ आजै, हे भाइ,
 उनको निम्तो छ अहिले नै
 ख्रीष्ट नजीक छन् आशिष् दिनलाई,
@@ -20,7 +20,7 @@ khushi hauňlaa jaba nispaapi bhai,
 basauňlaa nitye saňga
 yeshu-kai ananta gharai-maa
 
----[Verse 2:]---
+---[Verse:2]---
 हे पापी आऊ, प्रभुको बात सुनी,
 समाऊ प्रभुको हात
 आउँछन् जो उनकहाँ सब पाउँछन् सुख,
@@ -31,7 +31,7 @@ samaau prabhuko haat
 aauňchan jo un-kahaaň sab paauňchan sukha,
 kaaTinchan tinkaa dukha.
 
----[Verse 3:]---
+---[Verse:3]---
 आऊ येशूकहाँ विचार गर भाइ,
 छन् उनी नजीक वर दिनलाई
 आऊ, सब छिटो येशूकहाँ आऊ,

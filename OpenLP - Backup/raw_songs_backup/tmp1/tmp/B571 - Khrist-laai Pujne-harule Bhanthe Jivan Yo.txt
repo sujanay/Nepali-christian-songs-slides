@@ -11,7 +11,7 @@ jivan yo bageko kholaa ho, saathi
 jivan yo dui din-ko colaa ho ...
 khrisT-laai pujne-haru-le ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सक्छौ भने हेर आफैलाई
 तिमी कहाँ हराइरहेछौ
 संसारिक नशाले तिमी
@@ -35,7 +35,7 @@ ragata bagdai-cha) ~2
 bacaauna khojdai-cha) ~2
 krusa-laai hera ta ...
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (सुखमा तिम्रा सबै साथी छन्
 दु:ख बुझ्ने कहाँ को छ र ?
 प्रेम गर्छु भनी टोपल्छन्

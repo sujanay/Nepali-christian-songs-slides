@@ -9,7 +9,7 @@ khrisT janma-din-ko subhaa-kaamanaa) ~2
 haami sabai-laai mukti dineko
 janma-diwas-ko subhaa-kaamanaa
 
----[Verse 1:]---
+---[Verse:1]---
 (अन्धकारमा यसै हराउनेहरू हो
 जीवनको ज्योति येशूलाई बनाऊ) २
 (स्वागत गरेर तिम्रो जीवनमा
@@ -20,7 +20,7 @@ jivan-ko jyoti yeshu-laai banaau) ~2
 (swaagat garera timro jivan-maa
 khrisT yeshu-laai aba aafno banaau) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (मुक्तिको निम्ति
 घुम्नेहरू हो
 नियालेर खोज

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (दाऊदवंशी येशू ख्रीष्टको
 स्तुति गर, हे भाइ) २
 (स्वर्गबाट ओर्लिआए
@@ -11,7 +11,7 @@ stuti gara, he bhaai) ~2
 bacaauna haamilaai) ~2
 hosannaa hosannaa, aananda jagatmaa.
 
----[Verse 2:]---
+---[Verse:2]---
 (मानिस अवतार गरी
 धारण आए नरलोकमा) २
 (अमोल प्राण त्यागी
@@ -24,7 +24,7 @@ dhaaraNa aaye naralok-maa) ~2
 sablaai paarenan shok-maa) ~2
 hosannaa yeshu naauň diye sworga lok.
 
----[Verse 3:]---
+---[Verse:3]---
 (पिता ईश्‍वर माहिमा
 उनको सारा संसारमा) २
 (चन्द्र, सूर्य, सृष्टि

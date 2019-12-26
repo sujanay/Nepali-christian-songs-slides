@@ -9,7 +9,7 @@ prabhu yeshu Doryaau-nuhos
 pavitra aatmaa-le bharera,
 prabhu malaai calaau-nuhos) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (येशूरहित जीवनमा
 शान्ति कहीँ पाइनँ) २
 येशू आए मकहाँ,
@@ -22,7 +22,7 @@ yeshu aaye ma-kahaaň,
 paap-chyemaa-ko nishcaitaa
 (paayeň maile bhitra man-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (मृत्युबाट आत्मा मेरो
 प्रभु ख्रीष्टले बचाउनुभयो) २
 आँखाबाट आँसु मेरो,

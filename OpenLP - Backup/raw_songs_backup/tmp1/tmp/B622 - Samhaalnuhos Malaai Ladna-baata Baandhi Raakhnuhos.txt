@@ -34,7 +34,7 @@ hatkelaa-maa Dhaak-nuhos ma-laai
 Dubaai raakh-nuhos malaai
 tapaaiňko karuNaa-maa.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जिउन चाहन्छु म बिजय जीवन
 हारको जीवन त्यागेर
 हिँड्न चाहन्छु म

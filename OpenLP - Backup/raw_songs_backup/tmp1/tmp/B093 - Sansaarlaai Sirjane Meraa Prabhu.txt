@@ -10,7 +10,7 @@ awarNniye apaar, saaňccai nai bishaal,
 meraa, timraa, haamraa,
 sabkaa pyaaraa prabhu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (उनको कर्मलाई जाँच,
 उनको वचन सुन) २
 जादू होइन कलवरी, मन्त्र होइन वचन,
@@ -21,7 +21,7 @@ unko bacan suna) ~2
 jaadu hoina kalawari, mantra hoina bacan,
 tara alaukika prem, sansaarlaai ...prabhu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (उनको महिमालाई नाप
 सिद्ध छन्‌ उनी पूर्ण) २
 परमेश्‍वरको प्रतिरूप
@@ -34,7 +34,7 @@ parmeshworko pratirup
 srisTiko jeTho hun,
 sworga dhartiko shir, sansaarlaai ...prabhu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (उनको शरीरलाई हेर
 चोटैचोट छन्‌ सारा) २
 हात राखी छाम उनका करपाउ,

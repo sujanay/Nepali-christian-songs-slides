@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परमेश्‍वर मेरा हुन्‌ अगुवा,
 यो सुन्‍‌नु कस्तो सान्त्वना
 जे जति गरूँ, जाऊँ जता,
@@ -20,7 +20,7 @@ malaai Doryaauň-dachan sadaa
 ma un-ko pachi laaguňlaa
 kaaraN parmeshwor hun agu'aa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 भवसागर कहिले शान्त छ
 र कहिले आँधी चल्दछ
 वा आपदमा वा सुख-चैनमा,
@@ -31,7 +31,7 @@ ra kahile aaňdhi caldacha
 waa aapad-maa waa sukha-cain-maa,
 parmeshwor meraa hun aguwaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 समात्छु म उनको हात,
 नगरूँ गनगनाइको बात
 जे परे होस्‌ रमाऊँ सदा
@@ -42,7 +42,7 @@ na-garuň gana-ganaai-ko baat
 je pare hos ramaauň sadaa
 ki ishwor meraa hun aguwaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आउँदा पृथ्वीको कामको अन्त,
 अनुग्रहद्वारा भई जयवन्त
 निर्भय म तर्छु

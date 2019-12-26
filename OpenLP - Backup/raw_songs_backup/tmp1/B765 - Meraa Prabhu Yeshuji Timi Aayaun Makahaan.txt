@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (मेरा प्रभु येशूज्यू ,
 तिमी आयौं मकहाँ, ) २
 आउँछु तिम्रो चरणमा,
@@ -16,7 +16,7 @@ upaasa-naa garda-chu .
 timi mero jivan hau,
 timi satye, maarga hau .
 
----[Verse 2:]---
+---[Verse:2]---
 (बोल मेरा प्रभुज्यू ,
 मलाई शिक्षा दिनलाई ) २
 स्वर्गीय इच्छा देखाऊ,
@@ -27,7 +27,7 @@ malaai shikchyaa dina-laai ) ~2
 sworgiye ichyaa dekhaau,
 ma grahaN garda-chu .
 
----[Verse 3:]---
+---[Verse:3]---
 (म एक कमजोर पात्र हुँ ,
 आफूलाई होच्याउँदछु ) २
 ममा असल केही छैन,
@@ -38,7 +38,7 @@ aafu-laai hocyaauň-dachu ) ~2
 ma-maa asal kehi chaina,
 timi mero purNa-taa .
 
----[Verse 4:]---
+---[Verse:4]---
 (तिमीलाई चिन्‍ने ज्ञानमा,
 बढिरहन संकुँ म ) २
 तिम्रो महान्‌तालाई,
@@ -49,7 +49,7 @@ baDhi-rahana saňkuň ma ) ~2
 timro mahaantaa-laai,
 bujhi-rahana sakuň ma .
 
----[Verse 5:]---
+---[Verse:5]---
 (मेरा प्रभु येशूज्यू ,
 तिम्रो प्रेममा सुम्पन्छु ) २
 तिमी मेरा सदालाई,

@@ -9,7 +9,7 @@ su-sandesh cha hai yo ciso raatai-maa
 immaanu-yel pasrinu-bho
 bethlehem gaai-ko goThai-maa
 
----[Verse 1:]---
+---[Verse:1]---
 डुँडैको कोक्रो, परालको ओछ्यान
 कोमल बालक सत्कार छ उनलाई
 बाटो, सत्य र जीवन
@@ -22,7 +22,7 @@ baaTo, satye ra jivan
 yeshu aaunu-bho sansaarai-maa
 bethlehem gaai-ko goThai-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 चढाउन जीवन भेटीस्वरुप
 प्यारो येशूको चरणमा
 सुरङ्गसाथमा बसन्त बहार

@@ -5,7 +5,7 @@
 ma huň yeshu-ko, au yeshu meraa
 (sansaar-maa aru kehi-ko caahiň-daina) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (उहाँको काखमा लुटु र पुटु
 गरेर बिसाउँछु) २
 (जीवनको पानी पिएर यसै
@@ -16,7 +16,7 @@ garera bisaauň-chu) ~2
 (jivan-ko paani piyera yesai
 trisaNaa meTaauň-chu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (येशूको गीत प्रेमको भाका
 गाएर सनाउँछु) २
 (फरिया र चोली लाएकै दुलही

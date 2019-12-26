@@ -16,7 +16,7 @@ aaja janme raatai-maa
 {y}aayauň haami hajur-kai aghi
 yo sandesh bhani-dina-laai
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पैयुँ फुल्यो हाँगैभरि
 डाँडाहरू ढाकिए
 लालुपातेको लालीले) २
@@ -34,7 +34,7 @@ laalu-paateko laali-le) ~2
 jaaDo laagyo baDaa-dina-ko
 ciso haawaa-le feri aaja.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तारा चम्के रातैभरि
 सन्देश यो भनिदिए
 स्वर्गदूतले) २

@@ -9,7 +9,7 @@ mero aashaa-umanga, prabhu timi nai
 timrei bani ma rahi-rahuň
 (aba binti ye'i cha sadaa-laai.) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 मेरो जीवन यस्तो थियो
 कि झरेको फूल,
 अन्योलमा बाँचेको भूलै–भुल,
@@ -29,7 +29,7 @@ mero nimti aasha kewal haarei-haar
 (maile josha paayeň, maile hosha paayeň,
 saba dosa-ko maaf prabhu-maa paayeň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 दामी–दामी सम्झेका ती
 जे–जति थिए
 मेरो निम्ति ती सबै नै भार भए

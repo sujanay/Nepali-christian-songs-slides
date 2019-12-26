@@ -9,7 +9,7 @@ dui cor-ko majh-maa,
 (mero nimti praaN diye,
 bahaai ragat krur krus-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सुनको जडले पैसा
 पोखी भएन मुक्ति मेरो,
 (मुक्ति मेरो स्वर्गीय पाठो
@@ -20,7 +20,7 @@ pokhi bhayena mukti mero,
 (mukti mero sworgiye paaTho
 khrisT-ko ragat-dwaaraa bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापको मैला काला
 दागलाई धुँदैन चीजले कुनै,
 (केबल रगतले धुन्छ सबलाई
@@ -31,7 +31,7 @@ daag-laai dhuň-daina cij-le kunai,
 (kebal ragat-le dhuncha sab-laai
 paar-dacha seto hiuň-jhaiň) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हिउँझैँ वस्त्र पहिरेका
 सन्तगण स्वर्गमा छन्,
 (बलि हुने प्रेमी ख्रीष्टलाई
@@ -42,7 +42,7 @@ santa-gaN sworga-maa chan,
 (bali hune premi khrisT-laai
 yug-yug stuti garchan) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 उनी आफै पाप बने,
 पापबाट छुटाउनलाई,
 (मृत्यु जिती बौरि उठे

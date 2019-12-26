@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (ल जाऊँ है सियोनसम्म) ३
 येशूको नगरमा
 हो ! (जय हल्लेलूयाह) ३
@@ -9,7 +9,7 @@ yeshuko nagar-maa
 ho ! (jai halleluyaah) ~3
 aanand manaauň
 
----[Verse 2:]---
+---[Verse:2]---
 (सियोनको राजा येशू) ३
 राज गर्दै जाऊँ
 हो ! (जय हल्लेलूयाह) ३
@@ -20,7 +20,7 @@ raaj gardai jaauň
 ho ! (jai halleluyaah) ~3
 aanand manaauň
 
----[Verse 3:]---
+---[Verse:3]---
 (प्रेमी छन् सियोनमा) ३
 प्रेम गर्दै जाऊँ
 हो ! (जय हल्लेलूयाह) ३
@@ -31,7 +31,7 @@ prem gardai jaauň
 ho ! (jai halleluyaah) ~3
 aanand manaauň
 
----[Verse 4:]---
+---[Verse:4]---
 (नाच्दै जाऊँ सियोनमा)३
 प्रेमी येशूकहाँ
 हो ! (जय हल्लेलूयाह)३

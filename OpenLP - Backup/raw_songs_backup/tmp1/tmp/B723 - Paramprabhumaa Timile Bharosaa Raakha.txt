@@ -18,7 +18,7 @@ uhaaň-laai samjha,
 param-prabhu-le timraa maarga-haru
 sugam tulyaai dinu-huncha .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 परमप्रभुमा तिम्रो धन सम्पत्तिले
 आदर गर,
 तिम्रा सबै परिश्रम र मेहनतको
@@ -38,7 +38,7 @@ pahilo aňsha-le
 timraa sabai DhukuTi-haru
 anna-le bhari-purNa hune-cha .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमप्रभुमा भय राख,
 अनुशासनलाई हेला नगर,
 उहाँको ताडनादेखी चित्त

@@ -9,7 +9,7 @@ kalvari-maa mare dina chuT-kaaraa
 yeshu paarda-chan purai swotantra,
 unko naauň-ko jai
 
----[Verse 1:]---
+---[Verse:1]---
 (यसैकारण म गाउँछु) २
 मेरो पाप क्षमा भयो,
 स्वर्ग मेरो घर भयो,
@@ -21,7 +21,7 @@ sworga mero ghar bhayo,
 (yesai-kaaraN ma) ~3
 gaauň-chu.
 
----[Verse 2:]---
+---[Verse:2]---
 (यसैकारण म खुशीछु) २
 मेरो पाप क्षमा भयो,
 स्वर्ग मेरो घर भयो,
@@ -33,7 +33,7 @@ sworga mero ghar bhayo,
 (yesai-kaaraN ma) ~3
 khushi-chu.
 
----[Verse 3:]---
+---[Verse:3]---
 (यसैकारण म नाच्छु) २
 मेरो पाप क्षमा भयो,
 स्वर्ग मेरो घर भयो,

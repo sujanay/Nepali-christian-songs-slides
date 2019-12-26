@@ -26,7 +26,7 @@ aau khushi-ko git aauň
 mukti-daataa yeshu-ko
 laa laa laa ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ठीकै भन्‍नुभो संसारमा
 यो कष्ट हुन्छ
 उनको मण्डलीलाई) २
@@ -39,7 +39,7 @@ un-ko maNDali-laai) ~2
 (tara saaňco ho gyaanai-le nabhyaau-ne
 sworga-ko khushi pani timrai laagi ho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (शक्तिले होइन, शक्तिले होइन
 उनको आफ्नै आत्मा तिम्रै लागि हो) २
 (धर्मी कोही छैन,

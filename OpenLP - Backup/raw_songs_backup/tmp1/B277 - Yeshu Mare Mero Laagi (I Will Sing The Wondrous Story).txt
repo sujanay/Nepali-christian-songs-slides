@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू मरे मेरोलागि,
 उनको गर्छु जयजयकार
 स्वर्गलोकको दु:खलाई त्यागी
@@ -20,7 +20,7 @@ ma sunaauňchu samaacaar
 ahile ani sworga pugi
 gaauňchu khrisT-ko jaijaikaar
 
----[Verse 2:]---
+---[Verse:2]---
 मैले डाँडामा भिरालो
 भेडाझैँ बाटो भुलेँ
 ख्रीष्टले भेट्टाई मारे अँगालो
@@ -31,7 +31,7 @@ bheDaa-jhaiň baaTo bhuleň
 khrisT-le bheTTaai maare aňgaalo
 malaai prem-saath ghar lyaaye.
 
----[Verse 3:]---
+---[Verse:3]---
 म ठेस खाई भएँ झलस्स,
 निको पारे चोट उनले
 अन्धो थिएँ त्रासले ग्रस्त,
@@ -42,7 +42,7 @@ niko paare coT unle
 andho thiyeň traas-le grasta,
 yeshu-le uddhaar gare.
 
----[Verse 4:]---
+---[Verse:4]---
 मृत्यु नदी पुगीकन
 मलाई तार्नेछन्‌ येशू
 स्वर्गमा पसी प्रिय

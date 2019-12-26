@@ -12,7 +12,7 @@ maanau jaati-laai) ~2
 {y}(caahan-chu ma
 prabhu timi-laai nai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (नयाँ आशा, नयाँ उमंग
 नयाँ किरण, पाएँ मैले) २
 येशू तिम्रो हात समाई
@@ -30,7 +30,7 @@ nayaaň jivan paaye maile
 {y}(aba chaaRne-chaina timro haat
 aba tyaagne-chaina timro-saath) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मेरो दु:खमा दु:खी बनी
 दु:ख सबै उठाउनुभो) २
 मेरो निम्ति दोषी बनी

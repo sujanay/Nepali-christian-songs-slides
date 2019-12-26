@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू मेरो मुक्तिदाता) ३
 हल्लेलूयाह उनको जय।
 
@@ -12,21 +12,21 @@ halleluyaah unko jai.
 {y}(bhana jai, yeshuko jai) ~3
 halleluyaah unko jai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (येशू मेरो शान्तिदाता) ३
 हल्लेलूयाह उनको जय।
 
 {y}(yeshu mero shaantidaataa) ~3
 halleluyaah unko jai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (येशू मेरो जीवनदाता) ३
 हल्लेलूयाह उनको जय।
 
 {y}(yeshu mero jivandaataa) ~3
 halleluyaah unko jai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (येशू फेरि फर्किआउँछन्‌) ३
 हल्लेलूयाह उनको जय।
 

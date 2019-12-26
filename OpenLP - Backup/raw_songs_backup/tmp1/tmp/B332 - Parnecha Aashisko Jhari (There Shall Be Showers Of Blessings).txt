@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पर्नेछ आशिष्‌को झरी,
 प्रेमको प्रतिज्ञालाई मान
 हुन्छन् समय जीउँन दिने
@@ -20,7 +20,7 @@ aashis-ko jhari paThaau
 dayaa-ko thopo cuhuncha,
 aashis-ko jhari paThaau
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पर्नेछ आशिष्‌को झरी,
 जीवनमा होस् शक्ति–बल
 सबैमा उत्पन्‍न गराउँछ,
@@ -31,7 +31,7 @@ jivan-maa hos shakti-bal
 sabai-maa utpann' garaauňcha,
 pavitra aatmaa-ko fal
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पर्नेछ आशिष्‌को झरी,
 हामीमा प्रभु पठाऊ
 दिएर आत्माको भरपूर,
@@ -42,7 +42,7 @@ haami-maa prabhu paThaau
 diyera aatmaa-ko bharpur,
 bacan-ko tej-le jagaau.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पर्नेछ आशिष्‌को झरी,
 होस् आजदेखि शुरू
 हामीले आज पाप स्वीकार्छौं,

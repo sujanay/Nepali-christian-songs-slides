@@ -9,7 +9,7 @@ yo dharti-ko majh-maa) ~2
 (laana haami ek-ek sabai-laai
 ananta-ko desh-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 एक दिन त उनी आउने छन्
 बादलको भेषमा
 (देख्‍नेछन् सारा संसारले
@@ -22,7 +22,7 @@ baadal-ko bhes-maa
 mahaan tyo drisye-haru-laai) ~2
 jaane-chan sabai jaati bishwaas garne-haru.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हेर ईश्‍वरको राज्यमा
 आनन्द र खुशी पाउनेछौ
 (विश्‍वास गर सबैले

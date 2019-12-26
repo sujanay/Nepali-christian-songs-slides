@@ -5,7 +5,7 @@
 {y}tyo dhanye jasko aparaadh chyemaa gariyo,
 ra jasko sabai paap pani Dhaakiyo
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 प्रभु जसको पापलाई लेखा लिँदैन,
 त्यो धन्य हो,
 जसको मनमा केही कपट छैन।
@@ -14,21 +14,21 @@ ra jasko sabai paap pani Dhaakiyo
 tyo dhanye ho,
 jasko man-maa kehi kapaT chaina.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जबसम्म चुप रहेँ मेरा हाडहरू,
 कराउँदै-कराउँदै सबै मक्किए।
 
 {y}jaba-samma cup raheň meraa haaDaharu,
 karaauňdai-karaauňdai sabai makkiye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दिनमा अनि रातमा हे मेरो ईश्‍वर,
 तपाईंको हात ममाथि भारी थियो।
 
 {y}din-maa ani raat-maa he mero ishwor,
 tapaaiň-ko haat ma-maathi bhaari thiyo.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अँ, बोसो पनि मेरो पग्लिगयो,
 जीउको सबै रस पनि सुकिगयो।
 

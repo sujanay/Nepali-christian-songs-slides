@@ -5,7 +5,7 @@
 gaauň yeshuji-ko jaigaan,
 gaauň yeshuji-ko shubha-naam
 
----[Verse 1:]---
+---[Verse:1]---
 यरूशलेम शहरको,
 बेथलेहेम गावैँमा
 
@@ -23,7 +23,7 @@ jasko yeshu naam) ~2x
 (shaantiko raajaa,
 yeshu-laai praNaam) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 इम्मानुएलले जन्म लियो,
 हाम्रो भव भो उज्यालो
 
@@ -41,7 +41,7 @@ satye-le jityo) ~2x
 (satyeko raajaa,
 yeshu-laai praNaam) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 मसीह येशू, अवतार भयो,
 घृणा, हेला टाढ़ो भयो
 

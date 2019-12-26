@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 गोठ गाईको,
 पुत्र पिताको,
 पाप हाम्रो,
@@ -20,7 +20,7 @@ jivan haami-laai,
 aananda haami-laai,
 shaanti haami-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 त्यस अँध्यारो
 चिसो रातमा,
 दूतगण आए
@@ -42,7 +42,7 @@ gaaye dut-gaN
 miTho swor-maa
 (miTho swor-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 बेथलेहेमको एकलो गाउँमा,
 (मरियमको सानो कोखमा) २
 आगमन ईश्‍वरको,

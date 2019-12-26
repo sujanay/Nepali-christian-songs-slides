@@ -33,7 +33,7 @@ raakh-chauň tapaaiň-ko haat-maa
 arpan-chauň haami bheT-nuhos
 prabhu pavitra najar-maa
 
----[Verse 2:]---
+---[Verse:2]---
 दु:ख र सुख जे जस्तो हुनेछ
 नछुट्दा शरीरमा
 घमण्ड र ईर्ष्या कहिल्यै नहोस्

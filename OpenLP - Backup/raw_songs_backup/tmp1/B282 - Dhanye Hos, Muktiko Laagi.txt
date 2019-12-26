@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 धन्य होस्‌, मुक्तिको लागि
 रगतमा भएँ चोखो
 येशूले धोए, धारामा
@@ -20,7 +20,7 @@ paap-dekhi mukti paaiyo
 yeshule dinchan mukuT
 tyo jivan-bhari khushi-ko
 
----[Verse 2:]---
+---[Verse:2]---
 धन्य होस्‌, यर्दनको लागि
 जहाँ म गाडिएको थिएँ
 प्यारो येशूसँग मरी
@@ -31,7 +31,7 @@ jahaaň ma gaaDiye-ko thiyeň
 pyaaro yeshu-saňga mari
 cihaan-dekhi bauriyeň.
 
----[Verse 3:]---
+---[Verse:3]---
 धन्य होस्‌, आगोको लागि
 पेन्तिकोसमा जुन खस्यो
 पवित्र आत्माले मलाई प्रेम र शान्ति दिनुभो।
@@ -41,7 +41,7 @@ pentikos-maa jun khasyo
 pavitra aatmaa-le malaai
 prem ra shaanti dinubho.
 
----[Verse 4:]---
+---[Verse:4]---
 धन्य होस्‌, महिमाको राजा
 फेरि फर्की आउनेछन्‌
 अनि सबै आफ्‍‌नो मण्डली

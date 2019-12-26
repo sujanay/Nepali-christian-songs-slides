@@ -20,7 +20,7 @@ aaja fuleko cha,
 tyo niraasha muTu
 aaja haaň-seko cha
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मेरो जिन्दगीको
 घामछायाँमा पनि
 प्रभु मलाई सधैँ साथ दिनुहुन्छ,
@@ -44,7 +44,7 @@ malaai Dara chaina
 sadhaiň unko bhar cha,
 maile hiňRne baaTo prabhu hunu-huncha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पश्चात्ताप गरी म जति चूर हुन्छु,
 मेरा सब अनर्थ
 प्रभु माफ गर्नुहुन्छ,

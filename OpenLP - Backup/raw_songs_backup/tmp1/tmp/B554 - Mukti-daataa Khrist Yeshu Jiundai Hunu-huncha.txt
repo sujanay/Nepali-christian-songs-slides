@@ -16,7 +16,7 @@ aauňdai-hunu-huncha) ~2
 sansaar-kaa sarva-netaa) ~2
 (ho haa haa haa ho, ho haa haa haa ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सत्य बाटो देखाउने,
 दुष्ट बाटो हटाउने,
 हाम्रो लागि क्रूसैमा
@@ -38,7 +38,7 @@ ho haa haa haa ho) ~2
 (uhaaň nai hunu-huncha
 paapi-haru-kaa mukti-daataa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पूर्व पश्‍चिम उत्तर दक्षिण
 चेतना जगाइदेऊ,
 गाऊँघर, पाखाहरूमा
@@ -56,7 +56,7 @@ gaauň-ghar, paakhaa-haru-maa
 (ho haa haa haa ho,
 ho haa haa haa ho) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 बाटो बिराई हिँड्नेलाई
 बाटो देखाइदेऊ,
 अन्धकारमा सुतेकालाई

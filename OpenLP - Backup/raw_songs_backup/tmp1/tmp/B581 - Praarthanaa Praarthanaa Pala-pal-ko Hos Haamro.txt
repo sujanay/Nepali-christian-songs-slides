@@ -9,7 +9,7 @@ pala-pal-ko hos haamro
 yo caahanaa pahirauň
 yo shakti-laai jhaiň gahanaa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (आत्मिक जीवनको
 सास हो प्रार्थना
 फेर्न यो छेडेमा जीवन रहन्‍न) २
@@ -22,7 +22,7 @@ ferna yo cheDe-maa jivan rahanna) ~2
 (vishwaasi harek-laai
 na-bhai yo hunna) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रार्थना हो विश्‍वासीको
 ठूलो हतियार
 आत्मिक युद्धमा विजय गर्ने) २
@@ -35,7 +35,7 @@ aatmik yuddha-maa bijai garne) ~2
 (asambhab kuraa pani
 sambhab garaaune) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (ल्याउँछ बाधा-अड्चन
 प्रत्येक पाइलामा
 पार्न शैतान परीक्षामा) २

@@ -14,7 +14,7 @@ timro mero aashi-sit jivana-le) ~2
 
 yo dharti ...
 
----[Verse 1:]---
+---[Verse:1]---
 (दुङ्गा पनि खिएर
 एक दिन माटो बन्‍नेछ
 संसार पनि विलाएर
@@ -36,7 +36,7 @@ pavitra banos ti aatmaa-haru
 yehi cha sandesh,
 yehi kaamanaa.
 
----[Verse 2:]---
+---[Verse:2]---
 (उडिजाने बादलको के भरोसा
 छोडिजाने समयको के भो र आशा) २
 (तर आशा राख ख्रीष्ट येशूमाथि) २

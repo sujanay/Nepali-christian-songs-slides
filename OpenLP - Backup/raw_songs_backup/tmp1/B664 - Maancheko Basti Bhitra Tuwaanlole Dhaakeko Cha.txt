@@ -9,7 +9,7 @@ tuwaaňlo-le Dhaake-ko cha
 haTaai dine kohi hunna
 chopi dine maatra huncha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (धेरै भने आफैलाई
 थोरै भने अर्कालाई
 राम्रो देखे माया लाउने
@@ -33,7 +33,7 @@ aghi baRhne kasto baani
 (Thes kahile khaane ho
 hosa kahile aaune ho) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (बनेको परमेश्‍वरले
 सबलाई बराबरी
 न त ठूलो न त सानो

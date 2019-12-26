@@ -11,7 +11,7 @@ pratigyaa-ko desh-maa jaane ho,
 haamro sworgiye desha-maa) ~2
 hu...hu...hu...haa...haa...haa...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कलवरीको कथा बिर्सी
 कहाँ जाने यात्री हो,
 गाई-गोठको प्रभु बिर्सी
@@ -33,7 +33,7 @@ jivan dine paani-laai,
 chyemaa maagi aghi baRha
 jivana-ko prabhu-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (बाटो, सत्य, जीवनलाई
 फेरि आउने राजालाई,
 संसारको न्यायकर्ता

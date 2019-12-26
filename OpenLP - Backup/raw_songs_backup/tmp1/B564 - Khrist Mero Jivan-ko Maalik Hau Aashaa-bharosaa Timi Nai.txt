@@ -9,7 +9,7 @@ aashaa-bharosaa timi nai
 stuti garchu, prashaňsaa timi-laai,
 praaN-aatmaa-sharir caDhaa-yera) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (हे प्रभु मेरो हृदयमा
 वास गर अहिले नै) २
 गर्छु सेवा तिम्रो जीवन दिएर
@@ -38,7 +38,7 @@ anjaan chu,
 ek paapi huň ma
 Dhaaki-deu malaai prem-le.
 
----[Verse 2:]---
+---[Verse:2]---
 (रूवाउदिनँ म हे प्रभु,
 तिमीलाई कहिल्यै नै) २
 घमण्ड, दुष्टताको पछि लागेर

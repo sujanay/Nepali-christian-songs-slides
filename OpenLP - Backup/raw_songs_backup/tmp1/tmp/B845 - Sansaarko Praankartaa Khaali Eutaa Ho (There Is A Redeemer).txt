@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 संसारको प्राणकर्ता खालि एउटा हो,
 येशू ख्रीष्ट पवित्र पुत्र, थुमा ईश्‍वरको ।
 
@@ -14,7 +14,7 @@ yeshu khrisT pavitra putra, thumaa ishwor-ko.
 saathai pavitra aatmaa
 haami-maa khanyaau-nubho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशू मुक्तिदाता सर्वश्रेष्ठ नाम,
 पाप उठाई लैजाने थुमा
 हाम्रो लागि दिए प्राण ।
@@ -23,7 +23,7 @@ haami-maa khanyaau-nubho.
 paap uThaai lai-jaane thu-maa
 haamro laagi diye praaN.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गमा पुगी हेर्छौं येशूको मुहार,
 मेरो राजाको म सेवा गर्छु लगातार ।
 

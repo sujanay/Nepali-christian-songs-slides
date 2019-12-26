@@ -9,7 +9,7 @@ sanaatan raajaalaai) ~2
 (karuNaa timro
 aparampaarai cha sadaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (स्वर्गीय स्वर्ग त्याग्यौ
 संसारमा आएर) २
 (क्रूसैको दु:ख सहेर
@@ -31,7 +31,7 @@ amulye rakta bahaai
 (dayaalu pitaa timilaai
 baDhaai hos, baDhaai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जगत्‌मा दिव्य प्रकाश हौ,
 यथार्थ पथ हौ) २
 (दु:खीका एक हितैषी हौ,
@@ -53,7 +53,7 @@ taaraNahaar hau
 (pitaa ra putra aatmaa-maa,
 timi parmeshwor hau) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (निकृष्ट तुच्छ भएर
 शरणमा आउँछु) २
 (हे प्रभु येशू, तिमीमा म

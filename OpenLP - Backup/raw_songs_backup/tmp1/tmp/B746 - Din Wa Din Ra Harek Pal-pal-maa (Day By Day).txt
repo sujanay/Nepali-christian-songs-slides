@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दिन व दिन र हरेक पलपलमा,
 बल पाउँछु परिक्षाहरूमा,
 भर पर्दै पिताको प्रबन्धमा ,
@@ -20,7 +20,7 @@ prabandha garchan har din sarbotam,
 caahe kasTa caahe aananda,
 dukha-sukha-maa shaanti ra bishraam.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 दिनदिनै प्रभु छन् मेरा नजीक,
 विशेष कृपासित हर घडी,
 सब फिक्रि बोक्दै तुल्याउँछन् हर्षित
@@ -42,7 +42,7 @@ bokchan kaaňdh-maa aafno,
 'din bamojim saamarthye ma dinchu'
 yo pratigyaa malaai cha unko
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मद्दत पाऊँ तब हरेक संकटमा,
 भर पर्न प्रतिज्ञाहरूमा,
 नगुमाऊँ भरोसाको सान्त्वना,

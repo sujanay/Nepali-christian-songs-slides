@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 चालीस दिनका भोका देखी
 शैतान आई प्रभु छेउ
 भन्‍‌नलाग्यो 'यी ढुङ्गालाई रोटी
@@ -20,7 +20,7 @@ uttar diye prabhule
 'roTile maatrai baaňcne-chainau,
 bacaainchau bacanle.'
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 एउटा अग्लो ठाउँमा
 पुर्‍याई भन्‍‌नलाग्यो राज्य देखाई,
 'एकैपल्ट प्रणम्‌ गरे
@@ -42,7 +42,7 @@ taiňle aafnaa ishwor-laai
 praNaam garnu, sevaa garnu,
 garnu stuti unaiko.'
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 गजुरमाथि चढाईकन
 भन्‍‌नलाग्यो शैतानले
 'ख्रीष्ट हौ भने हामफाल,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मेरो साटो मर्नु
 एक जना थे तयार कि
 म पापीले पाऊँ जीवन
@@ -27,7 +27,7 @@ kati gahrauň thyo sab paap-ko bhaar
 dukha thiyo tyes-maathi khrisT gaye
 kalwari ra tyahaaň gare mero uddhaar
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हेर अचम्मको प्रेम
 जब उनले धीरजसाथ
 मनको मैला निकाल्छन्‌ मेरो
@@ -45,7 +45,7 @@ man-ko mailaa nikaalchan mero
 yeshu hun meraa naath,
 dos sabai krus-maa Taaňgi-sakyo.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म येशूकहाँ आउँछु,
 खुशीसँग बस्छु,
 दिन-दिनै उनको पछि हिँड्‌छु

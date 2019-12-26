@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 बिना योजना प्रभु काम गर्दैनन् ,
 आफ्नो दासको जाँच गर्दै पवित्र पार्छन्,
 धन्य भन प्रभुलाई परिक्षामा पनि,
@@ -22,7 +22,7 @@ meraa har maarga-kaa anta jaanda-chan un-le,
 parikchyaa-dwaaraa khaari-yera,
 sun-jhaiň banine-chu .
 
----[Verse 2:]---
+---[Verse:2]---
 देख्‍न सकिन छायाँहरू पारि,
 बरु हेरें मेरै येशूको क्रूसमाथि,
 सुम्पें आफूलाई मालिकको इच्छामा,
@@ -33,7 +33,7 @@ baru hereň merai yeshu-ko krus-maathi,
 sumpeň aafu-laai maalik-ko ichyaa-maa,
 taba shaanti bagyo man-maa .
 
----[Verse 3:]---
+---[Verse:3]---
 परीक्षा माथिबाट आउँदो रहेछ,
 प्रभुले प्रेममा
 आफ्नालाई छाँट्नुहुन्छ,

@@ -16,7 +16,7 @@ sansaar-maa timro prem binaa
 {y}yeshu timro dharmik-taa-ko
 bastra pahi-ryaau ma-laai
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (काँडैकाँडा र चोटहरू
 आफैले बुनेका पिरहरू) २
 यस्तै यस्तै मनका कुराहरूमा
@@ -38,7 +38,7 @@ coT-haru-ko balidaan bhuleko chu
 yeshu mero pashcaat-taapi ridai linu-hos
 dhunu-hos feri malaai pavitra timro ragata-le.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जिन्दगीका उकालीहरू
 मनका हजारौं धोकोहरू) २
 जहाँसम्म डुबेँ दलदलहरूमा

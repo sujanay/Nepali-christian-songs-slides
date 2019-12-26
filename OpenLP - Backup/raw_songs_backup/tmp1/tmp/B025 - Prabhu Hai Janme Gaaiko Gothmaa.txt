@@ -7,7 +7,7 @@
 pracaar naauň
 (haami paapi-ko uddhaar garna-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (त्यो सानो डूँड़मा सुतेको
 प्रभु है, प्रभु है) २
 (वारि र पारि ज्योतिले ढाकेको) २
@@ -18,7 +18,7 @@ prabhu hai, prabhu hai) ~2
 (baari ra paari jyoti-le Dhaake-ko) ~2
 (ishwor-le maanab awataar liyeko) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (हेर्नलाई जाऔं हामी सबै
 नै मिलेर, है, मिलेर) २
 (हर्ष मनाउँदै जयजयकार गर्दै) २
@@ -29,7 +29,7 @@ nai milera, hai, milera) ~2
 (harsa manaauň-dai jaijaikaar gardai) ~2
 (unko janma-ko pracaar gardai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (जाऔं हामी सबै
 दण्डवत् गर्नलाई, गर्नलाई) २
 (बालक प्रभुको दर्शन गरौं) २

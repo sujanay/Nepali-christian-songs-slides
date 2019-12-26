@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु नाथ मलाई दोर्‍याउनोस्,
 यात्री मरुभूमिमा
 म त निर्बल, लौ समाउनोस्
@@ -16,7 +16,7 @@ aafno balwaan baahuli-maa
 (sworgiye roTi) ~2x
 (malaai dinuhos sadaa) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 खोल्‍‌नोस् जिउँदो पानी धारो,
 खोलो बग्‍‌न दिनुहोस्
 आगो, मेघको खाँबोद्वारा
@@ -34,7 +34,7 @@ malaai nitye Doryaaunos,
 (bir uddhaarak) ~2x
 (Dhaal ra gohaar bannuhos) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 मृत्यु नदी तीर पुगेर
 म नमानूँ डर चिन्ता
 नरक मरण नदेखेर

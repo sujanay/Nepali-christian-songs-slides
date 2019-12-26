@@ -5,7 +5,7 @@
 stuti hos, prabhu-ko jaijai-kaar
 stuti hos, prabhu-ko jaijai-kaar
 
----[Verse 1:]---
+---[Verse:1]---
 भुल्‍‌ने छैन म, त्यो दृश्य
 प्रभु येशूको,
 कलवरी भनिने ठाउँमा
@@ -27,7 +27,7 @@ coTai-coTle purNa th'yo) ~2
 (maile jaaneň, ti saba-i kaaraN
 mero adharma ho) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 भुल्‍‌ने छैन म, त्यो वचन
 भनेको ख्रीष्टले,
 कलबरी भनिने ठाउँमा

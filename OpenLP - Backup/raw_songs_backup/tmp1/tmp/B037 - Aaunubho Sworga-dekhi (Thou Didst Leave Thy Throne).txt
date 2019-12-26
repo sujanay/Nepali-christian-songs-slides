@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आउनुभो स्वर्गदेखि
 मुकुटलाई त्यागी,
 मेरो लागि लिई अवतार
@@ -18,7 +18,7 @@ aafno laagi he taaraNahaar,
 ma-kahaaň prabhu yeshu aaunos,
 mero ridai-maa dherai cha Thaauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 स्यालका हुन्छन्‌ कुर
 र चराका गुँड
 तिनले लाउँछन्‌ जङ्गलमा
@@ -38,7 +38,7 @@ gaalila-maa thiyena Thaauň
 ma-kahaaň prabhu yeshu aaunos,
 mero ridai-maa dherai cha Thaauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जीवित वचनसाथ लिई
 स्वर्गदेखि ओर्ली मुक्तिदान
 दिन आउनुभो
@@ -58,7 +58,7 @@ lagaai mukuT kaaňDaa-ko,
 ma-kahaaň prabhu yeshu aaunos,
 mero ridai-maa dherai cha Thaauň .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 स्वर्गको द्वार खोलिँदा,
 दूतगणले गाउँदा,
 तपाईं महिमासाथ आउँदा

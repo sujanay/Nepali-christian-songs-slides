@@ -5,7 +5,7 @@
 muktidaataa taaraNahaar
 yeshu janme, yeshu janme
 
----[Verse 1:]---
+---[Verse:1]---
 गोठालाहरू माझमा,
 अचानक देखा परे,
 (स्वर्गदूत यसो भन्दै,
@@ -16,7 +16,7 @@ acaanak dekhaa pare,
 (sworgadut yeso bhandai,
 janme prabhu goThai-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 उदेकको तारालाई हेर्दै
 ज्योतिषी पनि आउन लागे,
 (बेथलेहेमको गावैँमा
@@ -27,7 +27,7 @@ jyotisi pani aauna laage,
 (bethlehemko gaawaiň-maa
 darshan garna prabhuko) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 सुनाऊ दाज्यू, भाइ-बहिनी,
 सुसन्देश सारा जगत्‌मा,
 (तारणहारको जन्म भो,

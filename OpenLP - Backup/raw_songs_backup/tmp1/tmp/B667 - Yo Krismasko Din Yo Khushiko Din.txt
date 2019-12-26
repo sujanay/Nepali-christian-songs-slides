@@ -11,7 +11,7 @@ yo utsab-ko din
 yo jai-dhwani din
 maanau sab-ko laagi ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मानव भई ईश्‍वर पुत्र आएको पक्‍कै हो
 सत्य बाटो मानवलाई देखाको साँच्चै हो
 बाँधेकोलाई फुकाउनलाई येशू आएको हो
@@ -22,7 +22,7 @@ satye baaTo maanaba-laai dekhaa-ko saaňccai ho
 baaňdhe-ko-laai fukaauna-laai yeshu aa-yeko ho
 toDeko-laai joDa-na-laai aa-yeko prabhu ho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अपार माया दिन प्रभु आएको समय यो
 सबले सुनी हृदयमा राखिदेऊ प्रभुलाई
 अनन्त जीवन दिन्छन् तिमीलाई

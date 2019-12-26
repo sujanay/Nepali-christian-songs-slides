@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 नजिक झन् नजिक हुन्छु प्रभु
 खिच्नुहोस् मलाई हे प्रिय येशू
 राख्‍नुहोस् हे राख्‍नुहोस् छाती सँगै
@@ -9,7 +9,7 @@ khic-nuhos malaai he priye yeshu
 raakh-nuhos he raakh-nuhos chaati sangai
 (lukaau-nos yo bishraam-sthaan-maa sadhaiň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नजिक झन् नजिक के दिनु म
 येशू राजालाई दान छैन दिन
 केवल यो पापी चूर्ण हृदय
@@ -20,7 +20,7 @@ yeshu raajaa-laai daan chaina dina
 kewal yo paapi curNa ridai
 (dhunu-hos malaai krus-ko ragat-mai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 नजिक झन् नजिक हुन् प्रभु
 पाप र मूर्खताबाट फर्कन्छु
 पापका मोजमज्जा सब त्याग्दछु
@@ -31,7 +31,7 @@ paap ra murkha-taa-baaTa farkan-chu
 paap-kaa moj-majjaa sab tyaagda-chu
 (dinos malaai kewal thumaa yeshu) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 नजिक झन् नजिक सास रहुञ्‍जेल
 सकुशल स्वर्गमा नपुगुञ्‍जेल
 अनन्त अनन्त युगयुगसम्म

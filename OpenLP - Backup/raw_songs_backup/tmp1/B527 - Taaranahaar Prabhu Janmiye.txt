@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 तारणहार प्रभु जन्मिए,
 बेथलेहेम गावैँमा
 (ईश्‍वरको पुत्र आउनुभो,
@@ -9,7 +9,7 @@ bethlehem gaawaiň-maa
 (ishwor-ko putra aaunu-bho,
 paapi-haru-ko majh-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 एकचोटि नियाली हेर,
 कथा होइन इतिहास हो
 (ईश्‍वरको महान्‌ योजनामा,
@@ -20,7 +20,7 @@ kathaa hoina itihaas ho
 (ishwor-ko mahaan yojanaa-maa,
 hunai-parne ghaTnaa ho) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 लौ है दाज्यू, दिदी, बहिनी,
 बुझ यो कथा प्रेमको
 बालकको रूपमा येशू नै,

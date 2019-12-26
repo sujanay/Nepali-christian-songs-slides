@@ -7,7 +7,7 @@
 saňkaT paara lagaayau ni,
 jag-laai ujyaalo garaayau ni
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 यरूशलेम शहरको बेथलेहेम गाउँमा
 ख्रीष्ट येशू जन्मे गाईको गोठमा,
 
@@ -23,7 +23,7 @@ khrisT yeshu janme gaaiko goThmaa,
 saňkaTa paara lagaayau ni,
 jaglaai ujyaalo garaayau ni.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमधाममा महिमा
 मानिसमा मिलाप
 तारणहारको जन्म आधा

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पापको भारदेखि के छुट्‌न माग्छौ?
 ख्रीष्टको रगतमै छ शक्ति नै
 शैतानमाथि जयवन्त हुन खोज्छौ?
@@ -20,7 +20,7 @@ ragat-maa, ragat-maa
 bhana jai, jai udek-ko shakti cha
 yeshu-ko amol ragat-maa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापको घमण्डलाई
 के छोड्‌न माग्छौ?
 ख्रीष्टको रगतमै छ शक्ति नै
@@ -33,7 +33,7 @@ khrisT-ko ragat-mai cha shakti nai
 kalwari krus-nira shuddha huna aau,
 udek shakti cha ragat-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हिउँभन्दा साफ के हुन माग्छौ?
 ख्रीष्टको रगतमै छ शक्ति नै
 रगतमा पाप आफ्‍‌ना पखाल्‍‌न जाऊ,
@@ -44,7 +44,7 @@ khrisT-ko ragat-mai cha shakti nai
 ragat-maa paap aafnaa pakhaalna jaau,
 udek shakti cha ragat-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 के येशू राजाको सेवा गर्छौ?
 ख्रीष्टको रगतमै छ शक्ति नै
 के ख्रीष्टको जय सधैँ गर्न माग्छौ?

@@ -9,7 +9,7 @@ aauňdachu timro sharaN-maa,
 pardachu yeshu sharaN,
 jivan-daataa bidhaataa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (क्लेशित पापी यो अन्धकार भवमा) २
 (भट्‌किरहेछु पापी जीवनमा
 दूर तिमीदेखि भएँ,
@@ -29,7 +29,7 @@ paapko path-maa kadam baDhaayeň) ~2
 pitaa pachtaauňdai sharaN-maa
 timro ma aayeň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तिमी करुणामय पिता म अधर्म) २
 (दीन दुहाई मेरो प्रभु सुनिलेऊ
 रक्षा जीवनको गरिदेऊ धोई

@@ -16,7 +16,7 @@ maile jivan paayeň
 {y}jivan-ko sabai uddhaar
 yeshu-maa maile paayeň.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (बाटो, सत्य र जीवन
 आज मेरो निम्ति ख्रीष्ट येशू) २
 (साँचो, शान्ति र आनन्द दिई
@@ -27,7 +27,7 @@ aaja mero nimti khrisT yeshu) ~2
 (saaňco, shaanti ra aananda dii
 Doryaaunu-bhayo ma-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जिउन सिकाउनुहोस् प्रभु मलाई
 जीवनको हरेक मोडमा) २
 (जिउनेछु सधैँ तपाईंमा

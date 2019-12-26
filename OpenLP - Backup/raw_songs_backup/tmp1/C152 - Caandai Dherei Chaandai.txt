@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (चाँडै, धेरै चाँडै
 हामी हाम्रो राजालाई भेट्नेछौं) ३
 हल्लेलूयाह, हल्लेलूयाह
@@ -9,7 +9,7 @@ haami haamro raajaa-laai bheT-nechauň) ~3
 halleluyaah, halleluyaah
 haamro raajaa-laai bheT-nechauň.
 
----[Verse 2:]---
+---[Verse:2]---
 (खुशी हुनेछौं,
 हामी हाम्रो राजालाई भेट्नेछौं) ३
 हल्लेलूयाह, हल्लेलूयाह
@@ -20,7 +20,7 @@ haami haamro raajaa-laai bheT-nechauň.) ~3
 halleluyaah, halleluyaah
 haamro raajaa-laai bheT-nechauň.
 
----[Verse 3:]---
+---[Verse:3]---
 (मृत्यु हुँदैन,
 हामी हाम्रो राजालाई भेट्नेछौं) ३
 हल्लेलूयाह, हल्लेलूयाह
@@ -31,7 +31,7 @@ haami haamro raajaa-laai bheT-nechauň.) ~3
 halleluyaah, halleluyaah
 haamro raajaa-laai bheT-nechauň.
 
----[Verse 4:]---
+---[Verse:4]---
 (रुवाइ हुँदैन,
 हामी हाम्रो राजालाई भेट्नेछौं।) ३
 हल्लेलूयाह, हल्लेलूयाह

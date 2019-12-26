@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (जगत् संसार केही पनि छैन
 सुन दाज्यू–भाइ) २
 (विश्‍वास गरौ हामी सबले
@@ -20,7 +20,7 @@ tayaar mukti dinalaai
 (khrisT yeshu chan) ~3
 tayaar mukti dinalaai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (लोभै गर्छौं, लालच गर्छौं
 संसारको थोकलाई) २
 (यी सबै थोक केही पनि होइन
@@ -31,7 +31,7 @@ saňsaar-ko thok-laai) ~2
 (yi sabai thok ke'i pani hoina
 saath-maa jaa-nalaai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (आऊ सबै विश्‍वास गरौँ
 मुक्ति पाउनलाई) २
 (येशूबाहेक अरू छैन,
@@ -42,7 +42,7 @@ mukti paau-nalaai) ~2
 (yeshu-baahek aru chaina,
 chaina ke'i upai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (आऊ सबै दाज्यू–भाइ हो,
 सुन मन लगाई) २
 (ख्रीष्ट येशू तारणहारको

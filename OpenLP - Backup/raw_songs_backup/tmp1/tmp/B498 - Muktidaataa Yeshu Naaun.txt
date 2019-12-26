@@ -5,7 +5,7 @@
 {y}mukti-daataa yeshu naauň,
 bhana man-le un-ko naauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (येशू नाउँ, येशू नाउँ) २
 येशू नाउँ, भाइ,
 येशू नाउँ।
@@ -14,7 +14,7 @@ bhana man-le un-ko naauň
 yeshu naauň, bhaai,
 yeshu naauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (आदि नाउँ, अन्त नाउँ) २
 श्रेष्ठ नाउँ, भाइ,
 येशू नाउँ।
@@ -23,7 +23,7 @@ yeshu naauň.
 shresTh naauň, bhaai,
 yeshu naauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (येशू नाउँ, साँचो नाउँ) २
 मुक्ति लेऊ, भाइ,
 येशू नाउँ।
@@ -32,7 +32,7 @@ yeshu naauň.
 mukti leu, bhaai,
 yeshu naauň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (येशू नाउँ, स्वर्गीय नाउँ) २
 स्वर्गीय जीवन
 येशू नाउँ।

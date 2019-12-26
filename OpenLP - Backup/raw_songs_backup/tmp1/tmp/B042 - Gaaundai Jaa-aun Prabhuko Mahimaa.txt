@@ -18,7 +18,7 @@ jagaauň-dai naulo bhaawanaa
 gaauňdai jaauň prabhu-ko mahimaa
 haaňsdai baDhauň unkai sewaa-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (खुशीको यो सुसमाचार,
 फैलाऔं है दिशै चार) २
 आउनुभयो प्रभु संसारमा,
@@ -29,7 +29,7 @@ failaauň hai dishai caara) ~2
 aaunu-bhayo prabhu sansaar-maa,
 nimtyaauň hai unlaai ridai-maa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गराजको वैभवलाई त्यागेर,
 आए मानिस रूप लिएर) २
 आउनुभयो प्रभु संसारमा,
@@ -40,7 +40,7 @@ aaye maanis rupa liyera) ~2
 aaunu-bhayo prabhu sansaar-maa,
 nimtyaa-auň hai unlaai ridai-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (पापीको विन्ती सुन्‍नलाई,
 स्वर्गको ढोका खोल्नलाई) २
 आउनुभयो प्रभु संसारमा,

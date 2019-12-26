@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पाप क्षमा पाउनलाई एउटै उपाय छ,
 तपाईं र मेरो निम्ति मार्ग छ
 पापीलाई स्वर्गलाने निश्‍चयता छ,
@@ -20,7 +20,7 @@ chuTkaaraa paaunos unko ragat-maa
 swotantra hunos unko balidaan-dwaaraa,
 bujh-nuhos kalwari-ko mahaan prem .
 
----[Verse 2:]---
+---[Verse:2]---
 मानवले नाप्न नसकिने प्रेम छ,
 ज्योतिर्मय दिन भन्दा उज्यालो प्रेम
 सम्पूर्ण गाड्धनभन्दा महान् प्रेम छ,
@@ -31,7 +31,7 @@ jyotir-mai dina bhandaa ujyaalo prem
 sampurNa gaaDdhan-bhandaa mahaan prem cha,
 sworgiye prem yeshu-maa prakaT cha.
 
----[Verse 3:]---
+---[Verse:3]---
 विशेष ठाउँ येशूले तयार पार्दैछन् ,
 जहाँ पापको अस्तित्व हुँदैन,
 त्यहाँ प्रतिज्ञा सब पूरा हुनेछन्

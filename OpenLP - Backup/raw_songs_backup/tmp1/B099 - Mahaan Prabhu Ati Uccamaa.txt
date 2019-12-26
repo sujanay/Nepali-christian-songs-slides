@@ -9,7 +9,7 @@ dutgaN-le gara-chan mahimaa
 he prabhu tapaaiň-ko maNDali
 aaradhnaa gara-chauň tapaaiň-laai.
 
----[Verse 1:]---
+---[Verse:1]---
 (प्रेमको ठूलो रहस्यलाई,
 महिमा गौरबको त्यागलाई) २
 (सम्झन्छु क्रूसको दु:खलाई,
@@ -20,7 +20,7 @@ mahimaa gaurab-ko tyaaga-laai) ~2
 (samjhanchu krus-ko dukha-laai,
 arpanchu sar-vaanga tapaaiň-laai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (आउनुभो प्रभु हाम्रो माझमा,
 जड़ियको मन मन्दिरमा) २
 (भरपूर छु, भरिइरहन्छु,
@@ -31,7 +31,7 @@ jaRiyeko man mandira-maa) ~2
 (bhara-pur chu bha-ri-i-rahanchu,
 jhan najik huna caahanchu) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (महिमा, आदर र धन्यवाद
 सर्वदा गर्दछु दण्डवत्) २
 (तपाईंको गम्भीर प्रेमको

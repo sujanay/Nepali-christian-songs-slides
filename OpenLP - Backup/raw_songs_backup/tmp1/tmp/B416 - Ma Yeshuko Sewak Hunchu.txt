@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म येशूको सेवक हुन्छु,
 आफैलाई म उनलाई दिन्छु
 उनको हुकुम सबै मान्छु,
@@ -31,7 +31,7 @@ mero laagi bauri uThe,
 mero laagi sworga-maa gaye,
 yeshu meraa hun
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पाप मबाट भयो धेरै,
 यसको लागि येशू मरे
 उनको जुवा मैले लिएँ,
@@ -42,7 +42,7 @@ yes-ko laagi yeshu mare
 un-ko juwaa maile liyeň,
 ma yeshu-ko huň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मैले अपराध बारम्बार गरेँ,
 येशूलाई दु:खित धेर पारेँ
 मेरो बोझ उनैले लिए
@@ -53,7 +53,7 @@ yeshu-laai dukhit dher paareň
 mero bojh unai-le liye
 ma yeshu-ko huň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 मैले विश्‍वास उनमा राखेँ
 अनि उद्धार मैले पाएँ
 उनको झन्डीमुनि आएँ,

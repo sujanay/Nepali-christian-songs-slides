@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू प्राणको शरणस्थान,
 म तपाईंकहाँ भागिआऊँ
 चल्दा बाढी, मेघ, तुफान,
@@ -20,7 +20,7 @@ rakchyaa garnos mero praaN
 jaba aauňcha mrityu-kaal pasuň
 sworgiye aashrai-sthaan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मैले हार-गुहार नपाईं
 तपाईंमाथि निर्भर छु
 एकलै नछोडी
@@ -42,7 +42,7 @@ malaai saghaaune tapaaiň
 Dhaaki aafno chaayaaň-maa
 aashrai dinuhos malaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशू खालि तपाईंलाई
 म अपनाउन चाहन्छु
 मनको आपद, दु:ख हटाई
@@ -64,7 +64,7 @@ bhareko paap kapaTle
 tapaaiň pavitra prabhu
 bhareko anugraha-le.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 मेरो पापलाई ढाक्‍‌नेछ
 माफ प्रशस्त तपाईंमा
 दया-खोला बगेर

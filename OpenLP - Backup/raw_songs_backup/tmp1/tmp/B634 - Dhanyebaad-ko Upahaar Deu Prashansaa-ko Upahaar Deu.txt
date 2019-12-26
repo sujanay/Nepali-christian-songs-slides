@@ -22,7 +22,7 @@ prashaňsaa hos
 parmeshwor-ko maanis-haru-maa
 shaalom shaalom
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (विश्‍वासको उपहार देऊ
 आशाको उपहार देऊ) २
 प्रेमको उपहार देऊ
@@ -35,7 +35,7 @@ prema-ko upahaara deu
 khrisTa-ko janma dina-maa
 aafno pariwaar upahaara deu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (आनन्दको उपहार देऊ
 भलाईको उपहार देऊ) २
 शान्तिको उपहार देऊ

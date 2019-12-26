@@ -9,7 +9,7 @@ nepaal-ko Dhokaa kholyau ni prabhu
 man-ko Dhokaa caaňDai ni
 sab-kaa kholi-deu, prabhu nepaali bhaai-kaa
 
----[Verse 1:]---
+---[Verse:1]---
 (स्वर्गको वैभव त्यागेर
 प्रभु संसारमा आए नि) २
 (तिमी र मलाई मुक्ति दिनु
@@ -20,7 +20,7 @@ prabhu sansaar-maa aaye ni) ~2
 (timi ra malaai mukti dinu
 krus uThaaye ni) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (नेपाली भाइ, नेपाली बहिनी
 अबेर भइसक्यो) २
 (किन बस्छौ निश्चिन्त भई
@@ -31,7 +31,7 @@ aber bhai-sakyo) ~2
 (kina baschau nishcinta bhai
 belaa gai-sakyo) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (विश्‍वास गर येशूमा हौ,
 जीवन अमर लेऊ) २
 (ख्रीष्टकै निम्ति बलियो भई

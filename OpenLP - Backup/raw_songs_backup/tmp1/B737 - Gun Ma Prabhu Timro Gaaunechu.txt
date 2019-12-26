@@ -7,7 +7,7 @@
 stuti prashaňsaa timro garne-chu,
 (guN ma prabhu timro gaaune-chu ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (पापको सागरमा डुबिरहेथें
 आँसुको घुट्को पिई हिँडिरहेथें ) २
 (विचलित हृदय लिई घुमिरहेथें ) २
@@ -25,7 +25,7 @@ aaňsu-ko ghuT-ko pii hiňRi-rahetheň ) ~2
 haat-maa samaati aafno ghar-maa lyaayauň,
 haat-maa samaati aafno ghar-maa lyaayauň .
 
----[Verse 2:]---
+---[Verse:2]---
 (हृदयको सब पापलाई रगतले धोईदियौ) २
 (अनन्त राज्यको भागीदार बनायौ ) २
 (आनन्द शान्तिले भरिदियौ मलाई ) २
@@ -43,7 +43,7 @@ haat-maa samaati aafno ghar-maa lyaayauň .
 aafnai kaakh-maa prabhu malaai raakhyau,
 aafnai kaakh-maa prabhu malaai raakhyau .
 
----[Verse 3:]---
+---[Verse:3]---
 (जिउँदो आशा दिई स्वर्ग चढिगयौ
 मेरो निम्ति घर तयार गर्न ) २
 (आउनेछौ फेरि मलाई लिन ) २

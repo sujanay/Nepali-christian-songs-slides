@@ -9,7 +9,7 @@ astaauň-cha pashcim-maa
 meraa khrisT yeshu raajaa,
 raaj garchan ma-maa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (कोही पुज्छन् दुङ्गालाई,
 कोही पुज्छन् मूढालाई) २
 (तर म पुज्दछु
@@ -20,7 +20,7 @@ kohi pujchan muRhaa-laai) ~2
 (tara ma puj-dachu
 jivit prabhu-laai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (कोही गर्छन् भाकल,
 कोही गर्छन् स्नान) २
 (तर म गर्दछु

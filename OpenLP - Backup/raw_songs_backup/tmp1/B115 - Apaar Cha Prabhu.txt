@@ -9,7 +9,7 @@ barNan kasri garauň?
 dhanyebaad khaali dinchu tapaaiňlaai,
 aru ma ke caDhaauň?
 
----[Verse 1:]---
+---[Verse:1]---
 उद्धार गर्न म एक पापीको,
 क्रूस भारी बोक्‍‌नुभो
 समर्पण गरी आदर,
@@ -20,7 +20,7 @@ krus bhaari boknubho
 samarpaN gari aadar,
 prashaňsaa, gillaa nai rojnubho.
 
----[Verse 2:]---
+---[Verse:2]---
 श्रापित स्थान त्यो कलवरीमा,
 कोही थिएन प्रभुको,
 तैपनि कत्रो उद्देश्य थियो,
@@ -31,7 +31,7 @@ kohi thiyena prabhuko,
 tai-pani katro uddeshye thiyo,
 dwaara kholne muktiko.
 
----[Verse 3:]---
+---[Verse:3]---
 पापी पिलातुस अति नै निष्ठुर,
 दोष भेट्‌न चाहन्थ्यो,
 चोर पनि त्यहाँ प्रभु

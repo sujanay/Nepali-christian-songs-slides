@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सुनसान रातलाई जगाउँदै आयौँ
 हामी यो रात
 कोसेली एउटा बोकेर
@@ -9,7 +9,7 @@ haami yo raat
 koseli euTaa bokera
 aananda-ko sandesh cha sab-laai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ताराले आकाश छाएछ
 जून पनि मुसुक्क हाँसेछ
 एकलौटे पुत्र जो येशू
@@ -20,7 +20,7 @@ jun pani musukka haaňse-cha
 eklauTe putra jo yeshu
 sansaar-maa aaunu-bhaye-cha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गको ढोका खोलिएछ
 पिताले दान दिएर
 एकलौटे पुत्र जो येशू

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 उघारेर पर्दा मेरो कोठाको
 जब म बाहिर हेर्दछु
 (बर्सेर पानी भर्खरै रहेको
@@ -9,7 +9,7 @@ jaba ma baahira her-dachu
 (barsera paani bharkharai raheko
 hariyaali paakhaa dekh-dachu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (धुनुहोस्‌, धुनुहोस्‌, येशू मेरो मन
 पनि तपाईंको पवित्र आत्माले) २
 (अझै चोखो बनाउनुहोस्‌) २
@@ -20,7 +20,7 @@ pani tapaaiň-ko pavitra aatmaa-le) ~2
 (ajhai cokho banaau-nuhos) ~2
 tapaaiň-ko pavitra bacan-le.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जिएर नमुना बन्‍‌न परेको छ
 जब म सिकाउँछु अरुलाई
 बोलेर मात्र हुँदैन रहेछ

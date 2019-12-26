@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पिता डोर्‍याई दिनदिनै
 तपाईंका इच्छामा नै
 स्वच्छ, शुद्ध मन दिई
@@ -9,7 +9,7 @@ tapaaiň-kaa ichyaa-maa nai
 swoccha, shuddha man dii
 satye sikaaunos malaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 विपदमा दिई साहस,
 बसी छेउ रक्षा गर्नोस्‌
 निर्भय राख्‍‌नुहोस्‌,
@@ -20,7 +20,7 @@ basi cheu rakchyaa garnos
 nir-bhaye raakh-nuhos,
 malaai ma-maa prem drisTi lagaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 परीक्षाका सबै दिनमा
 दृढता दिनुहोस्‌ मनमा
 जब हुन्छु सामर्थहीन,
@@ -31,7 +31,7 @@ driDhataa dinuhos man-maa
 jaba hunchu saamartha-hin,
 rakchyaa garnuhos tyo din.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हुन्छु खुशी आशिष्‌ पाई,
 नभुलूँ म तपाईंलाई
 हुन्छन्‌ हर्षित सबै जना,
@@ -42,7 +42,7 @@ na-bhuluň ma tapaaiň-laai
 hun-chan harsit sabai janaa,
 cinera tapaaiň-ko man.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 जे-जे राम्रो छ गर्छु,
 तपाईंको बालक हुन्छु
 आउँछु जब स्वर्गमा

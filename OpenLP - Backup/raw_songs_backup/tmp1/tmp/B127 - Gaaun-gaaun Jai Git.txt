@@ -9,7 +9,7 @@ gaauň taali bajaayera gaauň) ~2
 (yeshu raajaa bauri uThe halleluyaah,
 ramaayera sunaau samaacaar) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (चिहानमा थियो त्यो ठूलो ढुङ्गा,
 हट‍यो हेर कसरी त्यो) २
 रोमी राज्यको मोहर, बन्धन राख्‍‌न
@@ -20,7 +20,7 @@ haTayo hera kasari tyo) ~2
 romi raajyeko mohar, bandhan raakhna
 sakdaina eklaute putra ishworko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (नरोऊ-नरोऊ, विलाप नगर,
 गालीलमा देऊ समाचार) २
 कि ख्रीष्ट बौरी उठे वचनअनुसार
@@ -31,7 +31,7 @@ gaalila-maa deu samaacaar) ~2
 ki khrisT bauri uThe bacan-anusaar
 turunta sunaau yo pracaar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हन्‍‌ना कैफा पूरा न्यायको
 सभा डरले भए व्याकुल) २
 अन्धकारको शक्ति नष्ट हुनाले
@@ -42,7 +42,7 @@ sabhaa Darale bhaye byaakula) ~2
 andhakaar-ko shakti nasTa hunaale
 saahro aattiyo shaitaan.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (विश्‍वासीहरू शिरलाई उँभो उठाऔं
 आउँदै छन्‌ महाराजा) २
 नरसिंगा, सितार र तबला बजाऔं,

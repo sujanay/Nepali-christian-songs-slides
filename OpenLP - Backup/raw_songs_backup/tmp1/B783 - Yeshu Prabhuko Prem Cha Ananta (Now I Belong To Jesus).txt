@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू प्रभुको प्रेम छ अनन्त,
 उनको सामर्थ्यले भएँ मुक्त,
 रगतले किने प्राण मेरो,
@@ -20,7 +20,7 @@ yeshu hun mero
 ananta ananta-samma,
 khrisT mero ma unko .
 
----[Verse 2:]---
+---[Verse:2]---
 पापको श्रापमा तड्पि रहँदा,
 ख्रीष्ट येशू आए दिन छुटकारा,
 येशूको मरणमा जीवन मिल्यो,
@@ -31,7 +31,7 @@ khrisT yeshu aaye dina chuTkaaraa,
 yeshu-ko maraN-maa jivan milyo,
 ma aba huň unko.
 
----[Verse 3:]---
+---[Verse:3]---
 बन्धन मुक्त यो हृदय रमाउँछ,
 क्रूसले पापका साङ्ला तोडेछ,
 येशू मरे दाम तिर्न मेरो,

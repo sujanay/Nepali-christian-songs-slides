@@ -16,7 +16,7 @@ eklai basa-na srijeko hoina,
 pala-bhar-ko maayaa
 malaai caahiň-daina) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पहाडजत्रो यो
 जिन्दगीमा एकलै
 बसूँला भनेर
@@ -38,7 +38,7 @@ aafu-laai sumpi) ~2
 (man-maa kunai thoka
 lukaa-yeko chaina) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (बर्बाद नबनोस् यो मेरो जीवन,
 मीठा-मीठा कुराले, अभिलाषाले) २
 (समर्पण हुँदैछु तिमीसामु आज) २

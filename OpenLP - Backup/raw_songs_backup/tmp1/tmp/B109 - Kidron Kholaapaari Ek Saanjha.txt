@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 किद्रोन खोलापारि एक साँझ
 हाम्रो प्रभु ख्रीष्टले
 (दु:खित हुँदै यो विन्ती गरे) २
@@ -18,7 +18,7 @@ tyes baari-maa aafno laagi
 yo pyaalaa ma-dekhi tarkaai-dinuhos,
 taipani ichyaa tapaaiňko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सबैले ख्रीष्टलाई छाडे
 पकडाइँदा उनी,
 (सामना गरी निष्ठुरी मामला) २
@@ -38,7 +38,7 @@ aakhiramaa yeshulaai
 wahaaň daNDa-aagyaa diye sabaile,
 barabbaa mukta garaaiyo.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (प्रभु क्रूसमा टाँगिए चोर
 र डाँकूसँग पापको बोझ
 र दु:ख सहँदै) २,
@@ -58,7 +58,7 @@ taba unle bhane,
 aba samaapta bhayo mero kaam,
 he pitaa, linos mero praaN.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (जीवन ख्रीष्टले दिनलाई गरे
 मृत्यु सामना थाहा छ
 के तिमीलाई सो कुरा) २,

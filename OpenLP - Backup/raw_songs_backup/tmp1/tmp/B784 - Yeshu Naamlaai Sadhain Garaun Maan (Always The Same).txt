@@ -16,7 +16,7 @@ bishwaas cha unai-maathi,
 {y}uni nai hun prabhu,
 garauň un-laai maan .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हामी उनका उनी हाम्रा,
 हामीलाई चिन्दछन् ,
 पायौं आराम, त्यो बाहुलीमा
@@ -36,7 +36,7 @@ jaba saňkasTa-maa praarthanaa garda-chauň
 {y}maddat garchan haami-laai,
 sadhaiň saath-maa raakh-chan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उनैमा सुरक्षित छौं,
 हामीलाई छोड्दैनन् ,
 विश्‍वास गर्छौं वचनमा

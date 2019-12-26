@@ -14,7 +14,7 @@ miTho aawaaja-maa bhakti-ko saatha-maa
 {y}maadala-ko taala-maa
 namrataa-ko caala-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कुहुकुहु कोइली करायो
 येशू आउने हल्ला गुञ्‍जियो) २
 लालीगुराँस वनमा फक्रियो
@@ -34,7 +34,7 @@ yeshu aaune vishwaas janmiyo
 sabai-ko man-maa yeuTai bharosaa cha
 (haamro yeshu aaunai laage chan) ~3
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (वचन सबै पूरा हुँदैछ
 चिह्नहरू देखा पर्दैछ) २
 गाउँ शहर प्रचार हुँदैछ

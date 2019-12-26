@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म हुँ ख्रीष्ट राजाको उनको सन्तान प्यारो
 बस्छु उनको सुन्दर दरबारमा
 कस्तो प्रतिज्ञा यो स्वर्गीय आनन्दको
@@ -20,7 +20,7 @@ tyaagne chainan aafnaa-laai kahilyei, kahilyei
 bolaaune-chan ek dina darabaar-maa unko,
 basne-chu unko saamu sadhaiň.
 
----[Verse 2:]---
+---[Verse:2]---
 म हुँ ख्रीष्ट राजाको, जान्दछु प्रेम उनको,
 उनको दया प्रशस्त गरी
 निरन्तर छ मलाई हिँड्दा बाटो उनको
@@ -31,7 +31,7 @@ unko dayaa prashasta gari
 nirantar cha malaai hiňR-daa baaTo unko
 mero sharaN-sthaan nishcal uni.
 
----[Verse 3:]---
+---[Verse:3]---
 म हुँ ख्रीष्ट राजाको, वाचा निश्‍चित उनको
 जीवनको नदीको किनारमा
 सबै भेला हुन्छौं हेर्न मुहार

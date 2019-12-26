@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू, सिंहासनदेखि माथि
 स्वर्गमा बसी,
 प्रेमी दृष्टिले हेरी सुन्‍‌नुहोस्‌,
@@ -9,7 +9,7 @@ sworga-maa basi,
 premi drisTi-le heri sunnuhos,
 priye yeshu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 बालक मान्दैनन्‌ डरै हुनुभए साथ तिनकै
 प्रिय त्राता प्यार गर्दै सुन्‍‌नोस्‌,
 प्रिय येशू।
@@ -19,7 +19,7 @@ hunu-bhaye saath tin-kai
 priye traataa pyaar gardai sunnos,
 priye yeshu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हुनोस्‌ हाम्रोसाथ सदा
 हाम्रो काम र खेलकूदमा
 जब चढाउँछौं प्रार्थना सुन्‍‌नोस्‌,
@@ -30,7 +30,7 @@ haamro kaam ra khel-kud-maa
 jaba caDhaauň-chauň praarthanaa sunnos,
 priye yeshu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हाम्रो सोच होस्‌ पवित्र,
 बात होस्‌ सत्य र नम्र, लौ
 बनाउनोस्‌ पवित्र, सुन्‍‌नोस्‌,

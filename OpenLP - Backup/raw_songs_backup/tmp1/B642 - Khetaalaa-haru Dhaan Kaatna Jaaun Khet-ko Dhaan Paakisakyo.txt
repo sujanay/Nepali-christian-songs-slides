@@ -5,7 +5,7 @@
 (khetaalaa-haru dhaan kaaTna jaauň
 khet-ko dhaan paaki-sakyo) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (दुर्बलहरूलाई जितौँ भनी
 उनैको साथी बनी दिएँ) २
 (कसैकसैलाई बचाउँ भनी
@@ -16,7 +16,7 @@ unai-ko saathi bani diyeň) ~2
 (kasai-kasai-laai bacaauň bhani
 unai-ko nimti yestai bani) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (दु:खीहरूलाई हँसाउ भनी
 क्रूसको आनन्द बाँडी दिएँ) २
 (पिरमा परेकालाई सम्झाऊ भनी

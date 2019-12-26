@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T19:42:39">
+  <properties>
+    <titles>
+      <title>B031 - shaantamai raat, shaantamai raat</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1a">
+      <lines>शान्तमय रात, शान्तमय रात,<br/>येशू ख्रीष्ट कृपानाथ<br/>विश्‍वका सर्वश्रेष्ठ तारणहार<br/><br/><tag name="y">shaantamai raat, shaantamai raat,<br/>yeshu khrisT kripaanaath<br/>vishakaa sarva-shresTh taaranahaar</tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>लिए गोठैमा सत अवतार,<br/>(बेथलेहेम शहरमा) २<br/><br/><tag name="y">li-i goThai-maa sat awataar,<br/>(bethlehem shahar-maa) ~2x</tag></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>शान्तमय रात, शान्तमय रात,<br/>जयजय गाऔं दूतगणसाथ<br/>बालक सुन्दर जन्मेका छन्<br/><br/><tag name="y">shaantamai raat, shaantamai raat,<br/>jaijai gaauň dutgaN-saath<br/>baalak sundar janmekaa chan</tag></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>बालक ईश्‍वरका पुत्र हुन्,<br/>(येशू हो उनको नाउँ) २<br/><br/><tag name="y">baalak ishworkaa putra hun,<br/>(yeshu ho unko naauň) ~2x</tag></lines>
+    </verse>
+    <verse name="v3a">
+      <lines>शान्तमय रात, शान्तमय रात,<br/>येशू ख्रीष्ट हर्षसाथ,<br/>आए स्वर्गदेखि जगत्‌मा<br/><br/><tag name="y">shaantamai raat, shaantamai raat,<br/>yeshu khrisT harsa-saath<br/>aaye sworga-dekhi jagat-maa</tag></lines>
+    </verse>
+    <verse name="v3b">
+      <lines>पापी मानिसको खोजीमा<br/>(स्वगत गरौं उनलाई) २<br/><br/><tag name="y">paapi maanisko khoji-maa<br/>(swogat garauň unlaai) ~2x</tag></lines>
+    </verse>
+  </lyrics>
+</song>

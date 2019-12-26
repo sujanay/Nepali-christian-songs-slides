@@ -7,7 +7,7 @@
 mukti-daataa-ko,
 uddhaar-kartaa-ko) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उनले हामीलाई प्रेम गरी
 क्रूसको सबै दु:ख भोग्‍‌नुभो
 हर पापको बन्धनलाई तोड़ी
@@ -18,7 +18,7 @@ krus-ko sabai dukha bhognu-bho
 hara paap-ko bandhan-laai toRi
 haami-laai swotantra garnu-bho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पुरानो जीवन सब भुली
 नयाँ जीवन ख्रीष्टमा जिउनेछु,
 पिताको हर प्रतिज्ञालाई सम्झी

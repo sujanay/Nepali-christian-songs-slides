@@ -9,7 +9,7 @@ laDera hoina, milera
 paricai prema-ko pracaar-nucha,
 namunaa yeshu-ko dekhaau-nucha ) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (बढेर जाऊ, जितेर आऊ,
 अखडा शैतानको छिनभरमा) २
 (झुकेर आऊ, प्रेममा आऊ) २
@@ -20,7 +20,7 @@ akhaDaa shaitaan-ko china-bhara-maa) ~2
 (jhukera aau, prema-maa aau) ~2
 (vishwaasi haami ektaa-ko khaaňco-maa ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (गरेर जाऊ, गाएर आऊ,
 प्रशंसा प्रभुको एक स्वरमा) २
 (सम्झेर आऊ, प्रेममा आऊ) २

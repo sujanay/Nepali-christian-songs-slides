@@ -9,7 +9,7 @@ camkilo taaraa camkiyo
 (janme mukti-daataa yeshu
 bethlehem shahar-maa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 थरथर कम्ने गोठाला बीच
 स्वर्गदुत पहिले गएँ
 (प्रशांस गर्दै येशू जन्मेको
@@ -31,7 +31,7 @@ dauRiye goThai-maa
 (lau hera saano DuRa-maa yeshu
 dekhera ramaaye) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 ज्योतिषीहरू पुर्बबाट खोज्दै
 तारालाई पछ्याए
 (यहुदीको राजा जन्मेको कहाँ

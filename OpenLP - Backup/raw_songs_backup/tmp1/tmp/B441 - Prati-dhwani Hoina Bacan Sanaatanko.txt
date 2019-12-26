@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रतिध्वनि होइन,
 वचन सनातनको,
 गर्जन पनि होइन
@@ -18,7 +18,7 @@ sangit gunji-yeko
 prabhu khrisT-ko prem
 tyo sadaa amar huncha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 आदिमा वचन थियो,
 ईश्‍वरको साथ थियो,
 वचन ईश्‍वर नै थियो,
@@ -40,7 +40,7 @@ orli-aaunubho jagat-maa,
 kasto mukuT kaaňDaa-ko
 pahiri-nubho shir-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 क्रूसको कथा त्यो
 नयाँ जीवन दिने,
 खोलो त्यो रगतको
@@ -62,7 +62,7 @@ krus-maa Taaňgi-diye,
 bacaai-din-chauň naulo praaN
 khrisT-laai arpi-diye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 दिइएको वचन त्यो,
 फेरि आउँछु भन्‍‌ने,
 सजिएकी दुलहीलाई

@@ -9,7 +9,7 @@ mukti-ko dina aayo
 yeshu-maathi bhakti raakhi,
 dhyaana raakhi dina ramaaune lau aayo.
 
----[Verse 1:]---
+---[Verse:1]---
 गोठालो जनले प्रभु हो बालक
 भनेर जानिलिए
 बेथलेहेम गोठमा चरण परी
@@ -31,7 +31,7 @@ kuraa yo saaňco ho
 vishwaasa gari yeshu-laai linu
 sabai-ko khaaňco ho.
 
----[Verse 2:]---
+---[Verse:2]---
 सबैले मागे, लिएर भागे
 तिमी र म रित्तो
 कर्मको चक्र, धर्मको फिक्री
@@ -53,7 +53,7 @@ dharti-maa ho aaune
 yehi ho belaa bhajera yeshu
 mana-maa bolaaune.
 
----[Verse 3:]---
+---[Verse:3]---
 सारा भूलोकको मालिक हुन् येशू,
 बुझ्ने यो ज्ञान दिए
 गोठमा लड़े क्रूसमा चढे,

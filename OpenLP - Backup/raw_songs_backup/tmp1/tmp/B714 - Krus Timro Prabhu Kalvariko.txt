@@ -9,7 +9,7 @@ mero nimti ati nai priye cha.
 kaaraN bane meraa kaaňDaa-haru,
 timraa shir-kaa mukuT.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मेरो पिर ठुलो सम्झन्छु,
 र मेरो घाउ आलो,
 बनिदिन्छ जब कलवरीको,
@@ -31,7 +31,7 @@ banyau timi abahelit,
 bhulne-chaina ma tyo kathaa ,
 timi bhaye-thyau krus-maa dalit.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पीडा निन्दा बेदना र कष्ट ,
 मेरा पथका प्रेरणाहरू हुन् ,
 सबै हारले मलाई सधैं ,
@@ -53,7 +53,7 @@ ti huna meraa rog-maa cangaai,
 aasha-le bharin-chu swaasthye paauň-chu,
 timrai ti haat-ko sparsha paai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अनुग्रह तिम्रो प्रशस्त छ,
 मेरो दुर्बल्तामा झन् बढी,
 थाक्छु जब साँघुरो बाटोमा हिड्दा ,

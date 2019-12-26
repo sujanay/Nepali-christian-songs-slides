@@ -9,7 +9,7 @@ unkai ichyaa-maa hiňRi-rahauň,
 (heri nisaanaa yeshu-laai) ~2
 jivan-ko yaatraa puraa garauň .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सुन्दर, पवित्र जीवन बिताउन
 ख्रीष्टको चरणमा परिरहौं,
 प्रेमले विवश भई प्यारा प्रभुको
@@ -20,7 +20,7 @@ khrisT-ko caraN-maa pari-rahauň,
 prem-le bibash bhai pyaaraa prabhu-ko
 sworgiye ichyaa-laai puraa garauň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जीवनको अन्तिम घडीसम्म
 सुसमचारलाई प्रचार गरौँ,
 आत्मा सच्चाइले महान् प्रभुको
@@ -31,7 +31,7 @@ su-samacaar-laai pracaar garauň,
 aatmaa saccaai-le mahaan prabhu-ko
 tana, man dhan-le sewaa garauň .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 खेलाडी, जिउँछ संयमी बनी,
 ओइलिने मुकुट भेट्टाउनलाई,
 संयमले दौडी धीरता राख्दै
@@ -42,7 +42,7 @@ oi-line mukuT bheTTaauna-laai,
 saňyem-le dauDi dhirtaa raakh-dai
 paaunu nai parcha ajar mukuT-laai .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अल्झाउने पाप र रोक्ने कुरालाई
 पन्साउँदै हामी अघि बढौं,
 संसारिक लाभले घैमल ठान्दै

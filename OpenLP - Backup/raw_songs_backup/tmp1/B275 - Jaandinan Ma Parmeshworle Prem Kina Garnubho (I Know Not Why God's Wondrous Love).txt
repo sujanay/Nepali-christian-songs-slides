@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जान्दिनँ म परमेश्‍वरले
 प्रेम किन गर्नुभो,
 वा ख्रीष्टले किन बचाउनुभो
@@ -20,7 +20,7 @@ so jaan-dachu ma ra nishcai chu ma
 ki un-laai je maile sumpeň,
 raakh-nechan surakchyaa-saath
 
----[Verse 2:]---
+---[Verse:2]---
 जान्दिनँ कसरी बचाउने
 विश्‍वास दिए उनले
 वा उनको वचन पत्याउँदा
@@ -31,7 +31,7 @@ vishwaas diye unle
 waa unko bacan patyaauň-daa
 mana-maa shaanti paayeň
 
----[Verse 3:]---
+---[Verse:3]---
 जान्दिनँ कसरी आत्माले
 जग दोषी ठहर्‍याउँछन्
 वा वचनद्वारा येशूलाई
@@ -42,7 +42,7 @@ jaga dosi Thahryaauň-chan
 waa bacan-dwaaraa yeshu-laai
 prakaT garaauň-dachan
 
----[Verse 4:]---
+---[Verse:4]---
 जान्दिनँ के आईपर्नेछ
 म मर्नभन्दा अघि
 कि हुन्छ मलाई दु:ख वा सुख,
@@ -53,7 +53,7 @@ ma marna-bhandaa aaghi
 ki huncha ma-laai dukha waa sukha,
 tripti waa garibi
 
----[Verse 5:]---
+---[Verse:5]---
 जान्दिनँ म कहिले,
 कहाँ येशू फेरि आउनेछन्
 कि मरेपछि भेटूँला

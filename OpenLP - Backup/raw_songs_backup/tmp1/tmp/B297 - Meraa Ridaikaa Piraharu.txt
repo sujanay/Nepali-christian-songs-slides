@@ -14,7 +14,7 @@ mero maalik-laai dekhaayeň
 
 {y}meraa ridai-kaa pir-haru ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (येशूको तेजमय हेराइले
 पीरहरू हटिगयो) २
 उनको कोमल स्पर्शले
@@ -32,7 +32,7 @@ coTa-haru niko bhayo
 {y}mero pyaalaa chacal-kera
 thopaa-haru khasna laage.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (येशूको प्रेमको प्रकाशले
 जीवन ज्योतिमय भयो) २
 ख्रीष्टको वचनको शक्तिले

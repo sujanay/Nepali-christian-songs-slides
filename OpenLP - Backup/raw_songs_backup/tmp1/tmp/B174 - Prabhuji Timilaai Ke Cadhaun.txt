@@ -9,7 +9,7 @@ yo mero sab jivan timrai ho,
 (dhanyebaad timi-laai cha sadaa,
 stuti leu ma-baaTa sarvadaa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 तिम्रो प्रेम उदेकको जो ममा प्रकट भो
 म अधर्मी पापीको, अधर्म क्षमा भो
 बढ़ाइ होस् प्रभु येशूको ।
@@ -18,7 +18,7 @@ stuti leu ma-baaTa sarvadaa) ~2
 ma adharmi paapi-ko, adharma chyemaa bho
 baDhaai hos prabhu yeshu-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशू ख्रीष्ट राज गर्नु हरेकको हृदयमा
 चाहन्छन् डोर्‍याउन जीवनको बाटोमा
 छिटो आऊ प्रभु येशूकहाँ ।

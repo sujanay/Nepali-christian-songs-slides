@@ -9,7 +9,7 @@ hunu-huncha prabhu khrisT
 (uhaaň-saňga saaTeň maile
 ananta-ananta-laai cokho prit) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सिद्ध ईश्‍वर, सिद्ध मानिस,
 मेरो जीवन स्वामिलाई) २
 (अन्तरातमादेखि श्रद्धा,
@@ -20,7 +20,7 @@ mero jivana swaami-laai) ~2
 (antar-aatamaa-dekhi shraddhaa,
 bhakti cha tapaaiň-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तपाईं मेरो, म तपाईंको,
 अनन्तलाई हाम्रो प्रीत) २
 (दु:ख-सुखमा दिलोज्यानले,

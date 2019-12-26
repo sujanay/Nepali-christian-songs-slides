@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 नभर्म भाइ हो,
 दुनियाँको जालमा,
 नपर बहिनी,
@@ -18,7 +18,7 @@ shaitaan-ko khaal-maa
 tyo choDnu saaňccai bhaai ho,
 khushman ho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मन फर्काऊ भाइ हो,
 यो पापैदखि,
 पश्चात्ताप गरूँ रोई-रोई हो कि,
@@ -38,7 +38,7 @@ bhaai ho, khrisTaimaa
 sukha paauňchauň priye
 bhaai ho, sworga-lokmaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 छोडिदेऊ भाइ हो,
 चालचलन बुरो,
 नगर बैनी,
@@ -60,7 +60,7 @@ prabhu khrisTlaai pachyaau
 naraamro caala
 ra swobhaav sacyaau.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रेम गर भाइ हो,
 सबसँग एकै,
 जय जय होस्‌ प्रभु,

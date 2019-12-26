@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 संसारबाट फर्केर,
 येशूलाई खोज्दै यहाँ
 उनको प्रेमको स्वर,
@@ -20,7 +20,7 @@ paau-maa haami jhuk-dachauň,
 prabhu prasanna hunu-hos
 yehi binti garchauň.
 
----[Verse 2:]---
+---[Verse:2]---
 हे महिमित प्रभु ख्रीष्ट,
 हामीलाई भर्नुस्
 तृषित् मनहरूमा
@@ -42,7 +42,7 @@ prabhu aashis-ko jhari
 sworgiye aananda-le
 bharnos jivan-bhari.
 
----[Verse 3:]---
+---[Verse:3]---
 ब्यूँझाउनुस् ती आत्मालाई
 जो छन् पापमा मृत काम
 तपाईंको जागृत होऊन्

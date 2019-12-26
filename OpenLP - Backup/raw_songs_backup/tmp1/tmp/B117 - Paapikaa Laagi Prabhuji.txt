@@ -9,7 +9,7 @@ krusai-maa bali bhaye
 (niskalangk ragat bahaa-i
 paapi-laai mukti diye) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (भुलिरहेछौ दुष्ट यो जगत्‌मा दाइ हो,
 डुबिरहेछौ प्रतिदिन पापमा) २
 (पापलाई लुकाइराखेर दाइ हो,
@@ -20,7 +20,7 @@ Dubi-rahechau prati-din paapa-maa) ~2
 (paapa-laai lukaai-raakhera daai ho,
 paaune-chau kasari amara jivan yo?) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पापको बोझाले लादिएका दाइ हो,
 आऊ येशूकहाँ विश्राम प्राप्त गर्न) २
 (दीन जनलाई उनले
@@ -33,7 +33,7 @@ aau yeshu-kahaaň bishraam praapta garna) ~2
 man-maa caina dinchan,
 ishwor-kaa putra yeshu-ko karaar cha) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (चौडा नै हो बाटो
 नरककुण्ड पुग्‍‌ने दाइ हो,
 साँघुरो छ मार्ग स्वर्गमा पुग्‍‌ने) २
@@ -46,7 +46,7 @@ saaňghuro cha maarga sworga-maa pugna
 (yeshu ek maatra saaňco baaTo hun,
 unai-le kewal sworga puryaauň-chan) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (बिताइरहेछौ छायाँतुल्य
 जीवन दाइ हो,
 दु:ख, अशान्ति, पापले भरपूर यो) २

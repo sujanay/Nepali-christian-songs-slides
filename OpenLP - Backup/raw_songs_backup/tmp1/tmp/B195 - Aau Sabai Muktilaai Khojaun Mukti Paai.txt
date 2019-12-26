@@ -7,7 +7,7 @@
 mukti paai,
 sworga-maa raaj garauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हामी सबै पापी थियौं
 जान लाग्यौं नाशमा) २
 नाशदेखि बचाउनलाई
@@ -18,7 +18,7 @@ jaana laagyauň naash-maa) ~2
 naasha-dekhi bacauna-laai
 (yeshu aaye jag-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (येशू, तपाईं जगमा आई
 गर्नुभयो प्रेम) २
 प्रेम गरी बस्‍‌नुभयो
@@ -29,7 +29,7 @@ garnubhayo prema) ~2
 prem gari basnubhayo
 (aaja haamro saath-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (रोगीहरू विश्‍वास गर्दै
 आए उनको छेउमा) २
 विश्‍वास गरी निको भई
@@ -40,7 +40,7 @@ aaye unko cheumaa) ~2
 vishwaas gari niko bhai
 (gaye aafnaa ghar-maa) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (हामी सबै पापी भयौं
 जान्छौं क्यारे नाशमा) २
 नाशदेखि बचाउनलाई
@@ -51,7 +51,7 @@ jaanchauň kyaare naash-maa) ~2
 naash-dekhi bacaun-laai
 (yeshu mare krus-maa) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (मानिसको पाप लिई
 टाँसिदिए क्रूसमा) २
 क्रूसमा चढी रगत बहाई

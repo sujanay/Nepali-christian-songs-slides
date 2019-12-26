@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परमप्रभुको व्यवस्था सिद्ध छ,
 आत्मालाई जगृत गराउने,
 परमप्रभुको साक्षी-वचन पक्का छ,
@@ -20,7 +20,7 @@ au man-le caahane yogye huncha,
 maha ra maha-ko caakaa-bhandaa pani,
 miThaas-purNa cha.
 
----[Verse 2:]---
+---[Verse:2]---
 परमप्रभुको आदेश ठिक छ,
 हृदयलाई हर्षित तुल्याउने ,
 परमप्रभुको आज्ञा निर्मल छ,
@@ -31,7 +31,7 @@ ridai-laai harsit tulyaaune ,
 param-prabhu-ko aagyaa nirmal cha,
 aaňkhaa-laai jyotir-mai paarne .
 
----[Verse 3:]---
+---[Verse:3]---
 परमप्रभुको भय शुद्ध छ,
 अनन्तकाल सम्म रहने,
 परमप्रभुका न्याय वचन सत्य,
@@ -42,7 +42,7 @@ ananta-kaal samma rahane,
 param-prabhu-kaa nyaaye bacan satye,
 ati nai dharma-mai chan.
 
----[Verse 4:]---
+---[Verse:4]---
 परमप्रभुको व्यवस्थामा रहने
 नदिको किनारको बोट झैं हो ,
 जसले आफ्नो ऋतुमा फल दिँदछ
@@ -53,7 +53,7 @@ nadi-ko kinaar-ko boT jhaiň ho,
 jas-le aafno ritu-maa fal diň-dacha
 paat jas-ko kahilyai linna.
 
----[Verse 5:]---
+---[Verse:5]---
 परमप्रभुको आदेश बिर्सन्‍नँ,
 जसद्वारा सजीब बन्छु म,
 सान्त्वना संकट म यही छ,

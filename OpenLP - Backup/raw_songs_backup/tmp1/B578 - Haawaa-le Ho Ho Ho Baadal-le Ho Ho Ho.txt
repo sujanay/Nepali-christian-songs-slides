@@ -22,7 +22,7 @@ haawaa-le baadal-le
 gungu-naai rahecha rahecha rahecha
 haawaa-le baadal-le ho ...
 
----[Verse 1:]---
+---[Verse:1]---
 (निलो आकाशले, सेतो बादलले) २
 (मनै छुने शीतल हावाले) २
 ख्रीष्टको प्रशंसाको गीत
@@ -35,7 +35,7 @@ khrisT-ko prashaňsaa-ko git
 (gungu-naai rahecha) ~3
 haawaa-le baadal-le ho.
 
----[Verse 2:]---
+---[Verse:2]---
 (सुन्दर हिमालले, प्यारा पहाडले) २
 (मीठो स्वरले
 गाउने, चरीले) २

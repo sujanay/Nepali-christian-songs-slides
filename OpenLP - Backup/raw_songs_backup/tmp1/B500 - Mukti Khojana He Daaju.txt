@@ -9,7 +9,7 @@ sworga-maa jaana-laai mukti khojana
 mukti khojana he bahini
 sworga-maa jaana-laai mukti khojana
 
----[Verse 1:]---
+---[Verse:1]---
 (चारै दिनको जिन्दगीमा
 भुलिरह्यौ आज) २
 (कसको रह्यो घर–द्वार,
@@ -20,7 +20,7 @@ bhuli-rahyau aaja) ~2x
 (kas-ko rahyo ghar-dwora,
 kas-ko rahyo raaj) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 (सनातनको चोला छोड़ी,
 दुनियाँको भेष) २
 (दुनियाँको भेष लिई
@@ -31,7 +31,7 @@ duniyaaň-ko bhesa) ~2x
 (duniyaaň-ko bhesa li-i
 bulyauň sworga desha) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 (संसारको बजारमा
 बाह्रमासे मेला) २
 (जन्म दिए ईश्‍वरले
@@ -42,7 +42,7 @@ baahra-maase melaa) ~2x
 (janma diye ishwora-le
 paryo kaal-ko felaa) ~2x
 
----[Verse 4:]---
+---[Verse:4]---
 (बत्ती देख्दा पुतलीले
 ज्यानैसम्म फाल्छ) २
 (येशूलाई भुल्यौँ भने,
@@ -53,7 +53,7 @@ jyaanai-samma faalcha) ~2x
 (yeshu-laai bhulyauň bhane,
 paap-le naraka haal-cha) ~2x
 
----[Verse 5:]---
+---[Verse:5]---
 (संसारमा झिलिमिलि
 कति राम्रा घर) २
 (यस जीवनमा मुक्ति पाउँछौँ,

@@ -9,7 +9,7 @@ parmeshwor-le dubai-laai ek banaaye
 yojanaa parmeshwor-ko aba puraa bho,
 yes kaarye-le un-laai mahimaa puryaayo
 
----[Verse 1:]---
+---[Verse:1]---
 (प्रेम अधिकार यस घरमा बसोस्‌,
 प्रभुको साक्षी सधैँ फैलियोस्‌) २
 (ख्रीष्टियन घरको उदाहरण बनी) २
@@ -20,7 +20,7 @@ prabhu-ko sakchi sadhaiň fai-liyos) ~2
 (khrisTi-yen ghar-ko udaahraN bani) ~2
 aru ghar-laai pani prabhu-maa lyaaos.
 
----[Verse 2:]---
+---[Verse:2]---
 (विन्ती यो हाम्रो
 प्रभुमा राख्छौं,
 प्रार्थनाले

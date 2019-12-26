@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 गोठालो मेरा हुन्‌ प्रभु
 न घटी छ मलाई
 हरियो घाँसको चउरमा
@@ -9,7 +9,7 @@ na ghaTi cha malaai
 hariyo ghaaňs-ko caura-maa
 caraauň-dachan malaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उनले सुख-चैनको पानीमा
 डोर्‍याउँदछन्‌ मलाई
 र पार्छन्‌ पुनर्जीवित प्राण
@@ -20,7 +20,7 @@ Doryaauň-dachan malaai
 ra paarchan punar-jivit praaN
 dharma maarg-maa hiňDaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जब हिँड्‌छु मृत्युको छायाँमा
 न डर न छ फिक्री
 लौरो र लट्ठीले उनका
@@ -31,7 +31,7 @@ na Dar na cha fikri
 lauro ra laTThi-le un-kaa
 dinchan ma-laai shaanti.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 भोज तयार गर्दछन्‌ उनले
 शत्रुको सामुन्‍‌नेमा
 तेल मेरो शिरमा मल्दछन्‌,
@@ -42,7 +42,7 @@ shatru-ko saamunne-maa
 tel mero shir-maa mal-dachan,
 pokhin-cha kacauraa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 मपछि लाग्छ जीवनभर
 भलाइ र करुणा।
 र परमेश्‍वरको घरैमा

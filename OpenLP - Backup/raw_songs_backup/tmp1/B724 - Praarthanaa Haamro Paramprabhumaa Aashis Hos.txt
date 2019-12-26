@@ -9,7 +9,7 @@ yi nawa dampatti-maa) ~2
 (ishwor-ko anugraha palpal-maa
 thaahaa bhairahos jivan-maa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (बाँधिएको करार सधैँ,
 सम्झना दिनुहोस्,
 समर्पित भई जिउन,
@@ -20,7 +20,7 @@ samjhanaa dinu-hos,
 samarpit bhai jiuna,
 sahaaraa dinuhos) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (प्रेरणा बनिदिनुहोस् प्रभु,
 सुस्ताएको बेलामा,
 मार्ग बनिदिनुहोस् ,
@@ -31,7 +31,7 @@ sustaa-yeko belaa-maa,
 maarga bani-dinuhos,
 haraa-yeko belaa-maa) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (नटुटोस् यो मिलन,
 जीवनको यात्रामा,
 विश्राम पछि लिनुहोस् ,

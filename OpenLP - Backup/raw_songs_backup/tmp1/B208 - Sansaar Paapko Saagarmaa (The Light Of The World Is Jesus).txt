@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 संसार पापको सागरमा डुबेको थियो,
 हुन्‌ जगत्‌को ज्योति येशू
 प्रचण्ड घामझैँ
@@ -22,7 +22,7 @@ jyoti ta paryo malaai pani,
 andho thiyeň tara paayeň drisTi,
 ho jagat-ko jyoti yeshu
 
----[Verse 2:]---
+---[Verse:2]---
 अँध्यारोमा बस्‍‌नपर्दैन हामी,
 हुन्‌ जगत्‌को ज्योति येशू
 हिँड्‌छौं ज्योतिमा अगुवापछि लागि,
@@ -33,7 +33,7 @@ hun jagat-ko jyoti yeshu
 hiňDchauň jyoti-maa aguwaa-pachi laagi,
 hun jagat-ko jyoti yeshu.
 
----[Verse 3:]---
+---[Verse:3]---
 आऊ सब जसका मनमा छ
 पाप-अन्धकार,
 हुन्‌ जगत्‌को ज्योति येशू
@@ -46,7 +46,7 @@ hun jagat-ko jyoti yeshu
 aau drisTi paaunu unko bacan-anusaar,
 hun jagat-ko jyoti yeshu.
 
----[Verse 4:]---
+---[Verse:4]---
 घाम लाग्‍‌नुपर्दैन अरे स्वर्गमा,
 हुन्‌ जगत्‌को ज्योति येशू
 स्वर्गपूरीमा ज्योति हुन्‌, प्रभु हाम्रा,

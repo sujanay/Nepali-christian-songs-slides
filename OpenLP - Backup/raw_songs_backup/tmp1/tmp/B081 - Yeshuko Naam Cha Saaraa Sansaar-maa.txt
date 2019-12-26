@@ -7,7 +7,7 @@
 saaraa sansaar-maa
 sabai-laai garna uddhaar
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (दुनियाँमा आई, क्रूसैमा चढ़ी
 देखाए आफ्नो प्यार) २
 (आत्मा बचाउनु, शान्ति दिनु
@@ -18,7 +18,7 @@ dekhaaye aafno py-aar) ~2
 (aatmaa bacaaunu, shanti dinu
 yeshu bhaye balidaan) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गको मुनि, मान्छेको बीचमा
 कुनै अरू नामै छैन) २
 (येशू नाम मात्र, सबै दुनियाँमा

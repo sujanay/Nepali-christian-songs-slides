@@ -7,7 +7,7 @@
 kahilyei na-tyaagne
 timro karaar aTuT cha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (निस्कार एक परदेशी भई) २
 (लक्षहीन गोरेटोमा गइरहेथे) २
 (ज्योतिर्मय प्रभु, सहारा दियौ
@@ -18,7 +18,7 @@ timro karaar aTuT cha) ~2
 (jyotir-mai prabhu, sahaaraa diyau
 sworgiye path-maa farkaai lyaayau) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (घना जंगलको आन्धकारमा) २
 (आशा थिएन बाँच्ने मेरा) २
 (मधुर आवाजले बोलायौ मलाई
@@ -29,7 +29,7 @@ sworgiye path-maa farkaai lyaayau) ~2
 (madhur aawaaj-le bolaayau ma-laai
 sanaatan prem-le angaalyau ma-laai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (पीडा र क्लेशले पीडित हुँदा) २
 (निराश भई अन्योलमा थिएँ) २
 (तर तिम्रो मधुर आवाजले
@@ -40,7 +40,7 @@ sanaatan prem-le angaalyau ma-laai) ~2
 (tara timro madhur aawaaj-le
 sadaiba shaanti-le ma-laai bharyau) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (यसर्थ प्रशंसा गर्छु) २
 (हर पल मेरो साथ रह्यौ) २
 (आँखाको रानीझैँ जोगाइराख्यौ

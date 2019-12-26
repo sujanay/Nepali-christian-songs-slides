@@ -9,7 +9,7 @@ yo bhumi-laai bacan-le Dhaaknai-parcha
 (kinaar-haru baaluwaa-le Dhaake-jhaiň,) ~2
 (yo pustaa-laai yeshu cinaaunai-parcha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (निराश छन्‌ पहाडमा
 साइँला-माइलाहरू,
 अशान्त छन्‌ तराईमा
@@ -31,7 +31,7 @@ baaTo khoji-rahechan
 (yeshu na-paai maanche-haru
 mrityu parkhi-rahechan) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (रोएका छन्‌ शहरमा
 घरघरानाहरू,
 भुलेका छन्‌ पापैमा

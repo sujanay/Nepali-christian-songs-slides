@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे मेरो प्राण, उठ्‌ सँग घाम
 र पूरा गर्‌ सब आफ्‍‌नो काम
 अल्छी छाड्‌ र स्तुति गा,
@@ -9,7 +9,7 @@ ra puraa gar sab aafno kaam
 alchi chaaD ra stuti gaa,
 bihaana-ko praarthanaa caDhaa.
 
----[Verse 2:]---
+---[Verse:2]---
 बिता यो दिन भई बुद्धिमान्‌,
 सबै दिनलाई त अन्तकै ठान्‌
 ईश्‍वरको दानको गर्‌ विचार,
@@ -20,7 +20,7 @@ sabai dina-laai ta anta-kai Thaan
 ishwor-ko daan-ko gar bicaar,
 nyaaye-ko laagi basa taiyaar.
 
----[Verse 3:]---
+---[Verse:3]---
 हे ईश्‍वर, गर्छु प्रार्थना यो,
 जे-जे गरूँला आज म
 त्यो सबमा मलाई गोहार देऊ,
@@ -31,7 +31,7 @@ je-je garuňlaa aaja ma
 tyo sab-maa malaai gohaar deu,
 man-maa pavitra aatmaa deu.
 
----[Verse 4:]---
+---[Verse:4]---
 अँ आज मेरो बाटोले
 आफ्‍‌नो महिमा बढाइदेऊ
 अँ पिता, पुत्र,

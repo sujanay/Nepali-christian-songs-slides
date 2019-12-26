@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मसीह-मसीहको लागि
 विश्‍वासीले लडाइँ गर्नुछ
 उनको क्रूसको झन्डा उठाई बोक्‍‌नुछ,
@@ -19,7 +19,7 @@ jai paaunu-cha, aň jarur
 khrisT hun sabai-kaa raajaa
 nasTa hunchan sab shatru.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशूको लागि
 विश्‍वासीले लडाइँ गर्नुछ
 सब ढाढस, बल र सामर्थ ख्रीष्टदेखि पाउनुछ
@@ -40,7 +40,7 @@ na aafnaa hati-yaara
 abashye sabai laauň dharma-
 pustak-ko anusaar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशूको लागि
 विश्‍वासीले लडाइँ गर्नुछ
 युद्ध गर्ने बेला कम्मर
@@ -62,7 +62,7 @@ ra tar'waar aatmaa-ko
 su-samaacaar-kaa juttaa
 ra kawac dharma-ko.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 येशूको लागि
 विश्‍वासीले लडाइँ गर्नुछ
 आज लडाइँ गर्नुछ,

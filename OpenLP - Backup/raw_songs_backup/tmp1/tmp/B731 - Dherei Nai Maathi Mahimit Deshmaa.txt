@@ -9,7 +9,7 @@ mero cha euTaa ghar) ~2
 (caaňDai nai yeshu aaunu bhayera
 puryaau-nechan saraa-sar) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सानो घरको छानो मनि,
 थोरै कुरो भए पनि,
 सबैभन्दा सुखी छु म,
@@ -31,7 +31,7 @@ mahimit desh-maa jaanucha,
 (sundar shahar sun-ko saRak,
 kinaar swoccha caaňdi-ko cha.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रम्दै उहाँको स्तुति गाउँदै
 सन्तहरूसित हिँड्नेछु,
 वीणा बजाउँदै गाउँनेछु म,

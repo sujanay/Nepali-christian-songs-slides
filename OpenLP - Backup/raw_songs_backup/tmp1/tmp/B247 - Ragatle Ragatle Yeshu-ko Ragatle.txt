@@ -3,32 +3,32 @@
 
 {y}(ragat-le ragat-le yeshu-ko ragat-le) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मेरो पापलाई क्षमा गरिदेऊ) २
 
 {y}(mero paap-laai chyemaa gari-deu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मेरो पापको दागलाई मेटाइदेऊ) २
 
 {y}(mero paap-ko daag-laai meTaai-deu) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (पूर्ण शान्ति मनमा भरिदेऊ) २
 
 {y}(purNa shaanti man-maa bhari-deu) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (शैतानमाथि विजय हुनदेऊ) २
 
 {y}(shaitaan-maathi bijai huna-deu) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (नित्य प्रार्थना गर्ने साहस देऊ) २
 
 {y}(nitye praarth'naa garne saahas deu) ~2
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 (स्वर्गीय ज्योतिको राजमा पस्‍‌नदेऊ) २
 
 {y}(sworgiye jyoti-ko raaj-maa pasna-deu) ~2

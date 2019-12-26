@@ -16,7 +16,7 @@ yeshu-ji praarthnaa garnu-bho
 {y}getas-mani-ko bagaiňcaa-maa
 yeshu-ji praarthnaa garnu-bho
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कोही थिएन त्यो मध्य रातमा
 येशूलाई साथ दिने) २
 (आफ्नै चेलाले) २
@@ -40,7 +40,7 @@ yeshu-le bhannu-bhayo
 (timro mero nimti daam tirera) ~2
 (ragat-le kinnu-bhayo) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (हतास उदास हुँदै प्रभु
 पितालाई पुकारे) २
 (रगतको थोपा) २

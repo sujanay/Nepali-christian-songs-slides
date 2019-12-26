@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हामी ख्रीष्टमा पाई उद्धार गर्छौं
 सम्झेर तारणहार
 प्रभुको मृत्युको
@@ -9,7 +9,7 @@ samjhera taaraNahaar
 prabhu-ko mrityu-ko
 pracaar na-aaunjel.
 
----[Verse 2:]---
+---[Verse:2]---
 जीउ हाम्रो सट्टा भाँचेको छ
 स्मारक रोटीमा चिनो
 खाएर बढोस्‌ प्रेम
@@ -20,7 +20,7 @@ smaarak roTi-maa cino
 khaayera baDhos prem
 haamro na-aaunjel.
 
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्टले हाम्रो ज्यान-सजाय भोगे
 जुन अमोल रगत बहाए
 देखाउँछ यो
@@ -31,7 +31,7 @@ jun amol ragat bahaaye
 dekhaauňcha yo
 kacauraa-le na-aaunjel.
 
----[Verse 4:]---
+---[Verse:4]---
 रात विश्‍वासघातको अँध्यारो
 र दोस्रो आगमन येशूको
 यस प्रेम-रीत-मालाले
@@ -42,7 +42,7 @@ ra dosro aagaman yeshu-ko
 yes prem-rit-maalaa-le
 gaaňsiyo na-aaunjel.
 
----[Verse 5:]---
+---[Verse:5]---
 हे धन्य दिन र कस्तो विलास
 हाम्रा नहोस्‌ मनमा उदास
 पर्खंदा बढोस्‌ धीर

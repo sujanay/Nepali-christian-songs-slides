@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू भन्छन्‌ बालकहरूलाई
 मकहाँ आउन देऊ
 किनभने स्वर्गको राज्य
@@ -9,7 +9,7 @@ ma-kahaaň aauna deu
 kina-bhane sworga-ko raajye
 yestai nai-haru-ko ho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यसकारण हामी सबै मिलेर
 उनको चरणमा जाऔं
 उनको चरणमा गएर हामी

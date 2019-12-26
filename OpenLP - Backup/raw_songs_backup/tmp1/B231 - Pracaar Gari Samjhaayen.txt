@@ -7,7 +7,7 @@ pracaar gari samjhaayeň
 timi-laai liyenau bujhi,
 bharmadai gayau nisThur timi
 
----[Verse 1:]---
+---[Verse:1]---
 हात, पाउ, शिर,
 कोखामा बहाए रक्त
 (आँसु पसिना) २
@@ -16,7 +16,7 @@ haat, paau, shir,
 kokhaa-maa bahaaye rakta
 (aaňsu pasinaa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 आज यो घडी गत
 जीवनभरि सुन्यौ, सन्दै छौ,
 सुनी नै रहन्छौ
@@ -27,7 +27,7 @@ jivan-bhari sunyau, sandai chau,
 suni nai rahanchau
 kahaani yo mero) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 के छ र लाभ,
 भनेर हाय-हाय
 नि नि हे प्रभु
@@ -38,7 +38,7 @@ bhanera haai-haai
 ni ni he prabhu
 (he meraa naath) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 विश्‍वका अन्य मानिस
 पनि गुरु मान्यता,
 (भक्ति चढाउँछन्‌) २
@@ -47,7 +47,7 @@ bishwo-kaa anye maanis
 pani guru maanyetaa,
 (bhakti caDhaauňchan) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 स्वर्गे पिताको,
 हे परिवार चाहन्‍‌नँ यी सब
 (म तिमीबाट) २
@@ -56,7 +56,7 @@ sworge pitaa-ko,
 he pariwaar caahannaň yi sab
 (ma timi-baaTa) ~2
 
----[Verse 6:]---
+---[Verse:6]---
 चढाएको आन्तरिक
 हृदय धोई-पखाली
 (रगतले मेरो) २
@@ -65,7 +65,7 @@ caDhaayeko aantarik
 ridai dhoi-pakhaali
 (ragatle mero) ~2
 
----[Verse 7:]---
+---[Verse:7]---
 वचनअनुसार तिमी हौ
 मेरा अपनायौ गरी
 (स्वयम्‌ तिम्रो) २
@@ -74,7 +74,7 @@ bacan-anusaar timi hau
 meraa apanaayau gari
 (swoyem timro) ~2
 
----[Verse 8:]---
+---[Verse:8]---
 बेर नगरी,
 चाँडै नै अब
 आउनेछु लान्छु
@@ -85,7 +85,7 @@ caaňDai nai aba
 aaunechu laanchu
 (pitaakahaaň mero) ~2
 
----[Verse 9:]---
+---[Verse:9]---
 (जाँच गरी,
 हेरन आफूलाई उठ गर
 लौ पश्चात्ताप रोई) २

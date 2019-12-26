@@ -20,7 +20,7 @@ jhuNDaaye yeshu krus-maa) ~2
 dukha kasTa sahera
 (arpaN gare krus-maa aafu-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जाने भए येशूसँग
 विश्‍वास गर उहाँलाई) २
 आखिर मृत्यूलाई जित्‍ने

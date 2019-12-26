@@ -16,7 +16,7 @@ timro haamro laagi) ~2
 {y}bethlehem gaawai-maa
 daaud-ko saharai-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मानिसको चोला बोकी
 आउनुभो धर्तीमा
 पापलाई बोकी मर्नुभयो
@@ -34,7 +34,7 @@ kalvari-ko krusai-maa) ~2
 {y}(aafai-laai rityaai aaja
 bacaaunu-bho timi haami-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मुक्ति दिने कोही छैन
 यो पापी संसारमा
 स्वर्ग लाने कोही छैन

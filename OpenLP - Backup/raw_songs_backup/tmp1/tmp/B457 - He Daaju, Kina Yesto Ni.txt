@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 केटी : (हे दाज्यू, किन यस्तो नि
 संसारमा आज अशान्ति) २
 केटा : (ख्रीष्टलाई भुले यस्तै नि हुन्छ
@@ -9,7 +9,7 @@ sansaar-maa aaja a-shaanti) ~2
 Men: (khrisTa-laai bhule yestai ni huncha
 hai, bahini, a-shaanti) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 केटी : (ख्रीष्टलाई किन भुल्यो नि
 यो पापी सारा संसारले) २
 केटा : (खूब जान्‍‌ने भए संसारी
@@ -20,7 +20,7 @@ yo paapi saaraa sansaar-le) ~2
 Men: (khub jaanne bhaye sansaari
 khrisTa-laai para pasaari) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 केटी : (यस्तै के सदा हुने हो,
 हे प्रिय दाज्यू, भनन्) २
 केटा : (किन पो हुन्थ्यो सदा नि,
@@ -31,7 +31,7 @@ he priye daaju, bhanana) ~2
 Men: (kina po hun-thyo sadaa ni,
 isha-ko lilaa bujhana) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 केटी : (मानिसले किन भुले नि
 आफ्‍‌नो सृष्टिकर्तालाई) २
 केटा : (पाएर बुद्धि ईश्‍वरकै,
@@ -42,7 +42,7 @@ aafno srisTi-kartaa-laai) ~2
 Men: (paayera buddhi ishwor-kai,
 bhule hai srisTi-kartaa-laai) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 सबै : (पश्चात्ताप गरी फर्क है
 मुक्तिदाताको चरणमा) २
 सबै : (मुक्ति है पाई स्वर्गलोकमा
@@ -53,7 +53,7 @@ mukti-daataa-ko caraN-maa) ~2
 All: (mukti hai paa-i sworga-lok-maa
 aananda-sita pasana) ~2
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 सबै : (ईश्‍वरको नाउँ धन्य होस्‌,
 उनैको सत्य सदा होस्‌) २
 सबै : (उनैको सच्चा भक्त भई,
@@ -64,7 +64,7 @@ unai-ko satye sadaa hos) ~2
 All: (unai-ko saccaa bhakta bhai,
 haamro jivan-ko anta hos) ~2
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 सबै : (स्वर्गमा बसी आनन्दले
 ईश्‍वरको पूजन गर्नेछौं) २
 सबै : (जय, प्रभु येशू, मुक्तिदाता

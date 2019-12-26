@@ -7,7 +7,7 @@
 (malaai kehi-ko) ~2
 khaaňco chaina.
 
----[Verse 1:]---
+---[Verse:1]---
 (उहाँले मेरो पाइलाहरूलाई
 चिप्लन दिन हुन्‍न)२
 (सुख-चैनको पानी छेउ
@@ -18,7 +18,7 @@ ciplana dina hunna) ~2
 (sukh-cain-ko paani cheu
 Doryaaunu-huncha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उहाँले मेरो शिरलाई
 तेलले अभिषेक गर्नुहुन्छ,)२
 (मेरो कचौरा

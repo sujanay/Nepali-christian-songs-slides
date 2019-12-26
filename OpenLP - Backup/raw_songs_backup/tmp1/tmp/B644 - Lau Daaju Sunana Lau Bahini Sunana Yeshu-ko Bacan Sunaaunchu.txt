@@ -7,7 +7,7 @@
 yeshu-ko bacan sunaauň-chu bujhana
 (satye-ko bacan sunaauň-chu bujhana) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (यो संसार यस्तै छ
 पापैले भरेको हा... आ...) २
 दुइ दिने जीवनमा जञ्‍जालले
@@ -27,7 +27,7 @@ sahaaraa dine yeshu prabhu nai hun
 {y}aaňkhaa-ko aaňsu puchi dine
 (ishwor-ko putra hun) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यो हाम्रो जीवनमा
 दु:खहरू धेरै छ हा... आ...) २
 कष्ट र पिडाले आँसु नै

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (जीवन दिने येशूलाई नभुल,
 संसारको ढाँचामा तिमी नचल) २
 (ख्रीष्टको योद्धा तिमी हौ,
@@ -9,7 +9,7 @@ sansaar-ko Dhaaňcaa-maa timi na-cala) ~2
 (khrisT-ko yoddhaa timi hau,
 khrisT-kai nimti aghi baDha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (संसारलाई नियाली हेर,
 आफै बुझ्नेछौ यसको गती) २
 (तिम्रो मेरो निम्ति कोही छैन,
@@ -20,7 +20,7 @@ aafai bujh-nechau yes-ko gati) ~2
 (timro mero nimti kohi chaina,
 yeshu baahek man mildo saathi) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (हे युवा संसारलाई नरोज,
 पछुताऊँदै एक दिन रुनुपर्ला) २
 (संसारको मायामा नभुल,

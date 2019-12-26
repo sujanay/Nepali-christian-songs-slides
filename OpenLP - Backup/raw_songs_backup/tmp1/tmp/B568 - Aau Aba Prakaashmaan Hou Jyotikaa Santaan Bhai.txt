@@ -9,7 +9,7 @@ jyoti-kaa santaan bhai
 andhakaar sab-laai tyaagera
 mahimaa ra purNataa-maa aau.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (महान् आज्ञालाई पूरो गर्न
 ज्योति धारण गर्नुछ) २
 जिउँदो वचनलाई शक्तिको साथमा
@@ -22,7 +22,7 @@ jiuňdo bacan-laai shakti-ko saath-maa
 jyoti-ko santaan bhai
 yo bishwo-laai sunaau-nucha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (सियोनका राजालाई स्वागत गर्न
 राजपथ हामीले बनाउनुछ) २
 लिएर उपहार त्यो, हेर

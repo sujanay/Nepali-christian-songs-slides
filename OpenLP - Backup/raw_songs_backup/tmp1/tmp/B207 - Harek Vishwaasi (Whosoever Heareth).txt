@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हरेक विश्‍वासी, गरौं प्रचार,
 सबै ठाउँमा गरौं यो सुसमाचार
 पापी मानिस सबले सुनोस्‌
@@ -22,7 +22,7 @@ sab-laai nimto cha
 kunai paaraale nikaaline chaina
 yeshu-kahaaň sabai aau
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हरेक आउने मानिस ढिलो नगरौं,
 खुल्ला छ यो फाटक, बाहिर नबसौं
 यो मुक्तिको पथमा आफ्‍‌ना पाउ
@@ -33,7 +33,7 @@ khullaa cha yo faaTak, baahira na-basauň
 yo mukti-ko path-maa aafnaa paau
 raakhauň yeshu-kahaaň sabai aau.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 यदि मुक्ति खोज्छौ, येशूलाई मान,
 मान्छेको बचाउँछन्‌ उनले मात्र प्राण
 उनमा विश्‍वास गरौं, पाउँछौं

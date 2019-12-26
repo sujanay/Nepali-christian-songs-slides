@@ -20,7 +20,7 @@ satye nai yeshu hun
 (timro ra mero jivana-ko,
 satye nai yeshu hun) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जन्मने र मर्ने क्रम यो,
 केही क्षणको हाँसो र आँशु यो) २
 (मात्र होइन हे साथी हो,
@@ -31,7 +31,7 @@ kehi chyeN-ko haaňso ra aaňshu yo) ~2
 (maatra hoina he saathi ho,
 khrisT-binaa jivana adhuro bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (आफ्‍‌नै खुशी, आफ्‍‌नै इच्छाहरू,
 पलभरको आफ्‍‌नै जीतहरू) २
 (यति होइन हे साथी हो,

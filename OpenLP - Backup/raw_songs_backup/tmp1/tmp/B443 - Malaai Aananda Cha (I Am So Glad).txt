@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मलाई आनन्द छ कि पिता
 ईश्‍वर मलाई देखाउँदछन्‌ उहाँको प्यार
 बाइबलको मीठो नै कथाको सार,
@@ -20,7 +20,7 @@ gardachan pyaar, gardachan pyaar,
 dhanye ki malaai gardachan pyaar,
 gardachan pyaar malaai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यदि म टाढो जाऊँ छोडी उनलाई,
 तैपनि ख्रीष्टले प्रेम गर्छन्‌ मलाई
 बाइबलको सबभन्दा मीठो कथा
@@ -31,7 +31,7 @@ tai-pani khrisT-le prem garchan malaai
 baaibal-ko sab-bhandaa miTho kathaa
 yo ho ki yeshu prem garchan sadaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गमा जब राजालाई देख्‍‌नेछु,
 उनैको स्तुतिको गीत गाउनेछु
 यसैको निम्ति म नित्य गाउँला,
@@ -42,7 +42,7 @@ unai-ko stuti-ko git gaau-nechu
 yesai-ko nimti ma nitye gaauň-laa,
 yeshu-le malaai prem garchan sadaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 म उनलाई गर्छु, मलाई गर्छन्‌ प्यार,
 प्रेमले उनी भए सत्य अवतार
 क्रूसमा चढी गरे मेरो उद्धार,

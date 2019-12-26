@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभुको साक्षी नलजाई
 दिन्छु म सर्वदै
 राख्छु त्यो क्रूसको महिमा
@@ -22,7 +22,7 @@ mero paapko bhaari haTigayo
 tyahaaň vishwaas gari maile paayeň
 drisTi ra ahileko jivan khushi bho
 
----[Verse 2:]---
+---[Verse:2]---
 प्रभु येशू हो उनको नाम,
 यो नाम गर्छु स्तुति
 मलाई निराशा,
@@ -33,7 +33,7 @@ yo naam garchu stuti
 ma-laai niraashaa,
 laaj-dekhi bacaauňchan prem gari.
 
----[Verse 3:]---
+---[Verse:3]---
 उनको सामर्थ र छायाँमा
 मृत्युको दिनसम्म
 जो जिम्मा राखे उनकोमा
@@ -44,7 +44,7 @@ mrityu-ko din-samma
 jo jimmaa raakhe unko-maa
 sab wahaaň kushal cha.
 
----[Verse 4:]---
+---[Verse:4]---
 ख्रीष्टले ग्रहण गर्छन्‌
 स्वर्गमा पिताका सामुमा
 त्यो नयाँ यरूशलेममा ठाउँ

@@ -5,7 +5,7 @@
 (bacan tyo prema patra ho,
 premi haamro parmeshwor-ko) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (बुद्धिमान हुन यसलाई पढौं,
 सुरक्षित् हुन विश्‍वास गरौं,
 पवीत्र हुन पालन गरौं) २
@@ -18,7 +18,7 @@ pavitra huna paalana garauň) ~2
 (samhaali raakhauň jivan-laai,
 sangaali raakhauň bacan-laai.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (डोर्‍याउनलाई बाटो र ज्योति,
 स्वास्थको लागि भोजन रोटी
 दुःखीको लागि सान्त्वना निहित छ,) २
@@ -31,7 +31,7 @@ dukhi-ko laagi saantwonaa nihit cha,) ~2
 (sworga yahaaň kholi-yeko cha,
 narak-ko Dhokaa banda cha.) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (वचन हाम्रो तरवार हो,
 पापीहरूको भाग्य हो,
 वचन हाम्रो अधिकार पत्र हो) २

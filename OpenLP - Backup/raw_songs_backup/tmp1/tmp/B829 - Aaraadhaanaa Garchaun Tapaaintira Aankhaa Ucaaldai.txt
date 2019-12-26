@@ -9,7 +9,7 @@ tapaaiň-tira aaňkhaa ucaaldai,
 jaagaa rahan-chauň har ghaDi praarthanaa-maa
 tapaaiň-ko saath raha-dai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पवीत्र बनाउनुहोस्
 प्रभु हामीलाई सर्वाङ्गै,
 पृथ्बीमा स्वाद दिने नुनझैँ) २
@@ -29,7 +29,7 @@ tapaaiň-ko bacan-maa rahi sadhaiň,
 sewaa garchauň lagan-shil bhai
 baadal-maa tapaaiň-ko pratik-chyaa gardai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (साक्षी बनाउनुहोस्
 प्रभु हामीलाई झल्मल्लै
 डाँडा माथि बसालिएको शहर झैँ) २

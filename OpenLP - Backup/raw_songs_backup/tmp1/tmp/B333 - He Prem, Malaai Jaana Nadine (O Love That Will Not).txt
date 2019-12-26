@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे प्रेम, मलाई जान नदिने,
 म आफ्‍‌नो थकित आत्मा ल्याउँछु
 प्राण अब तिमीलाई दिइहाल्छु,
@@ -11,7 +11,7 @@ praaN aba timi-laai dii-haalchu,
 jivan-ko saagar-maa basnu
 bharpuri huna-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हे ज्योति, मलाई बाटो देखाउने,
 म आफ्‍‌नो सानो बत्ती ल्याउँछु
 आफ्‍‌नो मनको ज्योति फर्काउँछु,
@@ -24,7 +24,7 @@ aafno man-ko jyoti farkaauň-chu,
 timro ujyaalo-maa baschu
 jyoti-lo huna-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हे सुख, जो मलाई दु:खमा खोज्‍‌ने,
 मन मेरो कहीँ भाग्‍‌न नसक्‍‌ने
 बादलमा तिम्रो धनुष हेर्छु,
@@ -37,7 +37,7 @@ baadal-maa timro dhanus herchu,
 karaar-maa bharosaa garchu,
 din mero ujjwal hos.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हे क्रूस, जो मेरो शिर उठाउने,
 न तिमीदेखि भाग्‍‌न सक्‍‌ने
 म प्राण माटोमा राखिदिन्छु,

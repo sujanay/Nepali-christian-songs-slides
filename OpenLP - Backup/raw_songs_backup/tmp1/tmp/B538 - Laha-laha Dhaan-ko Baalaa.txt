@@ -11,7 +11,7 @@ sarara paat-haru uDera jaaňdaa,
 ye, lai biraano yo man,
 feri naaccha, naaccha, man feri naaccha
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 केटा: (ए, हो हो, ला ला ला ला),
 (फसल तयार छ [हो, हो]
 एक्ली नि रुन्छे खेत) २
@@ -24,7 +24,7 @@ ekli ni runche khet) ~2
 ye, didi-baini, na-jaau hai, aba
 melaapaat, melaapaat.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 केटी: (ए, हो हो, ला ला ला ला)
 (संसारै रमझममा नि, [हो, हो]
 छैन खेताला पनि) २

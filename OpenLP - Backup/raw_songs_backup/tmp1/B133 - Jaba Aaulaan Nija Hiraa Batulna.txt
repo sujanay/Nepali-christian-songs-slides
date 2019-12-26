@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जब आउलान्‌, जब आउलान्‌
 निज हीरा बटुल्‍‌न
 सबै हीरा, मूल्य हीरा
@@ -20,7 +20,7 @@ camkaňdai rahaňdai,
 yestai yinai camkanchan
 khrisT-ko mukuT-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 ती बटुल्छन्‌, ती बटुल्छन्‌
 स्वर्ग राज्यका सब हीरा
 जति राम्रा र चम्किला
@@ -42,7 +42,7 @@ camkaňdai rahaňdai,
 yestai yinai camkanchan
 khrisT-ko mukuT-maa.
 
----[Verse 3:]---
+---[Verse:3]---
 नरनारी, केटाकेटी
 ख्रीष्टसँग प्रेम गर्ने
 हीरा यिनै, हीरा प्यारै

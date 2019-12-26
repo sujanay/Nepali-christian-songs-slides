@@ -9,7 +9,7 @@ kalpana garna sakchau timi ke
 ekpalTa prabhu-ko jhal-ko maatra leu,
 thaahaa paau-nechau, (sworga tyeste cha) ~2x
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (संसारभन्दा बेग्लै हुन्छ,
 त्यो जगत्‌मा
 धोइएको मानिस हुन्छन्
@@ -31,7 +31,7 @@ fikri huň-daina,
 jyoti-ko raajye aňdhyaaro Tik-daina,
 sworga tyeste cha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्ग जान तिमीले
 मृत्यु नपर्ख
 द:खी संसार पनि

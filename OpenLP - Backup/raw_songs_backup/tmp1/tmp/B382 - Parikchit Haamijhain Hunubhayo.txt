@@ -20,7 +20,7 @@ sab anubhav uhaaň-laai cha
 sarvagya yeshu sadhaiň tayaari,
 bujhna-laai haamro dukha-kasTa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जुटाउन मेरो खाँचो शरीरको,
 खर्चन्छु जम्मै समय र धन
 चिन्ता-फिक्रीले सबै भविष्य
@@ -42,7 +42,7 @@ byebahaar yesko bujhaau-nuhos
 niraashaa-ko kaalo baadal-paari
 aashaa-ko kiraN dekhaau-nuhos.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ख्यातिको झलक, रुपियाँको टलक
 चुम्बकझैँ तान्छ मेरो मनलाई
 सुखी म होऊँ, शक्तिले पूर्ण,
@@ -64,7 +64,7 @@ ishwor-ko baagi lau hunna ma
 ananta jivan praaN bahu-mulye,
 sansaar-ko laagi aňgaal-dinaň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 गर्जने सिंह शैतानका राजदूत
 लडाउन मलाई सधैँ तयार
 मलाई दोष्याउने धूर्त

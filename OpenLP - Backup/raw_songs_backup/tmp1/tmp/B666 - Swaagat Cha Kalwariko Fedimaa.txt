@@ -5,7 +5,7 @@
 {y}(swaagat cha kalwari-ko fedi-maa
 jivan aafno sarvaanga caRhaaune-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (निराशतामा जिउने यौवनहरू
 विवशतामा रुने आत्माहरू) २
 वरदानको अमूल्य जीवनलाई
@@ -25,7 +25,7 @@ abhisaap-maa siddha garne-haru
 bhujhi-dina-laai maukaa cha
 aaja nai timro jivan-laai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (थकित भएका जीवनहरू
 आशा विहीनका यौवनहरू) २
 सुन्दर जीवन र उज्वल भबिष्य

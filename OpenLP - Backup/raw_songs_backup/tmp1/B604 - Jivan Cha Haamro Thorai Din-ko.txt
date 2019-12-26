@@ -9,7 +9,7 @@ baaf-jhaiň jivan-laai liyera
 (ghamaNDa garnu byertha cha,
 byertha cha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (संसार हाम्रो स्थायी घर नै होइन
 एक दिन यसलाई छोड्नै पर्छ) २
 (आफ्ना सारा धन,
@@ -31,7 +31,7 @@ yehiň choDi jaanu-cha) ~2
 khaali haat lii
 ritto bhai jaanu-cha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (संसार अब चाँडै नाश हुनेछ
 क्रोध परमेश्‍वरको खनिने छ)२
 तब बादलमा दूतगणको साथमा
@@ -51,7 +51,7 @@ yeshu orli aaune-chan) ~2
 uddhaar paaune-haru
 uni-saath jaane-chan) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (ख्रीष्ट येशूको अवाइ दैलोमै छ
 चिन्ह पूरा भइरहेका छन्) २
 (दीन र चूर्ण हृदय लिएर
@@ -69,7 +69,7 @@ yeshu-ko sharaN-maa aauň) ~2
 (unkaa santa-gaN-saath
 sworga-maa raajye garna-laai) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (संसारका सारा थोकलाई जाँजी सक्यौँ
 एक खेप ख्रीष्टलाई जाँची हेर) २
 (असल रहेछन् या खराब रहेछन्

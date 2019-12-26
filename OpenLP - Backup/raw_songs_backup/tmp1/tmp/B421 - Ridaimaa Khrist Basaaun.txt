@@ -9,7 +9,7 @@ jivan un-laai caDhaauň
 (jivan roshani prabhu-ko lii
 jivan-ko dip jalaauň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (प्रभु हाम्रो जीवनाधार,
 करुणा जसको अपार) २
 (स्वर्गको वैभव त्यागेर ...
@@ -20,7 +20,7 @@ karuNaa jas-ko apaar) ~2
 (sworga-ko baibhab tyaagera ...
 haa ...aaunubho jag-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रभु ख्रीष्टको आदेश लिई
 जीवन शुद्ध बिताऔं) २
 (उनको महिमा फिजाऔं ...
@@ -31,7 +31,7 @@ jivan shuddha bitaauň) ~2
 (unko mahimaa fijaauň ...
 haa ...saaraa sansaar-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (सुसमाचार हामी प्रचारौं,
 प्रभुको राज्य बढाऔं) २
 (सनातनी राजा येशूलाई ...

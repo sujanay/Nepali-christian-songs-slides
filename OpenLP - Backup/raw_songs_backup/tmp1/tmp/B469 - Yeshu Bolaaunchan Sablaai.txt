@@ -9,7 +9,7 @@ prem-saath bolaauň-chan,
 aňgaalo-maa unko,
 yeshu bolaauň-chan sab-laai
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हृदय तिम्रो हताश भए,
 शक्ति छ तिम्रोलागि) २
 (मुक्ति र ज्योति तिम्रैलागि
@@ -20,7 +20,7 @@ shakti cha timro-laagi) ~2
 (mukti ra jyoti timrai-laagi
 yeshu-kahaaň lina aau aaja) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (सब रोगलाई निको पार्ने
 शक्ति छ उनीकहाँ) २
 (तत्पर छन्‌ तिम्रो मुक्तिदाता

@@ -5,21 +5,21 @@
 {y}swaagat cha, timi-laai
 yeshu khrisT-ko naauň-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 आऊ भाइ, आऊ बहिनी,
 येशूको छेउमा आउनलाई स्वागत।
 
 {y}aau bhaai, aau bahini,
 yeshu-ko cheu-maa aaun-laai swaagat.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 कलवरी दृश्य विचार गरी हेर्दा
 अति क्लेश सहँदै स्वागत।
 
 {y}kalwari drishye bicaar gari herdaa
 ati klesh sahaňdai swaagat.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 गलगथाको पहाडैमा बलिदान भए
 हाम्रो निम्ति स्वागत छ।
 

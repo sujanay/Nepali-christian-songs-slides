@@ -9,7 +9,7 @@ prashaňsaa-le aaja) ~2
 (har-pal timro mahimaa gaauň-chu) ~2
 tirsanaa liyera
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (टुटेको छु नम्र बनेर
 केवल येशूमा आस्था राखेर) २
 (दर्शन देऊ प्रभु अभिलाषी छु
@@ -27,7 +27,7 @@ yo dukhi-ko arji sunileu) ~2
 {y}(har-pal timro mahimaa gaauň-chu) ~2
 tirsanaa liyera
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अँजुलिभरि पश्‍चात्तापी आँसु
 पोखिरहेछु ख्रीष्टको चरणमा) २
 (विवशका गोरेटोहरूमा ख्रीष्टको मधुर

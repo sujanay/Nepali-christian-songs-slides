@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (धन्यवाद येशू) ३
 मेरो मनदेखि [हल्लेलूयाह]
 (धन्यवाद येशू) ३
@@ -9,7 +9,7 @@ mero man-dekhi [halleluyaah]
 (dhanyebaad yeshu) ~3
 mero man-dekhi
 
----[Verse 2:]---
+---[Verse:2]---
 (स्तुति होस् प्रभु) ३
 मेरो मनदेखि [हल्लेलूयाह]
 (स्तुति होस् प्रभु) ३
@@ -20,7 +20,7 @@ mero man-dekhi [halleluyaah]
 (stuti hos prabhu) ~3
 mero man-dekhi
 
----[Verse 3:]---
+---[Verse:3]---
 (हल्लेलूयाह येशू) ३
 मेरो मनदेखि [हल्लेलूयाह]
 (हल्लेलूयाह येशू) ३
@@ -31,7 +31,7 @@ mero man-dekhi [halleluyaah]
 (halleluyaah yeshu) ~3
 mero man-dekhi
 
----[Verse 4:]---
+---[Verse:4]---
 (प्रशंसा होस् प्रभु) ३
 मेरो मनदेखि [हल्लेलूयाह]
 (प्रशंसा होस् प्रभु) ३
@@ -42,7 +42,7 @@ mero man-dekhi [halleluyaah]
 (prashaňsaa hos prabhu) ~3
 mero man-dekhi
 
----[Verse 5:]---
+---[Verse:5]---
 (जयजयकार होस् प्रभु) ३
 मेरो मनदेखि [हल्लेलूयाह]
 (जयजयकार होस् प्रभु) ३

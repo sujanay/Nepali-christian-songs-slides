@@ -7,7 +7,7 @@
 jivan amar, amar cha yeshu-maa,
 aashaa-ko diyo nibh-daina.
 
----[Verse 1:]---
+---[Verse:1]---
 (सहाराहिन यो जिन्दगीमा
 जीवनको मूल्य गुमाएँ,
 संसारमा जीवन सुम्पेर
@@ -25,7 +25,7 @@ jivan-ko lakchye haraayeň) ~2
 tara yeshu sahaaraa banera
 harek kadam-maa saath dinu-bho.
 
----[Verse 2:]---
+---[Verse:2]---
 (दौडिरहें अन्योल यात्रामा
 क्रूसको प्रेम भुलेर,
 भड्किरहें यो अन्धकारमा

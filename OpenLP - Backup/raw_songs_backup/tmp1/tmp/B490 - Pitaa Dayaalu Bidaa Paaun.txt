@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पिता दयालु बिदा पाऔं,
 आशिष्‌ सब पाई घरमा जाऔं
 भूल-चूक माफ दिनोस्‌ जो गर्‍यौं,
@@ -9,7 +9,7 @@ aashis sab paai ghar-maa jaauň
 bhul-cuk maaf dinos jo garyauň,
 upadesh-le man-maa shuddha ho-auň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 छौं पापी हामी अनेक बार
 तैपनि दया छ अपार
 सेवालाई मञ्‍जुर गर्नुहोस्‌,

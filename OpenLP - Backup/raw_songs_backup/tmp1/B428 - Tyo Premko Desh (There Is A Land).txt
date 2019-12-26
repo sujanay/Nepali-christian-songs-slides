@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 त्यो प्रेमको देश म हेर्दै छु,
 परमानन्दको ध्यान म गरी
 सब उज्यालो भइरहेको
@@ -20,7 +20,7 @@ chaina wahaaň raat sansaar-ko
 hiňD-dai jaaň-daa, prem-ko desh-maa,
 chiTTai hun-chauň prem-ko desh-maa
 
----[Verse 2:]---
+---[Verse:2]---
 त्यो प्रेमको देश शान्त छ सीमा,
 वहाँ छैन दु:ख, न पापको दाग
 वहाँ जो भेट्‌छन्‌, छुटिँदैन,
@@ -31,7 +31,7 @@ wahaaň chaina dukha, na paap-ko daag
 wahaaň jo bheT-chan, chuTiň-daina,
 dharmi-haru hunchan bheT-ghaaT.
 
----[Verse 3:]---
+---[Verse:3]---
 छैन आसमान यहाँको जस्तो,
 रात नै फरक, दिन नै फरक
 घाम लाग्‍‌नलाई छैन दरकार,
@@ -42,7 +42,7 @@ raat nai farak, din nai farak
 ghaam laagna-laai chaina dar-kaar,
 chaňdai chaina aňdhyaaro raat.
 
----[Verse 4:]---
+---[Verse:4]---
 शोकको हावा वहाँ बग्दैन
 त्यस सुख र शान्तिको देशमा
 वहाँ जो पुग्छन्‌, आसन पाउँछन्‌,

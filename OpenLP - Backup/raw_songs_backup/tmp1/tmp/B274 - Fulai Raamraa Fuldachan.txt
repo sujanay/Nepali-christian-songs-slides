@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 फूलै राम्रा फुल्दछन्‌,
 ईश्‍वरलाई देखाउँदछन्‌
 हाम्रो जीवन त्यस्तै छ,
@@ -9,7 +9,7 @@ ishwor-laai dekhaauň-dachan
 haamro jivan tyestai cha,
 sworgiye prem dakhaauň-dacha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 राती जून र तारा छन्‌,
 घाम दिउँसो चम्कँदछ
 हाम्रो जीवन त्यस्तै छ,
@@ -20,7 +20,7 @@ ghaam diuňso camkaň-dacha
 haamro jivan tyestai cha,
 sworge jyoti-le gher-dacha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सबै मानिस पापी छन्‌,
 मुक्ति ख्रीष्टले दिएछन्‌
 स्वर्गलोकमा सुख-चैन छ,
@@ -31,7 +31,7 @@ mukti khrisT-le diyechan
 sworga-lok-maa sukha-caina cha,
 mukti paaune tar-dachan.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रेम ईश्‍वरले गरेछन्‌,
 येशू पुत्र दिएछन्‌
 उनमा विश्‍वास गर्ने जन,

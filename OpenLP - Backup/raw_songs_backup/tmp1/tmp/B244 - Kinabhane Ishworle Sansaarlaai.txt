@@ -20,7 +20,7 @@ kohi nasTa huna paauňdainan
 tara ananta jivan paai prabhu-ko
 saath-maa sadaa basnechan
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (स्वर्गको मुनि अरु कुनै नाउँमा
 उद्धार छैन भाइ) २
 सत्य हो झुण्डिएको
@@ -31,7 +31,7 @@ uddhaar chaina bhaai) ~2
 satye ho jhuNDiyeko
 ishwor timro laagi.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यही सुसमाचार सुनाइदेऊ
 सारा संसारमा आज) २
 मानिसको रूप लिएर

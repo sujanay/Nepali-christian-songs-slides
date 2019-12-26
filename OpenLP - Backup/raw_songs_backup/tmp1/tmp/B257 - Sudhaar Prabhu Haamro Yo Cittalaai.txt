@@ -7,7 +7,7 @@
 khrisT ishwora-ko prema-le pahi-ryaai
 sudhaara prabhu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 पापी जन सबको
 खूब ताडना गरी,
 पाप श्राप सबको
@@ -27,12 +27,12 @@ jaDa nasTa paari,
 ti prem-le khaari lai-jaau prabhu,
 yo bhav-saagar taari.
 {/y}
----[Chorus 2:]---
+---[Chorus:2]---
 सुधार प्रभु ...
 
 {y}sudhaara prabhu ...
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (भक्तिविहीनको, आशारहितको,
 शक्ति देऊ प्रभु, दृढविश्‍वास गर्ने) २
 धर्मविहीनको त्यो अल्प ज्ञानको,
@@ -43,7 +43,7 @@ shakti deu prabhu, driDha-vishwaas gara-ne) ~2
 dharma-bihina-ko tyo alpa gyaan-ko,
 timi chau prabhu sangkaTa hara-ne.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हे प्रभु येशू,
 सब दु:ख हर्ने,
 दु:खी जनको मङ्गल मूलकारी,

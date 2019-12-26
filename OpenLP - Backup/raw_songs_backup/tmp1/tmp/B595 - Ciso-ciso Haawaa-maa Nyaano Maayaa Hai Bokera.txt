@@ -9,7 +9,7 @@ nyaano maayaa hai bokera
 (yeshu raajaa aayekaa chan
 hai uddhaar liyera) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 परदेशी बनेर आए
 स्वर्गलाई छोडेर आए
 पस्रिए गोठैमा
@@ -29,7 +29,7 @@ dharti-maa jyoti charera aňdheri haTaaye) ~2
 (prashaňsaa haamro yeshu-laai
 ridai kholera) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नयाँ आशा हृदयमा छ
 मुक्तिदाता येशूको प्यारो
 सन्देश सुनेर

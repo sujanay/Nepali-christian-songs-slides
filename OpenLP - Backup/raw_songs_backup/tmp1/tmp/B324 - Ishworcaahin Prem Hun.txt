@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरचाहिँ प्रेम हुन्‌,
 प्रेमचाहिँ अमर हो,
 ईश्‍वर प्रेम सर्वश्रेष्ठ हो,
@@ -11,7 +11,7 @@ ishwor prem sarva-shresTh ho,
 vishwaas, aashaa ra prem-madhye
 pani prem sabai-bhandaa shresTh ho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पूर्ण हृदय र शक्ति, बल,
 प्राणले परम ईश्‍वरलाई प्रेम गरौं,
 छिमेकीसँग आफैसँग झैँ
@@ -22,7 +22,7 @@ praaN-le param ishwor-laai prem garauň,
 chimeki-saňga aafai-saňga jhaiň
 sarvadaa niskapaT prem garauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रेमले सदाकाल धीरज धर्दछ,
 प्रेमले कहिल्यै ईख गर्दैन,
 प्रेमले कहिल्यै शेखी गर्दैन,
@@ -33,7 +33,7 @@ prem-le kahilyei ikha gar-daina,
 prem-le kahilyei shekhi gar-daina,
 prem-caahiň kahilyei fuliň-daina.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रेमले कुरीति कहिल्यै गर्दैन,
 आफ्‍‌नै भलाइ खोज्दैन,
 बुराई, घमण्ड, छल, कपट गर्दैन,
@@ -44,7 +44,7 @@ aafnai bhalaai khoj-daina,
 buraai, ghamaNDa, chala, kapaT gar-daina,
 prem-caahiň kahilyei mar-daina.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 प्रभु येशूको पछिल्लो आज्ञा
 एक-अर्कासँग प्रेम गरौं,
 एक-अर्काको प्रेमको ऋण बोक्दै

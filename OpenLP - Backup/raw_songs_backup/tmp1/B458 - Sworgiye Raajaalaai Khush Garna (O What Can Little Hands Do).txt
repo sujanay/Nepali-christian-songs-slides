@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 स्वर्गीय राजालाई खुश गर्न
 के सक्छन्‌ साना हातले?
 कोशिश गरून्‌ साना हातले
@@ -11,7 +11,7 @@ koshish garun saanaa haat-le
 dukhit-laai dukha-maa gohaar garne,
 yesto anugraha paauň.
 
----[Verse 2:]---
+---[Verse:2]---
 स्वर्गीय राजालाई खुश गर्न
 के सक्छन्‌ साना ओठले?
 स्तुति, प्रार्थना साना ओठले
@@ -24,7 +24,7 @@ stuti, praarthanaa saanaa oTh-le
 ra naram bhalaa baat garne,
 yesto anugraha paauň.
 
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गीय राजालाई खुश गर्न
 के सक्छन्‌ साना पाउले?
 सुमार्गमा हिँड्‌न यी पाउले
@@ -37,7 +37,7 @@ su-maarga-maa hiňDna yi paau-le
 prabhu-ko naam prakaash garne,
 yesto anugraha paauň.
 
----[Verse 4:]---
+---[Verse:4]---
 स्वर्गीय राजालाई खुश गर्न
 के सक्छन्‌ साना आँखाले?
 हेरूँ स्वर्गलोक साना आँखाले,
@@ -50,7 +50,7 @@ heruň sworga-lok saanaa aaňkhaa-le,
 pavitra dharma-pustak paDhne,
 yesto anugraha paauň.
 
----[Verse 5:]---
+---[Verse:5]---
 स्वर्गीय राजालाई खुश गर्न
 के सक्छन्‌ साना मनले?
 प्रेम मनले मित्र बनाउने,

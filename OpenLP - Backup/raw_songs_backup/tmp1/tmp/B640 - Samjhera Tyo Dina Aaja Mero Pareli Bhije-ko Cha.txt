@@ -9,7 +9,7 @@ pareli bhijeko cha) ~2
 (prabhu yeshu-laai ropeko bhaalaa
 muTu-maa bijeko cha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कति दु:ख भयो होला
 क्रूसको भारी बोक्दा
 कति पिडा भयो होला
@@ -31,7 +31,7 @@ praaN tyaagnu-bho
 (ma jasto paapi-laai
 jivana dinu-bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मानिसलाई माया गरी
 आफै धोका पाउनुभयो
 तै पनि खुशि भई

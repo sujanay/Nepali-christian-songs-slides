@@ -11,7 +11,7 @@ dusTa-le dekhcha tori-ko fula
 aatmaa-ko shakti-maa.) ~2
 (harabaara) ~4
 
----[Verse 1:]---
+---[Verse:1]---
 दायाँ-बायाँ, उत्तर-दक्षिण,
 अघि-पछि, पूर्व-पश्‍चिम,
 (बढिरहेछ प्रभुको रज्य
@@ -39,7 +39,7 @@ aghi aghi baDhauň,
 aghi aghi baDhauň
 (harabaara) ~4
 
----[Verse 2:]---
+---[Verse:2]---
 (काला-सेता सबै नेपाली
 धनी गरीबबीर गोर्खाली) २
 (मारेर होइन, मरेर जितौँ

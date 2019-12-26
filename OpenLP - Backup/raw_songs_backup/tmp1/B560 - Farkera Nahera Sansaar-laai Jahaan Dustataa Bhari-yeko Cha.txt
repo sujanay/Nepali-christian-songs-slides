@@ -9,7 +9,7 @@ jahaaň dusTa-taa bhari-yeko cha
 shaitaan-ko paaso-maa parera
 dherei nai aatmaa mareko cha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (छोएर नहेर संसारलाई
 त्यहाँ आगो र गन्धक छ) २
 (बुझेर पनि नबुझ्नेलाई
@@ -20,7 +20,7 @@ tyehaaň aago ra gandhak cha) ~2
 (bujhera pani na-bujhne-laai
 ananta mrityu-ko sajaaye cha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (चाखेर नहेर संसारलाई
 त्यहाँ पापको प्याला छ) २
 (ख्रीष्टलाई चिनेर पनि छोड्नेलाई

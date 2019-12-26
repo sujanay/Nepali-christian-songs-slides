@@ -7,7 +7,7 @@
 yi haamraa ridai-haru
 (bacan jhaiň pavitra hoi-rahos ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (हिमालभन्दा अझ अग्लो,
 सागरभन्दा अझ गहिरो) २
 (ख्रीष्टको माया सधैं सधैं
@@ -18,7 +18,7 @@ saagar-bhandaa ajha gahiro) ~2
 (khrisT-ko maayaa sadhaiň sadhaiň
 aTal bhai baDhdai jaa-os ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (प्रभुको माया पूर्ण छ यहाँ
 हिँड्नुछ एउटै आत्मिक बाटोमा) २
 (एउटै आत्मिक बाटोमा

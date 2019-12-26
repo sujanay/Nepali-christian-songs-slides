@@ -7,7 +7,7 @@
 bihaani-ko taaraale
 aňdhyaaro haTaau-nechan
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो प्रतीक्षा पूरा हुने भो,
 ख्रीष्टको प्रतिज्ञा साँचो हुने भो) २
 (हुने भो) ३
@@ -20,7 +20,7 @@ khrisT-ko pratigyaa saaňco hune bho) ~2
 (aaunechan) ~2
 malaai lina aaunechan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (शिर उठाई माथि हेर तिम्रो
 छुटकारा नजीक आ'को छ) २
 (आ'को छ) ३

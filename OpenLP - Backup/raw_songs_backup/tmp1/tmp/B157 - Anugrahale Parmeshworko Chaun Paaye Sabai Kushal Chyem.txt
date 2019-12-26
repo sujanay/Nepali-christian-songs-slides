@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अनुग्रहले परमेश्‍वरको छौं
 पाए सबै कुशल क्षेम
 यो दया हामीमाथि भो
@@ -27,7 +27,7 @@ maaf dinu-haus paapi-laai
 stuti gaai, stuti gaai,
 yes dina-laai maanauň prabhu-kai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रमाई जाऔं गिर्जाघर,
 आराधना गरौं ईश्‍वरको
 हे ईश्‍वर गर्नुहोस्‌ गोहार
@@ -38,7 +38,7 @@ aaraadhanaa garauň ishwor-ko
 he ishwor garnuhos gohaar
 ra haus sevaa manpardo.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 तपाईंले शिक्षा दिनुहोस्‌
 र गर्नोस्‌ आफ्‍‌नो धर्म प्रकाश
 निश्चिन्तलाई जगाउनुहोस्‌,
@@ -49,7 +49,7 @@ ra garnos aafno dharma prakaash
 nishcinta-laai jagaaunuhos,
 niraash-dekhi man shaanta rahos.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जब पुगिजाला मरणकाल,
 तब होऔं खुशी र निडर
 र जाऔं तपाईंकहाँ कृपालु

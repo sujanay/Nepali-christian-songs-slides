@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (जय जय जय जय
 येशूले दिन्छन्‌) २
 (पूरा मुक्ति,
@@ -9,7 +9,7 @@ yeshule dinchan) ~2
 (puraa mukti,
 yeshule malaai sittaiň dinchan) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जय जय जय जय
 येशू आउनेछन्‌) २
 (तिमीलाई लिन,
@@ -20,7 +20,7 @@ yeshu aaunechan) ~2
 (timilaai lina,
 malaai lina chiTTai aaunechan) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (जय जय जय जय
 येशूले दिन्छन्‌) २
 (पूरा मुक्ति

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वर महाराजालाई गर प्रणाम,
 अँ मान उनका गुण,
 सामर्थ र प्रेम,
@@ -18,7 +18,7 @@ ra rakchyek sadhaiň,
 jo baschan prataap-maa
 pahiran stutakaa-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 प्रताप अनि तेज त गर प्रकाश,
 हो वस्त्र उज्यालो,
 डेरा आकाश,
@@ -38,7 +38,7 @@ garjan-kaa baadal hajaar,
 bataas-kaa pakheTaa-maa
 hunchan sawaar.
 
----[Verse 3:]---
+---[Verse:3]---
 भूलोक अनि त्यसका उदेकका धन
 बसाल्‍‌नुभो तपाईंले,
 सर्वशक्तिमान्‌,
@@ -54,7 +54,7 @@ sarva-shaktimaan,
 sthir aagyaale garnubho darilo tyes-laai
 ghernu-bho samundra-le khaasTaa-le jhaiň.
 
----[Verse 4:]---
+---[Verse:4]---
 तपाईंको निधोले राखी विश्‍वास
 सब खाँचोअनुसारको भेट्‌छ निकास,
 

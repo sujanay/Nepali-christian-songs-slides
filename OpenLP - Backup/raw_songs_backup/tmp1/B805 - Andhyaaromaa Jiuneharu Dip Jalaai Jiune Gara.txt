@@ -9,7 +9,7 @@ dip ja-laai jiune gara,
 haar namaan jivan-sita
 jivit prabhu-laai khoji gara.
 
----[Verse 1:]---
+---[Verse:1]---
 (जे जति भएका ती मनका
 सबै व्यर्थहरू) २
 (सबैको पापलाई विजय दिने
@@ -20,7 +20,7 @@ sabai byertha-haru) ~2
 (sabai-ko paap-laai bijai dine
 prabhu yeshu-maa raakhi-deu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उद्धार मुक्ति पाउँछौ तिमी प्रभुलाई
 विश्‍वास गरेपछि) २
 (आत्मामा सधैँ शान्ति पाउँछौ

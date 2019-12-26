@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सबै जातिका परमेश्‍वर,
 सारा पृथ्वी र स्वर्गको मालिक
 तपाईंको नाउँ उच्च पार्छौं,
@@ -9,7 +9,7 @@ saaraa prithivi ra sworga-ko maalik
 tapaaiň-ko naauň ucca paarchauň,
 tapaaiň-ko shakti-ko baDhaai garchauň.
 
----[Verse 2:]---
+---[Verse:2]---
 (सारा संसारले येशूलाई देख्‍‌नुपर्छ,
 सारा मानिसले येशूलाई पुज्‍‌नुपर्छ) २
 कारण तपाईं मात्र राजा र प्रभु,
@@ -20,7 +20,7 @@ saaraa maanis-le yeshu-laai pujnu-parcha) ~2
 kaaraN tapaaiň maatra raajaa ra prabhu,
 (ek maatra parmeshwor) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 सारा जातिले येशूलाई चिन्‍‌नैपर्छ,
 (सारा नेपालीले येशूलाई पाउनुपर्छ) २
 कारण तपाईं मात्र राजा र प्रभु,

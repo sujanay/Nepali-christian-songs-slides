@@ -9,7 +9,7 @@ ghumdaa ghumdai yeshu-kahaaň) ~2
 (baaTo do-baaTo-maa almali-raheň
 ma aafai nai haraai-rahe) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (प्रेमको प्रतीकलाई खोजे
 प्रेम पाउन मैले) २
 म भौतारिरहेँ शान्तिको
@@ -29,7 +29,7 @@ khoji-maa haraai-raheň
 mukti-ko baaTo aatmaa-ko shaanti
 ma khoji raheň ma laagi raheň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (बितिरहे ती दिनहरू आशा निराशामा) २
 म खोजी रहेँ संसारमा
 मैले पाएँ स्वार्थी जीवनहरू

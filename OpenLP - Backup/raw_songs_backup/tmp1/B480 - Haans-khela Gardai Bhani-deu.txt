@@ -21,7 +21,7 @@ garib goThai-maa) ~2
 
 haaňs-khela gardai bhani-deu
 
----[Verse 1:]---
+---[Verse:1]---
 (गोठालाहरूलाई पहिले
 दर्शन पठाए पिताले) २
 दूतगण आई भन्‍नलागे
@@ -43,7 +43,7 @@ daa-ud-ko shahar-maa
 gai hera timro prabhu-laai
 pahile najar-maa
 
----[Verse 2:]---
+---[Verse:2]---
 (पूर्वका ज्ञानी ज्योतिषी
 आकाश हेरेर बात गर्थे) २
 साँझको नौलो तारा देखी

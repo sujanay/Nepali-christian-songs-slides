@@ -9,7 +9,7 @@ baadal-jhaiň yo jivan ho
 ek din haami-laai jaanucha
 yeshu masih-ko sammukh-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरको पुत्र येशू हुन्‌,
 अवतार भए पापी जगत्‌मा
 पापदेखि मुक्ति उनैले दिन्छन्‌,
@@ -29,7 +29,7 @@ baaTo ra saccaai, jivan uni
 naauň aru chaina,
 mukti dina-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 धर्म र कर्म गरेर,
 संसारको सुखमा भुलेर
 समय नष्ट नगरौं
@@ -47,7 +47,7 @@ samai nasTa na-garauň
 yeshu masih najikai chan,
 mukti dina-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 साँचो हृदय लिएर,
 साष्टाङ्ग दण्डवत्‌ गरेर,
 हे येशू म पापी

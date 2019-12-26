@@ -9,7 +9,7 @@ bojh-le laadiyekaa-haru) ~2
 (aatmiki aaňkhaa-laai
 paap-ko bandhan-maa baaňdhiyekaa-haru) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (तिम्रो नयनलाई ज्योति दिन
 संसारको ज्योति बनेर आए) २
 (तिम्रो आत्मालाई मुक्ति दिन
@@ -20,7 +20,7 @@ sansaar-ko jyoti banera aaye) ~2
 (timro aatmaa-laai mukti dina
 mukti-daataa banare aaye
 
----[Verse 2:]---
+---[Verse:2]---
 (बाटो सत्य येशू नै हुन्
 अनन्त मुक्ति उनी नै हुन्) २
 (सत्य येशूमा दया क्षमा छन्

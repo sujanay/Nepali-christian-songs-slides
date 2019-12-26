@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे प्रेममय प्रभु,
 तपाईंको वाक्य
 (अमृततुल्य छ) २
@@ -18,7 +18,7 @@ prabhu, amrit-tulye cha
 (praaN mero rahancha) ~2
 prabhu, praaN mero rahancha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 घोर अन्धकारमा मार्ग र ज्योति
 (तपाईंको वाक्य छ) २
 प्रभु, तपाईंको वाक्य छ
@@ -36,7 +36,7 @@ prabhu, tapaaiň-ko baakye cha
 (tapaaiň-saath chan yeshu) ~2
 prabhu, tapaaiň-saath chan yeshu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दुइ धारे खङ्गतुल्य तपाईंका
 (तेजिला वाक्य छन्‌) २
 प्रभु, तेजिला वाक्य छन्‌
@@ -54,7 +54,7 @@ prabhu, tejilaa baakye chan
 (cha nirbal haamro man) ~2
 prabhu, cha nirbal haamro man.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 शोक र सन्ताप,
 पाप र जीवन
 यी सबका बास छन्‌) २

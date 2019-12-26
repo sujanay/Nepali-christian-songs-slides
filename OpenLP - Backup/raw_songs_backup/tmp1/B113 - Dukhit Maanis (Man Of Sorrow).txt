@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 'दु:खित मानिस' कस्तो नाम,
 येशू छोडी स्वर्गलोक
 तिरे पापको मुक्ति दाम,
@@ -9,7 +9,7 @@ yeshu choDi sworga-lok
 tire paapko mukti daam,
 halleluyaah, muktidaataa.
 
----[Verse 2:]---
+---[Verse:2]---
 भोगे निन्दा लाज हैरान,
 मेरो साटो दिए ज्यान
 रगतद्वारा क्षमादान,
@@ -20,7 +20,7 @@ mero saaTo diye jyaan
 ragat-dwaaraa chyemaadaan,
 halleluyaah, muktidaataa.
 
----[Verse 3:]---
+---[Verse:3]---
 दोषी, नीच, अनाथ हामी,
 बलि ईश्‍वरको उनी
 पूरा मेलमिलाप अनि
@@ -31,7 +31,7 @@ bali ishworko uni
 puraa mel-milaap ani
 halleluyaah, muktidaataa.
 
----[Verse 4:]---
+---[Verse:4]---
 क्रूसमा मारिएका थिए,
 'अब सिद्धियो' कराए
 अनि स्वर्गलोक फर्के,
@@ -42,7 +42,7 @@ krusmaa maariekaa thiye,
 ani sworga-lok farke,
 halleluyaah, muktidaataa.
 
----[Verse 5:]---
+---[Verse:5]---
 येशू जगमा फेरि आई,
 घर पुर्‍याउलान्‌, हामीलाई
 तब गाऔंला खूब रमाई,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु येशू हाम्रो पृथ्वीपति,
 प्यारो ईश्‍वरको पुत्र र मानिसको
 तपाईंलाई हे प्रभु,
@@ -11,7 +11,7 @@ tapaaiňlaai he prabhu,
 stuti caDhaauňchu,
 mahimaa, aananda, jai mero.
 
----[Verse 2:]---
+---[Verse:2]---
 चउर खूब रमाइलो छ,
 वन त झन्‌ रमाइलो छ,
 वसन्तको शोभाले ढाकेको
@@ -31,7 +31,7 @@ yeshu jhan shuddha,
 chan jasle haTaauňchan
 dukha haamro.
 
----[Verse 3:]---
+---[Verse:3]---
 घाम अति राम्रो छ,
 जून असाध्य राम्रो छ,
 आकाश छ ताराले भरेको

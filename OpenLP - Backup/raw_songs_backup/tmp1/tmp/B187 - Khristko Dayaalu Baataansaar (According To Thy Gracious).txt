@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्टको दयालु बातअन्सार
 चूर्ण र दीन मन भई
 हे प्रभु, र यस्तो गर्छु
@@ -9,7 +9,7 @@ curNa ra din man bhai
 he prabhu, ra yesto garchu
 ma samjhanchu tapaaiň-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तपाईंको जीउ भाँचेको
 स्वर्ग-भोजन होस्‌ मेरो
 म लिन्छु नयाँ करारको
@@ -20,7 +20,7 @@ sworga-bhojana hos mero
 ma linchu nayaaň karaar-ko
 samjhaaune kacauro.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 गेतसमनीको साह्रो दु:ख
 र संकट क्लेश हेर्दै
 के ती सब कुरा बिर्सिन्छु
@@ -31,7 +31,7 @@ ra sangkaT klesha herdai
 ke ti sab kuraa birsinchu
 samjhanchu tapaaiň-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जब हेर्छु कलवरीको क्रूस,
 ख्रीष्ट टाँगिए त्यसमा
 ईश्‍वरका थुमा बलिदान
@@ -42,7 +42,7 @@ khrisT Taaňgiye tyes-maa
 ishwor-kaa thumaa balidaan
 ma raakhchu samjhanaa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 अँ सब तपाईंको पीडाको
 र प्रेम मसँगका
 सास फेरुन्जेल, अँ सधैँभर
@@ -53,7 +53,7 @@ ra prem ma-saňga-kaa
 saas ferunjel, aň sadhaiň-bhara
 ma raakhchu samjhanaa.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 जब मेरो मर्ने बेला छ
 र मेरो प्राण उडाई
 आफ्‍‌नो राज्यमा आउँदाखेरि

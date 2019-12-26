@@ -9,7 +9,7 @@ prabhu yeshu sansaar-maa) ~2
 (suna hai saathi bhaai
 yeshu-ko miTho bacan) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 अन्धकार जीवन सधैँ नै
 दुःखमा आँशुले भरेको,
 अन्धकार जीवन सधैँ नै
@@ -31,7 +31,7 @@ nayaaň jivan dina-laai,
 sworga-ko sukha-laai tyaagera aaunu-bho
 ridai-ko coT meTna-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 परमप्रभुको ज्ञानहरू असल छन्
 हृदयलाई शान्ति दिने,
 परमप्रभुको आशिष् अपार छन्

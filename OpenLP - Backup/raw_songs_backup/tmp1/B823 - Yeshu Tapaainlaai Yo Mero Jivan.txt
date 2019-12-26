@@ -9,7 +9,7 @@ aaja nai sum-panchu) ~2
 (maile gare-ko bigat-kaa
 sabai galti-laai swikaar-chu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 कहिले जानेरै कहिले
 अन्जानमा भूल हुन पुग्यो कि ?
 त्यही भुल्ले गर्दा
@@ -31,7 +31,7 @@ bhul-dina tapaaiň-laai,
 (paapai-maa janme paapai-maa hukeň
 maaf gar-nuhos ma-laai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 विगत मेरो जे जस्तो रह‍यो
 वर्तमान सुधार्छु,
 यो पापी हृदय तपाईंको

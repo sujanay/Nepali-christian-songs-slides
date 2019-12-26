@@ -5,7 +5,7 @@
 {y}(jaijai gara ...khushile
 ...prabhuko ...janma din) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मरियम गर्भवती थिइन्‌
 पवित्र आत्माले,
 त्याग्‍‌ने इच्छा गरे योसेफ,
@@ -27,7 +27,7 @@ khabar puryaaye,
 ani unle mariyem-laai
 aafnai garaaye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 भेडी गोठमा गोठाला
 सब गोठै छोडेर गाउँदै गए,
 ख्रीष्टको जयजय दर्शन गरेर,
@@ -47,7 +47,7 @@ khrisTko janma bho,
 agam-bhaktaa-le boleko
 bacan puraa bho
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सानो तारा देखा पर्‍यो पूर्व देशमा
 ज्योतिषीहरू दौडँदै आए प्रभुको खोजमा,
 बालक ख्रीष्टको दर्शन पाई
@@ -66,7 +66,7 @@ aanandit bhaye,
 {y}kantura kholi suna,
 dhup, murrakaa bheTi caDhaaye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आउनुहोस्‌ आजै हे भाइ हो,
 विश्‍वास गरेर
 माग्‍‌नुहोस्‌ क्षमा प्रभुको पाउमा परेर,

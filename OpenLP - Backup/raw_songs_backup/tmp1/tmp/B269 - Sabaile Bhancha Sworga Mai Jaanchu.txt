@@ -9,7 +9,7 @@ jaanchau po bhai ho kasari
 nepaala haamro desh kati raamro
 khrisTko paailaa Tekera
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उकाली बाटो नधाउँदै
 पापको बोझ लिएर
 सुखले बाँचौं संसारमा,
@@ -20,7 +20,7 @@ paapa-ko bojha liyera
 sukha-le baaňcauň sansaar-maa,
 yeshu-laai jivan diyera.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 बुझ्छन् र कसले रोएको,
 आँशुको घुटको पिएर
 सुखको माने भुलेर,
@@ -31,7 +31,7 @@ aaňshuko ghuTko piyera
 sukhako maane bhulera,
 ke holaa byerthai jiyera.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हाँसेर आँशु सुक्दैन,
 रोएर दु:ख लुक्दैन,
 ख्रीष्टलाई बीना नसम्झी,
@@ -42,7 +42,7 @@ royera dukha lukdaina,
 khrisT-laai binaa na-samjhi,
 sworga-maa haami pugdai-nauň
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 बुद्धिले घमण्ड गरेर,
 जीवन यहाँ के होला
 पापबाट पश्‍चात्ताप आज नै,
@@ -53,7 +53,7 @@ jivan yahaaň ke holaa
 paap-baaTa pashcaattaap aaja nai,
 bholi ta abera hoi-jaalaa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हेरन आज पिताले
 हामीलाई कस्तो प्रेम गरे
 तपाईं र मेरो पापको
@@ -64,7 +64,7 @@ haami-laai kasto prem gare
 tapaaiň ra mero paapa-ko
 saato-maa khrisT marethe.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 क्रूसको बन्धन के मीठो
 उद्धार पाउनु जीवनमा,
 मूर्खता मात्र हुनेछ

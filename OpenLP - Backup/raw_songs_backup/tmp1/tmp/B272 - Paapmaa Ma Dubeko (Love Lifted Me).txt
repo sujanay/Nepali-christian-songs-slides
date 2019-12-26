@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पापमा म डुबेको थिएँ,
 बिलकुल भएँ निराश
 येशूसित माफ मागेँ,
@@ -29,7 +29,7 @@ prem gari khrisT yeshule uThaaye malaai
 (uThaaye malaai) ~2
 paap saagar-maa Dubdaa ma, uThaaye malaai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मुक्तिदाता येशूलाई
 हेर त पापी जन,
 पाप सागरको छालदेखि
@@ -51,7 +51,7 @@ aaňdhi-bataas-ko naath,
 timi-laai bacaauna
 jo pasaarchan haat.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उनलाई तन-मन-धन दिन्छु,
 मेरो हुन्‌ तारणहार,
 उनको शरणमा

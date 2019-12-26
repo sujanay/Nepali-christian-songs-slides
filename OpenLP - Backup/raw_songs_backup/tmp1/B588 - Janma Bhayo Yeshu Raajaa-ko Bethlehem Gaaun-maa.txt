@@ -9,7 +9,7 @@ bethlehem gaauň-maa
 sworga choDi aaunu-bhayo
 maanche-ko bhes-maa
 
----[Verse 1:]---
+---[Verse:1]---
 (हामी पापीलाई मुक्ति दिनलाई
 जन्म लिनुभयो यही धरतीमा) २
 अन्धकारमा ज्योति बनेर
@@ -22,7 +22,7 @@ andhakaar-maa jyoti banera
 aaunu-bhayo yeshu
 (yo sansaar-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (परमेश्‍वर पु्त्र भएर पनि
 गाईको गोठमा जन्मनुभयो) २
 साँचो परमेश्‍वर

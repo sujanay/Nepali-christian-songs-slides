@@ -16,7 +16,7 @@ aa ... haa lau hai, hera
 jana-meko hai yeshu raajaa,
 hera hai, hera lau, hera
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 भविष्यवक्ताले भनेको झैँ
 हा हा हा हा
 भविष्यवक्ताले भनेको झैँ
@@ -34,7 +34,7 @@ shabda-shabda puraa huna go
 {y}(mukti-daataa aaunu nai bho) ~2
 (thumaa naauň-le prakhyaata hunu-bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 स्वर्गीय दूतले नै तर्साए
 हा हा हा हा
 स्वर्गीय दूतले नै तर्साए

@@ -9,7 +9,7 @@ param-prabhu-ko jaijai-kaar manaauň
 aananda-saath un-ko sewaa gara,
 (bhajan gaayera un-ko saamun-ne aao) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (परमप्रभु नै परमेश्‍वर हुन्,
 उहाँले हामीलाई बनाउनुभयो) २
 (हामी उहाँका प्रजा अनि
@@ -20,7 +20,7 @@ uhaaň-le haami-laai banaaunu-bhayo) ~2
 (haami uhaaň-kaa prajaa ani
 uhaaň-kaa kharka-kaa bheRaa-haru hauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (धन्यवादसाथ र प्रशंसा गर्दै
 उहाँको ढोका र चोकभित्र पस)२
 (उहाँलाई धन्यवाद चढ़ाऔँ,
@@ -31,7 +31,7 @@ uhaaň-ko Dhokaa ra cok-bhitra pasa) ~2
 (uhaaň-laai dhanyebaad caRhaauň,
 uhaaň-ko naauň-laai dhanye-ko bhanauň) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (परमप्रभु भलो हुनुहुन्छ,
 उहाँको कृपा सधैँभरि छ) २
 (अनि उहाँको सत्यता

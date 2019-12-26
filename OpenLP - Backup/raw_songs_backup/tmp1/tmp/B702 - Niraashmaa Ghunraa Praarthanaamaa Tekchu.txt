@@ -9,7 +9,7 @@ aashaa-maa ma uThchu
 yeshu-ko caraN, aaňsu-maa parchu
 haaňso-maa uTh-dachu.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 ब्राम्हण्ड रच्ने दैवीय हातले
 मलाई थामेको छ
 भविष्य पनि स्वर्गीय हातमा
@@ -31,7 +31,7 @@ satyetaa cinaauň-cha
 pitaa-ko ichyaa bishwaasi-bic-maa
 prakaT gardacha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हे पिता, पुत्र, पवित्र आत्मा,
 चोख्याउनुहोस् मेरो मन
 सुनसरि खारी लिनुहोस्

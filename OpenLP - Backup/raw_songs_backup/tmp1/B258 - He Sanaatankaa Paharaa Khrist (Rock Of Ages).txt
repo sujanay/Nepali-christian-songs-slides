@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे सनातनका पहरा ख्रीष्ट,
 पाऊँ शरण तपाईंमा
 क्रूसमा रगत पानी
@@ -18,7 +18,7 @@ shuddha paaros nic
 malaai paap-ko dos
 ra bash haTaai
 
----[Verse 2:]---
+---[Verse:2]---
 व्यवस्था गर्न पूरा उद्योग
 पुग्दैनन्‌ मेरा
 उत्साह मेरो भए अपार,
@@ -38,7 +38,7 @@ tai tibaaTa paainnaň traaN,
 khaali khrisT
 bacaauňchan praaN.
 
----[Verse 3:]---
+---[Verse:3]---
 हातमा भेटी ल्याउन्‍‌नँ म,
 खालि क्रूसमा भर पर्छु
 आउँछु नाङ्गो असहाय,
@@ -56,7 +56,7 @@ mero uddhaarak tapaaiň
 dhaaraa maagchu bhai hataash,
 dhunos natra hunchu naash.
 
----[Verse 4:]---
+---[Verse:4]---
 मेरो रहुञ्जेल आयु
 जब हुन्छ नि मृत्यु
 अनि स्वर्गमा हेर्दा

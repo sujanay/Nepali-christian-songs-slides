@@ -11,7 +11,7 @@ ananta miraas ra inaam-laai,
 tayaar hou praapta garna-laai .
 aatmik dauD laamo cha .
 
----[Verse 1:]---
+---[Verse:1]---
 (बाधा दिन्छ पल-पलमा नाशवान्
 यो माटोको शरीरले ) २
 जागो रही प्रार्थना गरे जयवन्त
@@ -22,7 +22,7 @@ yo maaTo-ko sharir-le ) ~2
 jaago rahi praarthanaa gare jai-wanta
 timi nishcai banne-chau . ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (अल्मलाउने टन्टा भारलाई,
 पन्साएर दगुरेनौ भने ) २
 (दुर्गम हुन्छ दौड दौड्नलाई,
@@ -33,7 +33,7 @@ pansaa-yera dagu-renau bhane ) ~2
 (durgam huncha dauD dauDna-laai,
 ra dauD-maa asafal banne-chau . ) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (सत्यताको आत्मिक पेटी
 धार्मिकताको झिलम पहिरी ) २
 (मेलको समचार प्रचार गर्दै
@@ -44,7 +44,7 @@ dharmiktaa-ko jhilam pahiri ) ~2
 (mel-ko samacaar pracaar gardai
 bishwaas-ko Dhaal lii aghi baDhauň. ) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (उद्धारको दृढ टोप पहिरी
 वचनरुपी तरवार भिरी, ) २
 (प्रार्थना आत्मामा नित्य गर्दै
@@ -55,7 +55,7 @@ bacan-rupi tarawaar bhiri, ) ~2
 (praarthanaa aatmaa-maa nitye gardai
 ajeye yoddhaa-jhaiň bijayi banauň. ) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 (ख्रीष्ट येशू हुन् आत्मिक निशान
 आत्मिक लीक हो वचन उनको ) २
 (यसैमा दौडी इनाम पाउन

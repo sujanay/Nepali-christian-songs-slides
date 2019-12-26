@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दुनियाँ रमाऊ र ग्रहण गर
 ख्रीष्ट प्रभु राजालाई,
 हर मनमा होस्, उहाँलाई घर
@@ -16,7 +16,7 @@ har man-maa hos, uhaaňlaai ghar
 sansaar garos baRhaai
 sansaar, sansaar, garos baRhaai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 दुनियाँको ज्योति उनै हुन्,
 पाप क्षमा दिनेछन्
 उनले हाम्रा सबै दु:ख दूर गर्नछन्
@@ -34,7 +34,7 @@ unle haamro sabai dukha dura garnechan
 ra aashis dinechan
 ra aashis, ra aashis, dinechan
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 खुशी मनाऊ, ख्रीष्ट राजा हुन्
 साब जन र सबै प्रण
 समुद्र र पहाड़
@@ -54,7 +54,7 @@ ra kholaa ra maidaan
 gaau stutiko gitgaan
 gaau stuti, gaau stutiko gitgaan
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जनले विश्‍वास र दयाले
 राज्यलाई फैलाउँदछन्
 आफ्नो दृढ़ सत्य विभवका बाटोले

@@ -9,7 +9,7 @@ malaai bolaaune ko ho ?
 (har ghaDi, har chyeN bolaai-rahane
 mero pyaaro prabhu ho) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 थाहा नपाई पापको भारी
 लिई हिँडीरहन्छु म
 अँध्यारो पथमा ठोकर खाँदा
@@ -31,7 +31,7 @@ yes-laai sam-haalne ko ho?
 pukaar suni dui haat dine
 mero pyaaro prabhu ho.
 
----[Verse 2:]---
+---[Verse:2]---
 आशा-निराशाको कालो बादल
 आई मलाई घेर्दै छ
 पथ-भ्रान्त पथिकझैँ डुलिरहँदा
@@ -53,7 +53,7 @@ baaTo dekhaaune ko ho?
 ananta-ko tyo ramaahaT-maa laane
 mero pyaaro prabhu ho.
 
----[Verse 3:]---
+---[Verse:3]---
 नरकलोक आई परलोकमा भुली भट्‌किरहेको छु म
 व्यथा पोख्‍‌न नपाई अल्झिरहेको छु म,
 

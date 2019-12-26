@@ -9,7 +9,7 @@ samai yo huňdaa nai
 (dui din-ko jivan palak-maa bit-cha
 paaunu ta ke cha ra ?) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (यो गर्छु भन्दै त्यो गर्छु भन्दै
 जीवन बित्दैछ) २
 (छोटो यो जीवन बितेर जान्छ
@@ -20,7 +20,7 @@ jivana bitdai-cha) ~2
 (choTo yo jivan bitera jaancha
 laanu ta ke cha ra ?) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मरणपछि कसैलाई आगो
 कसैलाई मट्टीमा) २
 (मुक्ति नपाए आत्मा त पर्छ
@@ -31,7 +31,7 @@ kasai-laai maTTi-maa) ~2
 (mukti na-paaye aatmaa ta parcha
 narak-ko bhaTTi-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (ज्ञानी र मूर्ख गरीब र धनी
 नमर्ने को छ र ?) ~2
 (प्राण गएपछि साँचो न्यायबाट
@@ -42,7 +42,7 @@ na-marne ko cha ra ?) ~2
 (praaN gaye-pachi saaňco nyaaye-baaTa
 ko yo umkan-cha ra ?) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ('म दिन्छु शान्ति उद्धार र मुक्ति'
 प्रभुको वाणी छ) २
 (यै प्रभुमाथि विश्‍वास गरी

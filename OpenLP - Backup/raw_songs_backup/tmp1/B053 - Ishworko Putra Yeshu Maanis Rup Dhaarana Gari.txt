@@ -18,7 +18,7 @@ sahera dukha haamilaai
 sukha dinlaai prabhule,
 dinlaai prabhule
 
----[Verse 1:]---
+---[Verse:1]---
 तिनले सबैलाई प्यार गरे,
 बिरामीलाई चङ्गा गरे
 दु:खीलाई सहायता दिएर
@@ -40,7 +40,7 @@ guňgaalaai boli
 bahiraa-laai sunaaye shabda,
 bahiraa-laai sunaaye.
 
----[Verse 2:]---
+---[Verse:2]---
 येशूलाई यो थाहा थियो,
 सबैले पाप गरेका छन्‌
 ईश्‍वरको वचनले भन्दछ
@@ -62,7 +62,7 @@ garaauna unaile
 krusai-maa praaNa tyaage, bhaai ho,
 krusai-maa praaNa tyaage.
 
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वरको पुत्र येशू
 तेस्रो दिन बौरी उठे
 मृत्यु बन्धनलाई तोडेर
@@ -84,7 +84,7 @@ ishwor-ko cheu-maa
 haamilaai parkhaňdai chan bhaai ho,
 haamilaai parkhaňdai chan.
 
----[Verse 4:]---
+---[Verse:4]---
 कुकर्मदेखि फर्की
 प्रभुमा विश्‍वास गर्ने
 पाउँदछन्‌ ती सबले मुक्ति,

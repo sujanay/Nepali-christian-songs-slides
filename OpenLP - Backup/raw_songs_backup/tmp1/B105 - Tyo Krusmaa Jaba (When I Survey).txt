@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 त्यो क्रूसमा जब हेर्दछु
 जसमा मारिनुभो येशू
 धनसम्पत्ति म तुच्छ ठान्छु,
@@ -9,7 +9,7 @@ jas-maa maari-nubho yeshu
 dhan-sampatti ma tucch Thaan-chu,
 ghamaND tyaagi naram hunchu.
 
----[Verse 2:]---
+---[Verse:2]---
 येशूले भोगे मृत्युदण्ड
 खाली यसमा गर्छु घमण्ड
 मलाई लोभ्याउने थोकहरू
@@ -20,7 +20,7 @@ khaali yesmaa garchu ghamaND
 ma-laai lobyaaune thok-haru
 ma unko laa-gi tyaag-dachu.
 
----[Verse 3:]---
+---[Verse:3]---
 लौ उनको शिर, हातपाउदेखि
 हेर दु:ख-प्रेम निसिबग्यो।
 छ शिरमा काँडा बुनेको
@@ -31,7 +31,7 @@ her dukha-prem nisi-bagyo.
 cha shir-maa kaaňDaa bu-neko
 ke aghi yes-tai mu-kuT th'yo?
 
----[Verse 4:]---
+---[Verse:4]---
 सब संसारमा भए त मेरो,
 त्यो पनि तुच्छ दान हुन्थ्यो
 लौ यत्रो प्रेमको योग्य दान,

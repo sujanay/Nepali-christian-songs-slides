@@ -9,7 +9,7 @@ khrisT-ko janma-maa
 sun, dhup, gandharas-ko saaTo
 mahimaa din-chauň man-baaTa.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अति अचम्मको प्यार,
 गर्न मानिसको उद्धार
 येशू आए यो संसार
@@ -20,7 +20,7 @@ garna maanis-ko uddhaar
 yeshu aaye yo sansaar
 ati acamma-ko pyaar.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 कति उदेकको ईश्‍वर
 मानिस बने सृजनहार
 गर्न तिम्रो, मेरो त्राण
@@ -31,7 +31,7 @@ maanis bane srijan-haar
 garna timro, mero traaN
 khrisT-le diye krus-maa praaN.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पुनरुत्थानको प्रभु,
 मेरो जीवन चढाउँछु
 बडा-दिनको उपहार

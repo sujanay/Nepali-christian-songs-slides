@@ -5,7 +5,7 @@
 vishwaas-yogye mero prabhu
 (ma timro stuti gaau-nechu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (अनुग्रहमा मलाई डाक्यौ,
 मलाई सदा सम्हाल्दछौ) २
 यसर्थ म तिमीलाई भज्छु,
@@ -16,7 +16,7 @@ malaai sadaa samhaal-dachau) ~2
 yes-artha ma timi-laai bhajchu,
 timro prashaňsaa gaau-nechu.
 
----[Verse 2:]---
+---[Verse:2]---
 (तिम्रो प्रेमदेखि हे प्रभु,
 म बारम्बार दूर भएँ) २
 तर म तिमीकहाँ आउँदा
@@ -27,7 +27,7 @@ ma baarambaar dura bhayeň) ~2
 tara ma timi-kahaaň aauňdaa
 malaai tatkaal chyemaa garyau.
 
----[Verse 3:]---
+---[Verse:3]---
 (पापमा आफूलाई नाश पाउँदा,
 मलाई हात दिई उठाएथ्यौ) २
 शत्रुका जालझेलदेखि
@@ -38,7 +38,7 @@ malaai haat dii uThaayethyau) ~2
 shatru-kaa jaaljhel-dekhi
 malaai jaiwant jivan diyau.
 
----[Verse 4:]---
+---[Verse:4]---
 (मेरा शरणस्थान तिमी,
 तिमी नै दृढ किल्ला हौ) २
 तिमी यसका चारैपट्टि
@@ -49,7 +49,7 @@ timi nai driDha killaa hau) ~2
 timi yeskaa caarai-paTTi
 sadaiv sakchyak bhai-rahanchau.
 
----[Verse 5:]---
+---[Verse:5]---
 (तिमी नै साँचो साक्षी हौ,
 विश्‍वास-योग्य प्रभु हौ) २
 मेरो प्रभु अनादिका

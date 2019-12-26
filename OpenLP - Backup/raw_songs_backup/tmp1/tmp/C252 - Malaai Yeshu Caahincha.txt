@@ -18,21 +18,21 @@ tapaaiň mero pahilo prem) ~2
 (ma-laai yeshu caahin-cha) ~3
 laa, laa ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (संसारको पानीले
 मेटिन्दैन मेरो तृष्णा) २
 
 {y}(sansaar-ko paani-le
 meTin-daina mero trisNaa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पराईलाई आफ्‍‌नो ठान्‍‌नुभो,
 प्रेमहीनलाई प्रेम गर्नुभो) २
 
 {y}(paraai-laai aafno Thaan-nubho
 prem-hin-laai prema garnu-bho) ~2
 {/y}
----[Chorus 2:]---
+---[Chorus:2]---
 (हे येशू, तपाईं मेरो पहिलो प्रेम) २
 मलाई येशू चाहिन्छ, तिमीलाई येशू चाहिन्छ
 सबैलाई येशू चाहिन्छ,

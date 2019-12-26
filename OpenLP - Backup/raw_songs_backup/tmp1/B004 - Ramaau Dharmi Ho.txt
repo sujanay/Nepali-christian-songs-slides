@@ -7,7 +7,7 @@
 yaahwe-maa namra-laai suhaauňcha
 unko stuti) ~2x
 
----[Verse 1:]---
+---[Verse:1]---
 (वीणा बजाउँदै दण्डवत्‌ गर,
 सितार दश तारको बजाई गाऊ) २
 ठूलो गान याह्वेलाई गाऊ,
@@ -18,7 +18,7 @@ sitaara dash taarako bajaai gaau) ~2x
 Thulo gaana yaahwe-laai gaau,
 sor Thulo gari bajaau.
 
----[Verse 2:]---
+---[Verse:2]---
 (याह्वेको वचन सोझै छ,
 काम सच्चाइमा हुँदैछ) २
 न्याय धर्मलाई स्‍‌नेह गर्दछ,
@@ -29,7 +29,7 @@ kaam saccaaimaa huňdaicha) ~2x
 nyaaya dharma-laai sneh gardacha,
 karuNaa-le prithivi bhariyeko cha.
 
----[Verse 3:]---
+---[Verse:3]---
 (याह्वेको वचनले आकाश बनियो,
 मुखैको स्वासले सर्व सेना) २
 जसले समुद्र थुप्र्‍याउँछ,

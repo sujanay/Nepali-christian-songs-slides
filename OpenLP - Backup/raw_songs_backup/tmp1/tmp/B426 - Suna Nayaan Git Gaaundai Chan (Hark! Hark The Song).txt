@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सुन नयाँ गीत गाउँदै छन्‌
 मुक्ति पाउनेहरू
 स्तुति प्रभु र थुमाको यसो
@@ -20,7 +20,7 @@ dhoi shuddha paari
 haamro aatmaa-laai bacaaune
 prabhu-laai hos stuti
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हाम्रो वस्त्र उज्यालो छ
 धोई उनको रगतमा
 हाम्रो मनमा सब शान्ति छ
@@ -31,7 +31,7 @@ dhoi un-ko ragat-maa
 haamro man-maa sab shaanti cha
 un-ko sworge gyaan-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उनको रगतको शक्तिले भयो
 शैतान निर्बल
 उनको सत्यको प्रतापले
@@ -42,7 +42,7 @@ shaitaan nirbal
 un-ko satye-ko prataap-le
 haami bhayauň safal.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पुजौं ज्योति र जीवनको
 प्रभु र थुमालाई
 महिमा, आदर र शक्ति

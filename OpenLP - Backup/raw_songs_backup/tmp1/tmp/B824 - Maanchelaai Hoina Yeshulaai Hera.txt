@@ -9,7 +9,7 @@ mrityu na-parkha mukuT-laai hera,
 jhinaa masinaa kuraa-maa na-aljha,
 khrisT-ko mahimaa garna na-choDa.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जे तिमी देख्छौ त्यो तिम्रो होइन,
 तिम्रो आफ्नो जीवन तिम्रै वशमा छैन) २
 भक्ति गरिदेऊ सेखी नगर,
@@ -20,7 +20,7 @@ timro aafno jivan timrai bash-maa chaina) ~2
 bhakti gari-deu sekhi na-gara,
 (mrityu na-parkha mukuT-laai hera) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तिमीले सुनेको झुटो हुन सक्छ,
 तिम्रो बोली अरूलाई छुरा बन्‍न सक्छ) २
 छोटो यो जीवन बाँच र शृङ्गार,

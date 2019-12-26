@@ -5,7 +5,7 @@
 (kasto badlaau ma-maa) ~3
 jaba yeshu-kahaaň gayeň
 
----[Verse 1:]---
+---[Verse:1]---
 (सधैँ खाने थोक,
 मैले खान छोडेँ) ३
 जब येशूकहाँ गएँ।
@@ -14,7 +14,7 @@ jaba yeshu-kahaaň gayeň
 maile khaana choDeň) ~3
 jaba yeshu-kahaaň gayeň.
 
----[Verse 2:]---
+---[Verse:2]---
 (सधैँ पिउने थोक,
 मैले पिउन छोडेँ) ३
 जब येशूकहाँ गएँ।
@@ -23,7 +23,7 @@ jaba yeshu-kahaaň gayeň.
 maile piuna choDeň) ~3
 jaba yeshu-kahaaň gayeň.
 
----[Verse 3:]---
+---[Verse:3]---
 (सधैँ जाने ठाउँ,
 म जान छोडेँ) ३
 जब येशूकहाँ गएँ।

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आकाशभन्दा उच्च-उच्च छ नाउँ,
 सागरभन्दा गहिरो-गहिरो छ प्रेम
 आसमानभन्दा विशाल-विशाल अनुग्रह
@@ -16,7 +16,7 @@ cha, haamro prabhu yeshu-ko.
 (yesai-le garchauň prashaňsaa,
 gaauň-chauň mahimaa unai yeshu-ko) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 वाक्यले व्यक्त नहुने,
 भन्‍‌नलाई शब्द नपुग्‍‌ने प्रेम,
 आदिदेखि अहिलेसम्म
@@ -38,7 +38,7 @@ krusai-maa marnu-bho,
 mrityu-laai jitnu-bho,
 haami-laai mukti dina-laai.
 
----[Verse 3:]---
+---[Verse:3]---
 सारा सृष्टिले ढोग्‍‌नेछ,
 सबै घुँडाहरू टेक्‍‌नेछन्‌,
 निर्बल बलियो हुनेछ,

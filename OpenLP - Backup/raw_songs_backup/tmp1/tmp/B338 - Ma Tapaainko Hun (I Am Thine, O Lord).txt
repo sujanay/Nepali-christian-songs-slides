@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म तपाईंको हुँ, कति प्यार मलाई
 प्रभु ख्रीष्ट दर्शाउनुभो
 तर विश्‍वासद्वारा तपाईंको छेउ
@@ -20,7 +20,7 @@ lyaaunos aafno krus-ko cheu
 malaai najik, najik, najik, he prabhu
 aafno ghayel sharir-ko cheu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ईश्‍वरको अनुग्रहको शक्तिले
 म प्रभुको काम गरूँ
 इच्छा मेरो तपाईंकोमा मिलाई
@@ -31,7 +31,7 @@ ma prabhu-ko kaam garuň
 ichyaa mero tapaaiň-ko-maa milaai
 ishwor-maa aashaa raakhuň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जब प्रार्थनामा मित्रसँग झैँ
 तपाईंसँग बोल्छु म
 तब आउँदा तपाईंको सम्मुखमा
@@ -42,7 +42,7 @@ tapaaiň-saňga bolchu ma
 taba aauňdaa tapaaiň-ko sammukh-maa
 malaai kati aananda cha.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 म नमरुञ्‍जेल प्रेमको अनुभव
 गर्न सक्तिनँ पूरा
 म नबसुञ्‍जेल ख्रीष्टको सङ्गतमा

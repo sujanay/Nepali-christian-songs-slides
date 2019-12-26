@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पाँचै ज्ञानी, पाँचै मूर्ख
 कन्या तयार भए,
 प्रभु भेट्‌न जानलाई।
@@ -16,7 +16,7 @@ prabhu bheTna jaana-laai.
 siňgaar-paTaar paare,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हुरुरुरु राँको बाली
 हाँस्दै-खेल्दै पुगे,
 प्रभु भेट्‌न जानलाई।
@@ -34,7 +34,7 @@ prabhu bheTna jaana-laai.
 sabai uňghe, sute,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 बिर्से मूर्ख कुमारीले
 फाल्तु तेलै लिनु,
 प्रभु भेट्‌न जानलाई।
@@ -52,7 +52,7 @@ prabhu bheTna jaana-laai.
 thaale sabai maagna,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ज्ञानीहरू भन्‍‌न लागे,
 जाऊ छिट्टै किन्‍‌न,
 प्रभु भेट्‌न जानलाई।
@@ -70,7 +70,7 @@ prabhu bheTna jaana-laai.
 dauDi-dauDi aauna,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 जब गए किन्‍‌न भनी
 तब आए दुलहा,
 प्रभु भेट्‌न जानलाई।
@@ -88,7 +88,7 @@ prabhu bheTna jaana-laai.
 jai jai gare hallaa,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 जब पुगे राजमहलमा
 ढोका-दैला सब बन्द,
 प्रभु भेट्‌न जानलाई।
@@ -106,7 +106,7 @@ prabhu bheTna jaana-laai.
 aaunuhunna kohi jan,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 मूर्ख कुमारी रुँदै भन्छिन्‌
 खोल-खोल ढोका,
 प्रभु भेट्‌न जानलाई।
@@ -124,7 +124,7 @@ prabhu bheTna jaana-laai.
 lyaayauň pokaa,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 8:]---
+---[Verse:8]---
 भित्रबाट सोध्दै भन्छन्‌,
 को हौ, किन आयौ?
 प्रभु भेट्‌न जानलाई।
@@ -142,7 +142,7 @@ prabhu bheTna jaana-laai.
 kahaaň haraai-rahyau,
 prabhu bheTna jaana-laai.
 {/y}
----[Verse 9:]---
+---[Verse:9]---
 यस्तै ख्रीष्टले भन्छन्‌,
 जाग भजी मेरो नाउँ,
 प्रभु भेट्‌न जानलाई।

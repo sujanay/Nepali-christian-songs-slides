@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु, म तिमीलाई निहार्छु,
 निरव छ जीवन यहाँ मेरो
 जहीँ तहीँ पाउँछु निराशा
@@ -33,7 +33,7 @@ choDne chainau malaai dukha-maa,
 gaauň-chu aananda-sahit
 (halleluyaah) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 यौवन र सौन्दर्य
 सबै हाँसो र उल्लास सँगसँगै,
 लुप्त हुनेछन् चिसो शीतझैँ,
@@ -54,7 +54,7 @@ apnaai-deu nissaar yes jivan-laai,
 prabhu, timi-laai angaal-dachu
 sadhaiň sadhaiň.
 
----[Verse 3:]---
+---[Verse:3]---
 पृथ्बीका सब कुनातिर
 बढे मेरा पाइलाहरू,
 खोज्दै आनन्दका गोरेटाहरू,

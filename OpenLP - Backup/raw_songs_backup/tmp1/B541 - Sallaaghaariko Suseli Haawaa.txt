@@ -9,7 +9,7 @@ kati miTho git gaauň-cha srisTi-kartaa
 (garauň-na stuti timi ra haami
 milera unai-ko) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 जल, थल, नभ सारा उनैले बनाका
 घाम, जून, ताराहरू उनैले टाँगेका
 खोला-नाला डाँडा-काँडा
@@ -33,7 +33,7 @@ milera unai-ko
 lau, garauň-na stuti timi ra haami
 unai ishwor-ko.
 
----[Verse 2:]---
+---[Verse:2]---
 हिउँ, असिना, वर्षा पनि उनैले पठाका
 फूल फुलाका, फल पनि उनैले फलाका
 रङ्गबिरङ्गी रङ्गहरू उनैले पोतेका
@@ -46,7 +46,7 @@ rang-birangi rang-haru unai-le pote-kaa
 sugandha-bataas-jivan
 pani bardaan unai-kaa.
 
----[Verse 3:]---
+---[Verse:3]---
 गरौंन स्तुति तिमी र हामी
 मिलेर उनैको
 लौ, गरौंन स्तुति तिमी र हामी

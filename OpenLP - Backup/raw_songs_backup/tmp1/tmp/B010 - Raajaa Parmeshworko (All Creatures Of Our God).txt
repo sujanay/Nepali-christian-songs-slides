@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 राजा परमेश्‍वरको सृष्टि,
 स्वर आफ्‍‌नोले राग उचाली
 गाऊ स्तुति, हल्लेलूयाह
@@ -20,7 +20,7 @@ aakaash-maa caaňdi-jasto jun.
 unko stuti
 halleluyaah, halleluyaah, halleluyaah
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हे हावा, जोरमा सामर्थी
 आकाशको बादल, हे तिमी
 गाऊ स्तुति, हल्लेलूयाह।
@@ -33,7 +33,7 @@ gaau stuti, halleluyaah.
 bihaan-ko jyoti, stuti gaau
 belukaa, camki khub karaau
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हे सफा धारा, बग्दै गाऊ,
 प्रभुले सुनून्‌ राग बजाऊ
 गाऊ स्तुति, हल्लेलूयाह।
@@ -46,7 +46,7 @@ gaau stuti, halleluyaah.
 he aago, maalik, camkilo
 ujyaalo dine maanche-ko
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 सब नम्र मनका गर राग,
 माफ दिई लेऊ आफ्‍‌नो भाग,
 गाऊ स्तुति, हल्लेलूयाह।
@@ -59,7 +59,7 @@ gaau stuti, halleluyaah.
 he dukha sahne-haru ho,
 sharaN ra aashaa un-maa ho
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हे मरण, दिन्छ जो विश्राम
 जब गरिसक्यो हाम्रो काम
 गाऊ स्तुति, हल्लेलूयाह।
@@ -72,7 +72,7 @@ gaau stuti, halleluyaah.
 ishwor-ko baalak, sworga-laai
 dekhaauň-chau baaTo yeshu-kai
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 सब थोकले गाऊन्‌ धन्यवाद,
 दीन भरि गरून्‌ सधैँ याद
 गाऊ स्तुति, हल्लेलूयाह।

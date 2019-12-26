@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरको राज पहिले खोजी गर,
 उहाँको धार्मिकता,
 सबै थोक तिमीलाई थपिनेछ
@@ -16,7 +16,7 @@ hallelu halleluyaah.
 {y}(halleluyaah) ~3
 aamin, hallelu, halleluyaah.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रोटीले मात्र मानिस बाँच्दैन
 तर हरेक वचनले
 जो, परमेश्‍वरको मुखबाट निस्कन्छ
@@ -27,7 +27,7 @@ tara harek bacan-le
 jo parmeshwor-ko mukh-baaTa niskan-cha
 hallelu halleluyaah.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 माग त तिमीलाई दिइनेछ,
 खोज त भेट्टाउनेछौ
 घच्घचाऊ, ढोका उघारिनेछ,

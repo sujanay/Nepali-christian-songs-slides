@@ -11,7 +11,7 @@ mukti-daataa yeshu-saňga pratigyaa banos
 aashisa-ko jivana paai
 indreni-jastaa rang-birangi
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सम्झिहेर जीवन नै उनको दान हो
 मूल्यहीन त छैन यो दाम परेको हो) २
 बेअर्थ नहोस्‌ जीवनमा
@@ -33,7 +33,7 @@ timro jindagi-kaa kaamanaa-haru-ko
 mukti-daataa yeshu-saňga pratigyaa banos
 aashisa-ko jivana paai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यस्तै हुन्छ जीवनमा यी घटीहरू
 बाधा बनी आउनेछन्‌ ती कमीहरू,) २
 डराई नदेऊ जीवनमा,

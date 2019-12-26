@@ -18,7 +18,7 @@ timrai caraNa-maa
 ma baaňci-dinchu) ~2
 (yeshu tapaaiň-kai angaalo-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अमर होइन यो जीवन
 मर्नु नै छ एक दिन) २
 (तर बाँच्ने रहरहरू
@@ -40,7 +40,7 @@ ma baaňci-dinchu) ~2
 (yeshu tapaaiň-kai angaalo-maa) ~2
 laa laa laa ....
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (संघर्ष हो यो जीवन
 आँसु र रोदनहरूसँग) २
 (तर ख्रीष्टमा पाउँछौ

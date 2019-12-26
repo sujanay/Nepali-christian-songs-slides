@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू मलाई गर्छन्‌ प्यार,
 यो हो सब बाइबलको सार
 बालक उनका हुन्‌ वरदान,
@@ -20,7 +20,7 @@ pyaar garchan malaai,
 pyaar garchan malaai,
 yeshu-le garchan pyaar
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशू मलाई गर्छन्‌ प्यार,
 प्राण दिई खोले स्वर्गको द्वार
 मेरो पाप सब धुनेछन्‌,
@@ -31,7 +31,7 @@ praaN dii khole sworga-ko dwaara
 mero paap sab dhune-chan,
 baalak-laai bolaauň-dachan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशू मलाई गर्छन्‌ प्यार,
 जस्तै निर्बल छु बिमार
 आफ्‍‌नो सिंहासनदेखि

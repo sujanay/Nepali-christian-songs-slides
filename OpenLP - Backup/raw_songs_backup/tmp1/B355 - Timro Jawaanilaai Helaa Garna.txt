@@ -11,7 +11,7 @@ na-deu kasai-laai) ~2
 Doryaaunechan timi-laai) ~2
 (jivan-ko yo yaatraa-maa ...) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 जीवन यो हाम्रो सधैँ नरहने,
 (जानु छ एक दिन सबै) २
 (पापलाई त्यागी ख्रीष्टलाई लिई) २
@@ -22,7 +22,7 @@ Doryaaunechan timi-laai) ~2
 (paap-laai tyaagi khrisT-laai lii) ~2
 hunechauň mrityu-paar.
 
----[Verse 2:]---
+---[Verse:2]---
 (लोभ गर्छौ, लालच गर्छौ
 संसारको सबै थोकलाई) २
 (यी सबै थोक केही पनि होइन) २
@@ -33,7 +33,7 @@ sansaar-ko sabai thok-laai) ~2
 (yi sabai thok kehi pani hoina) ~2
 huna-laai mrityu-paar.
 
----[Verse 3:]---
+---[Verse:3]---
 (जीवन यो तिम्रो प्रभुलाई देऊ
 भर्नेछ आशिष्‌ले) २
 (संसारमा दु:ख, मृत्युपछि सुख) २

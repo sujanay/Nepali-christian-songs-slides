@@ -5,7 +5,7 @@
 {y}prabhuji-ko jaijaikaar hoirahos
 yeshuji-ko jaijaikaar hoirahos
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (श्रापित जगत्‌मा अवतार लिई,
 आए दु:ख उठाई, आज्ञाकारी भए) २
 (निष्कलङ्क रक्त बहाई) २
@@ -16,7 +16,7 @@ aaye dukha uThaai, aagyaa-kaari bhaye) ~2
 (niskalangka rakta bahaai) ~2
 paapi-laai uddhaar garaaye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (भुलिरहेथ्यौं पापी जगत्‌मा,
 बितायौं जीवन प्रतिदिन पापमा) २
 (असहनीय दु:ख उठाई) २
@@ -27,7 +27,7 @@ bitaa-yauň jivan prati-din paap-maa) ~2
 (asaha-niye dukha uThaai) ~2
 bacaau-nubho samai-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मधुर स्वरले बोलाउनुहुँदै छ
 ज-जसले उनको पुकार सुन्छन्‌) २
 (अमर जीवन पाउनेछन्‌) २

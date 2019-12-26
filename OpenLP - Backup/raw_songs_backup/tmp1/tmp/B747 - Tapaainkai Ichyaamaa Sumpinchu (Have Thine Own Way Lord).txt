@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 तपाईंकै इच्छामा सुम्पिन्छु,
 तपाईंको हातमा माटो म हुँ,
 ढाली बनाउनोस् इच्छा अन्सार,
@@ -9,7 +9,7 @@ tapaaiň-ko haat-maa maaTo ma huň,
 Dhaali banaau-nos ichyaa ansaar,
 parkhi ma basdaa namra yahaaň .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तपाईंकै इच्छामा सुम्पिन्छु,
 जाँचेर खार्नोस् मालिक येशू ,
 हिउँभन्दा सेतो धुनोस् प्रभु,
@@ -20,7 +20,7 @@ jaaňcera khaar-nos maalik yeshu,
 hiuň-bhandaa seto dhunos prabhu,
 ahile caraN-maa ma jhuk-dachu .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 तपाईंकै इच्छामा सुम्पिन्छु,
 घायल र थकित मद्दत गर्नुस् ,
 सर्वशक्तिमान सृष्टिकर्ता,
@@ -31,7 +31,7 @@ ghayel ra thakit maddat garnus ,
 sarba-shakti-maan srisTi-kartaa,
 choi niko paar-nus mukti-daataa .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 तपाईंकै इच्छामा सुम्पिन्छु,
 पूर्ण अस्तित्व वशमा राख्‍नुस्,
 पवित्र आत्माले भरेर,

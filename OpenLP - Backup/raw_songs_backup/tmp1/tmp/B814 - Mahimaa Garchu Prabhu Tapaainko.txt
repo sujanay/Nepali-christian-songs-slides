@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (महिमा गर्छु प्रभु तपाईंको
 प्रशंसा गर्छु प्रभु तपाईंको) २
 (महिमा महिमा प्रभुलाई,
@@ -9,7 +9,7 @@ prashaňsaa garchu prabhu tapaaiň-ko) ~2
 (mahimaa mahimaa prabhu-laai,
 prashaňsaa prashaňsaa prabhu-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 गर्छु प्रभु तपाईंको प्रशंसा,
 गर्छु प्रभु तपाईंको,
 महिमा गर्छु प्रभु तपाईंको प्रशंसा
@@ -20,7 +20,7 @@ garchu prabhu tapaaiň-ko,
 mahimaa garchu prabhu tapaaiň-ko prashaňsaa
 garchu prabhu tapaaiň-ko.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (तपाईं नै महान् प्रभु हुनुहुन्छ,
 तपाईं नै दयाको सागर हुनुहुन्छ) २
 (तपाईं भन्दा ठूलो कोही छैन,
@@ -38,7 +38,7 @@ tapaaiň bhandaa Thulo kohi chaina) ~2
 {y}(mahimaa mahimaa prabhu-laai,
 prashaňsaa prashaňsaa prabhu-laai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (तपाईं पवित्र आत्मा हुनुहुन्छ,
 तपाईं यस संसारको राजा हुनुहुन्छ) २
 (तपाईंको झैँ शक्ति कसैको छैन,

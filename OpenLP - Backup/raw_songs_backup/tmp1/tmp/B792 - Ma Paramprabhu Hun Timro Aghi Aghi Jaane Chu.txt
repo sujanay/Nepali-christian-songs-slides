@@ -16,7 +16,7 @@ na-Daraau hai,
 {y}timi-laai raajye dine
 mero shubhec-chaa cha .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मरो उपस्थिति नै
 तिम्रो साथ जानेछ,
 तिम्रो अघि अघि मेरो दूतले
@@ -27,7 +27,7 @@ timro saath jaane-cha,
 timro aghi aghi mero dut-le
 baaTo tayaar paarne-cha .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हेरचाहा तिम्रो गर्नेछु
 म क्षण-क्षण पानी हाल्नेछु,
 रात-दिन देखरेख तिम्रो म गर्नेछु,
@@ -38,7 +38,7 @@ ma chyeN-chyeN paani haalne-chu,
 raat-din dekha-rekha timro ma garne-chu,
 falwanta ma banaaune chu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मेरो आज्ञा सुनेर,
 मानेर हिँड्यौं भने,
 निश्‍चय प्रतिज्ञा गरेको देशमा
@@ -49,7 +49,7 @@ maanera hiňRyauň bhane,
 nishcai pratigyaa gare-ko desh-maa
 timi-laai puryaaune-chu .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 मृत्युको बल तिमीमा
 विजयी हुनेछैन,
 मृत्यु र पातालका साँचाहरू
@@ -60,7 +60,7 @@ bijayi hune-chaina,
 mrityu ra paataal-kaa saaňcaa-haru
 meraa adhikaar-maa chan.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 म जीवित परमेश्‍वर हुँ
 म कहिल्यै झुट बोल्दिनँ,
 आकाश र पृथ्वी टलेर जान्छ,

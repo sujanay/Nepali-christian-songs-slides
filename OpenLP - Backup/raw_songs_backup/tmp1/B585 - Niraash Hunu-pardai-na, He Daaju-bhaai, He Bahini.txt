@@ -22,7 +22,7 @@ sworga-maa pitaa ramaauň-chan
 timi-laai santaan paayera
 ~(2)
 
----[Verse 1:]---
+---[Verse:1]---
 (संसारलाई प्रेम गरी
 पिताले एकमात्र पुत्र पठाए) २
 (नरकको किरो मानिसलाई
@@ -35,7 +35,7 @@ pitaa-le ek-maatra putra paThaa-ye) ~2
 sworga-ko shaasak banaa-ye) ~2
 sworga-ko shaasak banaa-ye.
 
----[Verse 2:]---
+---[Verse:2]---
 (ख्रीष्टसँग हकवाला बनाई
 पवित्र आत्माले भर्नेछन्
 अनन्त महिमाको भागीदार

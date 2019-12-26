@@ -11,7 +11,7 @@ sunera, bhujhe-ra sabai-le
 man-maa guni-raakha hai
 (suni-rakha hai, bujhi-raakha hai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (रगत है रगत, चोट है चोट
 येशूले प्राण दिए) २
 (तिम्रो र मेरो पापको निम्ति
@@ -22,7 +22,7 @@ yeshu-le praaN diye) ~2
 (timro ra mero paap-ko nimti
 krus-maa bali bhaye) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (मृत्युको बन्धनलाई
 तोडेका छन् ख्रीष्ट येशूले) २
 (सित्तैमा दिएका मुक्तिलाई

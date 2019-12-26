@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 स्वर्गीय पिता, ईश्‍वर तार्नोस्‌
 सागरमाथि हामीलाई
 रक्षा, अगुवाइ, पालन गर्नुहोस्‌
@@ -16,7 +16,7 @@ khaali sahaayak tapaaiň
 haami pani hunchauň dhani,
 ishwor haamraa pitaa bhaye.
 
----[Verse 2:]---
+---[Verse:2]---
 पाप, भूल जान्‍‌ने मुक्तिदाता,
 क्षमा गर्नोस्‌ हामीलाई
 हामीभन्दा अघि हिँड्‌नुभो,
@@ -34,7 +34,7 @@ dukha khaaňdai sansaar-ko
 maru-bhumi-baaTa ghumi laagyo shunye,
 pyaas, thakaai.
 
----[Verse 3:]---
+---[Verse:3]---
 ओर्ली हे पवित्र आत्मा,
 मनमा आनन्द भर्नुहोस्‌
 प्रेम हरअनुभवको साथमा

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरको छेवैमा
 जाँदै छु म,
 परे पनि दु:खमा
@@ -18,7 +18,7 @@ laginchu ma
 ishwor-ko chewai-maa,
 ishwor-ko chewai-maa jaaňdai chu ma.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परदेशीजस्तै छु,
 घाम डुब्दै छ,
 वास-गढ म खोज्दै छु,
@@ -38,7 +38,7 @@ raat pardai cha,
 ishwor-ko chewai-maa,
 ishwor-ko chewai-maa jaaňdai chu ma.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गलोकको बाटो
 दिन्छन्‌ मलाई,
 सब थोक दिन्छन्‌ मलाई
@@ -58,7 +58,7 @@ wahaaň aashis paai
 ishwor-ko chewai-maa,
 ishwor-ko chewai-maa jaaňdai chu ma.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 दु:ख-शोकलाई त्यागेर,
 शान्त भएर,
 खुशीसाथ म हुन्छु वहाँ गएर
@@ -76,7 +76,7 @@ khushi-saath ma hunchu wahaaň gayera
 ishwor-ko chewai-maa,
 ishwor-ko chewai-maa jaaňdai chu ma.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आनन्दको पखेटा
 जब लिन्छु म,
 संसारको शोक चिन्ता

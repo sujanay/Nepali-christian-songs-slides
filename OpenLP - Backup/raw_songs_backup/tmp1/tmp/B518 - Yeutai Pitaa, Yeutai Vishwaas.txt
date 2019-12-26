@@ -18,7 +18,7 @@ yeshu-ko praarthanaa puraa garauň
 (aatmaa-laai santaap aba na-deu,
 khrisT-ki dulahi ek banauň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 प्रभुको फसलको निम्ति
 फूटको पर्खाल तोडौं
 हाम्रो देश, शहरको निम्ति
@@ -29,7 +29,7 @@ fuT-ko parkhaal toDauň
 haamro desh, shahar-ko nimti
 maNDali-le ghuňDaa Tekauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यही पुस्ता होस्‌, प्रभु,
 तपाईंको राज्य ल्याउने
 आऊ हाम्रो हृदयलाई च्यातौं,

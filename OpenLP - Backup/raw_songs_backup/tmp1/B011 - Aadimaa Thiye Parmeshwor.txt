@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आदिमा थिए परमेश्‍वर,
 सब थोक छ दिनमा सृजे
 सोमवारको बनाए, उज्यालो,
@@ -16,7 +16,7 @@ maňgal-baar aakaash srije.
 halleluyaah, halleluyaah, halleluyaah,
 yaahove, gaa-u halleluyaah yaahove
 
----[Verse 2:]---
+---[Verse:2]---
 बुधवार वनस्पति, खानी,
 सृजे सागर र भूमि
 बिहीवार घाम, जून, तारा,
@@ -27,7 +27,7 @@ srije saagar ra bhumi
 bihi-baar ghaam, jun, taaraa,
 baadala, bajra, barsaa, bijuli.
 
----[Verse 3:]---
+---[Verse:3]---
 शुक्रवार साना-ठूला जन्तु
 बगिहिँड्‌ने सागरमा
 त्यही दिन उड्‌ने सबै पक्षी,
@@ -38,7 +38,7 @@ bagi-hiňDne saagar-maa
 tyehi din uDne sabai pakchi,
 cil-dhari ra bhusunaa.
 
----[Verse 4:]---
+---[Verse:4]---
 शनिवार धर्तीमाथि हिँड्‌ने
 वन-पशु र घरैया
 सृजे मानिस आफ्‍‌नै रूपमा,
@@ -49,7 +49,7 @@ ban-pashu ra gharai-yaa
 srije maanis aafnai rup-maa,
 diye adhikaar sab thok-maa.
 
----[Verse 5:]---
+---[Verse:5]---
 छ दिनमा काम भो 'समाप्त,
 सातौं दिन बिसाउनुभो'
 आइतवार बिसाऊ तिमी पनि
@@ -60,7 +60,7 @@ saatauň din bisaau-nubho'
 aaita-baar bisaau timi pani
 bhani sewaa gara mero.
 
----[Verse 6:]---
+---[Verse:6]---
 आदि-अन्त सर्वशक्तिमान्‌
 याह्वे, राजा सर्वमहान्‌
 नरनारी, बालक, वृद्ध गाऔं

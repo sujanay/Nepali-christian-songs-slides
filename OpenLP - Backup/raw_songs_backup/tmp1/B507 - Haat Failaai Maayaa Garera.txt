@@ -20,7 +20,7 @@ aau thaapana-laai,
 kohi na-roka saanaa baalak-laai
 (ma-k'aaň aauna-laai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (नानी हामी साना छौं,
 प्रभुको लागि प्यारा छौं) २
 (यो सानो मनमा,
@@ -38,7 +38,7 @@ sabai jivana-maa) ~2
 (prabhu-ko raajye sadhaiň hos,
 uhaaň-ko baasa bhai-rahos) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (आकाशका धेरै ताराहरूझैँ
 मैदानका सबै फूलहरूझैँ) २
 

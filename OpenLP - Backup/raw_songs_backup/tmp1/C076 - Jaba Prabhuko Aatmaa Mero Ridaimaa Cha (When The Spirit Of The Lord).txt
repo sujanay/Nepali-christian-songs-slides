@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (जब प्रभुको आत्मा
 मेरो हृदयमा छ
 म गाउँछु दाऊदझैँ) २
@@ -16,7 +16,7 @@ ma gaauň-chu daaud-jhaiň) ~2
 ma gaauň-chu,
 ma gaauň-chu, daaud-jhaiň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जब प्रभुको आत्मा
 मेरो हृदयमा छ
 स्तुति गर्छु दाऊदझैँ) २
@@ -34,7 +34,7 @@ stuti garchu daaud-jhaiň) ~2
 stuti garchu,
 stuti garchu, daaud-jhaiň) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (जब प्रभुको आत्मा
 मेरो हृदयमा छ
 ताली बजाउँछु दाऊदझैँ) २
@@ -52,7 +52,7 @@ taali bajaauň-chu daaud-jhaiň) ~2
 taali bajaauň-chu,
 taali bajaauň-chu, daaud-jhaiň) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (जब प्रभुको आत्मा
 मेरो हृदयमा छ
 म नाच्छु दाऊदझैँ) २

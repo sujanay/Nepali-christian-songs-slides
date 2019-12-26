@@ -24,7 +24,7 @@ beňsi-huňdai deu-raali jaa-uň,
 (ho ho ho
 haa aahaa haa haa) ~2x
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उकाली हेर, झरना हेर,
 (जहीँ जाऊ, येशूको गुण गाऊ) २
 बनको फूल उपवन हेर,
@@ -42,7 +42,7 @@ ban-ko fula upaban hera,
 {y}e, he, he, he
 haa, haa, haa ...
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तिम्रो मेरो मनमा हलचल,
 (शान्तिका राजा येशूलाई प्रणाम्) २
 बलिदान उनको मोचन हाम्रो,

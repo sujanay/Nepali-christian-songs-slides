@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वर स्वर्गीय पिताले
 प्रेम गरी लोकलाई, एकले छोरो
 दिइहाले जीवन दिनलाई
@@ -9,7 +9,7 @@ prem gari lok-laai, ek-le choro
 diihaa-le jivan dina-laai
 bhaai ho, jivan dina-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 एकले छोरो नभनी
 दिए लोकलाई
 विश्‍वास गरी सबैले लेऊन
@@ -20,7 +20,7 @@ diye lok-laai
 vishwaas gari sabai-le leuna
 mukti-laai, bhaai ho.
 
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गबाट येशू
 आए मुक्ति लिएर
 कसले लिए मुक्तिलाई
@@ -31,7 +31,7 @@ aaye mukti liyera
 kasle liye mukti-laai
 manai garera, bhaai ho.
 
----[Verse 4:]---
+---[Verse:4]---
 येशू पुत्र भएर
 अवतार लिइ-आए
 विश्‍वास गर्ने सबैले
@@ -42,7 +42,7 @@ awataar lii-aaye
 vishwaas garne sabai-le
 muktidaan paaye, bhaai ho.
 
----[Verse 5:]---
+---[Verse:5]---
 दुनियाँ संसार छ
 सागर पापैको छ व्यवहार
 पापलाई लुकाइराखेर
@@ -53,7 +53,7 @@ saagar paapai-ko cha byebahaar
 paap-laai lukaai-raakhera
 kasari tarchau paara, bhaai ho.
 
----[Verse 6:]---
+---[Verse:6]---
 जसले सुन्छन्‌ प्रभुको
 अजम्मरे वचनलाई
 उनलाई मुक्ति दिनेछन्‌
@@ -64,7 +64,7 @@ ajammare bacan-laai
 unlaai mukti dinechan
 ajammare-laai, bhaai ho.
 
----[Verse 7:]---
+---[Verse:7]---
 ईश्‍वर पिता सामर्थी
 सबै दान दिनलाई
 मनलाई जगाई तयार हौ,

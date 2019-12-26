@@ -14,7 +14,7 @@ sworga banaaunu-bhayo
 
 parmeshwora-le ...
 
----[Verse 1:]---
+---[Verse:1]---
 (मेरो निम्ति आउनुभो
 मेरै कारण उहाँ मर्नुभो) २
 अन्धकार भित्र जिउँथेँ म
@@ -25,7 +25,7 @@ merai kaaraN uhaaň marnu-bho) ~2
 andhakaar bhitra jiuň-theň ma
 jyoti-ko santaan banaau-nubho
 
----[Chorus 2:]---
+---[Chorus:2]---
 परमेश्‍व‍रले सृजनुभो
 एकमात्र पुत्र पठाउनुभो
 परमेश्‍व‍रले ...
@@ -34,7 +34,7 @@ parmeshwora-le srijanu-bho
 eka-maatra putra paThaau-nubho
 parmeshwora-le ...
 
----[Verse 2:]---
+---[Verse:2]---
 (दोषी त बरु म थिएँ
 सजाय उहाँले पाउनुभो) २
 हामी सबैलाई उद्धार गर्न

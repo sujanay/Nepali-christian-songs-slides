@@ -9,7 +9,7 @@ tapaaiň-binaa ma ritto chu
 palpal-ko mero jivan-maa
 saath ma-laai dinuhos.
 
----[Verse 1:]---
+---[Verse:1]---
 (संसार छ सारा आफ्नै धुनमा
 मदहोश पापैको जञ्‍जालमा) २
 (बचाउनुहोस् मलाई यदि
@@ -20,7 +20,7 @@ madhosha papai-ko janjaala-maa) ~2
 (bacaau-nuhos ma-laai yedi
 sansaar-ko chu bhane.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गलाई त्यागी आउनुभो प्रभु
 कलवरी क्रूसैमा प्राण दिनलाई) २
 (बचाउनुहोस् मलाई यदि

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु ख्रीष्ट जिइउठे येशू नै
 दूत र मान्छे भन्दछन्‌
 स्वर्गदूत र मान्छे जात
@@ -20,7 +20,7 @@ prabhu bijayi bhaye
 feri mardaina prabhu
 haamro shok-kaa din bite.
 
----[Verse 2:]---
+---[Verse:2]---
 पहरा, ढुङ्गा छाप व्यर्थ भो,
 नर्कको दैलो फोरियो
 मृत्युले व्यर्थै ख्रीष्ट रोक्यो,
@@ -42,7 +42,7 @@ jaiwant raajaa chan jiuňdaa
 tyu kahaaň cha khila tero,
 cihaan kahaaň jai tero?
 
----[Verse 3:]---
+---[Verse:3]---
 आफ्‍‌नो जयवन्त प्रभुलाई
 पछ‍याउँदै-पछ‍याउँदै जाऔं
 हामी ख्रीष्टझैँ बनाइयौं,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रबल पराक्रमी,
 नम्र र प्रेमको धनी
 गुरु उनी हुन्‌ हाम्रा,
@@ -20,7 +20,7 @@ pavitra aatmaa Thulo bardaan
 dine yo josh, aananda, saahas,
 ropne-charne baDhaaune vishwaas
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 गर्छ बयान बढाई
 प्रभु ख्रीष्टको, सब थोक हटाई
 तल्लीन हुनेछ उनमा
@@ -31,7 +31,7 @@ prabhu khrisT-ko, sab thok haTaai
 tal-lina hunecha un-maa
 jo sworga bujhna-sakne maanis ho.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सुतेकालाई जगाउने, पीर,
 दु:ख त्यो भगाउने
 सबैले त्यागेको जनलाई

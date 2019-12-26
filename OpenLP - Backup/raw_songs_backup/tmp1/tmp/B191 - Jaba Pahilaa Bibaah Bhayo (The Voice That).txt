@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जब पहिला विवाह भयो
 आदम र हव्वाको,
 ईश्‍वर हाजिर हुनुभो
@@ -9,7 +9,7 @@ aadam ra habbaa-ko,
 ishwor haajir hunubho
 bibaah aashisit bho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 आजको यो विवाहमा
 ईश्‍वर उपस्थित छन्‌,
 बेहुला र बेहुली दुईलाई
@@ -20,7 +20,7 @@ ishwor upasthit chan,
 behulaa ra behuli dui-laai
 aashirbaad dinechan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हे परमेश्‍वर, यो बेहुली
 दिँदै छौं बेहुलालाई,
 जसरी अघि हव्वा
@@ -31,7 +31,7 @@ diňdai chauň behulaa-laai,
 jasari aghi habbaa
 dinubho aadam-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रभु, यी दुइको हृदय जोडी
 एक बनाउनुहोस्‌
 दु:ख, सुखमा प्रभु येशू,
@@ -42,7 +42,7 @@ ek banaaunuhos
 dukha, sukha-maa prabhu yeshu,
 kaile nachaaDnuhos.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 अँ, हे पवित्र आत्मा,
 उत्रेर आउनुहोस्‌
 यी दुइमा सधैँ मेल होस्‌
@@ -53,7 +53,7 @@ utrera aaunuhos
 yi dui-maa sadhaiň mel hos
 prem-ko aashis barsos.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 खराबीदेखि बाँच्‍‌नलाई
 सहायता दिनुहोस्‌,
 जब दुईले संसार छोड्‌छन्‌

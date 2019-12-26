@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वर पिता हाम्रो सुन्‍‌नोस्‌,
 खालि साना मान्छे हौं
 तै तपाईंलाई ठूलो विन्ती गर्न
@@ -9,7 +9,7 @@ khaali saanaa maanche hauň
 tai tapaaiň-laai Thulo binti garna
 ahile aayekaa chauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ख्रीष्टको राज्य खूब छिट्टो आओस्‌,
 ख्रीष्टमा सबले पाऊन्‌ जय
 र तपाईंलाई सबले चिनून्‌,
@@ -20,7 +20,7 @@ khrisT-maa sable paaun jai
 ra tapaaiň-laai sab-le cinun,
 sab-le maanun dhanye bhai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्टको प्रेमको मीठो कुरा
 सुनीकन मान्छेले।
 यस संसारमा स्तुति गरून्‌
@@ -31,7 +31,7 @@ suni-kana maanche-le.
 yes sansaar-maa stuti garun
 jasto sworga-maa dut-le.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आओस्‌ त्यो संसार तपाईंको
 हुने घडी हे पिता।
 किनभने सब तपाईंका राज्य

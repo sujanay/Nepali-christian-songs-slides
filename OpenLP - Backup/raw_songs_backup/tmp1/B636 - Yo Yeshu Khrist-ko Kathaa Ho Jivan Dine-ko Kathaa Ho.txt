@@ -11,7 +11,7 @@ jivan dine-ko kathaa ho.
 baaTo biraa-yekaa-laai
 ganta-bye bihin-ko kathaa ho) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (जन्म लिए उनले
 कन्याको कोखमा
 अनौठो ब्यथा थियो
@@ -33,7 +33,7 @@ lekhi-yo tyo raat-maa
 surye udaayo camkilo hera
 (euTaa nayaaň bishwo-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (पापलाई घृणा पापीलाई माया
 पश्‍चात्तापी हृदयलाई दिन्छन्
 है छाया) २

@@ -20,7 +20,7 @@ shanti-le purNa yo
 yeshu raajaa jan-meko su-sandesh
 (timi merai laagi ho ho ho) ~2x
 
----[Verse 1:]---
+---[Verse:1]---
 (अन्धकारपूर्ण जगत्‌मा ज्योति
 ल्याउनुभयो उहाँले
 निराशालाई जीवन दिन आशा
@@ -42,7 +42,7 @@ maanab bani aaunu-bho
 haamro mukti-daataa prabhu
 jagat-maa aaunu-bho.
 
----[Verse 2:]---
+---[Verse:2]---
 (लक्ष्यहीन जीवनको लक्ष्य बनी
 ख्रीष्ट जगत्‌मा आउनुभो
 प्राणहीन जीवन दिन डुँडमा

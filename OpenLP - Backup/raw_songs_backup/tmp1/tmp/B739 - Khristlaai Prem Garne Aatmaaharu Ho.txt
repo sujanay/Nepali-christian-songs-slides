@@ -11,7 +11,7 @@ kewal khokro maayaa hoina,
 ridai-le nai gari-deu.
 khrisT-laai prem garna ... .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (केवल स्वार्थी माया होईन,
 सत्य प्रेम चाहिन्छ ) २
 (धन, प्रिय जन,
@@ -35,7 +35,7 @@ un-ko prem-laai bujhi-deu,
 kewal aaDambar maatra hoina,
 saaňco prem nai gari-deu .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (केवल फोस्रो जीवन होइन,
 भरिलो जीवन चाहिन्छ ) २
 (ख्रीष्टको संग-संग जिउनलाई
@@ -57,7 +57,7 @@ un-ko ichyaa-laai bujhi-deu,
 'prabhu' kewal oTh-le hoina,
 ridai-le nai bhani-deu .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (केवल खोक्रो त्याग होइन,
 सिद्ध त्याग चाहिन्छ ) २
 (क्रूस उठाई हिँड्नलाई त्याग

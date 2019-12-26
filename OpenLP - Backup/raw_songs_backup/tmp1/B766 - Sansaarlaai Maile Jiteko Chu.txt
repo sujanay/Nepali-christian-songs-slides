@@ -9,7 +9,7 @@ DhaaDas gara hai bhan-chan prabhu ) ~2
 ("sansaar-maa dukh huncha timi-laai,
 niraash nahou hai" bhan-chan prabhu . ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (मेरो पछि लाग्ने प्रिय हो,
 आफैलाई इन्कार गर्न सिक) २
 (आफ्नो क्रूसलाई उठाई तिमी,
@@ -27,7 +27,7 @@ mero pachi laagna sika) ~2
 (natra-bhane mero anu-yaayi timi,
 banna sak-dainau bhan-chan prabhu . ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (ज्ञानी मानिसले झैँ तिम्रो घरलाई,
 चट्टानमाथि स्थिर राख्‍न सिक) २
 (आफ्नो तोडालाई प्रयोग गरेर,
@@ -45,7 +45,7 @@ dobbara kamaauna timi sika) ~2
 (halo-maa haat raakhi pachaaDi herne
 yogye huň-daina, bhan-chan prabhu . ) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (हेर , म चाँडै आउँदैछु ,
 जय पाएको मेरो सन्तहरूलाई ) २
 (साँचेर राख तिम्रो मुकुटलाई,

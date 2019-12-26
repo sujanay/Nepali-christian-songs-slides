@@ -20,7 +20,7 @@ khrisT raajaa baseko) ~2
 (jaya jaya baalaka raajaa-ko
 jaya jaya jaya hos sadaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (ईश्‍वरको प्रिय पुत्र प्रभु ख्रीष्ट
 स्वर्गमा महिमित) २
 (बालकको रूपमा पस्रिए डुँडमा,
@@ -31,7 +31,7 @@ sworga-maa mahimit) ~2
 (baalak-ko rupa-maa pasriye DuňDa-maa
 vishwa-maa abahelit.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (सुनचाँदी छैन, धूप पनि होइन,
 सम्पुर्ण जीवन लेऊ) २
 (गोठरूपी हृदय धोएर आजै

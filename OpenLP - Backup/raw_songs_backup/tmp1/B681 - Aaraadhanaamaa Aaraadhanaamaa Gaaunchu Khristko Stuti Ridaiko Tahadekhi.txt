@@ -9,7 +9,7 @@ khrisT-ko stuti ridai-ko taha-dekhi
 aaraadhanaa-maa... halleluyaah! halleluyaah!!
 gaauň-chu ...
 
----[Verse 1:]---
+---[Verse:1]---
 (दृढ विश्‍वास गरी
 दर्शनको आशा राखी) २
 झुकाउँछु शिर, भक्तिभरि गौरव
@@ -22,7 +22,7 @@ jhukaauň-chu shir, bhakti-bhari gaurab
 mahimaa bheTi-sari caRhaauň-chu
 prabhu feri dhanyebaad, muTu-bhari.
 
----[Verse 2:]---
+---[Verse:2]---
 (पापहरू मेरो जन्मदेखिको
 ख्रीष्टको रगतले शुद्ध भयो) २
 अधर्म मेरो हृदयभरिको

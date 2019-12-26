@@ -9,7 +9,7 @@ Doryaaunu-hos ma-laai,
 tapaaiň-ko baaTo-maa,
 tapaaiňko baaTomaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (म अधर्मी पापी चरणमा आएँ,
 यो जीवन लिनुहोस्‌) २
 (तपाईंको निम्ति जिउनेछु प्रभु) २
@@ -20,7 +20,7 @@ yo jivan linu-hos) ~2
 (tapaaiň-ko nimti jiu-nechu prabhu) ~2
 (shaktidaan dinu-hos) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तपाईंको गहिरो वचनको अर्थ
 मलाई सिकाउनुहोस्‌) २
 (ज्ञान, बुद्धि, विवेक पवित्र आत्मा) २

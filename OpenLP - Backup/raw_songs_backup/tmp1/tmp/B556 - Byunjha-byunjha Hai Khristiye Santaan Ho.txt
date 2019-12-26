@@ -9,7 +9,7 @@ jaaga-jaaga hai he khrisTiye yubaa ho,
 jaaga hai, byuňjha hai, Dhilo nagara
 (khrisTiye yubaa ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जीवनमा नैराश्य र हुरी-बतास
 र आँधी आउँछ
 तर्साउने चट्याङ्ग अनि
@@ -38,7 +38,7 @@ singo himaal-sangai,
 jaaga hai, uTha hai
 (he khrisTiye yubaa ho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सुस्ताउने बेला होइन,
 सुस्केरामा जिउनु हुन्‍न,
 तर्साउने बादल अनि

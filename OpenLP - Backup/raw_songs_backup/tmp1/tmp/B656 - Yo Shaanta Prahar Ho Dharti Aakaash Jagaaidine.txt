@@ -9,7 +9,7 @@ yo shaanta prahar ho) ~2
 (dharti aakaash jagaai-dine) ~2
 (yo shaanta prahar ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 गुराँसझैँ फक्रियोस् हाम्रो शुभ दिन
 प्रभुको प्रार्थनामा बितोस् हाम्रो दिन
 सारा धर्ती सिँगारी दिने शान्त प्रहर यो
@@ -20,7 +20,7 @@ prabhu-ko praarthanaa-maa bitos haamro din
 saaraa dharti singaari dine shaanta prahar yo
 (sarba-byaapi faili haaňsne shaanta prahar yo) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अँकुराओस् नयाँ सोच नयाँ बिहानीमा
 फुलिरहुन् सुन्दर फूल मनको सिरानीमा
 अचेतलाई हटाइदिने शान्त प्रहर यो

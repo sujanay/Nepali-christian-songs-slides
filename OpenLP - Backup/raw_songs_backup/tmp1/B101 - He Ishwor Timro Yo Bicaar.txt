@@ -9,7 +9,7 @@ mero nimti ati anamola cha
 timro karuNaa ma-prati
 sadaa-sarvadaa bani-rahanecha
 
----[Verse 1:]---
+---[Verse:1]---
 आज चढाउँछु धन्यवाद प्रभुलाई,
 मेरो जिब्रोले तिम्रो प्रशंसा
 बढाइ, स्तुति र गुण आदि गाउनेछु
@@ -20,7 +20,7 @@ mero jibrole timro prashaňsaa
 baDhaai, stuti ra guNa aadi gaaunechu
 kaaraN timi mero muktidaataa.
 
----[Verse 2:]---
+---[Verse:2]---
 विनाशको कुण्डमा
 पुगिसकेकालाई दया भो,
 तिम्रो बचाउने मलाई
@@ -33,7 +33,7 @@ timro bacaaune malaai
 sangkasTa ra mrityu-dekhi bacaunlaai
 diyau krusmaa balidaan yeshulaai.
 
----[Verse 3:]---
+---[Verse:3]---
 गरेथेँ मैले पाप दुष्ट जगत्‌
 मैले सहनुपर्थ्यो दण्ड यसमा
 तर सहे येशूले कष्ट क्रूसमा
@@ -44,7 +44,7 @@ maile sahanu-parthyo daNDa yesmaa
 tara sahe yeshule kasTa krusmaa
 dina-laai nayaaň jivan sansaar-maa.
 
----[Verse 4:]---
+---[Verse:4]---
 सक्तिनँ प्रभु बस्‍‌न चुप
 यहाँ नगरीकन प्रशंसा तिम्रो
 नचढाइहुन्‍‌न धन्यवाद तिमीलाई

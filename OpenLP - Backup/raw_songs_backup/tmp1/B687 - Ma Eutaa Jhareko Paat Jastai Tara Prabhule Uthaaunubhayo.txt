@@ -5,7 +5,7 @@
 (ma euTaa jhareko paat jastai
 tara prabhu-le uThaaunu-bhayo) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (म अन्धकारमा हिँडेर लड्दै थिएँ
 म बाटो विहिन भएर हिँड्दै थिएँ) २
 उज्यालो ज्योति दिई
@@ -16,7 +16,7 @@ ma baaTo bihin bhayera hiňDdai thiyeň) ~2
 ujyaalo jyoti dii
 yeshu-le lina-ko nimti aaunu-bhayo.
 
----[Verse 2:]---
+---[Verse:2]---
 (म संसारको दरिलो
 बन्धनमा परेको थिएँ
 म पापको दास बनेर मर्दै थिएँ) २

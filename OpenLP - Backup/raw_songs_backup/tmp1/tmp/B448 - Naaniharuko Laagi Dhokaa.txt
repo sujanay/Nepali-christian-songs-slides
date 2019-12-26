@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 नानीहरूको लागि
 दैलो उघारिदेऊ
 असल गोठालोको खोरमा
@@ -31,7 +31,7 @@ khor-ko dailo ughaarauň
 asal goThaalaa-ko khor-maa
 naani-laai bhelaa garauň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नानीहरू त आउँछन्‌,
 दैलो उघारिदिऔं
 यिनैलाई खोरमा बसाई

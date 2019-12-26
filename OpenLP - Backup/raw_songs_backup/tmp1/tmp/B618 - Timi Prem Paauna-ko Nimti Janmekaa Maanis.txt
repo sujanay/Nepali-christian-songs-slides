@@ -1,4 +1,4 @@
----[Chorus 1:]---
+---[Chorus:1]---
 (तिमी प्रेम पाउनको निम्ति
 जन्मेका मानिस
 तिम्रो जीवनमा
@@ -20,7 +20,7 @@ timi-le cinera fal falaa-yeko
 timi yo sansaar-maa baaňci-rahera
 ananta jivan-maa prabesh garekaa-chau.
 {/y}
----[Chorus 2:]---
+---[Chorus:2]---
 (तिमी प्रेम पाउनको निम्ति
 जन्मेका मानिस
 अहिले पनि त्यो प्रेम

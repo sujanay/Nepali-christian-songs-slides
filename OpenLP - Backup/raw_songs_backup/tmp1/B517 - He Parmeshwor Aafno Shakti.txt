@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रशंसाले पर्खिरहेछ,
 तपाईंलाई प्रभु,
 प्रशंसा आफ्‍‌नो मण्डलीको।
@@ -7,7 +7,7 @@ prashaňsaa-le parkhi-rahecha,
 tapaaiň-laai prabhu,
 prashaňsaa aafno maNDali-ko.
 
----[Verse 2:]---
+---[Verse:2]---
 हर्षको गीतलाई निम्त्याउने,
 आनन्दको प्रभु,
 मानिसको आशा तपाईं हुनुहुन्छ।
@@ -16,7 +16,7 @@ harsa-ko git-laai nim-tyaaune,
 aanand-ko prabhu,
 maanis-ko aashaa tapaaiň hunu-huncha.
 
----[Verse 3:]---
+---[Verse:3]---
 लाखौं-हजारौं रथहरूमा
 सवार हुने प्रभु,
 पवित्र स्थानमा आउनु हवस्‌।

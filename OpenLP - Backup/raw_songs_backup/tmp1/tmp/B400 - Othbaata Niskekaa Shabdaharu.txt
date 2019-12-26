@@ -9,7 +9,7 @@ meraa ridai-kaa bhaabanaa-haru) ~2
 grahaN-yogye hos sadaa
 tapaaiň-ko kripaa-drisTi-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सबैभन्दा उत्तम यो,
 सबैभन्दा श्रेष्ठ हो) २
 तपाईंको प्रेम र दया,
@@ -20,7 +20,7 @@ sabai-bhandaa shresTh ho) ~2
 tapaaiň-ko prem ra dayaa,
 satye chan sadaa-sarvadaa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मेरा यी अधर्मबाट,
 धुनुहोस्‌ मलाई) २
 नगरोस्‌ ममा अधिकार

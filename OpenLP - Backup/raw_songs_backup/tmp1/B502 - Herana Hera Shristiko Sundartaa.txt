@@ -1,4 +1,4 @@
----[Chorus 1:]---
+---[Chorus:1]---
 हेरन हेर सृष्टिको सुन्दरता,
 यसलाई बनाउने प्रभुको महानता
 धनी र गरीब दुवै मिलेर,
@@ -9,7 +9,7 @@ yes-laai banaaune prabhu-ko mahaantaa,
 dhani ra garib dubai milera,
 bhanna sakchan, 'prabhu dhanyebaad'
 
----[Verse 1:]---
+---[Verse:1]---
 (खेतका आलीहरू,
 अन्‍‌न र बालीहरू
 बादल वृष्टि र बतासहरू) २
@@ -27,7 +27,7 @@ baadal vrishTi ra bataasa-haru) ~2
 maathi aakaasha chuňdaa) ~2
 sworga nai pugi dincha man mero
 
----[Verse 2:]---
+---[Verse:2]---
 (अनौठा बातहरू, जीवजीवातहरू
 उज्यालो दिन अनि रातहरू) २
 (असंख्य जातिहरू, विभिन्‍‌न रीतहरु) २
@@ -38,7 +38,7 @@ ujyaalo din ani raata-haru) ~2
 (asaňkhye jaati-haru, bibhinna rita-haru) ~2
 udek-le bharincha yo man mero
 
----[Chorus 2:]---
+---[Chorus:2]---
 गरन गर ईश्‍वरको प्रशंसा
 सम्पूर्ण हृदयले उपासना
 मान्छे–मान्छेको सबै भिन्‍‌नता

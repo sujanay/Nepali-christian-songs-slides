@@ -20,7 +20,7 @@ gaa-i-raheko chu yahaaň
 upasthit khrisT-ko chaayaaň-maa
 baaňci-raheko chu yahaaň
 
----[Verse 1:]---
+---[Verse:1]---
 जीवनमा एक दिन रात पर्छ यहाँ,
 म मस्त निदाउँछु
 कलवरीपारि सुन्दर बिहान
@@ -42,7 +42,7 @@ jaiwant-ko git gaauň-chu
 yeshu-ko muhaar aafnai-aghi
 dekhera ramaauňchu.
 
----[Verse 2:]---
+---[Verse:2]---
 हीराले जडी तयार गरी
 राखेको शहरमा
 मणि जडेका शहरका ढोका
@@ -64,7 +64,7 @@ santagaN lahar-maa
 haata-haata-maa yeshu-ko saatha
 bas-nechu sarvadaa.
 
----[Verse 3:]---
+---[Verse:3]---
 संसारको दु:ख केही पनि होइन,
 स्वर्गको सुखमा
 सतावट पनि केही पनि होइन,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूले आफ्‍‌ना चेलाहरूलाई
 यसरी बोल्‍‌नुभो,
 'स्वर्ग, पृथ्वीमा अधिकार सारा
@@ -20,7 +20,7 @@ jaati-laai banaau celaa
 pitaa ra putra, pavitra aatmaa
 naauň-maa deu baptismaa.'
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 'तिमीहरूलाई जे-जति आज्ञा
 मैले गरेको छु
 तिनीहरूलाई यिनै सब कुरा
@@ -42,7 +42,7 @@ ma hunchu anta-samma jagat-ko
 timi-haru-kaa saath-maa
 chaňdai chu' yeshule bhannubho.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जो पापको लेखि मर्‍यौं,
 हामी के पापमा लागिरहौं?
 कसरी अझै त्यसैमा जिउने
@@ -64,7 +64,7 @@ liyauň baptismaa yeshu-maa
 haami-le liyekaa thiyauň
 baptismaa uhaaň-kai mrityu-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हामी यसकारण बप्तिस्माद्वारा
 गाडियौं उहाँको साथ
 ईश्‍वर पिताको महिमाद्वारा

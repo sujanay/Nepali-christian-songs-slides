@@ -18,7 +18,7 @@ bethlehem gaauňmaa janme,
 kaalo baaklo aňdhyaaro,
 haTaaune ujjwala dipa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 गोठाला गए,
 दर्शन गरे र औधी रमाए,
 (ज्योतिषी आए,
@@ -29,7 +29,7 @@ darshan gare ra audhi ramaaye,
 (jyotisi aaye,
 daNDawat gare au bheTi caDhaaye) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 कति उदेकको प्रेम येशू ख्रीष्टको
 मानिसकहाँ आउनुभो,
 (दु:ख र दर्द, चोट अति गहिरो,
@@ -40,7 +40,7 @@ maanis-kahaaň aaunubho,
 (dukha ra darda, coT ati gahiro,
 prabhule sahanubho) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 राम्ररी सोच, ठीक निर्णय गर,
 तिमी के चढाउने?
 (गोठरूपी हृदय खोल्दछन्‌ जसले,

@@ -7,7 +7,7 @@
 khrisT yeshu raajaako, dhanyebaad,
 mahimaa, stuti hos sarvadaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 पिताले पुत्रलाई संसारमा दिनुभो,
 यो कति उदेकको प्रेम ईश्‍वर पिताको
 
@@ -23,7 +23,7 @@ yo kati udekko prem ishwor pitaako
 sworga choDnubho,
 getasamani pani premle jaanubho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रेमले मृत्युको दु:ख
 भोग्‍‌नलाई जानुभो,
 मृत्युबाट तेस्रो दिन बौरी उठ्‌नुभयो
@@ -41,7 +41,7 @@ mrityubaaTa tesro din bauri uThnubhayo
 ma unamaa jiuňdachu,
 tan-manle unaiko gaaunechu git jaiko.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उदेकको प्रेमिलो
 ख्रीष्ट येशू राजाको,
 धन्यवाद महिमा,

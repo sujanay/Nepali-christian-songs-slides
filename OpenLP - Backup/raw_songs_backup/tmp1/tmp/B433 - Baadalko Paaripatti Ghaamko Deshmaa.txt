@@ -20,7 +20,7 @@ hai kaaňTi-kaaňTiko,
 kokhilaa-maa
 (maayaa boki maanab-jaati-ko) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कैदीजस्तो मान्छेलाई
 प्रभुले नै प्यार गरे) २
 अन्धोजस्तो मान्छेलाई
@@ -42,7 +42,7 @@ paap-ko mol tire
 andhakaar-ko maajh-maa
 nayaaň jyoti paThaaye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (दुर्बलका मुटुमा
 शक्ति दिन्छन्‌ प्रभुले) २
 हताश भएको आत्मालाई,

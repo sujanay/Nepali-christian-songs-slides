@@ -20,7 +20,7 @@ tapaaiň sundar
 suganghit tel-jhaiň maghuro naa-uň,
 garchu pranaam.
 
----[Verse 1:]---
+---[Verse:1]---
 (लाखौंमा मिठो
 छ येशू नाउँ,
 चम्किलो अनुहार सूर्य समान) २
@@ -38,7 +38,7 @@ awarNniya cha tapaaiň-ko prem,
 ma adharmi-le caakheň tyo prem
 ... garchu pranaam.
 
----[Verse 2:]---
+---[Verse:2]---
 (बोल्नुभो प्रभु तपाईं,
 भएँ मगन,
 अभिलाषी भई आएँ चरण) २
@@ -58,7 +58,7 @@ garchu praNaam,
 ma ayogye-le paayeň jivandaan.
 ... garchu pranaam.
 
----[Verse 3:]---
+---[Verse:3]---
 (मलाई बचाउनुभो दिएर प्राण,
 बुझाइदिनुहोस्, प्रभु
 स्वर्गीय प्रेम) २

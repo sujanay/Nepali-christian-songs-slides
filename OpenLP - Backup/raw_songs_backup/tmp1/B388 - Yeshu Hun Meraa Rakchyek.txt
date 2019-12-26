@@ -9,7 +9,7 @@ caTTaan hun meraa unai
 jaba aaňdhi aai huttyaauň-cha,
 aljhaauň-chu langar khrisTmai
 
----[Verse 1:]---
+---[Verse:1]---
 (सांसारिक यस यात्रामा) २
 चिन्ताले जब घेर्छ
 ख्रीष्टको एउटै हप्कीले
@@ -20,7 +20,7 @@ cintaale jaba ghercha
 khrisTko yeuTai hapkile
 aaňdhiko sab joD-toD cha.
 
----[Verse 2:]---
+---[Verse:2]---
 (दु:खले पीडित हुँदा) २
 पार हुने इच्छा हुँदा
 ख्रीष्टको जीवित वचन नै ज्योति
@@ -31,7 +31,7 @@ paar hune ichyaa huňdaa
 khrisT-ko jivit bacan nai jyoti
 bani Doryaauň-dacha.
 
----[Verse 3:]---
+---[Verse:3]---
 (मलाई छ पूरा विश्‍वास) २
 एक दिन म पुग्छु किनार
 त्यस मनोरम स्थानमा

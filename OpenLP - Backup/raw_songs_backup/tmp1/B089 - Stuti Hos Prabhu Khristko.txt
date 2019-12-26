@@ -9,7 +9,7 @@ aadar ra prashaňsaa
 (mahimaa unai-ko,
 hos sadaa-sarvadaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (फर्केर हेर्छु विगत दिनहरू,
 वर्तमान नियाल्छु) २
 (आशिष्‌को झरी जीवनैभरि) २
@@ -27,7 +27,7 @@ barseko thaahaa garchu
 (audhi ramaauň-dai purNa ridai-le,
 khrisT-ko baDhaai garchu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (अत्यन्त प्रेमी, अति सामर्थी,
 ख्रीष्ट मेरा छन्‌ साथी) २
 (मेरो अविश्‍वास औ हारमा पनि) २
@@ -47,7 +47,7 @@ yeshu chan vishwaasi
 jai halleluyaah,
 dhanyebaad caDhaauň-chu) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (निराशमा आशा, दु:खमा शान्ति,
 असहायका सहारा) २
 (राजाहरूका पनि ख्रीष्ट राजा) २

@@ -16,7 +16,7 @@ aaraadhnaa garchu mero saaraa prana-le
 aaraadhnaa garchu mero saaraa bala-le
 (tapaaiň mero parmeshwor) ~2
 {/y}
----[Verse 2 :]---
+---[Verse:2]---
 तपाईंलाई खोज्छु मेरो सारा हृदयले
 तपाईंलाई खोज्छु मेरो सारा प्राणले
 तपाईंलाई खोज्छु मेरो सारा बलले

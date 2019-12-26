@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूको म हुँ पाठो,
 हृदय खुशी छ मेरो
 प्रेम येशूले मलाई गर्छन्‌,
@@ -16,7 +16,7 @@ raamro bardaan malaai din-chan
 {y}paalan-posaN gardachan,
 naauň-baaTa bolaauň-dachan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मेरो दैनिक जीवनमा
 भोक र तिर्खा जान्दिनँ
 हूल भेडाको उनको जहाँ,
@@ -34,7 +34,7 @@ raamro hariyo caran tyahaaň
 {y}laagcha malaai pyaas jahile,
 jharnaa dekhaauň-chan unle.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जीवनभर आनन्दित छु,
 आशिषित यस झुन्डमा छु
 पाउँछु गोठाला चराउने,

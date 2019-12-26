@@ -20,7 +20,7 @@ yeshu khrisT nai hunu-huncha
 satye pavitra parmeshwor,
 yeshu prabhu nai hunu-huncha.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (संसारको रीतिरिवाजले
 पापबाट मुक्ति दिँदैन
 येशूलाई विश्‍वास नगरे
@@ -42,7 +42,7 @@ yeshu-laai bishwaas gari-deu
 samai huňdai ahile nai
 yeshu-laai grahaN gari-deu.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (संसारिक धर्मकर्मले
 मान्छेको पाप क्षमा हुँदैन
 येशूलाई परमेश्‍वर नसम्झे

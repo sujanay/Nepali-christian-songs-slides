@@ -11,7 +11,7 @@ prabhu-ko nimto cha
 tapaaiň daaju-didi-bah'ni-laai,
 pratyeka jawaan-laai
 
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्ट आए यस संसारमा
 उठाउन पापको भार
 सही दु:ख, बहाई रक्त
@@ -24,7 +24,7 @@ sahi dukha, bahaai rakta
 garaauna mrityu paar,
 garna-laai param uddhaar.
 
----[Verse 2:]---
+---[Verse:2]---
 जवानीपनमा याद गरी,
 सम्झ सृजनहारलाई
 पापमा डुबी, संसारमा
@@ -37,7 +37,7 @@ paap-maa Dubi, sansaar-maa
 bhuli-baschau kina bhaai,
 farka yeshu-kahaaň.
 
----[Verse 3:]---
+---[Verse:3]---
 खोल तिम्रो हृदयको ढोका,
 खोलन प्यारो भाइ
 प्रभु चाहन्छन्‌

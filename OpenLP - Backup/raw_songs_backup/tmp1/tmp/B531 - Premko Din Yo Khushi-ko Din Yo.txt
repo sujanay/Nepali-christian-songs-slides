@@ -9,7 +9,7 @@ khushi-ko din yo,
 ramaaune, gaaune din yo
 yeshu-ko janma dina yo,
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अशान्तिमा बाँच्‍‌नेलाई पनि,
 शान्ति अँगाल्‍‌ने दिन यो,
 लडाइँ लड्‌नेलाई पनि,
@@ -20,7 +20,7 @@ shaanti aňgaal-ne din yo,
 laDaaiň laDne-laai pani,
 (prema-maa baaňdh-ne dina yo) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (निराशामाको दिनलाई पनि,
 आशाको नयाँ दिन यो,
 बिछोडिएकालाई पनि,

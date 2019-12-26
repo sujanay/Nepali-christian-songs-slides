@@ -9,7 +9,7 @@ yo jagata-maa
 (haaňsdai-kheldai gaanaa gaauň-dai
 prabhu yeshu-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 आऊ वृद्ध जन, आऊ सब जवान,
 (स्वरमा स्वर मिलाई गाऊ
 प्रभुको जय गान। ) २
@@ -18,7 +18,7 @@ prabhu yeshu-maa) ~2
 (swormaa swor milaa-i gaau
 prabhuko jai gaan. ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हामी साब थियौँ घोर अन्धकारमा,
 (आए प्रभु अवतार लिई
 उही बेथलेहेममा । ) २
@@ -27,7 +27,7 @@ prabhuko jai gaan. ) ~2
 (aaye prabhu awtaar li-i
 u'i beth-lehem-maa. ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 छोड़ अब भाइ दुष्ट शैतानलाई,
 (उठ, जाग, स्वागत गर नवजात
 प्रभुलाईं। ) २

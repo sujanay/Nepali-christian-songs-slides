@@ -18,7 +18,7 @@ aaňshu puchne yeshu) ~2
 (paapi-laai sadhaiň
 chyemaa garne yeshu) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 युद्ध हुनु अघि नै
 मिलाप दिने येशू,
 (जाइलाग्नु अघि नै
@@ -40,7 +40,7 @@ saathi bhanne yeshu,
 (mrityu-laai jiti
 jivit hune yeshu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रार्थना गर्नु अघि नै
 उत्तर दिने येशू,
 (संगत गर्नु अघि नै

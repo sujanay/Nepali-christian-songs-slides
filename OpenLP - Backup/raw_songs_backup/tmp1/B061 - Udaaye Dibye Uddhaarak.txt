@@ -9,7 +9,7 @@ dhartiko andhakaar-maa
 (jyotirmai khrisT udit bhaye
 mukti-ko prakaash liyera) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 घोर अन्धकारमा ज्योतिविहीन भई
 हजारौं ठोकर खाई
 बाटो भुलेका व्याकुल
@@ -31,7 +31,7 @@ puryaauna parmeshwor-kahaaň
 dibye uddhaarak jyotirmai
 prakaash udaaye yes dharati-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 चिन्ता र पीरको भारले दबेको
 जगत्‌को सुनी चीत्कार,
 पाप दुर्गन्धमा निसासिएको
@@ -53,7 +53,7 @@ jivan-ko garna sudhaar
 udaai taarak, prakaash-mai taarak,
 bacaauna sansaar saar.
 
----[Verse 3:]---
+---[Verse:3]---
 परमप्रभुले करुणाले गर्दा
 प्रदीप्त ख्रीष्ट पठाए
 संसारले अन्धा पारेको
@@ -75,7 +75,7 @@ farkaauna khrisT udaaye
 shaitaan-ko bandhan-baaTa umkaauna
 prataap-mai khrisT janme.
 
----[Verse 4:]---
+---[Verse:4]---
 महान्‌ प्रभुको करुणा पाउने
 योग्यको म थिइनँ
 म पापको रोगी नरक

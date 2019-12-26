@@ -12,7 +12,7 @@ pitaa-kai ichyaa swikaar gari
 (daNDa bhognu-bhayo
 bacaauna ma paapi-laai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 मूल्यहीन मेरो जीवनलाई
 बहुमूल्य बनाउनलाई,
 मजस्तो अघोर अपराधीलाई
@@ -32,7 +32,7 @@ meraa paap-haru swikaar gari
 daNDa bhognu-bhayo
 (dhanyebaad tapaaiň-laai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 समर्पण गर्छु अब यो जीवन
 तपाईंकै मन झैँ हुन सकोस्,
 तपाईंको निम्ति सङ्घर्ष गर्दै

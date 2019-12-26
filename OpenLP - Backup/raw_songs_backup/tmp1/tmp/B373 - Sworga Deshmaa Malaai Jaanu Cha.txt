@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 स्वर्ग देशमा मलाई जानु छ
 स्वर्गीय शहर बस्‍‌नलाई
 बटौरे साथी एउटा छ
@@ -20,7 +20,7 @@ ma-maathi TiThaaune?
 baTaure saathi ko ho
 Dhokaa-laai khol-dine?
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अब हिँड्‌छु म बाटोबाटै
 उनले बाटो देखाँउछन्‌ जुन
 ममाथि टिठाई ढोका खोल्‍‌ने
@@ -31,7 +31,7 @@ unle baaTo dekhaauň-chan jun
 ma-maathi TiThaai Dhokaa kholne
 ishwor-kaa priya putra hun.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सम्झ त्यो बाटो कस्तो छ
 जहाँ म अहिले हिँड्‌नेछु
 सम्झ त्यो ढोका कस्तो छ
@@ -42,7 +42,7 @@ jahaaň ma ahile hiňR-nechu
 samjha tyo Dhokaa kasto cha
 jahaaň ma ahile pasnechu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 त्यो स्वर्गीय बाटो साँगुरो छ
 मन अति कष्टित तुल्याउने
 त्यो पस्‍‌ने ढोका साँगुरो छ
@@ -53,7 +53,7 @@ man ati kasTit tulyaaune
 tyo pasne Dhokaa saaňguro cha
 ma-laai tyes shahar puryaaune.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 धर्म-पुस्तक मेरो हातमा छ
 मलाई ठीक बाटो देखाउने
 प्रार्थनामा ख्रीष्टीय शक्ति छ
@@ -64,7 +64,7 @@ malaai Thik baaTo dekhaaune
 praarth'naa-maa khrisTiye shakti cha
 tyo Dhokaa pani khol-dine.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 धर्म-पुस्तकलाई म छोड्‌दिनँ,
 म प्रार्थना गर्न भुल्दिनँ
 स्वर्गलोकको अधिकारी नभई,

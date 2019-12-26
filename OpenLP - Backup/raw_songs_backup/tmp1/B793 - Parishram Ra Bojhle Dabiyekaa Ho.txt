@@ -9,7 +9,7 @@ yeshu kahaaň aau,
 farkera aau, timi-laai un-le
 bishraam dine-chan.
 
----[Verse 1:]---
+---[Verse:1]---
 स्वर्ग मुनि पृथ्वीमा छैन
 कुनै नाम जगलाई
 यति महान् दिने मुक्ति दान
@@ -27,7 +27,7 @@ kewal yeshu mukti-daataa sarba-shakti-maan
 timro paap-ko chyemaa dina
 (tyaage krus-maa praaN) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 मुक्ति रहित मृत्यु भए
 टल्ने छैन जो पापको ज्याला
 दोस्रो मृत्यु न्याय ईश्‍वरको
@@ -45,7 +45,7 @@ aago gandhak jali-rahane athaah
 bhaTTi-ko yug-yug-samma piDaa sahi
 (rahanu parne ho) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 भरे, भोलि भनी-भनी
 समय बिताउँछौ
 यति महान् उद्धार मुक्ति

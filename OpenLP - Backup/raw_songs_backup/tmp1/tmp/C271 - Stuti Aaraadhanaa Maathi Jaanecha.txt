@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (स्तुति आराधना माथि जानेछ,
 आशिष् लिएर तल आउनेछ) २
 (प्रभु हाम्रो कति महान्,
@@ -16,7 +16,7 @@ hera haami-laai garchan pyaar) ~2
 {y}ha-lle-lu, hallelu-yaah,
 ha-lle-lu, hallelu-yaah
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रार्थना-विन्ती माथि जानेछ,
 उत्तर लिएर तल आउनेछ) २
 (प्रभु हाम्रो कति महान्,
@@ -27,7 +27,7 @@ uttar liyera tala aaunecha) ~2
 (prabhu haamro kati mahaan,
 hera haami-laai garchan pyaar) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ~(Hindi)
 (स्तुति आराधना ऊपर जाती है,
 आशिष् लेकर नीचे आती है) २

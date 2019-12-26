@@ -9,7 +9,7 @@ ek maatra asal goThaalaa
 sahaayek banchan
 uni sadaa dukha-sukha-ko belaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 क्लेश, सङ्कटले घेर्छ तिमीलाई
 तर ख्रीष्ट तिम्रै नजिक हुन्छन्‌
 आँधी-तुफान हटाउने प्रभु
@@ -20,7 +20,7 @@ tara khrisT timrai najik hunchan
 aaňdhi-tufaan haTaaune prabhu
 timi-saath yaatraa gardai chan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तर्दै गर्दा भवसागरलाई
 आँधी आउँछ, विश्‍वास हल्लाउँछ
 डुब्‍‌नलाग्दा पुकार ख्रीष्टलाई,
@@ -31,7 +31,7 @@ aaňdhi aauňcha, vishwaas hallaauňcha
 Dubna-laagdaa pukaar khrisT-laai,
 nishcai timi-laai bacaauňchan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सतावट बाधा ल्याई शैतानले
 हल्लाउँछ खूब जीवन जहाजलाई
 साथमा ख्रीष्ट छन्‌, नडराऊ तिमी,
@@ -42,7 +42,7 @@ hallaauňcha khub jivan jahaaj-laai
 saath-maa khrisT chan, na-Daraau timi,
 samhaal-chan unle timi-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 निराशा आउँछन्‌ अनेक जीवनमा
 तर हरेश नखाऊ प्रभु भन्छन्‌
 विजयको इनाम जीवनको मुकुट
@@ -53,7 +53,7 @@ tara haresh na-khaau prabhu bhanchan
 bijai-ko inaam jivan-ko mukuT
 prabhu-le nishcai dinechan.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 येशू हाम्रा शक्तिशाली गढ
 सुरक्षित उनमा हामी हुन्छौं,
 शैतानका हमला विफल हुनेछन्‌,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 बिर्सिन्छौं कसरी पोहोरको साल
 यो घडी मान्दै थियौं
 नयाँ साल यसरी
@@ -40,7 +40,7 @@ ra aba pasi-jaauň haami nayaaň saal yo
 nayaaň saal-bhari hiňD-na-laai
 ishwor-ko aguwaai-maa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 धन्यवाद चढाउन
 सब दानको लागि
 ईश्‍वरलाई गरौं
@@ -62,7 +62,7 @@ un-ko aaD-maa
 yo saal maatra hoina
 yo jivan lagaau un-kai jimmaa-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अब बिदा लेऊ हे प्रियहरू गर्दै
 शुभकामना नयाँ सालको
 भेट्‌छौं कि भेट्‌दैनौं

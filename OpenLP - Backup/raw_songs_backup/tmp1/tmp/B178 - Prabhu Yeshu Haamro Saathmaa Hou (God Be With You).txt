@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु येशू हाम्रो साथमा होऊ,
 जीवनको बाटोमा डोर्‍याऊ
 हामीलाई आफूमा मिलाऊ,
@@ -20,7 +20,7 @@ prabhu khrisT-ko caraN-maa
 jaba-samma bheTdainauň haami
 prabhu yeshu haamro saath-maa hou
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रभु येशू हाम्रो साथमा होऊ,
 दु:ख र विपतदेखि बचाऊ
 आत्मिक भोजन हामीलाई देऊ,
@@ -31,7 +31,7 @@ dukha ra bipat-dekhi bacaau
 aatmik bhojana haami-laai deu,
 prabhu yeshu haamro saath-maa hou.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रभु येशू हाम्रो साथमा होऊ,
 जोखिम जीवनमा जब आउँछ
 ख्रीष्टको प्रेमी हात समाउँछौं,
@@ -42,7 +42,7 @@ jokhim jivan-maa jaba aauňcha
 khrisT-ko premi haat samaauňchauň,
 prabhu yeshu haamro saath-maa hou.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रभु येशू हाम्रो साथमा होऊ,
 उच्च राख प्रेमको झण्डा
 मृत्युको बाढले तर्साउँदा,

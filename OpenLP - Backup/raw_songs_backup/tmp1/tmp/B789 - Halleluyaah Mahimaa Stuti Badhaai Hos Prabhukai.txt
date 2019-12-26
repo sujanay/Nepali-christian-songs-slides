@@ -5,7 +5,7 @@
 {y}(halleluyaah mahimaa
 stuti baDhaai hos prabhu-kai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 शरीरलाई जिउँदो बलिदान चढाई,
 क्रूसको दौडलाई पूरा गरौं।
 प्रभुको सेवा निःस्वार्थ प्रेमले आत्मा,
@@ -16,7 +16,7 @@ krus-ko dauD-laai puraa garauň.
 prabhu-ko sewaa ni-swaartha prem-le aatmaa,
 saccaai saath puraa garauň .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 विश्‍वास योग्य रहेर सधैँ,
 प्रभुको प्रेममा बनिरहौं,
 आशालु आँखाले निर्निमेष हेर्दै,
@@ -27,7 +27,7 @@ prabhu-ko prem-maa bani-rahauň,
 aashaa-lu aaňkhaa-le nirni-mes herdai,
 masih-ko dina-laai parkhi-rahauň .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जागी रहौं सन्तगण हामी,
 प्रार्थनामा नित्य लागिरहौं,
 प्रयत्‍न गर्नमा अल्छी नगरौं,

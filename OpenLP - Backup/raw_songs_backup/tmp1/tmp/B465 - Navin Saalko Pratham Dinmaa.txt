@@ -9,7 +9,7 @@ haami aaja manaauň
 yehi samai prabhu yaad lii
 navin haami jivan apanaauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 प्रभु येशू उद्धारकर्ता
 अद्‌भुत त्राता तारणहार
 उनको करुणा याद सदा लिई
@@ -20,7 +20,7 @@ adbhut traataa taaraNahaar
 unko karuNaa yaad sadaa lii
 navin haami jivan apanaauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रभु हामी शरण पर्छौं सबै
 जीवन अर्पण गर्छौं
 तपाईंको सेवा सदाभर नै

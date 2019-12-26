@@ -9,7 +9,7 @@ nayaaň bihaani-ko kiraN bhayau
 prabhu tapaaiň yo mero jivan-maa
 (kahile na-chuTne kinaar bhayau) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (हिँड्नु छ मैले बिर्सेर ती पाइलाहरू
 रोज्नुछ केवल दुर्गम ती बाटोहरू) २
 (कतै टाढा भएँ, बिरानो भएँ
@@ -20,7 +20,7 @@ rojnu-cha kewal durgam ti baaTo-haru) ~2
 (katai TaaRhaa bhayeň, biraano bhayeň
 sansaar-ko lekhi kewal arkai bhayeň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (रित्तो छ यहाँ ख्रीष्टरहितका आस्थाहरू
 अन्त छ केवल मूल्यहीन ती जीवनहरू) २
 (कतै नौलो भएँ, पुरानो भएँ

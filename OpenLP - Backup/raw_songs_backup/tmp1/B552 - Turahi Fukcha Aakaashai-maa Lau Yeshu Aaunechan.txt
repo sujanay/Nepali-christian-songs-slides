@@ -7,7 +7,7 @@ turahi fukcha
 aakaashai-maa
 lau yeshu aaunechan) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (संसारभरि पापको भारी) २
 (शैतान है रमायो) २
 यो मनमा कसले चेतावनी देला,
@@ -27,7 +27,7 @@ yeshu aaunechan
 sansaarai-maa, sansaarai-maa,
 (samjhana manai-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (विश्वासीहरू मरे तापनि
 बौरेर उठ्नेछन् ) २
 जस-जसले उनीमाथि विश्वास

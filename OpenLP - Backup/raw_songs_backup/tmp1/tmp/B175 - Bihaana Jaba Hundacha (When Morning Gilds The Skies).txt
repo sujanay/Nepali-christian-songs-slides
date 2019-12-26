@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 बिहान जब हुँदछ,
 मन जागी भन्दछ,
 येशूको होस्‌ बढाइ
@@ -16,7 +16,7 @@ yeshu-ko hos baDhaai
 yeshu-kahaaň jaanchu ma,
 yeshu-ko hos baDhaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नीद जब टर्दछ,
 आत्मा उदास हुन्छ,
 येशूको होस्‌ बढाइ
@@ -34,7 +34,7 @@ yeshu-ko hos baDhaai
 ridai dur raakhchu ma,
 yeshuko hos baDhaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उदास जब हुँदछ,
 उनैमा शान्ति छ,
 येशूको होस्‌ बढाइ
@@ -52,7 +52,7 @@ yeshu-ko hos baDhaai
 tai shaanti cha un-mai,
 yeshu-ko hos baDhaai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 सिङ्गै संसार मिली,
 मधुर राग उचाली
 येशूको होस्‌ बढाइ
@@ -70,7 +70,7 @@ yeshu-ko hos baDhaai
 samundra ra bataas
 yeshu-ko hos baDhaai.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 जबसम्म छ सास,
 यो गीत मेरो रहोस्‌,
 येशूको होस्‌ बढाइ

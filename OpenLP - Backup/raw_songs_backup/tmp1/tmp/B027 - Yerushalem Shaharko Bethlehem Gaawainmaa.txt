@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यरूशलेम शहरको बेथलेहेम गावैँमा,
 हाम्रो प्रभु येशू जन्मे गोठैमा
 थियो ओछ‍यान परालको,
@@ -11,7 +11,7 @@ thiyo ochyaan paraal-ko,
 kokro unko DuňDai bho,
 aanandit bhai, harsa garauň sabaile.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 त्यै रात गोठालाहरू भेडा कुर्दै थिए,
 एउटा दूत अचानक आई समाचार दिए
 संसारैको लागि मुक्तिदाता जन्मे,
@@ -22,7 +22,7 @@ euTaa duta acaanak aai samaacaar diye
 sansaarai-ko laagi muktidaataa janme,
 yeshu-laai herna jaau bethlehem-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 गोठालाहरू गए, देखे डुँडैमा येशू,
 दूतले भनेझैँ पाए मुक्तिदातालाई,
 हर्षित र आनन्दित
@@ -36,7 +36,7 @@ harsit ra aanandit
 bhai gare daNDawat sabaile,
 khushi bhai ramaauňdai ghar farke.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जैसीहरू पनि पूर्वदेखि आए,
 तारा हेर्दै-हेर्दै येशूलाई भेट्‌नु,
 देखी दण्डवत्‌ गरे सबले, भेटी चढाए
@@ -47,7 +47,7 @@ taaraa herdai-herdai yeshulaai bheTnu,
 dekhi daNDawat gare sable, bheTi caDhaaye
 khushi bhai ramaauňdai ghar farke.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हामी सबै मिली
 दण्डवत्‌ गरौं ईश्‍वरलाई,
 उनले आफ्‍‌नो पुत्र दिए मुक्तिदान,

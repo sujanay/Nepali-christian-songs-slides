@@ -9,7 +9,7 @@ par-dachu tapaaiň-ko sharaNa-maa,
 paapa-ko bojha cha jivana-maa,
 haTaai basnu-hos ridai-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सिकाउनुहोस् मलाई
 प्यार गर्न तपाईंलाई) २
 (प्रभु मलाई तपाईंले
@@ -20,7 +20,7 @@ pyaar garna tapaaiň-laai) ~2
 (prabhu malaai tapaaiň-le
 pyaar garnu-bho pahile) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (समाती मेरो हात
 राख्‍नुहोस् मलाई साथ) २
 (जीवनको ज्योति दिई

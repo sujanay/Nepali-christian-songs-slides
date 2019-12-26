@@ -9,7 +9,7 @@ ma bhan-chu bheTne aakaash-maa
 (prabhu-ko saath jivan yaatra
 baRh-dai nai jaanucha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 यात्र यो लामो लक्ष यो ठूलो
 बिलाउने छैन म हराउने छैन म।
 (मलाई बचाउने मेरो प्रभुलाई
@@ -20,7 +20,7 @@ bilaaune chaina ma haraaune chaina ma.
 (malaai bacaaune mero prabhu-laai
 kahile choRne chaina ma) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रार्थना गरी दिनु है
 सम्झना राखी दिनु है
 सङ्गती यो मिठो अरू कहाँ पाउँला

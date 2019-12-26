@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 समयमा, उनको समयमा,
 सब थोक सुन्दर बन्छन्
 उनको समयमा,
@@ -16,7 +16,7 @@ maarga malaai dekhaau-nos
 dina-din sikau-nuhos sada hiňRna-laai
 tapaaiň-ko samai-maa
 
----[Verse 2:]---
+---[Verse:2]---
 समयमा, तपाईंको समयमा,
 सब थोक सुन्दर छन्
 तपाईंको समयमा,

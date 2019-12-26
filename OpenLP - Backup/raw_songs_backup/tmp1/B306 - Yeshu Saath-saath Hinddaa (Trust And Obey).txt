@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू साथ-साथ हिँड्‌दा
 वचनको ज्योतिमा,
 हाम्रो बाटो गराउँछन्‌ प्रकाश
@@ -27,7 +27,7 @@ khrisT-maa cha aasha
 yeshu-laai garnu-parcha
 khaali maan ra vishwaas
 
----[Verse 2:]---
+---[Verse:2]---
 मेघ अँध्यारो आए
 येशूको मुहारले,
 चाँडै पार्दछ
@@ -49,7 +49,7 @@ na ta aaňshu na haaye,
 haami garunjel
 maan ra vishwaas.
 
----[Verse 3:]---
+---[Verse:3]---
 आफ्‍‌ना भारी बोकी
 अरुलाई साहस दिई,
 श्रमको फल पाऔंला
@@ -71,7 +71,7 @@ haami-laai cha aashis,
 yedi gar-dachauň
 maan ra vishwaas.
 
----[Verse 4:]---
+---[Verse:4]---
 तर तन-मन र धन
 अर्पण नगरुन्जेल,
 हामी येशूमा हौंला निराश,
@@ -91,7 +91,7 @@ dinchan tyes-laai,
 jasle gardachan
 maan ra vishwaas.
 
----[Verse 5:]---
+---[Verse:5]---
 उनको सङ्गतिमा
 पाउनेर बसौंला,
 बाटोमा हिँडौंला

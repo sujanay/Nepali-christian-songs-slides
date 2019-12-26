@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म अति निर्बल,
 तपाईं प्रबल कसरी हुनु पार?
 न देवी-देवता, येशू नाउँ एउटा,
@@ -9,7 +9,7 @@ tapaaiň prabal kasari hunu paar?
 na dewi-dewa-taa, yeshu naauň euTaa,
 naawai cha taaraNahaar.
 
----[Verse 2:]---
+---[Verse:2]---
 तुफान नै भारी नाउ छ वारि,
 गराइदेऊ मलाई पार
 भवसागर तर्नु केही शक्ति छैन,
@@ -20,7 +20,7 @@ garaai-deu malaai paar
 bhav-saagar tarnu kehi shakti chaina,
 upaai deu taaraNahaar.
 
----[Verse 3:]---
+---[Verse:3]---
 यो नाउ भारी गरिदेऊ
 वारि विन्ती छ बारम्बार
 सबले जानोस्‌, सबले मानोस्‌
@@ -31,7 +31,7 @@ waari binti cha baarambaar
 sab-le jaanos, sable maanos
 yeshu naauň taaraNahaar.
 
----[Verse 4:]---
+---[Verse:4]---
 संसारैभरि पापको भारी,
 उद्धार देऊ दीनानाथ
 विलाप गर्छौं, शरण पर्छौं,
@@ -42,7 +42,7 @@ uddhaar deu dinaa-naath
 bilaap garchauň, sharaN parchauň,
 aauňdachauň tapaaiň-saath.
 
----[Verse 5:]---
+---[Verse:5]---
 तपाईं प्रेमी, तपाईं न्यायी
 जगत्‌का पालनहार
 आत्मा देऊ प्रभु, सबैलाई बुझ्‍‌ने,

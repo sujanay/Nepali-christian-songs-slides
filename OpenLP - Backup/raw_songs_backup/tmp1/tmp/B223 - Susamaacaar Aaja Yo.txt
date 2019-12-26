@@ -5,7 +5,7 @@
 {y}(su-samaacaar aaja yo,
 he mitra timro laagi ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सुनन साथी, के मीठो वाणी
 (भनेको येशूले) २
 आउन सबै थाकेको प्राणी
@@ -16,7 +16,7 @@ he mitra timro laagi ho) ~2
 aauna sabai thaakeko praaNi
 (sansaar-maa paapai-le) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 छैन अर्को स्वर्ग जाने
 (बाटो येशू मसीहसिवाय) २
 कारण उनैले प्राण क्रूसमा त्यागे
@@ -27,7 +27,7 @@ aauna sabai thaakeko praaNi
 kaaraN unaile praaN krusmaa tyaage
 (paap bandhan toDna-laai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आउन साथी, निशानी राख
 (प्रभुको क्रूसैलाई) २
 छोडिदेऊ माया, छोडिदेऊ फिक्री

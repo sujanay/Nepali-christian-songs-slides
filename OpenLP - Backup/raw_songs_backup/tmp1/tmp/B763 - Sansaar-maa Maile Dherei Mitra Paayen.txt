@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (संसारमा मैले धेरै मित्र पाएँ,
 "सहायक हुन्" सम्झी सदा रमाएँ ) २
 (दुर्दिन आयो चेतावनी बिना ) २
@@ -25,7 +25,7 @@ khrisT saath-maa paayeň ) ~2
 aaňsu-sahit stuti garchu,
 kritagya-taa pradaan garchu .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रेमी म बनें धूर्त जगत्‌को
 टुक्राई "प्रेमी हृदय" ख्रीष्टको ) २
 (मोहित भई पछि लाग्दा जगत्‌को) २
@@ -43,7 +43,7 @@ Tukraa-i "premi ridaya" khrisT-ko ) ~2
 (ridai TuTi dharma-riňdaa
 khrisT saath-maa paayeň . ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (काँडाको तिक्त चोट पाउँदा मैले
 ख्रीष्टलाई झन् जोडले तब अँगालेँ ) २
 (ख्रीष्टको स्पर्शले पीडा हरायो ) २
@@ -61,7 +61,7 @@ khrisT-laai jhan joD-le taba angaaleň ) ~2
 (haajiri-maa khrisT-ko
 maile akath aanand paayeň . ) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (पक्री म हिँड्दा हात प्रभुको
 गराउनुभो सैर मनमोहक देशको ) २
 (बाटा थे सुन्दर सजिएका फूलले ) २

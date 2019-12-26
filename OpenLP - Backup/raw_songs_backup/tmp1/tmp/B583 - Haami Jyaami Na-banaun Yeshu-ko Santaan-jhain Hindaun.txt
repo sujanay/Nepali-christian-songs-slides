@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हामी ज्यामी नबनौँ
 येशूको सन्तानझैँ हिँडौँ
 दुष्टलाई अब हपारौँ
@@ -29,7 +29,7 @@ yeshu-ko praarthanaa puraa garauň
 aatmaa-laai santaan aba na-deu
 khrisTko dulaahi ek banauň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रभुको फसलको निम्ति
 फुटको पर्खाल तोडौँ
 हाम्रो देश, शहरको निम्ति
@@ -40,7 +40,7 @@ fuT-ko parkhaal toDauň
 haamro desh, shahar-ko nimti
 maNDali ghuňDaa-maa jaauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 यही पुस्ता होस्, प्रभु,
 तपाईंको राज्य ल्याउने
 आऊ, हाम्रो हृदयलाई च्यातौँ

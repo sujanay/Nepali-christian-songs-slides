@@ -20,7 +20,7 @@ surye-ko prakaasha-laai
 (yestai cha, yestai nai ho) ~2
 (prabhu-ko raajye, prabhu-ko kaam) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 रोमी शासकले रोक्‍‌न खोजे,
 यहूदी जातिले छेक्‍‌न खोजे
 (सा रे सा सा रे सा सा नि ध प
@@ -40,7 +40,7 @@ saa re ga re ga ma ni saa re saa)
 fai-linu-parthyo, fai-liňdai aayo
 (prabhu-ko raajye, prabhu-ko kaam) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 खोल्‍‌नुपर्छ आवाजहरू,
 तोड्‌नुपर्छ बन्धनहरू
 सा रे सा सा रे सा सा नि ध प

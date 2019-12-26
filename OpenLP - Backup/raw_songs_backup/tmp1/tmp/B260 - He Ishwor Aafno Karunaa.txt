@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे ईश्‍वर आफ्‍‌नो करुणाअन्सार
 अनुग्रह गर्नुहोस्‌।
 कोमल कृपाअन्सार अपराध
@@ -9,7 +9,7 @@ anugraha garnuhos.
 komal kripaa-ansaar aparaadh
 meraa meTaaidinuhos.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मलाई नै मेरा अधर्मबाट
 सफासँग धुनोस्‌।
 हे ईश्‍वर, मेरा पापबाट
@@ -20,7 +20,7 @@ safaa-saňga dhunos.
 he ishwor, meraa paap-baaTa
 shuddha hai garnuhos.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 किनकि आफ्‍‌ना अपराधहरू
 स्वीकार गर्छु म।
 पाप मेरो सदासर्वदा,
@@ -31,7 +31,7 @@ swikaar garchu ma.
 paap mero sadaa-sarvadaa,
 prabhu merai saamunne-maa cha.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 गरेको छु नि पाप मैले खालि
 तपाईंकै विरुद्धमा।
 गरेछु त्यही जो छ खराबी
@@ -42,7 +42,7 @@ tapaaiň-kai biruddha-maa.
 garechu tyehi jo cha kharaabi
 tapaaiň-ko drisTi-maa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हेर्नुहोस्‌, लौ म उत्पन्‍‌न पनि
 भएँ अधर्ममा
 आमाले मलाई गर्भधारण ग
@@ -53,7 +53,7 @@ bhayeň adharma-maa
 aamaa-le malaai garbha-dhaaraNa
 garin hai paapai-maa.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 अन्तस्करणमा हेर्नुहोस्‌
 तपाईं खोज्‍‌नुहुन्छ सत्य
 र भित्री मनमा ज्ञान जान्‍‌ने
@@ -64,7 +64,7 @@ tapaaiň khojnu-huncha satye
 ra bhitri man-maa gyaan jaanne
 malaai tulyaaunu-hunecha.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 हिसपले मलाई मस्काउनुहोस्‌,
 हुनेछु म सफा
 धुनुहोस्‌ मलाई

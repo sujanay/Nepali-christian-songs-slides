@@ -9,7 +9,7 @@ kalwari DaaňDaa-maa ragatai bahaayera
 udaasai laagne DaaňDai-maa
 basera bhanna aba choDi-deu hajur
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 कति हामीले देवी-देवता
 संसारैमा पुज्दथ्यौं
 आखिरमा दु:ख पाई
@@ -31,7 +31,7 @@ sansaar-ko bhar parne-chainauň
 sansaar-ko thok-le sadhaiň
 shaanti paaune-chainauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हाम्रो जीवन अघि सारी
 प्रभुमा बिसाउँछौं
 गह्रौं भारी क्रूसको छेउमा

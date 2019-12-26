@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू नाम जो अति प्रिय
 नित्य भज्दै रहनेछु,
 येशू नाम जो अति प्यारा
@@ -31,7 +31,7 @@ yeshu naam-laai bhaj-nechu,
 halleluyaah halleluyaah
 nitye dhan-yeko bhan-nechu.
 
----[Verse 2:]---
+---[Verse:2]---
 येशू नाम जो बहुमुल्य,
 अति आदरणीय छ,
 सारा भुलोक भरमा यो नाम
@@ -53,7 +53,7 @@ ati nai pujye-niye cha,
 yeshu naam nai sansaar-maa
 ati uttam ra shresTh cha.
 
----[Verse 3:]---
+---[Verse:3]---
 येशू नाम अति सामर्थी
 पापको क्षमा हुँदछ,
 यही सामर्थी नाममा

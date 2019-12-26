@@ -9,7 +9,7 @@ aatmaa-ko pahaaD-maa caDh-nucha
 shakti paai masih yeshu-ko
 ban-nucha yo jivan-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 विश्‍वासका अनेकौं
 लडाइँहरू संसारमा लडेर
 जित्‍‌नुछ, जित्‍‌नुछ
@@ -29,7 +29,7 @@ sab-laai baaňdh-nucha, baaňdh-nucha
 (birtaa na-dekhun maanis-le) ~2
 (inaam prabhu-le dine-chan) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मर्नुछ धेरै मृत्यु यहाँ,
 सत्यको साक्षी बनी मर्नुछ
 जीवन पाई मसीह येशूको
@@ -40,7 +40,7 @@ satye-ko sakchi bani marnu-cha
 jivan paai masih yeshu-ko
 jiu-nucha bhai aaja nayaaň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अविश्‍वासका जीवन जिउनेहरू,
 सबलाई अँगालोमा
 बाँध्‍‌नुछ, बाँध्‍‌नुछ

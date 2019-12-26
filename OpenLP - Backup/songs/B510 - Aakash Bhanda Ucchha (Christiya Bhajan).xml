@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-10T23:03:14">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:47:28">
   <properties>
     <titles>
       <title>B510 - Aakash Bhanda Ucchha</title>
@@ -9,48 +9,53 @@
       <author>Christiya Bhajan</author>
     </authors>
   </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
   <lyrics>
-    <verse name="i1">
-      <lines>B 510: <br/><br/>आकाशभन्दा उच्च-उच्च</lines>
-    </verse>
     <verse name="v1a">
-      <lines>आकाशभन्दा उच्च-उच्च छ नाउँ,<br/>सागरभन्दा गहिरो-गहिरो छ प्रेम<br/><br/>aakash-bhanda ucca-ucca cha naauň,<br/>saagar-bhanda gahiro-gahiro cha prem</lines>
+      <lines>आकाशभन्दा उच्च-उच्च छ नाउँ,<br/>सागरभन्दा गहिरो-गहिरो छ प्रेम<br/><br/><tag name="y">aakash-bhanda ucca-ucca cha naauň,<br/>saagar-bhanda gahiro-gahiro cha prem</tag></lines>
     </verse>
     <verse name="v1b">
-      <lines>आसमानभन्दा विशाल-विशाल अनुग्रह<br/>छ, हाम्रो प्रभु येशूको।<br/><br/>aasman-bhanda vishaal-vishaal anugrah<br/>cha, haamro prabhu yeshu-ko.</lines>
+      <lines>आसमानभन्दा विशाल-विशाल अनुग्रह<br/>छ, हाम्रो प्रभु येशूको।<br/><br/><tag name="y">aasman-bhanda vishaal-vishaal anugrah<br/>cha, haamro prabhu yeshu-ko.</tag></lines>
     </verse>
     <verse name="c1a">
-      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/>(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</lines>
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</tag></lines>
     </verse>
     <verse name="v2a">
-      <lines>वाक्यले व्यक्त नहुने,<br/>भन्‍‌नलाई शब्द नपुग्‍‌ने प्रेम,<br/><br/>baakye-le byekta na-hune,<br/>bhanna-lai shabda na-pugne prem,</lines>
+      <lines>वाक्यले व्यक्त नहुने,<br/>भन्‍‌नलाई शब्द नपुग्‍‌ने प्रेम,<br/><br/><tag name="y">baakye-le byekta na-hune,<br/>bhanna-lai shabda na-pugne prem,</tag></lines>
     </verse>
     <verse name="v2b">
-      <lines>आदिदेखि अहिलेसम्म<br/>समयले साक्षी दिएको प्रेम,<br/><br/>aadi-dekhi ahile-samma<br/>samai-le sakchi diyeko prem,</lines>
+      <lines>आदिदेखि अहिलेसम्म<br/>समयले साक्षी दिएको प्रेम,<br/><br/><tag name="y">aadi-dekhi ahile-samma<br/>samai-le sakchi diyeko prem,</tag></lines>
     </verse>
     <verse name="v2c">
-      <lines>स्वर्ग छोडी आउनुभो<br/>क्रूसैमा मर्नुभो,<br/><br/>sworga choDi aaunu-bho<br/>krusai-maa marnu-bho,</lines>
+      <lines>स्वर्ग छोडी आउनुभो<br/>क्रूसैमा मर्नुभो,<br/><br/><tag name="y">sworga choDi aaunu-bho<br/>krusai-maa marnu-bho,</tag></lines>
     </verse>
     <verse name="v2d">
-      <lines>मृत्युलाई जित्‍‌नुभो,<br/>हामीलाई मुक्ति दिनलाई।<br/><br/>mrityu-laai jitnu-bho,<br/>haami-laai mukti dina-laai.</lines>
+      <lines>मृत्युलाई जित्‍‌नुभो,<br/>हामीलाई मुक्ति दिनलाई।<br/><br/><tag name="y">mrityu-laai jitnu-bho,<br/>haami-laai mukti dina-laai.</tag></lines>
     </verse>
     <verse name="c1b">
-      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/>(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</lines>
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</tag></lines>
     </verse>
     <verse name="v3a">
-      <lines>सारा सृष्टिले ढोग्‍‌नेछ,<br/>सबै घुँडाहरू टेक्‍‌नेछन्‌,<br/><br/>saaraa srisTi-le dhog-necha,<br/>sabai ghuňRaa-haru Tek-nechan,</lines>
+      <lines>सारा सृष्टिले ढोग्‍‌नेछ,<br/>सबै घुँडाहरू टेक्‍‌नेछन्‌,<br/><br/><tag name="y">saaraa srisTi-le dhog-necha,<br/>sabai ghuňRaa-haru Tek-nechan,</tag></lines>
     </verse>
     <verse name="v3b">
-      <lines>निर्बल बलियो हुनेछ,<br/>लाटाले पुकार्नेछ त्यो नाउँ<br/><br/>nirbal baliyo hu-necha,<br/>laaTaa-le pukaar-necha tyo naauň</lines>
+      <lines>निर्बल बलियो हुनेछ,<br/>लाटाले पुकार्नेछ त्यो नाउँ<br/><br/><tag name="y">nirbal baliyo hu-necha,<br/>laaTaa-le pukaar-necha tyo naauň</tag></lines>
     </verse>
     <verse name="v3c">
-      <lines>अन्धाले देख्‍‌नेछ,<br/>बहिरोले सुन्‍‌नेछ,<br/><br/>andhaa-le dekh-necha,<br/>bahiro-le sun-necha,</lines>
+      <lines>अन्धाले देख्‍‌नेछ,<br/>बहिरोले सुन्‍‌नेछ,<br/><br/><tag name="y">andhaa-le dekh-necha,<br/>bahiro-le sun-necha,</tag></lines>
     </verse>
     <verse name="v3d">
-      <lines>मुर्दा बिउँतनेछ<br/>उनैलाई महिमा दिनलाई।<br/><br/>murdaa biuňta-necha<br/>unai-laai ma'imaa dina-laai.</lines>
+      <lines>मुर्दा बिउँतनेछ<br/>उनैलाई महिमा दिनलाई।<br/><br/><tag name="y">murdaa biuňta-necha<br/>unai-laai ma'imaa dina-laai.</tag></lines>
     </verse>
     <verse name="c1c">
-      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/>(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</lines>
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsa,<br/>gaauň-chauň mahima unai yeshu-ko) ~2</tag></lines>
     </verse>
   </lyrics>
 </song>

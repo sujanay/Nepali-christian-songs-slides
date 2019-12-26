@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशूले मलाई उठाउनु भो
 गहिरो गहिरोदेखि) २
 पापको गहिरो त्यो दलदलदेखि,
@@ -11,7 +11,7 @@ paap-ko gahiro tyo dal-dal-dekhi,
 yeshu-le malaai uThaaunu bho
 gahiro gahiro-dekhi.
 
----[Verse 2:]---
+---[Verse:2]---
 (महिमित चट्टानमा बसेर उनको
 स्तुतिको गीत यो गाउँदै छु म) २
 (उचालिनुहोस् मेरो हृदयदेखि
@@ -35,7 +35,7 @@ paap-ko gahiro tyo dal-dal dekhi,
 yeshu-le malaai uThaaunu bho
 gahiro gahiro-dekhi
 
----[Verse 3:]---
+---[Verse:3]---
 (पापको भार उठाएर तिम्रो
 मेरो नै निम्ति सबै सहेर) २
 अनमोल त्यो रगत बहाएर,

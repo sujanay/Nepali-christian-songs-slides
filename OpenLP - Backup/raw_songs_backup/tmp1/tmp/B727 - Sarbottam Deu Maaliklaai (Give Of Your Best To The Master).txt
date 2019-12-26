@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सर्वोत्तम देऊ मालिकलाई,
 जवानको सामर्थ्य देऊ ,
 प्राणको ताजा बल्दो जोश लिई,
@@ -31,7 +31,7 @@ jawaan-ko saamarthya deu ,
 mukti-ko puraa kawac lagaai,
 satye-ko yuddha-maa aau .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सर्वोत्तम देऊ मालिकलाई,
 हृदयमा पहिलो स्थान देऊ ,
 पहिलो स्थान तिम्रो सेवामा,
@@ -53,7 +53,7 @@ pitaa-le putra diy ,
 aabhaari bandai sewaa gara,
 aafno sarbottam caRhaau .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सर्वोत्तम देऊ मालिकलाई,
 अरू त योग्य छैन,
 तिमीलाई बचाउन प्राण दिए,

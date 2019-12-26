@@ -9,7 +9,7 @@ dhanye-baad yeshu-laai caDhaauň) ~2
 (janmi-ye yeshu bethlehem gaauň-maa) ~2
 (haami-laai bacaauna) ~4
 
----[Verse 1:]---
+---[Verse:1]---
 (गरऔँ स्वागत ख्रीष्ट येशूलाई
 यो हाम्रो जीवनमा
 जन्मिन्छन् उनी अहिले नै
@@ -27,7 +27,7 @@ banaauň-chan jivan nayaaň) ~2
 (uni maatra hun saaňco prabhu) ~2
 (chaina kohi aru) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (विश्‍वमा हेर झिलिमिली छ
 येशूको जन्म दिनमा
 रमाइरहेछन् मानिसहरू

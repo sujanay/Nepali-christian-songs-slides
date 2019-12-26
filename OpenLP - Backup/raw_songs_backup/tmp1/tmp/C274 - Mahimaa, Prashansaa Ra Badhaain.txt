@@ -7,7 +7,7 @@
 jivit raajaa yeshu-laai
 rokna sakenan mrityu-le tapaaiň-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हेर दुष्टको सबै शक्ति तोडियो,
 ख्रीष्टको अगाडि ती सबै भस्म भो,
 दुष्टको अन्तिम चाल मृत्युलाई पनि,
@@ -29,7 +29,7 @@ jaivanta-ko git gaauň,
 unko mahimaa-maa aananda manaauň) ~2
 khushi manaauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अबदेखि हाम्रो जीवन
 नबनोस्‌ शक्तिविहीन,
 (शक्तिको स्रोत येशूलाई पाएर) २

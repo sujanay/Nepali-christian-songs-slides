@@ -7,7 +7,7 @@
 mili haami bhajauň,
 bhajana prabhuji-ko) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (उनी राजाहरूका राजा,
 उनको चरणमा आऔं आज) २
 
@@ -23,7 +23,7 @@ unko caraN-maa aauň aaja) ~2
 unko mahimaa gaauň) ~2
 tana-mana-saath unlaai bhajauň.
 
----[Verse 2:]---
+---[Verse:2]---
 (येशू ख्रीष्ट संसारमा आए,
 हाम्रो पापको भार उठाए) २
 
@@ -41,7 +41,7 @@ unko sharaN parauň) ~2
 paauňchauň muktidaan,
 haami sab aauň
 
----[Verse 3:]---
+---[Verse:3]---
 (जाति-जातिका मानिस आऔं,
 प्रभु येशूको गुण गाऔं) २
 

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 संसार खूब राम्रो देखिन्छ
 रमाहट गर्छु म
 सब थोकमा घामको किरण
@@ -20,7 +20,7 @@ jarur harsilo chu
 ma yeshu khrisT-ko
 baaTo pachyaauň-chu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 म सानो यात्री मात्र,
 यात्राको शुरुमा
 म जीवनयात्रा गर्दा
@@ -42,7 +42,7 @@ bhareko ra bipad pani cha,
 tara yeshu khrisT-ko
 baaTo pachyaauň-chu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 त सानो यात्रीजस्तै,
 जे-जे म भेट्‌नेछु
 हर्ष कि दु:ख,
@@ -64,7 +64,7 @@ ti puch-chan sab aaňsu
 ramaahaT gari
 baaTo pachyaauň-chu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 परीक्षा सताउँदैन,
 दु:खदेखि छैन भय
 जब येशू आउँछन्‌ नजीक,

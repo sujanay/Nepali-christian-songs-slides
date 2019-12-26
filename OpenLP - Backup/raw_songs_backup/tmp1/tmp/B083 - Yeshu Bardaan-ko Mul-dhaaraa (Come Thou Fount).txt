@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू वरदानको मूल-धारा,
 गरूँ योग्य प्रशंसा
 दया-खोला लगातार
@@ -20,7 +20,7 @@ sworga-dut-le gare-jhaiň
 prabhu khrisT-ko prem ra bhalaai cha
 agaadha apaar sadhaiň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यतिन्जेल मेरो उद्धारक
 तपाईं हुनुभो, आफै
 राखी 'एवेन्‌एजर' स्मारक
@@ -42,7 +42,7 @@ malaai khoje yeshule
 naash-dekhi bacaauna
 aafno amol ragat bahaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वरको अनुग्रह हेरी ऋणी
 आफूलाई ठान्छु
 त्यो अनुग्रह साङ्गलोसरी बाँधोस्‌

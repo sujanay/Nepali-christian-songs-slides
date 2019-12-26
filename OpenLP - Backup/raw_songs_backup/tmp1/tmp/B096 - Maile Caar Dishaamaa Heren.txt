@@ -11,7 +11,7 @@ timi-jasitai mukti-daataa,
 maile katai paa-inaň, paa-inaň
 maile caar dishaa-maa hereň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (फुकाली बन्धन सारा,
 आफ्‍‌नो रगतले धोएर) २
 सित्थैमा कोसेली अनन्त जीवनको
@@ -33,7 +33,7 @@ bali aa-ye ishworko putra
 timi bhanchau balidaan yesto
 maile katai dekhinaň, dekhinaň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अन्धकारभित्र बसेर
 उजेली थाहा के गर्ने ?) २
 (तिमीलाई ज्योतिको रहस्य खोलेर

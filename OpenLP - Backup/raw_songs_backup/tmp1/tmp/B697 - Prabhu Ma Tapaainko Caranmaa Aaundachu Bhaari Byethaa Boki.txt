@@ -9,7 +9,7 @@ aauň-dachu bhaari byethaa boki
 jhukaauň-chu kamjor yes shir-laai
 pash-caattaapi man-ko aaňsu pokhi.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हिँड्न सकिनँ, गाह्रो भयो,
 उत्साह जाँगर हटेर गयो,
 मन यो चञ्‍चल, छैन स्थिर
@@ -27,7 +27,7 @@ bagna thaale-kaachan byethaa, pir.
 {y}praarthanaa garchu tapaaiň prabhu-maa
 Doryaau-nos prabhu kadam kadam-maa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सिकाउनोस् प्रभु, हिँड्न वचनमा
 भरोसा गर्न, तपाईं प्रभुमा
 कमजोर देह यो सामर्थ्य छैन

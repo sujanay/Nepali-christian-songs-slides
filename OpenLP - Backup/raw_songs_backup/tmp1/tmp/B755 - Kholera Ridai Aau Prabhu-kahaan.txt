@@ -11,7 +11,7 @@ kahile-samma cupa laagi basne ho?
 tayaar hou nyaaye-maa ubhina-laai.
 tayaar hou sworga jaana-laai. kholera ridai .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (गर्भैमा मानिस पापसहित हुन्छन् ,
 धर्मी कोही हुँदैनन् ) २
 (लोभ, डाहा, घृणा, कपट, अभिमान,
@@ -22,7 +22,7 @@ dharmi kohi huň-dainan ) ~2
 (lobh, Daahaa, ghriNaa, kapaT, abhimaan,
 paap-kaa daag yestai chan ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (धर्म-कर्मको च्यादरले ढाक्दा
 कुनै पाप ढाकिँदैन ) २
 (पापका दाग मेटी धर्मी
@@ -33,7 +33,7 @@ kunai paap Dhaakiň-daina ) ~2
 (paap-kaa daag meTi dharmi
 tulyaaune ausadhi kehi chaina ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (लापरवाह बनी संसारमा डुब्दा
 मृत्यु आई गाँज्नेछ ) २
 (पापैको ज्याला नरकमा पर्दा,
@@ -44,7 +44,7 @@ mrityu aai gaaňjne-cha ) ~2
 (paapai-ko jyaalaa narak-maa pardaa,
 bacaaune ko huncha ? ) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (पापैमा मरी आत्मा नाश पारी
 तिमीले के पाउँछौ ? ) २
 (छटपटी, रुवाइ, असह्य जलन,
@@ -55,7 +55,7 @@ timi-le ke paauň-chau ? ) ~2
 (chaT-paTi, ruwaai, asahya jalan,
 yehi nai paauňne-chau . ) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (पाप तिम्रा थिए दण्ड तिम्रो नै,
 बचाउन तिमीलाई ) २
 (दुःख सहे क्रूसमा,

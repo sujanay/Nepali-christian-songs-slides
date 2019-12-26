@@ -7,7 +7,7 @@
 haamro khrisT raajaa) ~4
 jagat-ko
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो निम्ति स्वर्ग छोडी
 आए जगत्‌मा) २
 (बलि भए हाम्रो निम्ति
@@ -18,7 +18,7 @@ aaye jagat-maa) ~2
 (bali bhaye haamro nimti
 kalwari-ko krus-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पापको उद्धार गर्न आए
 ख्रीष्ट येशू राजा) २
 (पश्चात्तापी हृदयलाई
@@ -29,7 +29,7 @@ khrisT yeshu raajaa) ~2
 (pashcaattaapi ridai-laai
 chyemaa dinchan aaja) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (सत्यताको वचन दिए
 सारा जनतालाई) २
 (ख्रीष्टमा विश्‍वास गरे
@@ -40,7 +40,7 @@ saaraa janataa-laai) ~2
 (khrisT-maa vishwaas gare
 haami paar tarchauň bhaai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (ख्रीष्टको अमोल वचन पाई
 पापदेखि फर्क) २
 (पापदेखि फर्क्यौ भने

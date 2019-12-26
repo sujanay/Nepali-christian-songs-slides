@@ -9,7 +9,7 @@ ramaauna yeshu-maa,
 maile nishcai gareko chu
 vishwaas garna unai-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (चाहे दाखका बोटमा
 कुनै फूल नफुलोस्
 चाहे मेरो जीवनमा
@@ -20,7 +20,7 @@ kunai ful na-fulos
 caahe mero jivan-maa
 kunai sudhaar na-hos) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (चाहे हाँस्‍‌न परोस्,
 चाहे रुन परोस्
 चाहे बाँच्‍‌न परोस्
@@ -31,7 +31,7 @@ caahe runa paros
 caahe baaňc-na paros
 caahe marna paros) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (चाहे खाँचो परोस्,
 चाहे प्रशस्त होस्,
 चाहे मेरो जीवनमा
@@ -42,7 +42,7 @@ caahe prashasta hos,
 caahe mero jivan-maa
 kunai sudhaar na-hos) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (परमप्रभु नै
 मेरा सहारा हुन्
 परमप्रभु नै

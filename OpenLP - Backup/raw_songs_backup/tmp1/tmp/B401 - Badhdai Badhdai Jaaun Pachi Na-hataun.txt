@@ -7,7 +7,7 @@
 krus-ko jhaNDaa kaaňdh-maa lii,
 aghi baDhdai jaauň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सेना हामी ख्रीष्टका हौँ,
 युद्ध गर्दै जाऔँ,
 कनान देशको राहमा
@@ -29,7 +29,7 @@ bairi-laai haraauň,
 (kanaan desh-maa haami sab
 jaiwant-ko git gaauň.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (कप्‍तान हाम्रो सेनाको
 ख्रीष्ट आफै हुन्
 तलवार हाम्रो आत्माको
@@ -51,7 +51,7 @@ jivan saňgraam-maa
 (dainik jivan-ko haamro
 kadam kadam-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (वैरी धेरै भए हामी
 तै हरेस नखऔँ
 जयवन्त शक्ति पाउनलाई

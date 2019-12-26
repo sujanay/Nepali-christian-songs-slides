@@ -9,7 +9,7 @@ yeshu-kahaaň aau, saathi
 jivana-ko jala lina,
 (aafno pyaas meTi-lina) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जीवनको जल उनै हुन्‌
 युग-युग तृप्ति दिने) २
 उनलाई यदि पियौ भने
@@ -22,7 +22,7 @@ un-laai yedi piyau bhane
 timi kahilyei pyaasaa ban-dainau
 yugaanu-yug-samma nai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवनको बाटो उनै हुन्‌
 स्वर्ग राज्यमा पुर्‍याइदिने) २
 उनलाई यदि चुन्यौ भने
@@ -35,7 +35,7 @@ un-laai yedi cunyau bhane
 pitaa-kahaaň nishcai pug-nechau
 yugaanu-yug raajye garna-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (जीवनको रोटी उनै हुन्‌
 भोको मनलाई तृप्ति दिने) २
 उनलाई तिमी खायौ भने
@@ -48,7 +48,7 @@ unlaai timi khaayau bhane
 timi kahilyei bhokaa ban-dainau
 yugaanu-yug-samma-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (एउटा मात्रै ढोका उनै हुन्‌
 स्वर्गराज्यमा प्रवेश गर्नलाई) २
 यही बाटो पस्यौ भने
@@ -61,7 +61,7 @@ yehi baaTo pasyau bhane
 nishcai timi sworga pug-nechau,
 asim sukha-ko bhaagi huna-laai.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (एउटा मात्र सत्य येशू हुन्‌
 सारा जगको उद्धार गर्नलाई) २
 यदि उनलाई अपनायौ भने

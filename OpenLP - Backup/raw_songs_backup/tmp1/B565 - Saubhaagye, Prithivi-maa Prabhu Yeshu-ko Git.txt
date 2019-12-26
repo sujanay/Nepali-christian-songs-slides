@@ -9,7 +9,7 @@ prabhu yeshu-ko git
 gaaunu-bhandaa Thulo ke ho) ~3
 ho, sau-bhaagye ...
 
----[Verse 1:]---
+---[Verse:1]---
 उनको ठूलो अनुग्रह भो
 मानिस ईश्‍वरको मिलाप भयो
 हो हो हो बन्धन सबै टुटिगए
@@ -38,7 +38,7 @@ prashaňsaa prashaňsaa ridai kholi dharti
 gunjaaune ho niraashaa-laai bhagaaune
 he he he he ho.
 
----[Verse 2:]---
+---[Verse:2]---
 के भो के भो हृदय मेरो
 स्वर्गिय प्रेमले नयाँ भयो
 हो हो हो पापी मेरो जीवनमा

@@ -18,7 +18,7 @@ himaal-ko pavan sari yo sandesh,
 suni aaja ridai-maa
 (bujhi deu hai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (डाँडाकाँडा सारा प्रकृति
 ईश्‍वरका हुन् ती सारा सृष्टि ) २
 (पूजौं बरू सट्टामा उनलाई
@@ -29,7 +29,7 @@ ishwor-kaa hun ti saaraa srisTi ) ~2
 (pujauň baru saTTaa-maa un-laai
 jas-le gare sri-janaa haami-laai ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (साँचो शान्ति वैभवका राजा
 स्वर्ग छोडी आउने है येशू ) २
 (बलि भए कलवरी क्रूसैमा

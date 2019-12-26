@@ -9,7 +9,7 @@ bhari-dine yeshu nai,
 sab-ko paap-ko saaTo-maa
 mari-dine yeshu nai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कस्ले गर्छ स्वर्थ रहित
 प्रेम अचम्मको,
 उसैमा हुन्छ हजुर
@@ -31,7 +31,7 @@ jhari-dine yeshu nai,
 (sab paap-ko saaTo-maa
 mari-dine yeshu nai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 संसारलाई बचाउने
 येशू ख्रीष्टको कथा,
 जस्ले बुझ्छन् हामी

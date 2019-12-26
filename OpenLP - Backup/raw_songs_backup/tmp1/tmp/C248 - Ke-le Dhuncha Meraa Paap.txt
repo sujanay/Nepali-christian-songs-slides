@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 केले धुन्छ मेरा पाप ?
 केवल येशूको रगतले
 हुन्छु निको कसरी ?
@@ -20,7 +20,7 @@ hunchu, hiuň jasto seto
 chaina kunai mul yesto,
 kewal yeshu-ko ragat-le.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 क्षमा पाइने सक्छु म
 केवल येशूको रगतमा
 शुद्ध हुन सक्छु म
@@ -31,7 +31,7 @@ kewal yeshu-ko ragat-maa
 shuddha huna sak-chu ma
 kewal yeshu-ko ragat-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पापलाई ढाक्न सकिन्छ
 केवल येशूको रगतले
 असल कामले सक्दैन
@@ -42,7 +42,7 @@ kewal yeshu-ko ragat-le
 asal kaam-le sakdaina
 kewal yeshu-ko ragat-le.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 मेरो आशा र शान्ति
 केवल येशूको रगतमा
 मेरो पूर्ण धार्मिकता

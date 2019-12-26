@@ -5,7 +5,7 @@
 awataar bhayo prabhu yeshu-ko
 un-ko hos jai
 
----[Verse 1:]---
+---[Verse:1]---
 (सारा जगत्‌को हुन्‌ मुक्तिदाता) २
 बाटो सच्चाइ र
 (जीवनको दाता आउनुभो प्रभु) २
@@ -16,7 +16,7 @@ baaTo saccaai ra
 (jivan-ko daataa aaunubho prabhu) ~2
 haamro nimti-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 (पापमय जीवन हाम्रो डुबेको) २
 देखाउन आउनुभो
 (प्रेम ईश्‍वरको आउनुभो येशू) २
@@ -27,7 +27,7 @@ dekhaauna aaunubho
 (prem ishwor-ko aaunubho yeshu) ~2
 shaanti liyera.
 
----[Verse 3:]---
+---[Verse:3]---
 (उहाँको लागि हृदय खोलिदेऊ) २
 फिक्रीको जीवन
 (उनलाई लिन देऊ,

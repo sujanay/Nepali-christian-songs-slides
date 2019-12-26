@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दाऊद राजाको शहरमा
 गाईको एउटा गोठ थियो,
 बालक आमाले सुताउँदा
@@ -16,7 +16,7 @@ kokro bhayo DuňDaiko
 {y}mariyem namra aamaacaahiň
 yeshu baalak unkai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशू बालक सबका स्वामी
 संसार आए अवतार भई,
 उनको बास गोठमा
@@ -34,7 +34,7 @@ ani unko kokro tyo DuňDai
 {y}kangaal ani helaa
 yo muktidaataa hunubho.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशू सानै बालकदेखि दीन
 र आज्ञाकारी थे,
 आमाचाहिँलाई प्रेमले हेरी,
@@ -52,7 +52,7 @@ jasko kaakha-maa sutdathe.
 {y}khrisTiye baalak hauň yestai,
 aagyaakaari yeshu-jhaiň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हामीजस्तै बालक भए,
 दिन-दिन बढ्‌थे हामीझैँ,
 कमजोर अनि लाचार थिए,

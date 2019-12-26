@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हाम्रा स्वर्गीय ईश्‍वर पिता,
 नाउँ तपाईंको पवित्र होस्‌
 राज्य तपाईंको छिटो आओस्‌,
@@ -16,7 +16,7 @@ ichyaa puraa garios
 {y}jasto sworga-maa, jasto sworga-maa
 (tyestai prithivi-maa hos) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हाम्रो दिन-दिनको भोजन
 दया गरी दिनुहोस्‌
 अपराध हाम्रो दया गरी
@@ -34,7 +34,7 @@ chyemaa baksi-dinuhos
 {y}jasto haami, jasto haami
 (chyemaa garchauň sabailaai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हामी सबैलाई परीक्षा
 र दुष्टदेखि बचाउनोस्‌
 किनभने यी तपाईंका राज्य,

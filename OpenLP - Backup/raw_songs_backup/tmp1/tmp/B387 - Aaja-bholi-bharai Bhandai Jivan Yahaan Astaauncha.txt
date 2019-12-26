@@ -9,7 +9,7 @@ jivana yahaaň 'staauňcha) ~2x
 (khrisT-laai maayaa garne maanche
 mrityu-paari udaauňcha) ~2x
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मेरो हृदयका मूर्तिहरूलाई
 ख्रीष्ट हटाइबक्सियोस्
 ख्रीष्ट मेरो राजा,
@@ -31,7 +31,7 @@ bartamaan caDhaauňchu
 yeshuko premko kathaa sab-laai
 git-baaTa sunaauňchu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 विश्‍वमा सधैँ म बस्‍‌ने होइनँ,
 बटुवा मात्र हुँ,
 यो बाटो फेरि म हिँड़्‍‌ने छैन

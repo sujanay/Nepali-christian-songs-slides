@@ -9,7 +9,7 @@ mero mukti-daataa-laai
 (sunekaa chau ke timile
 unko madhura baaNi-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 धर्मीलाई त होइन तर,
 बचाउन आए पापीलाई,
 (मृत्युदेखि पार तारी,
@@ -20,7 +20,7 @@ bacaauna aaye paapilaai,
 (mrityu-dekhi paara taari,
 ananta jivan dina-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हामीलाई पीर के छ,
 चढे येशू क्रूसमा,
 (हातखुट्टा झुण्डिए
@@ -31,7 +31,7 @@ caDhe yeshu krus-maa,
 (haat-khuTTaa jhuNDiye
 kaaňTi-ko gahiro coT-saath) ~2 
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 शिरबाट बग्यो रगत,
 उनियो भाला कोखामा,
 (निर्दोष थिए प्रभुजी,

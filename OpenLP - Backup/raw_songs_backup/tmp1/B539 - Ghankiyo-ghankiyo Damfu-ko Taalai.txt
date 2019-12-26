@@ -20,7 +20,7 @@ khrisT janma diwas manaauň-dai) ~2
 (ghar-aaňgan, sansaarai ujyaalo) ~2
 ghankiyo ...
 
----[Verse 1:]---
+---[Verse:1]---
 (नाचन मैच्याङ्ग, नाचन [है],
 नाचन [आ, हा, आ]
 समलामा
@@ -42,7 +42,7 @@ bhabisye-baaNi tyo jo puraa hune-bho
 [ho ho] ) ~2
 ghankiyo ...
 
----[Verse 2:]---
+---[Verse:2]---
 (सुनन पारङ्ग, सुनन [है],
 सुनन, [आ, हा, आ]
 मनमा कुरा गुनन, गुनन

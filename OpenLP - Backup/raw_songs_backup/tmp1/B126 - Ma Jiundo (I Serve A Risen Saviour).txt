@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म जिउँदो मुक्तिदाताको
 सेवा गर्दछु,
 येशू संसारमा छन्‌
@@ -40,7 +40,7 @@ jiuňdo, jiuňdo utaarna paap-dekhi
 ma kasari nishcai jaandachu
 man-mai jiuňchan uni
 
----[Verse 2:]---
+---[Verse:2]---
 म चारैतिर हेरी प्यार
 उनको देख्दछु,
 दु:ख परे पनि
@@ -62,7 +62,7 @@ saagar-maa hunchan aguwaa
 aaunechan feri
 yeshu khrisT antye-maa.
 
----[Verse 3:]---
+---[Verse:3]---
 रमाऊ-रमाऊ विश्‍वासी
 गीतमा गरी प्रचार,
 ख्रीष्ट महाराजालाई होस्‌

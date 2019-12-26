@@ -17,7 +17,7 @@ au aagyaa maanne-chu
 maanche-ko sewaa gardai
 ma rahane-chu prabhu rijhaauň-chu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जीवनलाई मैले हीरा ठानेथिएँ
 पापमा जलेर कोइला भएछ
 स्वर्गमा चम्किरहनेछु भन्थे,
@@ -37,7 +37,7 @@ narak-maa jali-rahane bhayecha
 pashcaat-taap gardai,
 paap-haru sabai pari-tyaag garchu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 स्वर्गको दलानमा बस्दा म बस्दै,
 नर्कको ढोका पुगिसकेछु,
 यसकारण प्रभु फर्की आउँदैछु

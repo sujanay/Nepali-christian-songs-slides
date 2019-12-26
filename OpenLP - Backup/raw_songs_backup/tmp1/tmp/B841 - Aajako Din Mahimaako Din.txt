@@ -7,7 +7,7 @@
 (mahimaa caRhaauň-chu prabhu tapaaiň-laai) ~2
 (aaja-ko din mahimaa-ko din) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (आकाशका चन्द्र सूर्य ताराहरूले) २
 (हावा, बतास र बादल बर्षाहरूले) २
 (महिमा चढाउँछन् प्रभु तपाईंलाई) २
@@ -18,7 +18,7 @@
 (mahimaa caRhaauň-chan prabhu tapaaiň-laai) ~2
 (yeshu-ko naauň-maa mahimaa prabhu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (नदी, समुद्र सागर झरनाहरूले,
 (जल थलमा नभएका प्राणीहरूले,
 (महिमा चढाउँछन् प्रभु तपाईंलाई) २
@@ -29,7 +29,7 @@
 (mahimaa caRhaauň-chan prabhu tapaaiň-laai) ~2
 (yeshu-ko naauň-maa mahimaa prabhu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हिमाल र पहाड पर्वत मैदानहरूले,
 (हे सारा पृथ्वीका मानिसहरू हो,
 (आफ्नो सृष्टिकर्ताको महिमा गर) २

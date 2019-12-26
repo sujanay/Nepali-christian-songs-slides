@@ -20,7 +20,7 @@ ma huň yeshu Dhokaa kholeko caahan-chu
 timro najik rahi
 bhoj khaana ma caahan-chu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 आउ बसेर हमी छलफल गरौँ
 तिम्रो मेरो सम्बन्धलाई
 अझ गहिरो गराऔँ
@@ -53,7 +53,7 @@ timi-laai kholeko caahanchu
 timro najik aa-i
 bhoj khaana ma caahan-chu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (कति हुन्छौ व्यस्ततामा
 मेरो स्वरलाई सुन
 व्यस्ततामा रहँदा रहँदै

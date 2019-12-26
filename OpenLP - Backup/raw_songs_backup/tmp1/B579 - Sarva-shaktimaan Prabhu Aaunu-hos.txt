@@ -31,7 +31,7 @@ andhakaar bhayeko
 yo desh-ko paap-laai
 meTaai-dinu-hos
 
----[Verse 1:]---
+---[Verse:1]---
 ढुङ्गको मनलाई पगालीदिनुहोस्
 कठोर आत्मा नरम बनाउनुहोस्
 तपाईंको वचनले जडता हटाऔँ
@@ -53,7 +53,7 @@ pilaai dinu-hos
 ekataa-ko aatmaa
 khanaai dinu-hos .
 
----[Verse 2:]---
+---[Verse:2]---
 पूर्व र पश्‍चिम, उत्तर र दक्षिण
 यो देशको कुना कन्दराहरूमा
 हिमाल पहाड तराईहरूमा

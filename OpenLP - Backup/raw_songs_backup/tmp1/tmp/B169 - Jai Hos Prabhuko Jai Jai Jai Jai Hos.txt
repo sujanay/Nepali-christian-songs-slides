@@ -5,7 +5,7 @@
 {y}jai hos prabhuko,
 jai jai jai jai hos
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 परमपिताको चरणकमलमा,
 आऊ शिर झुकाई,
 (प्रणाम्‌ गरौं, दण्डवत्‌ गरौं,
@@ -26,7 +26,7 @@ dil-ko dwes haTaauň,
 (masihi jyoti dil-maa
 camkaai jivan dip jalaauň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमधाममा स्तुति चढाऔं
 जय जय ख्रीष्टको मनाऔं
 (तारणहारको प्रेम प्रचारौँ
@@ -48,7 +48,7 @@ masihi jivan lii
 (andhakaar-le purNa yo jag-maa
 masihi jyoti fijaauň) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जीवन राहमा पग बढाऔं लोगलाई ख्रीष्टमा ल्याऔं
 (येशू, विश्‍वासी झुण्ड हो,
 आऊ हातमा हात मिलाऔं) २

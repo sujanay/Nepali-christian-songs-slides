@@ -9,7 +9,7 @@ kalwari-ko tyo DaaňDaa-laai
 (mahaan prem garnu-bho yeshu-le
 herana, herana, daaju-bhaai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पापीको पापलाई मेटाउन
 क्रूसैमा मर्नुभो येशूजी) २
 (विश्‍वास गरन-गरन
@@ -20,7 +20,7 @@ krusai-maa marnu-bho yeshuji) ~2
 (vishwaas garana-garana
 krusai-maa Taaňgi-yeko yeshu-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (आउनेछन्‌ संसारमा येशूजी
 विश्‍वासीहरूलाई उठाउन) २
 (जानलाई तयार होऊ दाज्यू-भाइ,

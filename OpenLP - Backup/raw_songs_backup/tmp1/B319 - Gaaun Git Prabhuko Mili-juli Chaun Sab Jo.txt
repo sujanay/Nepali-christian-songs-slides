@@ -5,7 +5,7 @@
 (gaauň git prabhu-ko mili-juli
 chauň sab jo) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 प्रभु हाम्रो गोठाला
 सबलाई घटी के होला?
 (हरियो-हरियो घाँसैमा
@@ -16,7 +16,7 @@ sab-laai ghaTi ke holaa?
 (hariyo-hariyo ghaaňsai-maa
 sab-laai caraai lii-hiňD-laan) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 पुर्‍याई निर्मल नदीमा
 विश्राम दिन्छन्‌ मनैमा,
 (आफ्‍‌नै नाउँको निम्तिमा
@@ -27,7 +27,7 @@ bishraam dinchan manai-maa,
 (aafnai naauň-ko nimti-maa
 Doryaauňchan Thik baaTo-maa) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 मृत्यु छायाँ तराईमा
 हिँड्‌छु जोखिम नडराई
 (उनको लट्ठी समाई
@@ -38,7 +38,7 @@ hiňDchu jokhim na-Daraai
 (unko laTThi samaai
 shaanti dinchan haami-laai) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 सामु जब वैरी आयो
 हाम्रो लागि भोज राख्यो
 (हाम्रा प्याला उम्लियो
@@ -49,7 +49,7 @@ haamro laagi bhoja raakhyo
 (haamraa pyaalaa umliyo
 shir-maa tel lagaai-diyo) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 निश्चय प्रभुको दया
 जीवनभरि होइरहला
 (जब स्वर्गमा पुगौंला

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू छेउ म जानेछु
 (ज्योतिमा) २
 उनकै साथ म हिँड्‌नेछु,
@@ -20,7 +20,7 @@ un-kai jyoti-maa.
 hiňDnechu ma jyoti-maa
 un-kai jyoti-maa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 क्षमा निश्चय पाउनेछु,
 (ज्योतिमा) २
 सबै पापलाई छोड्‌नेछु,
@@ -31,7 +31,7 @@ un-kai jyoti-maa
 sabai paap-laai choDnechu,
 un-kai jyoti-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्टकै सेवा गर्नेछु,
 (ज्योतिमा) २
 सबै सामर्थ पाउनेछु,
@@ -42,7 +42,7 @@ un-kai jyoti-maa.
 sabai saamartha paaunechu,
 un-kai jyoti-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 शैतान गर्न सक्छ के?
 (ज्योतिमा) २
 जयवन्त हुनेछु निश्चय
@@ -53,7 +53,7 @@ un-kai jyoti-maa.
 jaiwant hunechu nishcai
 un-kai jyoti-maa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 मृत्यु जब आउनेछ,
 (ज्योतिमा) २
 मलाई केको डर हुन्छ
@@ -64,7 +64,7 @@ un-kai jyoti-maa.
 malaai keko Dar huncha
 un-kai jyoti-maa.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 जब स्वर्गमा पुगुँला
 (ज्योतिमा) २
 तब आनन्द मनाउँला

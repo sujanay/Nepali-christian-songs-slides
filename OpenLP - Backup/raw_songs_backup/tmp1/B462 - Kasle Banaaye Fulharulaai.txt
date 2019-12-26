@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 कसले बनाए फूलहरूलाई,
 फूलहरूलाई, फूलहरूलाई?
 कसले बनाए फूलहरूलाई?
@@ -9,7 +9,7 @@ ful-haru-laai, ful-haru-laai?
 kas-le banaaye ful-haru-laai?
 ishwor jo sworga-maa chan.
 
----[Verse 2:]---
+---[Verse:2]---
 कसले बनाए माछाहरूलाई,
 माछाहरूलाई, माछाहरूलाई?
 कसले बनाए माछाहरूलाई?
@@ -20,7 +20,7 @@ maachaa-haru-laai, maachaa-haru-laai?
 kas-le banaaye maachaa-haru-laai?
 ishwor jo sworga-maa chan.
 
----[Verse 3:]---
+---[Verse:3]---
 कसले बनाए चराहरूलाई,
 चराहरूलाई, चराहरूलाई?
 कसले बनाए चराहरूलाई?
@@ -31,7 +31,7 @@ caraa-haru-laai, caraa-haru-laai?
 kas-le banaaye caraa-haru-laai?
 ishwor jo sworga-maa chan.
 
----[Verse 4:]---
+---[Verse:4]---
 कसले बनाए ताराहरूलाई,
 ताराहरूलाई, ताराहरूलाई?
 कसले बनाए ताराहरूलाई?
@@ -42,7 +42,7 @@ taaraa-haru-laai, taaraa-haru-laai?
 kas-le banaaye taaraa-haru-laai?
 ishwor jo sworga-maa chan.
 
----[Verse 5:]---
+---[Verse:5]---
 कसले बनाए तिमीलाई-मलाई,
 तिमीलाई-मलाई?
 कसले बनाए तिमीलाई-मलाई?

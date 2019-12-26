@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म राख्छु पापको बोझा
 निर्दोष ख्रीष्ट थुमामा
 ख्रीष्टले सब पाप उठाउँदछन्‌,
@@ -20,7 +20,7 @@ dos meTne yeshu-kahaaň
 ra un-le dhoi-deun
 ma baDo paapi-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 म आफ्‍‌ना घटी राख्छु
 भरपूर ख्रीष्ट येशूमा
 जो मेरो निको पार्ने
@@ -42,7 +42,7 @@ ra fikri yeshu-kahaaň
 jo mero saath dine bhai
 saajhe sab dukha-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म प्राण बिसाइदिन्छु
 येशूको काखैमा
 उनले अँगालो मार्छन्‌
@@ -64,7 +64,7 @@ priye khrisT ra immaanuyel
 failaaiňdaa yes naauňle
 garaauňcha mohit man.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 म येशू जस्तो होऊँ,
 दीन, प्रेमी, दयालु,
 येशूजस्तो होऊँ,

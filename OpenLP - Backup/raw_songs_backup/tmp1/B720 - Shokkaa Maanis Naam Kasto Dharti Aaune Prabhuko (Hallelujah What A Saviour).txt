@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 'शोकका मानिस' नाम कस्तो
 धरती आउने प्रभुको,
 उद्धार गर्न पापीको,
@@ -9,7 +9,7 @@ dharti aaune prabhu-ko,
 uddhaar garna paapi-ko,
 dhanye haamro mukti-daataa.
 
----[Verse 2:]---
+---[Verse:2]---
 सहे निन्दा लाज हैरान,
 लिए मेरो दण्ड स्थान,
 रगतद्वारा क्षमादान,
@@ -20,7 +20,7 @@ liye mero daNDa sthaan,
 ragat-dwaaraa chyemaa-daan,
 dhanye haamraa mukti-daataa.
 
----[Verse 3:]---
+---[Verse:3]---
 दोषी, नीच अनाथ हामी,
 थुमा निष्कलंक उनी,
 पूरा प्रायश्‍चित गरी,
@@ -31,7 +31,7 @@ thu-maa niskalaňka uni,
 puraa praayesh-cit gari,
 dhanye haamraa mukti-daataa.
 
----[Verse 4:]---
+---[Verse:4]---
 मारिन उचालिए
 'अब सिद्धियो' कराए,
 स्वर्गमा महिमित भए,
@@ -42,7 +42,7 @@ maarina ucaaliye
 sworga-maa mahimit bhaye,
 dhanye haamraa mukti-daataa.
 
----[Verse 5:]---
+---[Verse:5]---
 महिमित राजा आउँछन् जब,
 आफ्नालाई घर लान्छन् सब,
 नयाँ गीत यो गाउँछौं तब,

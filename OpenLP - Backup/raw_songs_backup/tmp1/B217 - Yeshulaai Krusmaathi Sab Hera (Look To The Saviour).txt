@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूलाई क्रूसमाथी सब हेर,
 हाम्रो दु:ख उसैले बोकेर
 डाक्दैछन् सबलाई प्रेम गरेर,
@@ -18,7 +18,7 @@ yeshu-laai hera, hera ta jiune chauň
 yeshu-laai krus-maathi sab hera,
 yeshu-laai hera.
 
----[Verse 2:]---
+---[Verse:2]---
 पापको बोझालाई उतार्नेछन्,
 अमर जीवन पाउने पार्नेछन्
 मृत्यू नदिदेखि तार्नेछन्,
@@ -29,7 +29,7 @@ amar jivan paune paarnechan
 mrityu nadi-dekhi taarnechan,
 yeshu-laai hera.
 
----[Verse 3:]---
+---[Verse:3]---
 चिहानदेखि प्रभु बौरेछन्,
 बढ़ौं सबै जब बेला छ
 उनको शक्तिले शोक दूर गर्छन्,
@@ -40,7 +40,7 @@ baRhaauň sabai jaba belaa cha.
 unko shakti-le shok dur garchan.
 yeshu-laai hera.
 
----[Verse 4:]---
+---[Verse:4]---
 येशू स्वर्गलोकमा बस्दछन,
 पापीको सब दु:खलाई जान्दछन्
 साँच्ची नै प्रभुले डाक्दै छन्,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (बलिदान हुने, सबका पाप धुने
 एक मात्र येशू हुन् ) २
 एक मात्र येशू हुन् है
@@ -18,7 +18,7 @@ ek maatra yeshu hun
 sab-kaa paap dhune
 ek maatra yeshu hun
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मृत्युलाई जित्‍ने, बौरेर उठ्ने
 त्यो पनि येशू हुन् ) २
 त्यो पनि येशू हुन् है
@@ -38,7 +38,7 @@ tyo pani yeshu hun
 baurera uThne
 tyo pani yeshu hun
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हाम्रो फिक्री गर्ने
 हाम्रो निम्ति मर्ने
 ती सबका प्रभु हुन् ) २
@@ -60,7 +60,7 @@ ti sab-kaa prabhu hun
 haamro nimti marne
 ti sab-kaa prabhu hun
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (सत्यलाई खोजौँ, मुक्तिलाई रोजौँ
 येशूमै भेट्नेछौ) २
 येशूमै भेट्नेछौ है
@@ -80,7 +80,7 @@ yeshu-mai bheTne-chau
 mukti-laai rojauň
 yeshu-mai bheTne-chau
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (येशूलाई खोजौँ, उनैलाई रोजौँ
 ती सबका आत्मा छन् ) २
 ती सबका आत्मा छन् है

@@ -5,35 +5,35 @@
 {y}(prabhu timro stuti garchu,
 timro mahimaa gaau-nechu) ~2x
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (तिम्रो चरणमा हे प्रभु) २
 (हृदय भेटी चढ़ाउँदैछु) २
 
 {y}(timro caraN-maa he prabhu) ~2x
 (ridai bheTi caRhauň-daichu) ~2x
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पूरो मनले बिन्ती गर्छु) २
 (तिम्रो दर्शन म पाऊँ) २
 
 {y}(puro man-le binti garchu) ~2x
 (timro darshan ma paa-uň) ~2x
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (येशूको रुप ममा हौओस्) २
 (उनकै गुण देखाउनलाई) २
 
 {y}(yeshu-ko rup ma-maa hau-os) ~2x
 (un-kai guNa dekhauna-laai) ~2x
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (तिम्रै वचनले हे प्रभु) २
 (नयाँ जीवन पाउनेछु) २
 
 {y}(timrai bacanle he prabhu) ~2x
 (nayaaň jivan paau-nechu) ~2x
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (प्रभु शक्ति देऊ मलाई) २
 (तिम्रो वचन सुनाउनलाई) २
 

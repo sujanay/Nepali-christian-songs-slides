@@ -7,7 +7,7 @@
 haamro yo duniyaaň-maa
 ko'laa sunana) ~2x
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 एक प्रौढ यात्री यरूशलेमदेखि
 जाँदैथ्यो जेरीको
 जाँदा है जाँदा बाटोमा परे
@@ -18,7 +18,7 @@ jaaňdai-thyo jeriko
 jaaňdaa hai jaaňdaa baaTo-maa pare
 haata-maa Daaňku-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अधमरो पारी लुटपाट पारे,
 जंगलमा फ्याँकियो
 आपद्‍मा पर्दा कोही थिएन
@@ -29,7 +29,7 @@ jaňgal-maa fyaaň-kiyo
 aapad-maa pardaa kohi thiyena
 tyesko susaare-gohaar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 त्यो बाटो एउटा पूजारी गयो
 हेरेर तर्कियो
 म हुँ पूजारी कदापि छुन्‍नँ
@@ -40,7 +40,7 @@ herera tarak'yo
 ma huň pujaari kadaapi chun-naň
 samjhera Daraayo.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पूजारी गइगो तब लेवि आयो
 त्यो बाटो भएर
 डरले आँखा तर्काई उसै
@@ -51,7 +51,7 @@ tyo baaTo bha-ye-ra
 Dara-le aaňkhaa tarkaa-i usai
 shahar-maa bhaagi-go.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 अन्तैमा सामरी जातैको तुच्छ
 आएर टिठायो
 मलमपट्टी घाउमा बाँघी
@@ -62,7 +62,7 @@ aayera TiThaayo
 malama-paTTi ghaa-u-maa baaňghi
 gadhaa-maa caRha-aayo.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 सरायमा लगे, स्यार-सुसार गरे,
 खटाए स्याहारे,
 छिमेकी को हुन् भनन त्यसको
@@ -73,7 +73,7 @@ khaTaaye sy-aahaare,
 chimeki ko hun bhanana tyesko
 kasTa-maa gohaare.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 येशू हुन् हाम्रा सदैव छिमेकी
 कष्टमा स्याहार्ने
 पापको घाउमा औषधि बाँघि

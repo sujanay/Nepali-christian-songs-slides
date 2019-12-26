@@ -9,7 +9,7 @@ sab jiwa saanaa-Thulaa
 gyaani ra udek-kaa
 sab ishwor-le banaa-yekaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सब फूल राम्रा जो फुल्छन्‌,
 गाउँछन्‌ सबै चरा,
 रङ्ग तिनका चम्किला छन्‌,
@@ -20,7 +20,7 @@ gaauň-chan sabai caraa,
 rang tin-kaa camkilaa chan,
 banaaye pakheTaa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हिउँदको चिसो हावा,
 गर्मीको राम्रो घाम,
 पाकेको फल बगानमा
@@ -31,7 +31,7 @@ garmiko raamro ghaam,
 paakeko fal bagaanamaa
 unaiko sabai kaam.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हिउँका अग्ला पहाड,
 सब छेउका जङ्गल नदी,
 सूर्यास्त र सुन्दर बिहान
@@ -42,7 +42,7 @@ sab cheukaa jangal nadi,
 suryaasta ra sundar bihaana
 rangina aakaash pani.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हेर्न दिए आँखा जो,
 ओठ दिए बोल्‍‌नलाई,
 अति महान्‌ ईश्‍वर हुन्‌,

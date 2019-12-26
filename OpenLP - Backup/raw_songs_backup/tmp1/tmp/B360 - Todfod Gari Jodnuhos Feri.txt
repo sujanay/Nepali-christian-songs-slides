@@ -9,7 +9,7 @@ khrisT swoyem jiu-nuhos
 (srisTi aghi-ko ichyaa tapaaiň-ko,
 he prabhu purNa hos.) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (स्वार्थमय जीवन जिएर कति
 तपाईंलाई रुवाँए) २
 तपाईंको आज्ञा तोडेर मैले
@@ -31,7 +31,7 @@ prabhu-laai pahiryaa-yeň
 paap gardai yahaaň baaňcera kaiyauň
 baar krus-maa caDhaayeň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जिउन चाहन्‍नँ हारेको जीवन
 ख्रीष्टरहित भएर) २
 जिउन चाहन्छु जयवन्त जीवन

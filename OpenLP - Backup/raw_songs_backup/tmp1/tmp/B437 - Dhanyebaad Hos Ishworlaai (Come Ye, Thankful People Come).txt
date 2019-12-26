@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 धन्यवाद होस्‌ ईश्‍वरलाई,
 बाली काट्‌ने भो समय
 सब सुरक्षासाथ घरमा
@@ -20,7 +20,7 @@ haami-laai sab juTaa-ye
 maNDali aau parmeshwor-ko baali
 kaaT-ne samai bho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हामी ईश्‍वरको बारीमा
 फल्छौं भने छ स्तुति
 गहुँ र साथै झारपात छन्‌,
@@ -42,7 +42,7 @@ ani dekhaa par-dacha baali
 prabhu haami tyestai hauň anna,
 cokho shuddha banauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हाम्रा प्रभु आउनेछन्‌,
 फसल घरमा लानेछन्‌
 जे-जे उनलाई लाग्छ घिन,
@@ -64,7 +64,7 @@ faalna delaan aago-mai
 tara anna dhansaar-maa
 raakhi-dine-chan sadaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रभु चाँडै आउनुहोस्‌,
 फसल घरमा लानुहोस्‌
 जम्मा गराई मण्डली शोक

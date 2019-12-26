@@ -7,7 +7,7 @@
 prabhu yeshu-laai vishwaas gara) ~2
 anugraha-ko.
 
----[Verse 1:]---
+---[Verse:1]---
 (सारा संसारलाई हात पारे पनि
 आत्मा तिमीले गुमायौ भने) २
 (मित्र, तिमीलाई छैन केही लाभ) २
@@ -29,7 +29,7 @@ khrisT-ko sunera ridai kholi-deu
 prabhu yeshu-ko caraN pari
 ananta mukti leu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (धर्म-कर्मको संस्कारद्वारा
 पवित्र तिमी बन्दैनौ) २
 (भक्तिको भेष धारण गरेर) २
@@ -51,7 +51,7 @@ timraa prabhu-maa maani-leu
 (mahaan prabhu-ko caraN pari
 jivan arpi-deu) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 साँचो मुक्तिको एउटै छ
 बातो प्रभु येशू ख्रीष्ट बुझिदेऊ
 (पाप-मार्ग त्यागी पश्‍चात्तापी बनी) २
@@ -73,7 +73,7 @@ aaja yeshu-ko ragat-maa
 sworgiye aashis ananta-jivan paau
 un-ko saamar-thye-maa) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (केवल ख्रीष्टमा छ अनन्त जीवन
 स्वर्गीय आशिष्‌‍को भरपूरी) २
 (मृत्युको त्यहाँ प्रभुत्व छैन) २

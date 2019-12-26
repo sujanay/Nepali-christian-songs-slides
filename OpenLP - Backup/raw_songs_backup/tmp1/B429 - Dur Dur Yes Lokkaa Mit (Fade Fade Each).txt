@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दूर, दूर यस लोकका मीत,
 ख्रीष्ट मेरा हुन्‌,
 दूर, दूर यस लोकको सुख,
@@ -20,7 +20,7 @@ yes lokmaa chaina cain,
 jun khrisT-maa maatra cha,
 khrisT meraa hun.
 
----[Verse 2:]---
+---[Verse:2]---
 मलाई जाँच नगर्नू,
 ख्रीष्ट मेरा हुन्‌,
 सधैँभरि बस्‍‌नु
@@ -42,7 +42,7 @@ ek din-laai,
 jun khrisT-maa maatra cha,
 khrisT meraa hun.
 
----[Verse 3:]---
+---[Verse:3]---
 हेर्दिनँ संसारलाई,
 ख्रीष्ट मेरा हुन्‌,
 हेर्छु म स्वर्गलाई,

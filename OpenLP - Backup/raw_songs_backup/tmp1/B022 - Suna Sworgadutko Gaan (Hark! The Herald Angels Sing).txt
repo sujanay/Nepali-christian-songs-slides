@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सुन स्वर्गदूतको गान,
 होस् अवतारी ख्रीष्टको मान
 पृथ्वीमाथि भो मिलाप,
@@ -27,7 +27,7 @@ beThlehem-maa khrisTko maan) ~2x
 suna sworgadutko gaan,
 hos awataari khrisTko maan
 
----[Verse 2:]---
+---[Verse:2]---
 ख्रीष्ट सब स्वर्गले पुजेको,
 ख्रीष्ट प्रभु जो सधैंको
 पूरो समय आयो जब
@@ -49,7 +49,7 @@ dhanye awataar ishworko
 (dhanye khrisT garaaune mela,
 dhanye khrisT immaanuel) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 धन्य कुशलको प्रधान,
 धर्नका सूर्यलाई प्रणाम्
 ज्योति, जिवन जगत्‌लाई

@@ -18,7 +18,7 @@ halleluyaah, hallelu-yaah
 mero yeshu raajaa
 feri aau-nechan
 
----[Verse 1:]---
+---[Verse:1]---
 साना-साना मोती साबलाई बेची
 असल मोतीलाई किनेजस्तो
 विश्‍वास गर्ने हरेक सबलाई
@@ -29,7 +29,7 @@ asal moti-laa-i ki-ne-jasto
 vishwaas garne harek saba-laai
 swor-giya raaj' pani hun-cha yesto.
 
----[Verse 2:]---
+---[Verse:2]---
 लुकिएको गाड़्धनलाई भेटी
 आफ्नो सारा भूमि बेचेजस्तो
 किन्‍नेलाई त्यो बहुमूल्य भुमि

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 फेरि हे प्रभु स्तुति गाउँदछौं,
 एक मनका भई विन्ती गर्दछौं
 तपाईंको दया हामी गर्छौं याद
@@ -9,7 +9,7 @@ ek man-kaa bhai binti gardachauň
 tapaaiň-ko dayaa haami garchauň yaad
 ra ghuňDaa Teki maagchauň aashirbaad.
 
----[Verse 2:]---
+---[Verse:2]---
 घर जाँदाखेरि मिलाप दिनुहोस्‌,
 यस दिनको अन्तसम्म आशिष्‌ होस्‌
 ओठदेखि पाप र हृदयदेखि लाज
@@ -20,7 +20,7 @@ yes dinko anta-samma aashis hos
 oTh-dekhi paap ra ridai-dekhi laaj
 TaaDho garaaunos jo sevaa gare aaja.
 
----[Verse 3:]---
+---[Verse:3]---
 यस आउँदो रातमा दिनू मेल र सुख
 जसबाट हामीमा नहवस्‌ दु:ख
 र नोक्सानदेखि हामीलाई निकाल्‍‌नोस्‌,
@@ -31,7 +31,7 @@ jas-baaTa haami-maa na-haus dukha
 ra noksaan-dekhi haami-laai nikaalnos,
 hercaaha garne ho tapaaiň-ko haala.
 
----[Verse 4:]---
+---[Verse:4]---
 सांसारिक जीवनभरि हामीलाई
 रक्षा गराउनुहोस्‌ जब छ लडाइँ
 जय दिनोस्‌ प्रभु अनि मेल सधैं

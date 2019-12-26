@@ -11,7 +11,7 @@ sansaar-maa yeshu cha mero saathi) ~2
 uhaaň mero sahaaraa
 prabhu yeshu halleluyaah) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 मैले जब सोचे म एकलै छु
 प्रभु येशूले भन्‍नुभो मलाई
 (जीवनको अन्तसम्म
@@ -31,7 +31,7 @@ uhaaň mero aananda harek din-maa
 uhaaň mero sahaaraa
 prabhu yeshu halleluyaah
 
----[Verse 2:]---
+---[Verse:2]---
 मैले जब सोचे म निर्वल छु
 प्रभु येशूले भन्‍नभो मलाई
 (सहारा दिने शक्ति दिने

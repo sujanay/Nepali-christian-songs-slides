@@ -20,7 +20,7 @@ ucaal-chu timro naauň
 hosanna maaraa-naathaa
 pukaar-chu timro naauň
 
----[Verse 1:]---
+---[Verse:1]---
 (पखेटा फैलाई समेटे मलाई
 न्यानो अङ्गालोमा
 शान्त गराए हृदयका हलचल
@@ -42,7 +42,7 @@ dhanye hun timro kripaa
 hosanna maaraa-naathaa
 dhanye hun timro dayaa.
 
----[Verse 2:]---
+---[Verse:2]---
 (बोझले लादिएको मेरो जीवनलाई
 क्रूसमा बिश्राम दिए
 छाडिसकेको मेरो देहलाई

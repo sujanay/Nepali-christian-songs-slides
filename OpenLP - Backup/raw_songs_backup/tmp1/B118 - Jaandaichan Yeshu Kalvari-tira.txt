@@ -9,7 +9,7 @@ timro-mero paapko bhaari bokera
 maayaa kasto, anugraha kasto
 naapera naapnai nasakne
 
----[Verse 1:]---
+---[Verse:1]---
 सहेर पीर-मर्का,
 चोट कोर्राको खाँदै
 भोकै र प्यासी बनी,
@@ -29,7 +29,7 @@ krusko bhaari bokera
 larbaridai, darfaridai
 jaaňdaichan jiuňdo bali bhayera
 
----[Verse 2:]---
+---[Verse:2]---
 थुकाइ र निन्दा सहँदै,
 गिल्ला र मुक्का खाँदै
 अन्तमा झुण्डाए क्रूसमा,

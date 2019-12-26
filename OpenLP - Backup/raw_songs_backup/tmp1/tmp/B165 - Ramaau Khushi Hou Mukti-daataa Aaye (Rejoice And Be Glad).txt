@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 रमाऊ, खुशी होऊ, मुक्तिदाता आए,
 हेर्न जाऊ कोक्रो,
 क्रूस र चिहान येशूको।
@@ -16,7 +16,7 @@ krus ra cihaan yeshuko.
 unlaai bhaja,
 haamro laagi khrisT byuňtanubho
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रमाऊ, खुशी होऊ,
 अब उज्यालो भयो,
 बादल सब हटिगए रात गइसक्यो।
@@ -25,7 +25,7 @@ haamro laagi khrisT byuňtanubho
 aba ujyaalo bhayo,
 baadal sab haTigaye raat gai-sakyo.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 रमाऊ, खुशी होऊ,
 ख्रीष्टले रगत बहाई,
 पापको दण्ड तिरेर बचाए हामीलाई।
@@ -34,7 +34,7 @@ baadal sab haTigaye raat gai-sakyo.
 khrisT-le ragat bahaai,
 paapko daNDa tirera bacaaye haami-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 रमाऊ, खुशी होऊ,
 सित्तैँ पाइन्छ मुक्ति,
 सब अन्यायीको साटो मरे न्यायी।
@@ -43,7 +43,7 @@ paapko daNDa tirera bacaaye haami-laai.
 sittaiň paaincha mukti,
 sab anyaayi-ko saaTo mare nyaayi.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 रमाऊ, खुशी होऊ,
 येशू मरेपछि,
 फेरि जिउँदो भए ब्यूँती मृत्युदेखि।
@@ -52,7 +52,7 @@ sab anyaayi-ko saaTo mare nyaayi.
 yeshu mare-pachi,
 feri jiuňdo bhaye byuňti mrityu-dekhi.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 रमाऊ, खुशी होऊ,
 येशू गर्छन्‌ माथि,
 अन्तर्विन्ती परमेश्‍वरलाई हाम्रो लागि।
@@ -61,7 +61,7 @@ feri jiuňdo bhaye byuňti mrityu-dekhi.
 yeshu garchan maathi,
 antar-binti parmeshwor-laai haamro laagi.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 रमाऊ, खुशी होऊ,
 पाठो परमेश्‍वरको,
 फेरि आउनेछन्‌ उहाँ जो मारिनुभो।

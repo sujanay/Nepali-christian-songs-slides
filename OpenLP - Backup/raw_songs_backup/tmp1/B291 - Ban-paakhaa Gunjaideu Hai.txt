@@ -9,7 +9,7 @@ mukti-ko euTaa gita-le
 (satye-ko sandesha bhani-deu
 gita-ko bhaakaa-le) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (पापको श्राप मेट्नलाई
 येशूजी आउनुभो,
 मान्छेलाई नयाँ रूप दिन
@@ -40,7 +40,7 @@ bataai-deu sabai-laai
 bujhaai-deu sabai-laai
 samjhaai-deu sabai-laai
 
----[Verse 2:]---
+---[Verse:2]---
 (हारको जीवन छैन
 यहाँ अन्धेरी जगत्‌मा,
 बेमोल छैन मान्छे सब

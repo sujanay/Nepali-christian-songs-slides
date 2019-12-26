@@ -5,7 +5,7 @@
 {y}(chuTkaaraa-ko git gaauň hai,
 prabhu yeshu-kahaaň jaauň hai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 बलिदान हुने को हो? येशू,
 पाप क्षमा गर्ने को हुन्? येशू
 रोगहरू निको पार्ने,
@@ -16,7 +16,7 @@ paap chyemaa garne ko hun? yeshu
 rog-haru niko paarne,
 bhut-haru dhapaai-dine yeshu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हाम्रो विजय येशूमा छ आमेन,
 हाम्रो आनन्द येशू नै हुन्‌ आमेन,
 मृत्युबाट उठी आउने,

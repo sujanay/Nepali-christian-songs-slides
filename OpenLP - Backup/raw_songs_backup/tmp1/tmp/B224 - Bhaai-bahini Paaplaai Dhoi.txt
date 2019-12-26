@@ -5,7 +5,7 @@
 {y}(bhaai-bahini, paaplaai dhoi
 maagan yeshuko ragat-le) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 समय पूरा भइगयो
 परमेश्‍वरले राज्य गर्ने
 मुक्ति उद्धार पाउनेछन्‌
@@ -16,7 +16,7 @@ parmeshwor-le raajye garne
 mukti uddhaar paaunechan
 jas-le vishwaas garne.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 स्वर्गबाट ओर्लिआए
 मानिस चोला लिएर
 पापको बन्धन खोलिदिए
@@ -27,7 +27,7 @@ maanis colaa liyera
 paapko bandhan kholi-diye
 aafnai ragat diyera.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 कलवरी डाँडैमा क्रूसमा
 झुन्ड‍याई मारे
 तिम्रो हाम्रो पापको साटो
@@ -38,7 +38,7 @@ jhun-Dayaai maare
 timro haamro paapko saaTo
 ragat-ko dhaaraa bagaaye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 समय छैन भाइ-बहिनी
 चाँडै उठी आउनुहोस्‌
 सुसमाचारलाई विश्‍वास गरी
@@ -49,7 +49,7 @@ caaňDai uThi aaunuhos
 susamaacaar-laai vishwaas gari
 uddhaar mukti paaunuhos.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 पापको भवसागरमा
 रहन्छौ कति दिन
 प्रभु येशू तयार छन्‌
@@ -60,7 +60,7 @@ rahanchau kati din
 prabhu yeshu tayaar chan
 paar taaridin.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 साँचो अनि एउटै मात्र
 स्वर्गीय अमर प्रेमलाई
 आज अनि यसै

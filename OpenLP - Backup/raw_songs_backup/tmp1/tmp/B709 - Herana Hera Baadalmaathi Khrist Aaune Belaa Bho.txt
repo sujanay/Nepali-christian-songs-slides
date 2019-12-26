@@ -9,7 +9,7 @@ khrisT aaune belaa bho
 (santagaN turahi haat-maa uThaai
 jhukna-laai tayaar bho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सन्तगण बराँत दुलहा
 येशू लिएर आउनेछन्
 सुसज्जित दुलही आत्माले
@@ -31,7 +31,7 @@ paap-maa khel-dachan
 khrisT feri aauňdaa
 sataawaT-bic-maa ti sabai choDine-chan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यसकारण ख्रीष्टीय दाजु-भाइ बहिनी,
 पाप परित्याग गर
 मूर्तिलाई फाली मनलाई

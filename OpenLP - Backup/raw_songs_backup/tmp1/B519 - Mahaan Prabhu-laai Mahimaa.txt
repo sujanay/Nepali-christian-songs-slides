@@ -9,7 +9,7 @@ param-prabhu-laai prashaňsaa) ~2
 (yo mero jivan-ko caahanaa
 halleluyaah hosannaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (वर्तमान मेरो येशूको हातमा,
 भविष्य पनि तपाईंको साथमा) २
 (आनन्दित छु, शान्तिमा छु,
@@ -20,7 +20,7 @@ bhabisye pani tapaaiň-ko saatha-maa) ~2
 (aanandit chu, shaanti-maa chu,
 prabhu-haru-kaa prabhu-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (सर्वाङ्ग मेरो येशूको हातमा
 अर्पण गर्छु, धन्यवादसाथमा) २
 (निश्चिन्त छु निर्धक्क छु,

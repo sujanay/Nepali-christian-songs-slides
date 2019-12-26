@@ -9,7 +9,7 @@ haami ishwor-ko saath-maa hiňR-chauň) ~2
 (ho ho ho ho ho ho
 haa haa haa haa haa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अब्राहामका सन्तान हामी
 ईश्‍वरले सृष्टि गर्नुभयो) २
 (अचम्म छ है
@@ -20,7 +20,7 @@ ishwor-le srisTi garnu-bhayo) ~2
 (acamma cha hai
 meraa priye ishwor-ko prem.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (येशू राजाले दिएका ज्ञान
 गराउन हामीले उनैको ध्यान) २
 (डरलाग्दो छ है,

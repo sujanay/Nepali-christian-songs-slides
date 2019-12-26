@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अचम्मको अनुग्रहले
 बाँच्यो तुच्छ प्राण मेरो
 हराएको थिएँ अब पाइएको छु
@@ -9,7 +9,7 @@ baaňcyo tuccha praaN mero
 haraa-yeko thiyeň aba pai-yeko chu
 andho dekhne bhayeň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अनुग्रहले ईश्‍वरको भय
 अनुग्रहले शान्ति
 कस्तो अमूल्य स्वाद अनुग्रहको
@@ -20,7 +20,7 @@ anugrah-le shaanti
 kasto amulye swaad anugrah-ko
 jaba vishwaas gareň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अनेकौँ जोखिम परीक्षा
 भएर आइपुगेँ
 यहाँसम्म ल्याउने त्यो अनुग्रहले
@@ -31,7 +31,7 @@ bhayera aai-pugeň
 yahaaň-samma lyaaune tyo anugrah-le
 pugne-chu sworga mai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्रभुको वाचा भलाईको
 यो मेरो भरोसा
 उहाँ नै मेरो सूर्य र ढाल
@@ -42,7 +42,7 @@ yo mero bharosaa
 uhaaň nai mero surye ra Dhaal
 praaN mero rahun-jel.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हजुारौँ वर्ष स्वर्गमा
 सूर्यझैँ चम्कन्छऔँ चम्क
 यो अनुग्रहको प्रशंसा गाउँदै

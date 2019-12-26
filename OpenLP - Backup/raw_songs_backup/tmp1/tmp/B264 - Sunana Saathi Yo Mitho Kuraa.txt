@@ -9,7 +9,7 @@ man-maa gunana
 (aanandai uni jo yeshu-dekhi
 nayaaň dhan paauň-dacha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जक्कै नाउँ भएको,
 थुप्रै धन उसको, ठगेर यस्तो भो
 सरकारको तिरो उठाउँदा
@@ -20,7 +20,7 @@ thuprai dhan usko, Thagera yesto bho
 sarkaar-ko tiro uThaauňdaa
 usle man-pari cordathyo.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जीउ उसको पुड्‌को,
 मन उसको छुच्चो
 घिन गरे सबैले
@@ -33,7 +33,7 @@ ghin gare sabai-le
 'ridai-ko shaanti kasari paauň'
 khojyo tyo upaai ni.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 'येशूज्यू आउँदा कसरी भेट्‌ने?'
 चढ‍यो रूख नेभारा
 'अब म देख्छु मेरो पाप मेट्‌ने
@@ -44,7 +44,7 @@ caRhyo rukh nebhaaraa
 'aba ma dekhchu mero paap meTne
 paauňchu ki uddhaar?'
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जब ख्रीष्ट आए मास्तिर हेरे भने,
 'ओर्लेर आऊ,
 तिम्रो घर जक्कै वास बस्‍‌नुपर्ने,
@@ -55,7 +55,7 @@ paauňchu ki uddhaar?'
 timro ghar jakkai baas basnu-parne,
 saňga-saňgai haami jaauň.'
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 तल आई जक्कै कति रमायो
 मन उसको फेरेथ्यो
 'जे जति ठगेँ, नराम्रो गरेँ,
@@ -66,7 +66,7 @@ man us-ko ferethyo
 'je jati Thageň, na-raamro gareň,
 Thikai paarnu-paryo.'
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 उसैको घरमा ख्रीष्ट येशू आई
 उसलाई दिए शान्ति
 सम्पत्तिभन्दा पापको माफी

@@ -9,7 +9,7 @@ ma garchu praNaam,
 dhanye-dhanye srisTi-kartaa
 amar cha timrai naam) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 तिम्रा सृष्टि यी दुइ हात छन्‌
 कति राम्रा,
 तिम्रा सृष्टि यी दुइ पाउ छन्‌
@@ -31,7 +31,7 @@ yi meraa paau anga hun timraa,
 je garuň ma, jahaaň jaauň,
 ma hos timrai mahimaa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तिम्रा सृष्टि यी दुइ कान छन्‌
 कति राम्रा,
 तिम्रा सृष्टि यी दुइ ओठ छन्‌
@@ -51,7 +51,7 @@ kati pyaaraa yi meraa kaan,
 je sunuň ma, je boluň ma,
 hos timrai mahimaa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 तिम्रा सृष्टि यी दुई आँखा छन्‌
 कति राम्रा,
 अन्धो हुन्‌ त मनका आँखा छन्‌
@@ -73,7 +73,7 @@ anga hun timraa,
 jahaaň je jati dekheň maile,
 hos timrai mahimaa) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ज्ञान र बुद्धि जति मेरा हुन्‌,
 यी तिम्रै दान,
 अङ्ग-प्रत्यङ्गमा प्यारको

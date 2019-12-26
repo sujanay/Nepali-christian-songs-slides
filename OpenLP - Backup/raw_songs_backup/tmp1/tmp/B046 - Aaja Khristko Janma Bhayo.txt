@@ -5,7 +5,7 @@
 {y}(aaja khrisT-ko janma bhayo
 bethlehem-ko gaauň-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ज्योतिषीहरूले तारालाई हेरी) २
 (गरीब घरमा गई अडिए) २
 (खुशी भई भेटी चढाए) २
@@ -14,7 +14,7 @@ bethlehem-ko gaauň-maa) ~2
 (garib ghar-maa gai aDiye) ~2
 (khushi bhai bheTi caDhaaye) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ईश्‍वरको पुत्र प्रभु येशू ख्रीष्ट
 (गाईको गोठमा अवतार लिई आए) २
 जयजयकार उनकै गाऔं।
@@ -23,7 +23,7 @@ bethlehem-ko gaauň-maa) ~2
 (gaai-ko goTh-maa awataar lii aaye) ~2
 jaijaikaar unakai gaauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 निन्द्रालाई त्यागी उठ,
 (बन्धु-भाइ, जाऔं हामी
 सबै येशूकहाँ) २

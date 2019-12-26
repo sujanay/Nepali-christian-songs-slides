@@ -9,7 +9,7 @@ yeshu prabhu-laai dinchauň) ~2
 haa ... (halleluyaah) ~3
 haa ... (halleluyaah) ~3
 
----[Verse 1:]---
+---[Verse:1]---
 (क्रूसको बलिदानमा
 रगत बहाउनुभयो) २
 (पापलाई हटाई शुद्ध गराई
@@ -20,7 +20,7 @@ ragat bahaaunu-bhayo) ~2
 (paap-laai haTaa-i shuddha garaa-i
 haami-laai bacaau-nubho) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उहाँको पुर्नरुत्थानमा
 अनन्त विजय लिई आउनुभयो) २
 (आज तिमी–हामीलाई यही

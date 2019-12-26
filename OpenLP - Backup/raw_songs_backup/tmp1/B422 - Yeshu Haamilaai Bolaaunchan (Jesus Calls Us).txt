@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू हामीलाई बोलाउँछन्‌
 आँधीमा भवसागरको
 मधुर स्वरले सधैँ भन्छन्‌,
@@ -9,7 +9,7 @@ aaňdhi-maa bhav-saagar-ko
 madhur swor-le sadhaiň bhan-chan,
 'pachi laaga hai mero.'
 
----[Verse 2:]---
+---[Verse:2]---
 उहीले गालील झीलको छेउमा
 चेलाले ख्रीष्टको स्वर सुने
 श्रीसम्पत्ति, घरघराना
@@ -20,7 +20,7 @@ celaa-le khrisT-ko swor sune
 shri-sampatti, ghar-gharaa-naa
 unko laagi sab tyaage.
 
----[Verse 3:]---
+---[Verse:3]---
 सुखी संसारको मोहदेखि
 येशू डाक्छन्‌ हामीलाई
 यिनैमा नभुलौं भनी भन्छन्‌,
@@ -31,7 +31,7 @@ yeshu Daakchan haami-laai
 yinai-maa na-bhulauň bhani bhan-chan,
 'gara prem malaai.'
 
----[Verse 4:]---
+---[Verse:4]---
 चिन्ता, मज्जा, दु:ख वा सुखमा
 फुर्सद वा आतुरीमा
 येशू भन्छन्‌, 'यिनैभन्दा
@@ -42,7 +42,7 @@ fursad waa aaturi-maa
 yeshu bhanchan, 'yinai-bhandaa
 malaai gara prem baDh-taa.'
 
----[Verse 5:]---
+---[Verse:5]---
 येशू हामीलाई बोलाउँछन्‌,
 मुक्तिदाता सोर सुनौं
 सबैभन्दा ख्रीष्ट तपाईंलाई सेवा,

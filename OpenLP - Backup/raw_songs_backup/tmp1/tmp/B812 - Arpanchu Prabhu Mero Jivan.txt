@@ -9,7 +9,7 @@ tapaaiň-ko caraN-maa,
 linos prabhu mero jivan
 (tapaaiň-ko raajye-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 कलवरी क्रूसको पिडा सम्झँदा
 हृदय मेरो तड्पन्छ,
 सागर झैँ गहिरो प्रेमलाई बुझ्दा
@@ -31,7 +31,7 @@ paap mero dhunu-bhayo) ~2
 ma marnu thiyo mero saTTaa-maa
 (yeshu-ji marnu bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 संसारिक जीवन बिताए मैले
 आफ्नै अभिलाषामा,
 सृष्टिकर्तालाई भुलेर मैले

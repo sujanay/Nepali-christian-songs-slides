@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (सधैं आनन्द गर,
 यो प्रभुको इच्छा हो) ३
 ख्रीष्ट येशूमा तिम्रोलागि।
@@ -7,7 +7,7 @@
 yo prabhu-ko ichyaa ho) ~3
 khrisT yeshu-maa timro-laagi.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (निरन्तर प्रार्थना गर,
 यो प्रभुको इच्छा हो) ३
 ख्रीष्ट येशूमा तिम्रोलागि।
@@ -16,7 +16,7 @@ khrisT yeshu-maa timro-laagi.
 yo prabhu-ko ichyaa ho) ~3
 khrisT yeshu-maa timro-laagi.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (सब थोकमा धन्य मान,
 यो प्रभुको इच्छा हो) ३
 ख्रीष्ट येशूमा तिम्रोलागि।
@@ -25,7 +25,7 @@ khrisT yeshu-maa timro-laagi.
 yo prabhu-ko ichyaa ho) ~3
 khrisT yeshu-maa timro-laagi.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 सधैं आनन्द गर,
 यो प्रभुको इच्छा हो
 निरन्तर प्रार्थना गर,

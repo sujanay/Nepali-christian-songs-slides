@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 म हुँ मसीही, रहन्छु पनि
 जबसम्मा घाम र जून डुब्दैन
 म हुँ मसीही, दिन्छु गवाही
@@ -20,7 +20,7 @@ unaile krusmaa rakta bahaaye
 ma huň masihi, yo kasto khushi
 un-le kine ma unko bhayeň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 म हुँ मसीही, कति अचम्म,
 म पापी थिएँ जो बचाइएँ
 म हुँ मसीही, अगाडि क्रूस छ,
@@ -42,7 +42,7 @@ ma-caahiň dusTa-sita laDchu,
 masih-ko naam-le sabai paap-maathi
 purNa aatmik shakti-le jai paauňchu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म हुँ मसीही, यहाँको यात्री,
 यो दुनियाँ होइन घरै मेरो
 यो यात्रा मेरो चाँडै़ सिद्धिन्छ
@@ -64,7 +64,7 @@ yeshu feri aaunu-huncha
 maanis yahaaň haaňsos, yo kasto bheda cha,
 malaai aafu-saňga-maa laanechan.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 म हुँ मसीही, यो कस्तो गीत हो ?
 जो मेरो मनमा आज उठ‍यो
 यो ठट्टा होइन तर यो साँचो,

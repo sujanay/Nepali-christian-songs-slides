@@ -11,7 +11,7 @@ ek Thaauň-maa bhelaa hun haami na-choDauň) ~2
 jati tyo din najik aa-yeko dekh-chauň) ~2
 kasai kasai-ko ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (विश्‍वास गरेको दिन देखि, प्रिय
 पूरा उद्धार हाम्रो अति नजिक छ) २
 (पापको रात धेरै बितिसकेको छ,
@@ -24,7 +24,7 @@ puraa uddhaar haamro ati najik cha) ~2
 aba din niskal laage-ko cha .) ~2
 kasai kasai-ko ...
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पापको मध्य रात आज संसारमा
 छाएको देखिन्छ जागृत आत्मामा) २
 (हेर दुलहालाई भेट्न हामी तयार होऊँ

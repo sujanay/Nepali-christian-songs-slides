@@ -22,7 +22,7 @@ khrisT yeshu-samma puga-ne
 (kahaaň jaane, kataa jaane
 nirNaya gara ho) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 मृत्युको डरले आजीवन भरी
 दासत्वमा फँसेकाहरूलाई
 डाँडा-काँडा देउराली भन्ज्याङ्ग
@@ -40,7 +40,7 @@ bar pipal-maa al-jhekaa-haru-laai
 (aakaash chico-lera jaane yeshu-le) ~2
 chuT-kaaraa timi-laai dine-cha.
 
----[Verse 2:]---
+---[Verse:2]---
 विरहमा जल्ने मानवलाई
 हरपल सताउने गर्दछ
 धरतीलोकमा बिन्ती सुन्‍ने

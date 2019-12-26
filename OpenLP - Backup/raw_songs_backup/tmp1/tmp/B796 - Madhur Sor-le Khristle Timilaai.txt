@@ -16,7 +16,7 @@ mukti yo lina-laai, aau na,
 {y}caaňDai aau na, aau na
 caaňDai aau na .
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 यो क्षणिक जीवन लिई
 निश्‍चिन्त कहिल्यै नबसौं है,
 मृत्यु आई कुनै घडी गाँजेर
@@ -47,7 +47,7 @@ mitra aaja,
 natra bhane timro jivan
 shunyetaa-maa biti-jaancha .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अनन्त यो मुक्ति मित्र
 अति नै बहुमूल्य छ,
 कारण ख्रीष्टले यसका निम्ति

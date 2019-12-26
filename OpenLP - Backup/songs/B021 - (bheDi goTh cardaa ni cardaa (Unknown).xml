@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-25T17:52:33">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:28:42">
   <properties>
     <titles>
       <title>B021 - (bheDi goTh cardaa ni cardaa</title>
     </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Unknown</author>
     </authors>

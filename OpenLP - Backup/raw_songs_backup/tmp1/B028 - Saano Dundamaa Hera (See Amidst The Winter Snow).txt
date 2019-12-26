@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सानो डुँडमा हेर भाइ,
 येशू जन्मे हामीलाई
 हेर, नम्र बाल अवतार,
@@ -20,7 +20,7 @@ dhanye haamro mukti bho
 gaau sansaar-kaa sabai srisTi
 bethlehem-maa janme khrisT
 
----[Verse 2:]---
+---[Verse:2]---
 जसको ठाउँ र सिंहासन
 करूबका बीचमा छन्‌
 जसले सिर्जे सब सृष्टि
@@ -31,7 +31,7 @@ karuba-kaa bic-maa chan
 jas-le sirje sab srisTi
 a'ile DuňD-maa prabhu khrisT.
 
----[Verse 3:]---
+---[Verse:3]---
 गोठाला कुरी बस्दा
 देखे ज्योति रातैमा
 भने दूतले होस्‌ मिलाप,
@@ -42,7 +42,7 @@ dekhe jyoti raatai-maa
 bhane dut-le hos milaap,
 janme khrisT meTaaune paap.
 
----[Verse 4:]---
+---[Verse:4]---
 प्रिय पुत्र ईश्‍वरको,
 प्रेम तपाईंको कत्रो भो
 छोडी स्वर्गीय आनन्द सुख

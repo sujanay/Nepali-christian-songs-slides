@@ -9,7 +9,7 @@ chimeki daaju-bhaai,) ~2
 (bauri uThe yeshu haamraa,
 jita haamrai bho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (येशू हाम्रा कति प्यारा
 क्रूसमा गई मर्नुभो) २
 (तेस्रो दिनमा बाँचेर
@@ -20,7 +20,7 @@ krus-maa gai marnu-bho) ~2
 (tesro din-maa baaňcera
 unle dharma saaňcnu-bho.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (शिर झुक्यो शैतान र
 झूटो साक्षी बोल्‍‌नेको) २
 (आदर, प्रशंसा, महिमा
@@ -31,7 +31,7 @@ jhuTo saakchi bolneko) ~2
 (aadar, prashaňsaa, mahimaa
 baDhyo haamro yeshuko.) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (आऊ सबै अविश्‍वासी
 दोधारैमा परेका) २
 (बाटो सत्य जीवन

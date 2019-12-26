@@ -9,7 +9,7 @@ sahanu-paryo prabhule
 ma-jasto paapi-laai bacaaunu
 krusai-maa praaN diye.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कतिको निन्दा, कतिको थुक,
 कतिको भनाइ सहेर) २
 त्यो गह्रौँ क्रूस बोकेर
@@ -20,7 +20,7 @@ katiko bhanaai sahera) ~2x
 tyo gahrauň krus bokera
 galgathaa puryaaye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (सिपाहीहरू मिलेर येशूलाई
 क्रूसमा चढ़ाए) २
 उनैका वस्त्र फुकाई
@@ -31,7 +31,7 @@ krus-maa caDhaaye) ~2x
 unaikaa bastra pukaai
 ciThThaa lagaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हातैमा काँटी, पावैमा
 काँटी ठोके दुश्मनहरूले) २
 कोखामा भाला
@@ -42,7 +42,7 @@ kaaňTi Thoke dushman-haru-le) ~2x
 kokhaa-maa bhaalaa
 haaneko sahe prabhu yeshule.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (जब क्रूसमा चढ़ाए,
 येशूकी माता मरियम) २
 रुँदै–रुँदै आइपुगिन्
@@ -53,7 +53,7 @@ yeshuki maataa mariye-maa) ~2x
 ruňdai-ruňdai aaipugin
 yeshuko chewai-maa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (हे दाज्यू–भाइ, हे दिदी–बहिनी,
 पश्चात्ताप गरौँ हामीले) २
 दिनेछन् हामीलाई

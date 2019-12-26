@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूको पछि म हिँड़्‍‌न लागेँ
 दुनियाँलाई त्यागी क्रूस नै बोकी ।
 येशूको पछि म हिँड़्‍‌न लागेँ
@@ -9,7 +9,7 @@ duniyaaň-laai tyaagi krusa nai boki
 yeshu-ko pachi ma hiňRna laageň
 (farkaň-dinaň, farkaň-dinaň.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 आमाले मलाई, बुवाले मलाई,
 सबैले मलाई, त्यागे तापनि ।
 येशूको पछि म हिँड़्‍‌न लागेँ
@@ -20,7 +20,7 @@ sabai-le malaai, tyaagei taapani
 yeshu-ko pachi ma hiňRna laageň
 (farkaň dinaň, farkaň dinaň.) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 माटोको मेरो क्षणभङ्घुर शरीर
 माटोमा फेरि नमिलेसम्म ।
 येशूको पछि म हिँड़्‍‌न लागेँ

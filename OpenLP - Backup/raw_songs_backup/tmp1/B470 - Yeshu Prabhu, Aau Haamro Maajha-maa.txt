@@ -11,7 +11,7 @@ oTh-ko hoina yo bhakti
 ridai-ko ho yo pukaar.
 aa...
 
----[Verse 1:]---
+---[Verse:1]---
 (यात्रा मेरो दुइ दिनको,
 सास मेरो छिनभरको) २
 चुप लागूँ कसरी?
@@ -24,7 +24,7 @@ cup laaguň kasari?
 git na-gaauň kasari?
 yeti Thulo mukti-maa na-ramaauň kasari?
 
----[Verse 2:]---
+---[Verse:2]---
 (वचन तिम्रो पढेर
 प्रार्थना सधैँ गरेर) २
 आराधनाको जिन्दगी

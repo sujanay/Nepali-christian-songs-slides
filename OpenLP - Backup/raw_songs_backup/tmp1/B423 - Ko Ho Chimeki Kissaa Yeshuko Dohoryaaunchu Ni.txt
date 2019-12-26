@@ -5,7 +5,7 @@
 (ko ho chimeki) ~2
 kissaa yeshu-ko dohoryaauň-chu ni
 
----[Verse 1:]---
+---[Verse:1]---
 बाटोमा जाने व्यापारीलाई
 चोरहरूले भेटे,
 कुटिपिटी बेहोस्‌ पारी
@@ -27,7 +27,7 @@ byaapaari-laai dekhi,
 purohit ra dharma-guru hiňDe
 baaTo tarki.
 
----[Verse 2:]---
+---[Verse:2]---
 सानो जातको सामरीले
 व्यापारीलाई देखे,
 चोटपटक धोएर
@@ -49,7 +49,7 @@ pashu-maathi raakhe,
 cor-Daaňku-ko khyaal na-maani
 aafno baaTo laage.
 
----[Verse 3:]---
+---[Verse:3]---
 सामरी र रोगी व्यक्ति
 जसै पाटी पुगे,
 पाटीदारको हातमा

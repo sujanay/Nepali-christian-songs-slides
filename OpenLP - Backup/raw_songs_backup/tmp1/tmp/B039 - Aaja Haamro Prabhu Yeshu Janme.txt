@@ -9,7 +9,7 @@ bethlehem-ko shahar-maa
 mukti cha sab-laai unai-maa maatra
 gai hera tyo Thaauň-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (परमेश्‍वरको त्यो कत्रो प्रेम
 हामीमा हुन गो जसको
 कारण पुत्र येशू) २
@@ -29,7 +29,7 @@ kaaraN putra yeshu) ~2
 bheTi caDhaauňdai) ~2
 (unkai caraN-maa aauň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (परमेश्‍वरको त्यो कत्रो
 दया हामीमा हुन
 गो जयजयकार गाउँदै

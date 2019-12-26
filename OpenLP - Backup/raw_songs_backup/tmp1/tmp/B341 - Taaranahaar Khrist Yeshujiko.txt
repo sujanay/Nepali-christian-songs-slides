@@ -9,7 +9,7 @@ nitye-nitye jaijai-kaar hos
 paapi-haru-laai ati prem garne,
 yeshuko baDhaai hoirahos
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (तड्‌पी हिँड्‌थेँ जीवन
 सारा तिमीबिना, हे येशूजी) २
 धन्य होस्‌, तिम्रो प्रेमको निम्ति
@@ -20,7 +20,7 @@ saaraa timi-binaa, he yeshuji) ~2
 dhanye hos, timro prem-ko nimti
 (krusai-maa caDhi bacaaunu-bho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जीवन पथमा दु:ख-सङ्कट
 सदा नै प्रभु किन नहोस्‌
 अगाध प्रेमको साटोमा येशू
@@ -31,7 +31,7 @@ sadaa nai prabhu kina na-hos
 agaadh prem-ko saaTo-maa yeshu
 (ridai bheTi yehi rahos) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ग्रहण गरी हृदय मेरो प्रेम
 र आनन्द अझ बढाऊ
 मन यही हो मन्दिर तिम्रो,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभुका प्रभु, राजाका राजा,
 तपाईं मात्र योग्य,
 स्वर्ग-पृथ्वी सबले गाउँछन्‌
@@ -20,7 +20,7 @@ pavitra aatmaa-laai prashaňsaa
 prashaňsaa mahimaa-kaa raajaa-laai,
 prashaňsaa ananta-samma-laai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रभुको थुमा पवित्रजन,
 धर्मी अनि क्षमाशील
 बिहानको तारा, उदाउने घाम,

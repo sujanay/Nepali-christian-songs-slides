@@ -9,7 +9,7 @@ caara-tira herdaa,
 paapaiko raasai-raasa,
 lau hai bicaaruň.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 शैतानले डाक्छ शरीरले खिँच्छ,
 पापैको जीत-बाजी,
 लौ है बिचारूँ।
@@ -18,7 +18,7 @@ lau hai bicaaruň.
 paapaiko jita-baaji,
 lau hai bicaaruň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापको फल खायौं निराशै भयौं,
 आत्माको सर्वनाश,
 लौ है बिचारूँ।
@@ -27,7 +27,7 @@ lau hai bicaaruň.
 aatmaako sarvanaasha,
 lau hai bicaaruň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आत्माको कुगत पिताले हेरी,
 पुत्र पो दिए दान,
 लौ है बिचारूँ।
@@ -36,7 +36,7 @@ lau hai bicaaruň.
 putra po diye daana,
 lau hai bicaaruň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पाप हाम्रो लिई येशू नै मरे,
 रगतले किनियौं,
 लौ है बिचारूँ।
@@ -45,7 +45,7 @@ lau hai bicaaruň.
 ragatle kiniyauň,
 lau hai bicaaruň.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 तीन दिन बिते, ती बौरी उठे,
 बचाए आत्मालाई,
 लौ है बिचारूँ।
@@ -54,7 +54,7 @@ lau hai bicaaruň.
 bacaaye aatmaalaai,
 lau hai bicaaruň.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 येशूको गुण हामीले पायौं,
 आत्मा पठाए दान,
 लौ है बिचारूँ।
@@ -63,7 +63,7 @@ lau hai bicaaruň.
 aatmaa paThaaye daana,
 lau hai bicaaruň.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 पवित्र आत्मा सबैले लेऊ,
 उहाँको जयजय गाऔं,
 लौ है बिचारूँ।

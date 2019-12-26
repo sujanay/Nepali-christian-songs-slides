@@ -5,7 +5,7 @@
 {y}(prabhu nadi bahaaunuhune
 nirjala ujaaDa pahaaD-haru-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मरुभूमिलाई घना जङ्गलझैँ,
 प्यासा भूमिलाई अदनझैँ
 बनाउनुहुने प्रभु तपाईं,
@@ -16,7 +16,7 @@ pyaasaa bhumilaai adan-jhaiň
 banaaunuhune prabhu tapaaiň,
 (badalnos prabhu, mero ridai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 घाटीहरूलाई प्रभु,
 तपाईंले जीवनजलले भर्नुहुन्छ,
 प्रभु, तपाईं सनातन चट्टान,
@@ -27,7 +27,7 @@ tapaaiňle jivanjal-le bharnuhuncha,
 prabhu, tapaaiň sanaatan caTTaan,
 (prabhu bharnuhos mero ridai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 नदीका तीरका जीवनवृक्षझैँ
 जसका पात छन्‌ स्वस्थ पार्ने,
 राख्‍‌नुहोस्‌ जाति-जातिको बीचमा
@@ -38,7 +38,7 @@ jaskaa paata chan swostha paarne,
 raakhnuhos jaati-jaatiko bicmaa
 samhaali prabhu, daahine haatle) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 शान्तिरहित छु,
 शक्तिहीन पनि तर तपाईं मुक्तिदाता
 बगाउनुहोस्‌ नदी पिशोन औ गीहोन
@@ -49,7 +49,7 @@ shakti-hin pani tara tapaaiň muktidaataa
 bagaaunuhos nadi pishon au gihon
 (ujaaDa mero yo jivan-baaTa) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 प्रभुज्यू, म त छु अति निष्फल,
 जर्जर, सङ्कीर्ण मनको
 बगाउनुहोस्‌ नदी हिद्देकेल, फरात

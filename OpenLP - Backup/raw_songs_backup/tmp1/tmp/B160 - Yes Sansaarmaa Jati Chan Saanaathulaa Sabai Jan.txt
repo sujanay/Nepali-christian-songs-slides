@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यस संसारमा जति छन्‌
 साना-ठूला सबै जन
 धन्य भन येशूलाई
@@ -9,7 +9,7 @@ saanaa-Thulaa sabai jan
 dhanye bhana yeshu-laai
 sabai bhana unko jai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापको भार उठाउनलाई
 स्वर्गमा पुर्‍याउनलाई
 हाम्रो लागि दिन सुख,
@@ -20,7 +20,7 @@ sworga-maa puryaun-laai
 haamro laagi din sukha,
 yeshu aai sahe dukha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 क्रूसमा मरे येशू नै,
 बलि भयो प्रभुकै
 मुक्ति छ ख्रीष्ट येशूमा
@@ -31,7 +31,7 @@ bali bhayo prabhu-kai
 mukti cha khrisT yeshu-maa
 vishwaas gara unai-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जय जय गरौं येशूको,
 त्राणको काम सब सिद्धियो
 आऊ सबै पापी जन

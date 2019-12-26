@@ -5,7 +5,7 @@
 (yehovaa, yehovaa,
 yehovaa meraa asal goThaalaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (उराठिलो मरुभूमि
 चारैतिर भए पनि) २
 सुख चैनको पानी निर
@@ -27,7 +27,7 @@ jiunu paretaa pani
 hariyo kharka-maa nirantar
 aanand-kaa saath caraauň-nechan
 
----[Verse 2:]---
+---[Verse:2]---
 (आफ्ना जनहरूको बिचमा
 धार्मिकता ल्याइकन) २
 मेरो आत्मालाई सधैँ
@@ -49,7 +49,7 @@ hiňDnu paretaa pani
 khataraa-dekhi malaai har-din
 timraa nimti bacaaune-chan.
 
----[Verse 3:]---
+---[Verse:3]---
 (मेरो शिरलाई उत्तम
 तेलले अभिषिक्त पारेर) २
 आफ्नो भोजमा सामेल हुन

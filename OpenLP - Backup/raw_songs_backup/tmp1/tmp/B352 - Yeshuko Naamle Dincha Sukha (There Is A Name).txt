@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूको नामले दिन्छ
 सुख विश्‍वासीहरूलाई
 चोट निको पार्छ,
@@ -20,7 +20,7 @@ pyaaro naam mukti-daataa-ko,
 pyaaro naam mukti-daataa-ko,
 sarvocca naam yeshu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रिय नाम, मेरो जीवन-आधार ढाल,
 शरणस्थान मेरो
 प्रशस्त दिने यो भण्डार
@@ -31,7 +31,7 @@ sharaN-sthaan mero
 prashasta dine yo bhanDaar
 asim anugraha-ko.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्ट त्राता, मित्र गोठालो, बाटो,
 सत्य, जीवन
 भविष्यवक्ता, पुरोहित, राजा,
@@ -42,7 +42,7 @@ baaTo, satye, jivan
 bhabisye-baktaa, purohit, raajaa,
 ridai garchu arpaN.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 तपाईंको प्रेम अपार सुनाऊँ
 प्राण मेरो रहुन्जेल
 यस नामले फेरि जागृत होऊँ

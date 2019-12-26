@@ -20,7 +20,7 @@ dhikkaar cha
 tyo maanis-laai jas-dwaaraa
 aatmaa bhaDkaňn-chan) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उसको घिच्रोमा
 जाँतोको माला पहिराइदिनु
 कहिले ननिस्कने गरी
@@ -51,7 +51,7 @@ jhuT-ko khet garne-haru
 janmanu abhisaap bhayo
 maNDali-laai paap bhayo.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमेश्‍वरको मनको चाह
 सबैले मुक्ति पाउन्
 योजना उनको हामीलाई

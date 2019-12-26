@@ -19,7 +19,7 @@ saasTaanga daNDawat gar-dachu,
 jai jaikaar hos
 jai jaikaar hos.
 
----[Verse 2:]---
+---[Verse:2]---
 दर्दनाक काँडाको मुकुट,
 दुष्टले खाँदे शिरैमा,
 निर्दोष ती सुन्दर हात पाउ,
@@ -30,7 +30,7 @@ dusTa-le khaaňde shirai-maa,
 nirdos ti sundar haat paau,
 kaaňTi-le jaDe krusai-maa .
 
----[Verse 3:]---
+---[Verse:3]---
 रगतको थोपा चुहाउँदै सहे
 उनले थुकाइ, कुटाइ,
 तर यी सब सहे प्रेमैले
@@ -41,7 +41,7 @@ un-le thukaai, kuTaai,
 tara yi sab sahe premai-le
 malaai chuTkaaraa dina-laai.
 
----[Verse 4:]---
+---[Verse:4]---
 श्रापित त्यस क्रूसमा उनी मरे
 शैतानको बललाई तोडिदिए,
 महिमित प्रभु ख्रीष्ट बौरी उठे,
@@ -52,7 +52,7 @@ shaitaan-ko bal-laai toDi-diye,
 mahimit prabhu khrisT bauri uThe,
 shaitaan-laai lajjit tulyaa-ye.
 
----[Verse 5:]---
+---[Verse:5]---
 पापको कारण सडेको थिएँ
 ईश्‍वरीय आनन्द रहित थिएँ,
 तर ख्रीष्टको बलिदानद्वारा,

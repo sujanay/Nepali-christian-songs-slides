@@ -14,7 +14,7 @@ man bhari-kaa yi bhram haTaau) ~2
 
 TaaDhaa na-jaau prabhu-maa aau
 
----[Verse 1:]---
+---[Verse:1]---
 (माटोको तन यो माटोमै मिल्छ
 यहाँ रोपेको आत्मा स्वर्गमा पुग्छ) २
 (भाँचिएको विश्‍वासलाई जोडी हेर
@@ -25,7 +25,7 @@ yahaaň ropeko aatmaa sworga-maa pugcha) ~2
 (bhaaňci-yeko vishwaas-laai joDi hera
 jiuna-laai laayek huncha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उकाली ओराली यात्रामा हुन्छ
 चढ्दै जाऔँ उकालो कलवरी पुग्छ) २
 (हराएको जीवनलाई खोजी हेर

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जीवन अँध्यारोमा जब आउँछ दु:ख,
 जब हरेस खान्छौं र हराउँछ सुख
 तब आशिष् गन, येशूलाई हेर,
@@ -20,7 +20,7 @@ aashis gana, hera chan anek
 aashis gana, chakka parnechau,
 prabhu-le timi-laai kati dinubho
 
----[Verse 2:]---
+---[Verse:2]---
 फिक्री, शोकको भारी तिमी बोक्छौ कि
 आउने दिनको लागि बाँचौं कसरी
 बाइबल पढ्‌दाखेरि तिमी बुझ्‍‌नेछौ,
@@ -31,7 +31,7 @@ aaune din-ko laagi baaňcauň kasari
 baaibal paDhdaa-kheri timi bujhnechau,
 haamraa premi pitaa-baaTa sab paauňchauň.
 
----[Verse 3:]---
+---[Verse:3]---
 धनसम्पत्ति हेर्दा थुप्रै अर्कैको,
 तर सम्झौं हाम्रो धन छ स्वर्गको,
 यस संसारको धनले शान्ति मिल्दैन,
@@ -42,7 +42,7 @@ tara samjhauň haamro dhan cha sworga-ko,
 yes sansaar-ko dhan-le shaanti mildaina,
 tara yeshu Daakchan jahaaň pira chaina.
 
----[Verse 4:]---
+---[Verse:4]---
 दिन-दिन लडाइँ हुन्छ, छँदा संसारमा
 शैतान जित्‍‌न खोज्छ हामीलाई सदा
 येशू छेउमा बस्दा शक्ति दिनेछन्‌,

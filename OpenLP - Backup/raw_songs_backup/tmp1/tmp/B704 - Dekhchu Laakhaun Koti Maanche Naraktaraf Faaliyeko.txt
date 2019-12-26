@@ -9,7 +9,7 @@ narak-taraf faali-yeko
 sunchu ma sadhaiň karuNaa-citkaar
 banaau, banaau, banaau bhaneko
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जाऊ, सुनाइदेऊ सुसमचार,
 सित्तैंमा तिमीले पाएको) २
 (थुमा येशू सबैको निम्ति) २
@@ -20,7 +20,7 @@ sittaiň-maa timi-le paa-yeko) ~2
 (thumaa yeshu sabai-ko nimti) ~2
 krus-maa bali bhayeko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (लोभ, अधर्म, पाप, मृत्युलाई
 ख्रीष्टले क्रूसमा टाँगिदिए) २
 (मानव मनको मैलो माझ्न) २
@@ -31,7 +31,7 @@ khrisT-le krus-maa Taangi-diye) ~2
 (maanab man-ko mailo majhna) ~2
 anamol ragat bagaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (जसले हृदयबाट विश्‍वास गरी
 ख्रीष्टलाई स्विकार्छ) २
 (तिनले तत्काल मुक्ति पाउँछन्) २

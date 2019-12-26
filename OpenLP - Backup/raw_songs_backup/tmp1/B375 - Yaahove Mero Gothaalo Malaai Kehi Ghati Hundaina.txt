@@ -9,7 +9,7 @@ ma-laai kehi ghaTi huň-daina
 unle hariyo kharka-maa
 ma-laai caraau-nechan.
 
----[Verse 1:]---
+---[Verse:1]---
 सुख–चैनको पानीनिर
 सदैव डोर्‍यउनेछन्
 मेरो यो तुच्छ प्राणलाई
@@ -20,7 +20,7 @@ sadaiva Do-ryaa-nechan
 mero yo tuccha praaNa-laai
 nayaaň tulyaaune-chan.
 
----[Verse 2:]---
+---[Verse:2]---
 आफ्‍‌नै नाउँको कारण
 जहीँ गए तापनि
 धर्मको सुमार्गमा
@@ -31,7 +31,7 @@ jahiň gaye taapani
 dharma-ko su-marga-maa
 ma-laai agu'aai garne-chan.
 
----[Verse 3:]---
+---[Verse:3]---
 अँ मृत्युको छायाँमा
 हिँड़्‍‌नु परे तापनि
 रक्षा गर्छन् जहीँ जाऔँ,
@@ -42,7 +42,7 @@ hiňRnu pare taapani
 rakchyaa garchan jahiň jaauň,
 taba kina daraauň
 
----[Verse 4:]---
+---[Verse:4]---
 सबै शत्रुको सन्मुख
 भोज तयार पार्नुहुन्छ
 तेलले अभिषेक गरे
@@ -53,7 +53,7 @@ bhoj tayaar paarnu-huncha
 tel-le abhisek gare
 kacauraa pokhin-cha.
 
----[Verse 5:]---
+---[Verse:5]---
 निश्चय भलाइ र कृपा
 जीवनभरि रहन्छ
 याहोवेको स्वर्गलोकमा

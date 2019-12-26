@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूले सधैँ राज्य गर्छन्‌,
 जहाँ-जहाँ घाम लाग्दछ
 र जहिलेसम्म जून रहला,
@@ -9,7 +9,7 @@ jahaaň-jahaaň ghaam laag-dacha
 ra jahile-samma jun rahalaa,
 unai-ko raajye cha jagat-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 के प्रार्थना सधैँ गरिन्छ,
 उनैको स्तुति चढाइन्छ
 नाउँ उनको बासना धूवाँझैँ
@@ -20,7 +20,7 @@ unai-ko stuti caDhaain-cha
 naauň un-ko baasanaa dhuwaaň-jhaiň
 caDhaain-cha bihaana sadhaiň.
 
----[Verse 3:]---
+---[Verse:3]---
 सब देशका मान्छे गाउँछन्‌ गीत,
 उनको उदेकको प्रेम निमित्त
 बालक सुनाउँछन्‌ उनको नाउँ
@@ -31,7 +31,7 @@ un-ko udek-ko prem nimitta
 baalak sunaauň-chan un-ko naauň
 ra gar-chan nitye khrisT-ko baibhab.
 
----[Verse 4:]---
+---[Verse:4]---
 ख्रीष्टले जहाँ राज्य गर्दछन्‌,
 त्यहाँ आशिष्‌ पाइँदछ।
 त्यहाँ सब दु:खितको उपकार,
@@ -42,7 +42,7 @@ tyahaaň aashis paaiň-dacha.
 tyahaaň sab dukhit-ko upakaar,
 tyahaaň sab paapi-ko uddhaar.
 
----[Verse 5:]---
+---[Verse:5]---
 संसारले गरोस्‌ धन्यवाद,
 ख्रीष्ट राजाको गुणानुवाद।
 स्वर्गमा बढाइ गरिओस्‌

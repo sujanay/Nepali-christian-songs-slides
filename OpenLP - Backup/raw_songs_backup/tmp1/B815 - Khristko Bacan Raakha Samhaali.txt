@@ -9,7 +9,7 @@ khrisT-ko bacan raakha sam-haali,
 (muTu-ko muTu-ko dhaD-kana-maa gaaňsera,
 khrisT-ko bacan raakha sam-haali) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (ख्रीष्टको वचन सुनेर तिमी,
 उहाँमाथि विश्‍वास गर न) २
 (मुक्तिदाता प्रभु भनेर,
@@ -20,7 +20,7 @@ uhaaň-maathi bishwaas gara na) ~2
 (mukti-daataa prabhu bhanera,
 aaja timi khrisT-maa ramaau) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (कतिन्जेल रहन्छौ तिमी,
 संसारको मोज मस्तीमा) २
 पश्‍चताउनु पर्ला तिमीलाई,

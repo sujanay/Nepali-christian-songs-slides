@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आ (हा) १०
 धिन्ताङ्ग है धिन्ताङ्ग मनैमा
 बस्यो मादलुको ताल
@@ -43,7 +43,7 @@ gaaňseko chuTlaa
 hai maayaa jaal
 huň ~5
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 धर है धर आँसुको धारा
 येशूले चुहाए (हा) ४
 पापको कालो दागलाई
@@ -76,7 +76,7 @@ ye hai ragat bahaaye
 {y}paap-ko kaalo daag-laai
 dhuna ragat bahaaye
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 फिरिमा फिरि त्यो जुनकीरी
 चम्केझैँ औँसीमा (हा) ४
 बाले है ख्रीष्टले अमर
@@ -111,7 +111,7 @@ ye hai man-ko kausi-maa
 jyoti man-ko kausi-maa
 huň ~5
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 झल र मल सधैँ
 हलचल क्षणिक जीवनमा (हुँ) ५
 येशूमा विश्‍वास गर्नेछु सधैँ

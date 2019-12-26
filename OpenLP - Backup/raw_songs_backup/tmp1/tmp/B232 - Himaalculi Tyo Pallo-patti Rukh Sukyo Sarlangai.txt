@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हिमालचुली त्यो पल्लोपट्टि
 रूख सुक्यो सर्लङ्गै
 पाप मेरो सम्झी कालो नै कालो
@@ -18,7 +18,7 @@ man fuTyo bharlangai
 afsos-le bharera
 man fuTyo jharlammai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 कलवरी डाँडा त्यो पल्लोपट्टि
 येशूको क्रूस थियो
 त्यहाँ तिम्रो बद्‌ली येशू नै भई
@@ -38,7 +38,7 @@ aafno praaN dinubho
 paap maani-liyera
 maaf maaga ishwor-ko.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ओखलढुङ्गाको गणेश टोलमा
 धान कुट्‌थे देवले रे
 जीवन ओखलमा भुस
@@ -58,7 +58,7 @@ mero faalnu kuTdaina kasai-le?
 majasto paapi jan
 kasari umkane?
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 गलगथा ठाउँमा प्यारो येशूले
 कुटपिट सहनुभो
 मानिसले थुके, खूब हेला गरे
@@ -78,7 +78,7 @@ haamro bhaag thiyo yo
 dhanyebaad diuň na
 sajaai ta bhai-sakyo.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 दुई कोश उकालो नेपालको छोरा
 भारी नै बोक्दैछन्‌
 भारी छ मेरो, मनमा त बोक्छु
@@ -98,7 +98,7 @@ yo-bhandaa Thulo jhan
 kahile bisaauna paauň,
 cautaaraa kahaaň chan?
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 दुई हजार वर्ष बितेर गए
 तापनि अहिले नै
 ईश्‍वरको छोरा बिसाउन दिए
@@ -118,7 +118,7 @@ jo haamro paharai
 Thulo yo bhaari nai,
 man haus halungai.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 नेपालका मान्छे अनेक गर्छन्
 धर्म काउनलाई
 चामल गन्छन् शाला बनाउँछन्
@@ -136,7 +136,7 @@ maile garinaň bhaai !
 {y}hari raam bhanera byertha ta
 laagdacha cha aru kehi upaai ?
 {/y}
----[Verse 8:]---
+---[Verse:8]---
 ढाकाका टोपी पसलमा पाइन्छ
 पैसाले किनेर
 मुक्ति त पाइन्छ प्रभु येशूमा
@@ -156,7 +156,7 @@ bishwaas-le sittaiň-maa
 khushi-le ucaaldai
 daam kehi laag-daina.
 {/y}
----[Verse 9:]---
+---[Verse:9]---
 टोक्सील घाटमा पारि है
 पुग्‍‌नु डुङ्गा त छ जोरदार
 जीवन छोड्‌दा स्वर्ग नै
@@ -176,7 +176,7 @@ pugnu kasari huncha paar?
 kholaa Dar-lagdo cha,
 ko huncha taaraNahaar?
 {/y}
----[Verse 10:]---
+---[Verse:10]---
 अचेलको माझी के बानी गर्छन्‌
 ढीलो त आउँदै छन्‌
 मृत्युको खोला हात समाउनु

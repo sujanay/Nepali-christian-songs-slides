@@ -9,7 +9,7 @@ aaja ma sumpaň-dachu ,
 leu prabhu aba
 malaai grahaN gari-deu ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (मेरा आत्मा, प्राण, शरीर,
 मेरा सोच-विचार कार्य ) २
 (सब थोक आज अर्पन्छु लेऊ
@@ -27,7 +27,7 @@ prabhu aba malaai ) ~2
 (timraa nimti jiuna prabhu caahan-chu ,
 mahimaa hos timrai sadaa ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (झल्काऊ ममा तिम्रो प्रेम,
 जीवन, ज्योति, अनुग्रह ) २
 (बढ्न सकूँ म प्रभु
@@ -45,7 +45,7 @@ jiuna sakuň ma prabhu ) ~2
 (timro baDhaai garna prabhu caahan-chu ,
 mahimaa hos timrai sadaa . ) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (गरून् हातले तिम्रा काम,
 तिम्रा निम्ति सेवा ) २
 (तिम्रा काममा पाउ रहुन् ,

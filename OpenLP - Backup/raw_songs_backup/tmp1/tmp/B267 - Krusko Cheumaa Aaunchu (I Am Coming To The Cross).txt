@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 क्रूसको छेउमा आउँछु,
 त्यसमा आशा पाउँदछु
 जसमा भयो बलिदान,
@@ -20,7 +20,7 @@ bali bhayo krus-maa khaasa
 krus-ko aashis ma-laai deu
 mero gahrauň bhaari leu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 म त पापी क्लेशित थिएँ,
 आफ्‍‌ना कर्मले दु:खित थिएँ
 खोज्दथेँ त्राणको उपाय,
@@ -31,7 +31,7 @@ aafnaa karma-le dukhit thiyeň
 khojdatheň traaNko upaai,
 jaandintheň sat sahaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रभु येशू मेरो नाथ,
 समात्छु म उनकै हात
 खालि येशू सत अवतार

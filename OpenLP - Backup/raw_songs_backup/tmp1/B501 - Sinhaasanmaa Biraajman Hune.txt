@@ -16,7 +16,7 @@ ka'ile choDne-chainan haamro haat) ~2
 siňhaasana-maa biraaj-maan hune,
 parameshwora-ko prajaa haami
 
----[Verse 1:]---
+---[Verse:1]---
 (उहाँको रगतले धोई
 पखालेको पवित्र जाति
 आदर, प्रशंसायोगय
@@ -36,7 +36,7 @@ parmeshwor-ko pujaari haami) ~2
 (aau un-laai pujauň bhakti-saath
 ka'ile choDne-chainan haamro haat.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (झरी-घाम र छायाँको
 आज गरौं सामना हामी
 सबै नयाँ भएका

@@ -20,7 +20,7 @@ bujhi-raakha ridai-maa) ~2
 cini-raakha yeshu-laai, o
 cini-raakha yeshu-laai.
 
----[Verse 1:]---
+---[Verse:1]---
 (कलवरी डाँड़ामा
 त्यो एउटै क्रूसैमा) २
 
@@ -38,7 +38,7 @@ tyo shuddha ragat-maa
 tyo mukti timrai-laagi ho, o
 tyo mukti timrai-laagi ho.
 
----[Verse 2:]---
+---[Verse:2]---
 (जीवन हाम्रो छोटो छ है,
 लामो जीवन येशूमा) २
 

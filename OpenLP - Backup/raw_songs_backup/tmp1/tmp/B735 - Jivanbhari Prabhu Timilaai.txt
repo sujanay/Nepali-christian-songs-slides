@@ -11,7 +11,7 @@ dhanyebaad diňdai jaijaikaar gardai,
 prashaňsaa gaaune-chu timro sadhaiň ) ~2
 jivan-bhari prabhu timi-laai ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मेरा उद्धारकर्ता प्रभु !
 तिम्रो उद्धार महान् ,
 जीवित सत्य परमेश्‍वर ) २
@@ -24,7 +24,7 @@ jivit satye parmeshwor ) ~2
 (timro saamartha ra timro mahimaa ) ~2
 (sadaiba rahane-chan . ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मेरा विश्‍वासयोग्य प्रभु!
 तिम्रो विश्‍वासयोग्यता,
 युग-युगसम्म रहनेछ ) २
@@ -37,7 +37,7 @@ timro bishwaas-yogyetaa,
 (timro dharmiktaa ra satyetaa ) ~2
 (pahaaD-jhaiň aTal chan. ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मेरो करुणमय प्रभु ! तिम्रा करुणा,
 भलाई मेरा निम्ति असल छन् ) २
 (तिम्रा सामर्थी पखेटा मुनि ) २
@@ -48,7 +48,7 @@ bhalaai meraa nimti asal chan ) ~2
 (timraa saamarthi pakheTaa muni ) ~2
 (ma surakchit hunchu . ) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (मेरा प्रशंसाका प्रभु !
 तिम्रो स्तुति प्रशंसा ,
 (अनन्तसम्म रहनेछन् ) २

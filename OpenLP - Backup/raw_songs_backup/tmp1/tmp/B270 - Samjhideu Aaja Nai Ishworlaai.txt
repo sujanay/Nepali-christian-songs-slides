@@ -9,7 +9,7 @@ bhuli-deu aaja nai sansaar-laai
 (bhulera najaau sansaar-maa
 gandhak ra aago jaldai cha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 पाप गर्दै व्यर्थमा हामीले,
 (संसारमा भुलिरहेछौं
 दुनियाँलाई भुलेर आज नै,
@@ -20,7 +20,7 @@ sansaar-maa bhuli-rahechauň
 (duniyaaň-laai bhulera aaja nai,
 samjhi-deu aaja nai ishwor-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 संसारको रीतिरिवाजले
 दुइ-चार दिन केवल राज गर्छ
 (तपाईं र मेरा ईश्‍वरले
@@ -31,7 +31,7 @@ dui-caar din kewal raaj garcha
 (tapaaiň ra meraa ishwor-le
 anantakaal tak raaj garchan) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सांसारिक धेरै मार्गले डरलाग्दा
 सागरमा पुर्‍याउँछन्‌
 (जीवनको हरेक मार्गमा

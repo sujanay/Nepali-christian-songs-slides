@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जहाँ पनि प्रभु पाउ मेरो डोर्‍याउनुभो,
 साथैमा हात समात्‍‌न पाऊँ
 बाटो काँडे होस्‌ तै भरेको जालले,
@@ -20,7 +20,7 @@ jahaaň pani mukti-daataa
 (ma pachyaau-nechu) ~2 
 jahaaň pani mukti-daataa Doryaa-yauň bhane
 
----[Verse 2:]---
+---[Verse:2]---
 जहाँ पनि प्रभु खालि मुस्कुराऊ,
 रक्षा, बल र शान्ति देऊ,
 पापमा नपरूँ
@@ -33,7 +33,7 @@ paap-maa na-paruň
 baaTo aňdhyaaro hos tara na-Daraau,
 jahaaň bhaye pani prabhu saathai hou.
 
----[Verse 3:]---
+---[Verse:3]---
 जहाँ पनि प्रभु प्रार्थना यही गरूँ,
 साँगुरो बाटो हिडूँ कैले नभट्‌कूँ
 पापले खिच्‍‌न खोजे अस्वीकार गरूँ,

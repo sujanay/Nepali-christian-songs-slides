@@ -22,7 +22,7 @@ prabhu-laai dine samai chaina hai ek-chin,
 oho chaina hai ek-chin,
 aahaa chaina hai ek-chin.
 
----[Verse 1:]---
+---[Verse:1]---
 चौबीस घन्टा हुन्छन्‌
 दिन र रातमा,
 दुई मिनट छैन हजूर
@@ -44,7 +44,7 @@ saathi-laai dusaraa,
 ghar-laai tisaraa bhani,
 prabhu-laai bicaaraa.
 
----[Verse 2:]---
+---[Verse:2]---
 कहिले पो चल्थ्यो
 हजूर जीवन यसरी,
 हुँदैन बाहिर मात्रै

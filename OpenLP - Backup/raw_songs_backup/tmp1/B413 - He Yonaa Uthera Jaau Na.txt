@@ -5,7 +5,7 @@
 he yonaa uThera jaau na
 ninawe pracaara garna-laai
 
----[Verse 1:]---
+---[Verse:1]---
 निनवे पापी शहर जान
 योनालई मन परेन
 जहाज चढी तर्शीश भागे,
@@ -16,7 +16,7 @@ yonaa-lai man parena
 jahaaja caDhi tarshish bhaage,
 ishwor-laai maane-nan.
 
----[Verse 2:]---
+---[Verse:2]---
 समुद्रमा नै ठूलो आँधी
 ईश्‍वरले पठाइदिए
 अफसोस लागि आफ्‍‌नो पापलाई
@@ -27,7 +27,7 @@ ishwor-le paThaai-diye
 afsos laagi aafno paap-laai
 yonaa-le maani-liye.
 
----[Verse 3:]---
+---[Verse:3]---
 जहाजीले फालिदिए
 पानीमा योनालाई
 प्रभु ईश्‍वरले दिएका माछाले
@@ -38,7 +38,7 @@ paani-maa yonaa-laai
 prabhu ishwor-le diyekaa maachaa-le
 swaaTTa nilyo tin-laai.
 
----[Verse 4:]---
+---[Verse:4]---
 माछाको पेटमा ईश्‍वरलाई सम्झी
 योनाले विन्ती गरे
 पाखा पुगी तेस्रो दिनमा
@@ -49,7 +49,7 @@ yonaa-le binti gare
 paakhaa pugi tesro din-maa
 maachaa-le tin-laai ugelyo.
 
----[Verse 5:]---
+---[Verse:5]---
 दोस्रोपल्ट ईश्‍वरको वचन
 योनालाई सम्झाउन आयो
 तीन दिनको बाटो हिँडेर गए,
@@ -60,7 +60,7 @@ yonaa-laai samjhaauna aayo
 tin din-ko baaTo hiňDera gaye,
 ninawe-maa karaaye.
 
----[Verse 6:]---
+---[Verse:6]---
 निनवे शहरका पापीहरूले
 ईश्‍वरको वचन टेरे
 पापदेखि फर्की प्रार्थना गरे,
@@ -71,7 +71,7 @@ ishwor-ko bacan Tere
 paap-dekhi farki praarthanaa gare,
 ishwor-le maafi diye.
 
----[Verse 7:]---
+---[Verse:7]---
 उनीहरूलाई ईश्‍वरको निगाह
 योनालाई मन परेन
 पापी मानिसलाई किन बचाउनु
@@ -82,7 +82,7 @@ yonaa-laai man parena
 paapi maanis-laai kina bacaaunu
 yonaa-le bujhna sake-nan.
 
----[Verse 8:]---
+---[Verse:8]---
 योनाभन्दा महान्‌ येशू
 यस संसारमा आए
 स्वर्ग छोडी सुख त्यागी
@@ -93,7 +93,7 @@ yes sansaar-maa aaye
 sworga choDi sukha tyaagi
 haamro laagi mare.
 
----[Verse 9:]---
+---[Verse:9]---
 पापी मानिस भए पनि
 हामीलाई छ निगाह
 ख्रीष्टको रक्तले शुरु भई

@@ -9,7 +9,7 @@ ma jasto paapi-laai) ~2
 (dherei ru-waaye, dherei ru-waaye
 timi-laai mero jivana-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (पश्‍चत्तापी जीवन लिएर
 आउँदैछु तिमी कहाँ) २
 कति धोका दिए मैले
@@ -31,7 +31,7 @@ timro prema paaune yogye kahaaň
 (ma chudra paapi-laai chyemaa deu) ~2
 aafnai banaau-nuhos malaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवनको हरेक कदममा
 चाहन्छु तिमीलाई) २
 सहारा देऊ प्रभु जीवनको दुर्गम

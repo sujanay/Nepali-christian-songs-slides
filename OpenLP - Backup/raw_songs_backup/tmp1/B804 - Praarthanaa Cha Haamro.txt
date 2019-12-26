@@ -9,7 +9,7 @@ ridai-dekhi-ko sworgiye pitaa-laai,
 git cha haamro badhaai-ko
 yi nayaaň joDi-laai.
 
----[Verse 1:]---
+---[Verse:1]---
 खुशी छौं हामी
 आजको यो शुभ दिनैमा,
 धन्यवादी छौं सबै
@@ -31,7 +31,7 @@ caRhaauň-chauň pyaaro prabhu-laai,
 prashaňsaa ra jai jaikaar
 premi prabhu-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 याकूब र राहेलको बिचमा
 जस्तै प्रगाढ प्रेम,
 यी दुई नयाँ जोडीमा
@@ -53,7 +53,7 @@ jastai driDha bishwaas,
 yi dui nayaaň joDi-ko
 jivan-maa bhai-rahos.
 
----[Verse 3:]---
+---[Verse:3]---
 दुःख र सुख संकष्ट,
 क्लेश परिक्षामा पनि,
 पितालाई प्रार्थना र
@@ -75,7 +75,7 @@ saňgharsa sangai gardai,
 parmeshwor-ko sadhaiň nai
 ichyaa ra aguwaai-maa.
 
----[Verse 4:]---
+---[Verse:4]---
 प्रभुको काम प्रशस्त गर्दै
 फलवन्त सधैँ बनी,
 उहाँकै सेवा जीवन भर

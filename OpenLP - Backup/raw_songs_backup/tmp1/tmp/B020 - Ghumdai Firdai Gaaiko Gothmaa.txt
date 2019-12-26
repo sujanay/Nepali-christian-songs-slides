@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 घुम्दै फिर्दै गाईको गोठमा
 आए गोठालाहरू
 देखे सानो डुँडमा येशू
@@ -20,7 +20,7 @@ dhanye haamro mukti bho
 gaau sansaar-kaa sabai srisTi,
 maanis rup liye khrisT-le
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ताराको अगुवाइ पाई
 आए ज्योतिषीहरू,
 देखी सबैले दण्डवत्‌ गरी
@@ -31,7 +31,7 @@ aaye jyotisi-haru,
 dekhi sabai-le daND'wat gari
 un-laai bheTi caRhaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आऊ सबै भाइ-बहिनी
 गाऔं साँचो स्तुतिगान,
 भनून्‌ सबले हल्लेलूयाह

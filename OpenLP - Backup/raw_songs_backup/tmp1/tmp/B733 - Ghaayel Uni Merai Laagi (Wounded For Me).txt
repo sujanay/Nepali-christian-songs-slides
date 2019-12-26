@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 घायल उनी मेरै लागि
 क्रूसमा घाएल मेरै लागि,
 पापलाई हटाई बचाए मलाई,
@@ -9,7 +9,7 @@ krusa-maa ghaayel merai laagi,
 paap-laai haTaai bacaaye malaai,
 kaaraN yeshu ghaayel merai laagi .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मरे उनी मेरै लागि,
 क्रूसमा मरे मेरै लागि,
 उनैको मरणमा पाउँछु मुक्ति,
@@ -20,7 +20,7 @@ krusa-maa mare merai laagi,
 unai-ko maraN-maa paauň-chu mukti,
 kaaraN yeshu mare merai laagi .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 बौरे उनी मेरै लागि,
 कबरबाट बौरे मेरै लागि,
 मृत्युबाट सदा पाए मुक्ति,
@@ -31,7 +31,7 @@ kabar-baaTa baure merai laagi,
 mrityu-baaTa sadaa paaye mukti,
 kaaraN yeshu baure merai laagi .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जिउँछन् उनी मेरै लागि,
 स्वर्गमा जिउँछन् मेरै लागि,
 पलपल गर्छन् मेरो लागि विन्ति,
@@ -42,7 +42,7 @@ sworga-maa jiuňchan merai laagi,
 palpal garchan mero laagi binti,
 dhanye yeshu jiuňchan merai laagi .
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आउँछन् उनी मेरै लागि,
 संसारमा आउँछन् मेरै लागि ,
 देख्‍नेछु उहाँलाई खुसी भई,

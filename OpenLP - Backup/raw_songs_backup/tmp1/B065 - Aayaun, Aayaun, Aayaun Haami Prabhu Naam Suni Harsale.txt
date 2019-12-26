@@ -5,7 +5,7 @@
 (aayauň, aayauň, aayauň haami
 prabhu naam suni harsale) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (आऊ दाज्यु-भाइ-बहिनी
 उनको स्तुति गाउनलाई) २
 (उनैले दिन्छन्‌ मुक्ति हामीलाई) २
@@ -14,7 +14,7 @@ prabhu naam suni harsale) ~2
 unko stuti gaunlaai) ~2
 (unaile dinchan mukti haamilaai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उनी हुन्‌ हाम्रा मुक्तिदाता,
 उनी हुन्‌ जगका तारणहार) २
 (उनी हुन्‌ हरेक खाँचोको उत्तर) २
@@ -23,7 +23,7 @@ unko stuti gaunlaai) ~2
 uni hun jagkaa taaraNahaar) ~2
 (uni hun harek khaaňcoko uttar) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (अहिले छन्‌ उनी स्वर्गलोकमा
 परमपिताको दाहिने हातमा) २
 (एकपल्ट फेरि आउनेछन्‌ उनी) २

@@ -5,7 +5,7 @@
 timro caraN-maa, timro sharaN-maa,
 timro caraN-maa, timro sharaN-maa
 
----[Verse 1:]---
+---[Verse:1]---
 आयौं प्रभु, भेटी चढाउँदै,
 भेटी आराधना चढाउँदै भन्छौं
 (शक्ति देऊ, प्रभु राज्य बढाउन,
@@ -16,7 +16,7 @@ bheTi aaraadhanaa caDhaauňdai bhanchauň
 (shakti deu, prabhu raajye baDhaauna,
 yeshu naam failaauna) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 तिम्रो शरणको दास हामी भई,
 पवित्र आत्मा लिई अघि बढ्‌दै
 सुतेको भाइलाई जगाउँदै,

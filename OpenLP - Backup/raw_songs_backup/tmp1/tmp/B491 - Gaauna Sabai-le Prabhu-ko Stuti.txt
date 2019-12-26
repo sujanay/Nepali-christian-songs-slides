@@ -11,7 +11,7 @@ halleluyaah, milera sabai srisTi
 lau bhana sab-le jai, halleluyaah,
 jii-uThe yeshu khrisT
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मृत्युको बन्धन तोडेर
 उहाँले चिहानलाई छोड्‌नुभो) २
 जयवन्त प्रभु, जो आज
@@ -24,7 +24,7 @@ jaiwant prabhu, jo aaja
 haamro traaN-kartaa hunu-bhayo,
 halleluyaah, traaN-kartaa hunu-bho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मृत्युको भयले राज्य गर्नेछैन,
 येशू मसीह मित्र) २
 हुनुहुन्छ हाम्रो तारणहार,

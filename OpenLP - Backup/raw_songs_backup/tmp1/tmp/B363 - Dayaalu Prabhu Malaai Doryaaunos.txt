@@ -20,7 +20,7 @@ sab swaartha-ko naash
 dekhaau-nuhos upaai malaai banuň
 ma vishwaasi daas
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 छान्‍‌नुभो प्रभु अयोग्य प्राणीलाई
 गर्नलाई तपाईंको काम
 अज्ञानी म, निर्बल लाचार छु,
@@ -42,7 +42,7 @@ jivan-laai prabhu mero
 kaaT-nos byertha briddhi banna
 swo-rup tapaaiň-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जानेछु म बाटोमा
 येशूजीको नगरी केही गन्‌गन्‌
 प्रेमको केन्द्र प्रभु मेरो तपाईं,

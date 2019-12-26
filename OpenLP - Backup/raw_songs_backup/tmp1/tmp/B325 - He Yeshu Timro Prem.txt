@@ -9,7 +9,7 @@ kati mahaana cha,
 aakaash-ko taaraa, parbat samundra,
 sabai-bhandaa mahaan cha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अगम्य आनन्दले हृदय भरपूर छ,
 प्रभुको कार्य नै धेरै महान् छ
 हरेक साँझ, हरेक बिहान
@@ -20,7 +20,7 @@ prabhu-ko kaarya nai dherei mahaana cha
 hareka saaňjha, harek bihaana
 (stuti-ko yogye cha) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सङ्कटको समयमा जीवन निराश हुन्छ,
 हे ईश्‍वर पुकार्छु दया मलाई दर्शाऊ
 बोलाउनभन्दा पहिला नै भन्छन्,
@@ -31,7 +31,7 @@ he ishwor pukaarchu dayaa malaai darshaau
 bolaauna-bhandaa pa'ile nai bhanchan,
 (ma timro-saath chu) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अन्धकार घाटीमा मलाई हिँड्नुछ,
 मृत्यु र जोखिमको धेरै नै यात्रा छ
 गोठालो भई प्रभु डोर्‍याउनुहुन्छ
@@ -42,7 +42,7 @@ mrityu ra jokhim-ko dherei nai yaatraa cha
 goThaalo bhai prabhu Doryaaunu-huncha
 (ananta saathi bhai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 घटी र कमीको मलाई केही डर छैन,
 हरियो चउरमा मलाई निर्धक्क छ
 भोजन-जलले तृप्‍त म हुन्छु,
@@ -53,7 +53,7 @@ hariyo ca-ur-maa malaai nir-dhakka cha
 bhojana-jal-le tripta ma hunchu
 (khrisT mero-saatha chan) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 ईश्‍वरको भवनमा स्तुति सधैँ गर्छु,
 समपूर्ण हृदयले उनलाई सधैँ भज्छु,
 स्तुति-प्रशंसाको योग्य ईश्‍वर
@@ -64,7 +64,7 @@ sampurNa ridaile un-laai sadhaiň bhaj-chu,
 stuti-prashaňsaa-ko yogye ishwor
 (halleluyaah aamin) ~2
 {/y}
----[Chorus 2:]---
+---[Chorus:2]---
 हे येशू तिम्रो प्रेम ...
 
 {y}he yeshu timro prem

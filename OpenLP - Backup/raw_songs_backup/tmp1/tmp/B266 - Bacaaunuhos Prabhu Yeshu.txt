@@ -5,14 +5,14 @@
 {y}(bacaaunuhos prabhu yeshu
 haami paapi-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 आउनुभो प्रभु यो नरलोकमा
 छोडेर स्वर्गलोक।
 
 {y}aaunubho prabhu yo narlok-maa
 choDera sworga-lok.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हे पिता, पुत्र,
 पवित्र आत्मा,
 तीन व्यक्ति एक ईश्‍वर।
@@ -21,14 +21,14 @@ choDera sworga-lok.
 pavitra aatmaa,
 tina byekti ek ishwor.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दुनियाँ सबलाई विश्‍वास दिलाउन
 गर्नुभो उदेक काम।
 
 {y}duniyaaň sab-laai vishwaas dilaauna
 garnu-bho udek kaam.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अन्धालाई आँखा,
 कोढीलाई शुद्ध,
 मुर्दालाई जीवनदान।
@@ -37,14 +37,14 @@ garnu-bho udek kaam.
 koDhi-laai shuddha,
 murdaa-laai jivandaan.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आखिरी हामी पापीको लागि
 दिनुभो क्रूसमा प्राण।
 
 {y}aakhiri haami paapiko laagi
 dinubho krus-maa praaN.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 तनले मनले धनले जनले
 स्तुति र गरौं मान।
 

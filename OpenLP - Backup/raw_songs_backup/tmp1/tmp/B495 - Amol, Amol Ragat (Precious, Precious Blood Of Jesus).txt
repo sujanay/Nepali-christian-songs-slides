@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अमोल रगत येशू ख्रीष्टको
 दिए कलवरीमा
 पापीहरू र विद्रोही आऊ
@@ -20,7 +20,7 @@ un-ko dherei nai baheko
 gara vishwaas ani
 grahaN nimto un-ko
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अमोल रगतले येशूको
 निको पार्दछ
 तिम्रो प्राणलाई सफा गर्दै
@@ -31,7 +31,7 @@ niko paar-dacha
 timro praaN-laai safaa gar-dai
 ahile pakhaal-cha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अमोल रगत जसले हामी
 लडाइँमा जित्छौं,
 पाप, शैतान, दुष्टमाथि
@@ -42,7 +42,7 @@ laDaaiň-maa jit-chauň,
 paap, shaitaan, dusTa-maathi
 saamartha ragat-le.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अमोल रगतले प्रभुको
 पुग्छौं ईश्‍वरकहाँ
 बाटो हाम्रो महिमाको

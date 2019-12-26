@@ -9,7 +9,7 @@ turahi-ko aakhir aawaaja-maa
 (baadal-maa haami uDne-chauň
 yeshu-sanga haami hune-chauň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्टमा मरेकाहरू
 पहिले जिइउठ्छन्
 त्यसपछि जिउँदाहरू
@@ -22,7 +22,7 @@ tyes-pachi jiuňdaa-haru
 (abishwaasi ra paapi-haru caahiň
 choDin-chan pachu-taauňdai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पाँच बुद्धिमती कन्याहरूजस्तै
 लिई राखौँ फाल्तु तेल
 (कुन बेला आउँछन् तिम्रा दुलहा
@@ -33,7 +33,7 @@ lii raakhauň faaltu tel
 (kun belaa aauňchan timraa dulahaa
 na-suta dherei ber) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ढिलाउनेछैनन्
 तिम्रा प्रभुले भनेका छन्
 छाँडै आउँछु

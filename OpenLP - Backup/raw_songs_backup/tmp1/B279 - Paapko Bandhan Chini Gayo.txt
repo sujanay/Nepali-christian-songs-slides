@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पापको बन्धन छिनी गयो
 म निर्बन्ध छु, निर्बन्ध
 सब पाप पनि टाढा भयो,
@@ -20,7 +20,7 @@ mero badali-maa mare
 halleluyaah, halleluyaah
 ma nirbandha chu, nirbandha
 
----[Verse 2:]---
+---[Verse:2]---
 आफ्‍‌ना पाप जब मानिलिएँ,
 म निर्बन्ध छु,
 निर्बन्ध तब मनमा आत्मा आए,
@@ -31,7 +31,7 @@ ma nirbandha chu,
 nirbandha taba man-maa aatmaa aaye,
 ma nirbandha chu, nirbandha.
 
----[Verse 3:]---
+---[Verse:3]---
 केही बन्धन अब छैन,
 म निर्बन्ध छु, निर्बन्ध
 अब केही डरै छैन,
@@ -42,7 +42,7 @@ ma nirbandha chu, nirbandha
 aba kehi Darai chaina,
 ma nirbandha chu, nirbandha.
 
----[Verse 4:]---
+---[Verse:4]---
 उनको स्तुति गाउनेछु,
 म निर्बन्ध छु, निर्बन्ध
 र येशूको सेवा गर्छु,

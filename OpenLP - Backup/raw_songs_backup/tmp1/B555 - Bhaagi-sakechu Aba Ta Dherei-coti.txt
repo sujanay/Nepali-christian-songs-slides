@@ -16,7 +16,7 @@ aba ta dherei-coTi,
 feri uTh-chu,
 feri tyo dauR dauRan-chu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (आफैलाई हेर्दा निराश हुन्छ,
 मानिसलाई हेर्दा पनि) २
 तर जब येशू, तपाईंलाई हेर्छु
@@ -27,7 +27,7 @@ maanis-laai herdaa pani) ~2
 tara jaba yeshu, tapaaiň-laai herchu
 nayaaň shakti ra nayaaň aasha paauň-chu.
 
----[Verse 2:]---
+---[Verse:2]---
 (कहिलेकहीं लाग्छ जीवन के हो?
 किन यति गाह्रो हुन्छ? ) २
 तर जब येशू ,

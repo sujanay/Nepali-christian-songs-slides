@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आऊ सब पापी, दीन, दरिद्र,
 लखतरान, दु:खित, अनाथ
 येशू तिमीलाई बचाउन पर्खिन्छन्‌
@@ -18,7 +18,7 @@ prem, shakti-saath.
 khrisT chan raaji, naDaraau,
 khrisT chan raaji, naDaraau
 
----[Verse 2:]---
+---[Verse:2]---
 आऊ दरिद्र, ख्रीष्ट निम्त्याउँछन्‌,
 लेऊ वरदान परमेश्‍वरको
 पश्चात्ताप र सत्य विश्‍वास
@@ -36,7 +36,7 @@ sab anugraha caahiňdo
 (binaa-paisaa, binaa-paisaa) ~2
 (yeshu-baaTa lina aau) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 आऊ सब बेसरी लादिएका,
 पापको सागरमा डुब्‍‌ने आऊ
 शुद्ध हुनु पर्ख्यौ भने
@@ -54,7 +54,7 @@ timi kahilyei aauňdainau
 (dharmik hoina, dharmik hoina) ~2 
 (paapi-laai Daakchan yeshu) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 देहधारी ईश्‍वर येशू
 स्वर्ग फर्के तारणहार
 राख उनैमा भरोसा,

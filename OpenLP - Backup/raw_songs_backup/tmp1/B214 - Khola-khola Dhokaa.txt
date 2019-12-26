@@ -9,7 +9,7 @@ khol-dainau kina ni,
 prabhu aaye timi-laai
 muktidaan dinu ni
 
----[Verse 1:]---
+---[Verse:1]---
 (पश्चात्ताप गर, शुद्ध गर,
 आउन सबै ढिलो नगर) २
 (प्रभु ख्रीष्टले तारिदिन्छन् विश्‍वास गर,
@@ -20,7 +20,7 @@ aauna sabai Dhilo na-gara) ~2
 (prabhu khrisT-le tari-dinchan vishwaas gara,
 paap-laai na-para.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (बुद्धिमानी म छु ज्ञानी
 भन्छन् सबै संसार) २
 (शान्ति दिने, मुक्ति दिने भन्छन्
@@ -31,7 +31,7 @@ bhanchan sabai sansaara) ~2
 (shaanti dine, mukti dine bhanchan
 prabhu yeshu taaraN'haar.) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (मुक्तिदाता आउनुभयो
 संसारमा ज्योति बनेर)२
 (दाज्यु–भाइ, दिदी–बहिनी
@@ -42,7 +42,7 @@ sansaara-maa jyoti banera) ~2
 (daaju-bhaai, didi-ba'ini
 aauna sabai vishwaas garera.) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (क्रूसमाथि चढ़्‍‌नुभयो
 हाम्रो प्रभु येशू बिचरा) २
 (स्तुति गर्छु, चरणमा पर्छु,
@@ -53,7 +53,7 @@ haamro prabhu yeshu bicaraa) ~2
 (stuti garchu, caraN-maa parchu,
 aauň-daichu ma paapi adhora) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 (दाज्यु–भाइ, दिदी–बहिनी,
 बस्छौ किन निश्‍चिन्त भएर) २
 (बेला छैन, बितिगयो

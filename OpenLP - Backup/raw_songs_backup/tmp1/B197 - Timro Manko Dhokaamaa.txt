@@ -9,7 +9,7 @@ yeshu Dhak-Dhakaauňchan
 khola timro Dhokaa
 uni aauna caahanchan
 
----[Verse 1:]---
+---[Verse:1]---
 हुन माग्दछन्‌ उनी
 तिम्रो पाहुना आज,
 तिम्रो शोक र फिक्री
@@ -20,7 +20,7 @@ timro paahunaa aaja,
 timro shok ra fikri
 un-le uThaauna maagchan.
 
----[Verse 2:]---
+---[Verse:2]---
 आउन माग्छन्‌ उनी
 तिमीभित्र तिम्रो मनमा
 रातदिन तिम्रो मनमा
@@ -31,7 +31,7 @@ timi-bhitra timro man-maa
 raat-din timro man-maa
 uni maagchan basna.
 
----[Verse 3:]---
+---[Verse:3]---
 मधुर शब्दले भन्छन्‌
 मरेँ तिम्रो लागि
 छोड अशुद्ध कर्म
@@ -42,7 +42,7 @@ mareň timro laagi
 choDa ashuddha karma
 khola dwaara aauňdai chu.
 
----[Verse 4:]---
+---[Verse:4]---
 तिम्रो लागि मैले लगाएँ
 काँढे मुकुट
 तिमालाई म महिमाको
@@ -53,7 +53,7 @@ kaaňDhe mukuT
 timaa-laai ma mahimaa-ko
 mukuT pahiraauňchu.
 
----[Verse 5:]---
+---[Verse:5]---
 खोल्दछु म ढोका मनको,
 हे प्रभु येशू
 आई यसमा रहनुहोस्‌
@@ -64,7 +64,7 @@ he prabhu yeshu
 aai yesmaa rahanuhos
 maagdachu ma man-le.
 
----[Verse 6:]---
+---[Verse:6]---
 प्यारो येशू भन्छन्‌
 अब विन्ती गर्दछु
 समय जो गइगयो

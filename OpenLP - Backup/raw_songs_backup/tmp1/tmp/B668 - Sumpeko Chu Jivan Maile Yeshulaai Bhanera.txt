@@ -9,7 +9,7 @@ arpe-ko chu sarvaanga maile prabhu-laai bhanera
 (Doryaau-nuhos prabhu malaai
 tapaaiň-ko baaTo-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हराई रहेर संसारमा
 तपाईंलाई कति रुआए
 (मेरो पापको त्यो क्रूसमा
@@ -27,7 +27,7 @@ prabhu tapaaiň-laai jhuNDyaaye) ~2
 {y}(aafno bhanne mero prabhu kehi chaina
 yo jivan tapaai-ko) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तपाईंको रगतले किनेको
 मेरो अमूल्य जीवनलाई
 (अर्पन्छु सर्वाङ्ग तपाईंमा

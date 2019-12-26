@@ -7,7 +7,7 @@
 kasari maryo
 kalwari krusaimaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 पिताको प्रेमलाई प्रमाण गर्न
 स्वर्गलोक छोड्‌नुभो
 हामी पापीलाई बचाउन भनी
@@ -18,7 +18,7 @@ sworga-lok choDnubho
 haami paapi-laai bacaauna bhani
 jivan dinubho.
 
----[Verse 2:]---
+---[Verse:2]---
 क्रूसैमा चढी रगत बहाई
 पाप नष्ट गर्नुभो
 पाप र श्राप नष्ट गरेर
@@ -29,7 +29,7 @@ paap nasTa garnubho
 paap ra shraap nasTa garera
 mukti-laai lyaau-nubho.
 
----[Verse 3:]---
+---[Verse:3]---
 धन्य होस्‌ तिम्रो,
 हे मुक्तिदाता र गुणानुवाद होस्‌
 जयजयकार तिम्रो, प्रशंसा तिम्रो,

@@ -5,7 +5,7 @@
 {y}(pavitra aatmaa-ko mandir-laai
 aba yesai helaa na-gara) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (तिमीमा भएको शरीर
 पवित्र आत्माको मन्दिर हो) २
 (त्यसैले शरीरमा हुँदै
@@ -16,7 +16,7 @@ pavitra aatmaa-ko mandir ho) ~2
 (tyesai-le sharir-maa huňdai
 ishwor-laai mahimaa gari-deu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मुक्तिदाता ख्रीष्टको रगतले
 आज तिमी किनिएका हौ) २
 (यो शरीर तिम्रो होइन
@@ -27,7 +27,7 @@ aaja timi kini-yekaa hau) ~2
 (yo sharir timro hoina
 yo ta kewal ishwor-ko mandir ho) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (निराशाको आँधीमा नहिँड
 अन्धकारले छोपी लैजाला) २
 (येशूमा विश्‍वास गरिदेऊ

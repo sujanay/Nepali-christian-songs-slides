@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रार्थनाको समय के मीठो
 सांसारिक चिन्ता छोड्‌दछु
 औ आफ्‍‌नो पिताको सम्मुख
@@ -20,7 +20,7 @@ un-le choDaauň-chan ti-dekhi
 shaitaan-ko jaal-dekhi baaňc-chu
 jaba praarth'naa gari uTh-dachu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रार्थनाको समय के मीठो
 जब जान्दछु सच्चाइ उनको
 पितालाई विन्ती चढाउँछु
@@ -42,7 +42,7 @@ ki un-laai bhajuň sab samai
 ma aafno cintaa praarth'naa-maa
 raakh-chu gardai aashaa unai-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रार्थनाको समय के मीठो
 दिलाशा मेरो सदाको
 छ जबसम्म यो विश्‍वास,

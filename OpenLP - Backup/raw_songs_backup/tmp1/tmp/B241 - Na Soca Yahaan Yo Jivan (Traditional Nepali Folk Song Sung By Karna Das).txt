@@ -20,7 +20,7 @@ bholi ta aber bhai-jaa-laa
 na-bhaye eka din yo jivan
 (roi roi yahaaň ra'i-jaa-laa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 लुकाइ राख्छौ तिम्रो पाप,
 बोकेर कहाँ लान्छौ र ?
 बिसाउन बरु तुरुन्तै,
@@ -42,7 +42,7 @@ kalvari DaaňRaa pugna-laai
 na-maana saňkoc yo man-maa
 (ishwor-ko saamu jhukna-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रगतको थोपा आलो छ
 गलगथाको बाटोमा
 प्रभूले बोके दैनिय क्रुस,

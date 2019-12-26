@@ -9,7 +9,7 @@ prabhu yeshu-kahaaň nagari ber
 yo jivan choTo cha
 mukti-ko dina chaina aba dher.
 
----[Verse 1:]---
+---[Verse:1]---
 जब येशूकहाँ गएँ,
 पाप-क्षमाको दान पाएँ
 मुक्तिको अनुभव गरेँ,
@@ -20,7 +20,7 @@ paap-chyemaa-ko daan paayeň
 mukti-ko anubhab gareň,
 unko naam-ko yesh gaayeň
 
----[Verse 2:]---
+---[Verse:2]---
 येशू हुन् उदेकको नाथ,
 धुनेछन्, तिम्रो सब पाप
 गरेर अधर्म माफ,

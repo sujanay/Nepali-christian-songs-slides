@@ -9,7 +9,7 @@ yeshu-ko sandesh-le shaanti lyaaunu-cha
 (anyaul-purNa jag-maa gati dinu-cha
 udaas muhaar-bhari khushi lyaaunu-cha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (निराश छन् है नेपालीहरू
 सोचिरहेछन् अब के गरूँ ? ) २
 (अब हामी सालोमको
@@ -22,7 +22,7 @@ soci-rahechan aba ke garuň ? ) ~2
 jhanDaa farfa-raauň
 nepaali byuň-jhaauna aba jurmu-raauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (नाशवान् यो देश बचाउनुछ
 आँध्यारो मनमा दियालो बाल्नुछ) २
 (अब हामी क्रूसको झण्ड फर्फराऔँ

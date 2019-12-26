@@ -9,7 +9,7 @@ mitra samai-laai naparkha
 anishcit colaa-ko bharosa ke cha
 a'ile nai Dhalna-sakcha
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (देखी डरलाग्दो दशा पापको
 ख्रीष्ट अघि सर्नुभो) २
 (सही चोट त्यो श्रापित क्रूसको,
@@ -20,7 +20,7 @@ khrisT aghi sarnubho) ~2x
 (sahi coT tyo shrapit krus-ko
 mukti dwaara kholnubho) ~2x
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (दिन्छन् प्रभु ख्रीष्ट मुक्ति र
 शान्ति पछुताउने पापीलाई) २
 (सित्तैँको मुक्ति लिनका निम्ति

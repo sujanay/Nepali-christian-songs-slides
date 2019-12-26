@@ -16,7 +16,7 @@ prati-fal un-le dine-chan) ~2
 khoji garne samai cha
 ahile parmeshwor-laai yehi sansaar-maa.
 
----[Verse 1:]---
+---[Verse:1]---
 यो जान आखिरी दिनमा
 डरलाग्दो समय आउनेछ,
 मानिस स्वार्थी, धनका लोभी,
@@ -27,7 +27,7 @@ Dar-lagdo samai aaune-cha,
 maanis swaarthi, dhan-kaa lobhi,
 ghamaN-Di haThi hune-chan.
 
----[Verse 2:]---
+---[Verse:2]---
 निन्दक औ माता
 पिताका आज्ञा सब पालन नगर्ने,
 बैगुणी र अपवित्र,
@@ -38,7 +38,7 @@ pitaa-kaa aagyaa sab paalan na-garne,
 bai-guNi ra a-pavitra,
 swaa-bhaabik prem-rahit hun-chan.
 
----[Verse 3:]---
+---[Verse:3]---
 औ मानिस खुशी नहुने
 अर्कालाई सधैँ दोष लगाउने,
 असंयमी, निष्ठुर,
@@ -49,7 +49,7 @@ arkaa-laai sadhaiň dos lagaaune,
 asaň-yemi, nisThur,
 asal na-rucaau-ne, bishwaas-ghaati.
 
----[Verse 4:]---
+---[Verse:4]---
 उत्ताउला दिमागी हुन्छन्,
 परमेश्‍वरभन्दा सुख विलास,
 बरू निको मान्‍ने हुन्छन्,
@@ -60,7 +60,7 @@ parmeshwor-bhandaa sukha bilaas,
 baru niko maanne hun-chan,
 bhakti-ko bhes dhaaraN gar-chan
 
----[Verse 5:]---
+---[Verse:5]---
 मानिसका सारा चाल विचार
 आफ्नो दृष्टिमा ठीक हुन्छन्,
 तर मानिसका हृदयलाई

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (आराधना गर्न हामी
 सबै भेला भएका छौं) २
 आराधना गर्न हामी
@@ -11,7 +11,7 @@ aaraadh-naa garna haami
 sabai bhelaa bhayekaa chauň aaja,
 aaraadh-naa garauň yeshu-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 (बिर्सी आफै-आफैलाई,
 एकाग्र हौं प्रभु ख्रीष्टमा) २
 बिर्सी आफै-आफैलाई,
@@ -24,7 +24,7 @@ birsi aafai-aafai-laai,
 ekaa-gra hauň prabhu khrisT yeshu-maa,
 aaraadh-naa garauň yeshu-laai.
 
----[Verse 3:]---
+---[Verse:3]---
 (उनी मेरो धार्मिकता,
 रहन्छु दृढ भई सदासर्वदा) २
 उनी मेरो धार्मिकता,
@@ -37,7 +37,7 @@ uni mero dharmik-taa,
 rahan-chu driDh bhai sadaa-sarvadaa un-maa,
 aaraadh-naa garauň yeshu-laai.
 
----[Verse 4:]---
+---[Verse:4]---
 (पवित्र हात उचाली,
 गरौं उनको नाउँको बढाइ) २
 पवित्र हात उचाली,

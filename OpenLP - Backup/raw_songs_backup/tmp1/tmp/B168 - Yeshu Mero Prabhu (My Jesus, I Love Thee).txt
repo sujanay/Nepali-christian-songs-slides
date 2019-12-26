@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू मेरो प्रभु भनी जान्दछु,
 पापमय इच्छा मेरो यसर्थ मार्दछु
 येशू मुक्तिदाता, हे त्राणकर्ता,
@@ -9,7 +9,7 @@ paap-mai ichyaa mero yesartha maarda-chu
 yeshu mukti-daataa, he traaNa-kartaa,
 mero pyaaro khrisT-laai prem garchu sadaa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उदेकको प्रेम प्रभु मलाई गर्नुभो,
 क्रूसको असीम दु:ख सही मर्नुभो
 सबै मेरो लागि कस्तो प्रेम,
@@ -20,7 +20,7 @@ krusko asim dukha sahi marnubho
 sabai mero laagi kasto prem,
 mahaa yeshu-laai prem garchu yesaile sadaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 स्तुति जीवनभरि गर्दै रहन्छु
 र प्रेममा तपाईंको सधैँ रहन्छु
 छायाँ मृतको पर्छ जब,
@@ -33,7 +33,7 @@ chaayaaň mrit-ko parcha jaba,
 jivan-maa pyaar garchu tapaaiň-laai,
 he yeshu sadaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 गुन्जोस्‌ भवन उज्ज्वल स्तुतिले मेरो,
 विश्राम पाई अनन्त जीवन आनन्दको
 लाई मुकुट चम्किलो गाउँछु महिमा,

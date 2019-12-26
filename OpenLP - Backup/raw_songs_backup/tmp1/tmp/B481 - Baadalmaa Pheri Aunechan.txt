@@ -7,7 +7,7 @@
 yehi aashaa-maa haaňsi-de-u,
 aaňsu-laai thami-de-u
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 तिमीले मुटु बाँधेर
 कारागारहरूमा पर्खेको छौ
 तिमीले निन्दा चोटहरू
@@ -25,7 +25,7 @@ unko nimti bhanera khapekaa chau
 {y}(saathi-samaaj chuTera jaaňdaa,
 aakaash-maa un-laai kurekaa chau) ~2x
 {/y}
----[Chorus 2:]---
+---[Chorus:2]---
 निश्चय नै प्रभु आउनेछन्
 त्यही आकाशमा
 तिम्रो धीरजलाई नहराऊ,
@@ -36,7 +36,7 @@ tyehi aakaash-maa
 timro dhiraj-laai na-haraau,
 kehi ber parkhi-de-u.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तिम्रो नाउँलाई पनि उनले
 जीवनको किताबमा लेखेका छन्
 तिम्रो ठाउँ उनले आफ्नो घरमा

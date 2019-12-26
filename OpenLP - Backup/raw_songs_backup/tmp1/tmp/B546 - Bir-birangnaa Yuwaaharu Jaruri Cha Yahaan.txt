@@ -9,7 +9,7 @@ jaruri cha yahaaň
 jiuňdo balidaan,
 sakriya sewak banna-laai yahaaň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ढुङ्गा हानी मार्नलाग्दा,
 लाग्दा, लाग्दा
 क्षमा दिनसक्ने,
@@ -33,7 +33,7 @@ pyaar garna saka-ne) ~2
 (yuwaa caahi-yeko cha,
 ke timi tyo yuwaa hau?) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशूको निम्ति दु:ख सहँदा
 सहँदा, सहँदा
 रमाउन सक्ने,
@@ -57,7 +57,7 @@ ashis dina-saka-ne) ~2
 (yuwaa caahi-yeko cha,
 ke timi tyo yuwaa hau?) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ( 'मेरो पछि लाग' भन्दा, भन्दा, भन्दा
 झट्टै नै पछि लाग्ने, लाग्ने, लाग्ने) २
 ('त्यो ठाउँमा जाऊ' भन्दा

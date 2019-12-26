@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे धन्य शिर पवित्र,
 काँडे मुकुट लाको,
 दु:खमय दृश्य त्यो कस्तो,
@@ -20,7 +20,7 @@ maanisle thukeko,
 baijani bastra lagaai,
 nigaalo dieko.
 
----[Verse 2:]---
+---[Verse:2]---
 हे धन्य प्रभु येशू,
 घृणित तिमी भयौ,
 संसारले व्यर्थ ठान्यो,
@@ -42,7 +42,7 @@ praaN balidaan diyau,
 paapko kaaraN merai,
 mero timile dukha sahyau.
 
----[Verse 3:]---
+---[Verse:3]---
 धन्य भन्‍‌नु प्रभुलाई
 शब्द छैन मेरो, जति दु:ख,
 सङ्कष्ट मेरो लागि सह्यौ,

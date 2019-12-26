@@ -7,7 +7,7 @@
 faseko dekhi prabhu aaye
 sansaarko uddhaar garna bhani
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सुख-चैन र स्वर्ग भनी
 स्वर्ग राज्यलाई त्यागेर,
 हाई हाई) २
@@ -29,7 +29,7 @@ haami-jastaa paapi-laai bacaun-laai
 prabhu aaye sansaarko
 uddhaar garna bhani.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (दु:ख-कष्ट सही-सही
 प्रचार गरी हिँडे,
 हाई-हाई) २
@@ -49,7 +49,7 @@ aananda diňdai
 (andhaalaai jyoti diyera) ~2
 (mritalaai jivan diyera) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हात-पाउमा काँटी ठोकी
 क्रूसमा उनलाई मारे हाई-हाई) २
 (शिरमा काँडे मुकुट पहिराई

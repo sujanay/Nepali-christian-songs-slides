@@ -11,7 +11,7 @@ cinha sabai puraa huňdai chan,
 andhaa bani prabhu-dekhi
 TaaDhaa bhai-rahechan) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (सब मानिस पापैले भरिएका छन्‌
 पापैमा बढिरहेछन्‌) २
 (पापकै कारणले नाश
@@ -24,7 +24,7 @@ paapai-maa baDhi-rahechan) ~2
 ek din hunchan) ~2
 (ananta mrityu ra daNDa bhognechan) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जब प्रभु आकाशमा प्रकट हुनेछन्‌
 एक अद्‌भूत घटना घट्‌नेछ) २
 (तयार विश्‍वासी सब उठाइन्छन्‌) २
@@ -35,7 +35,7 @@ ek adbhut ghaTnaa ghaTnecha) ~2
 (tayaar vishwaasi sab uThaainchan) ~2
 (murkha laaparbaah sab choDiinechan) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (संसारको मायामा डुब्दा-डुब्दै नै
 मृत्युले चुँडी लैजान्छ) २
 (मनले चाहेको सब चीज छोडिन्छन्‌) २
@@ -46,7 +46,7 @@ mrityu-le cuňDi laijaancha) ~2
 (man-le caaheko sab cija choDinchan) ~2
 (rittai haat lii mrityu-ghaaT tarchan) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (के तिमीले चाहन्छौ सम्पत्ति, सामान?
 स्वर्गीय बैंकमा राख्‍‌न थाल) २
 (परदेशी हौ तिमी कालो संसारमा) २
@@ -57,7 +57,7 @@ sworgiye baiňk-maa raakhna thaala) ~2
 (pardeshi hau timi kaalo sansaar-maa) ~2
 (swodesh-laai samjhi sangharsa gara) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 (नसम्झ आफूलाई यही संसारको,
 सतर्क बनी अलग रही) २
 (नत्र यस संसारसँगै न्यायमा पर्छौ) २

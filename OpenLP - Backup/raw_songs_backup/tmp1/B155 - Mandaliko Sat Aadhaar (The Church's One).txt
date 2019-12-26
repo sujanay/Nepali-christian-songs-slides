@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मण्डलीको सत आधार
 हुन्‌ प्रभु ख्रीष्ट येशू
 जल साथै वचनद्वारा
@@ -20,7 +20,7 @@ khrisT-le sworga-lok tyaage
 ra usko jyaan bacaauna
 rakta aafno bahaaye.
 
----[Verse 2:]---
+---[Verse:2]---
 देश-देशका भए पनि
 मण्डली हुन्छ एकनास
 एक आत्मिक जन्म मानी,
@@ -42,7 +42,7 @@ ek bhoja pavitra khaai
 ek lakchyaye-tira jaancha
 kadam aghi baDhaai.
 
----[Verse 3:]---
+---[Verse:3]---
 परिश्रम, युद्ध, क्रान्ति
 र दु:खको माझैमा,
 उसले अनन्त शान्तिको
@@ -64,7 +64,7 @@ khrisT darshan paaunecha
 ra maNDali jaiwant
 aaraam-maa basnecha.
 
----[Verse 4:]---
+---[Verse:4]---
 त्रिएक ईश्‍वर प्रभुसाथ छ
 एकत्रित निश्चय
 साथै छ सन्तहरूसाथ

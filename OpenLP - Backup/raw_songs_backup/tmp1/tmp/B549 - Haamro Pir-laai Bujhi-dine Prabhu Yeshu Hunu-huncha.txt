@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो पीरलाई बुझिदिने
 प्रभु येशू हुनुहुन्छ) २
 (हाम्रो आँसुलाई पुछिदिने
@@ -16,7 +16,7 @@ khrisT yeshu hunu-huncha) ~2
 {y}haamro pir-laai bujhi-dine
 prabhu yeshu hunu-huncha
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यो धरतीको मान्छेले
 कहिले शान्ति दिने होइन) २
 (यो नयनको आँसुलाई
@@ -34,7 +34,7 @@ pir bhanera bujhne hoina) ~2
 {y}haamro pir-laai bujhi-dine
 prabhu yeshu hunu-huncha
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (यो धरतीको हाँसोले
 पीरलाई लाने होइन) २
 (यो जीवनको आनन्दले

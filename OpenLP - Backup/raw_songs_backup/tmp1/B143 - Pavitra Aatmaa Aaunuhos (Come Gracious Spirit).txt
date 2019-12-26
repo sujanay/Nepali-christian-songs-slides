@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पवित्र आत्मा आउनुहोस्‌
 तुल्याउनु मेरो मन निर्दोष
 होइरहनु ज्योति, अगुवा चलाउनु सोच,
@@ -9,7 +9,7 @@ tulyaaunu mero man nirdos
 hoi-rahanu jyoti, aguwaa calaaunu soc,
 baat, behoraa.
 
----[Verse 2:]---
+---[Verse:2]---
 देखाउनू ज्योतिको सत्यता र
 हिँडूँ देखाइएको झैँ
 लगाउनू मेरो मनमा डर,
@@ -20,7 +20,7 @@ hiňDuň dekhaai-yeko jhaiň
 lagaaunu mero man-maa Dar,
 ma hiňDuň aagyaa-ko anusaar.
 
----[Verse 3:]---
+---[Verse:3]---
 सधैँ पापदेखि राख्‍‌नू दूर,
 रुङ्गेर पूरापूर
 लिई हिँड्‌नू ईश्‍वर भए ठाउँ,
@@ -31,7 +31,7 @@ rungera puraapur
 lii hiňDnu ishwor bhaye Thaauň,
 ma unko aaDamaa bishraam paauň.
 
----[Verse 4:]---
+---[Verse:4]---
 लिई हिँड्‌नू पवित्रतामा,
 म बस्‍‌न पाऊँ ईश्‍वरकहाँ
 लिई हिँड्‌नू वचनको अन्सार,
@@ -42,7 +42,7 @@ ma basna paauň ishwor-kahaaň
 lii hiňDnu bacan-ko ansaar,
 ma sikuň unko gyaan apaar.
 
----[Verse 5:]---
+---[Verse:5]---
 लिई हिँड्‌नू गरी उपकार,
 म पाऊँ खाँचोको गोहार
 लिई हिँड्‌नू आफूकहाँ मलाई,

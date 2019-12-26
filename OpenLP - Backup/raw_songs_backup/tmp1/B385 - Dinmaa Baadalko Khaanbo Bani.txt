@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दिनमा बादलको खाँबो बनी,
 रातमा आगोको ज्वाला बनी
 रक्षा गर्‍यौ हामीलाई,
@@ -20,7 +20,7 @@ jo dinu-bhayo haami-laai
 chatra-chaayaaň-maa lukaai,
 (prabhuji, din-raat har samai-maa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 वचनको मन्‍न दियौ,
 चटान फुटाई पानी दियौ
 आत्मामा भई हामीलाई,
@@ -31,7 +31,7 @@ caTaan fuTaai paani diyau
 aatmaa-maa bhai haami-laai,
 (prabhuji, timro baaTo-maa Doryaayau) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 यो नयाँ, सुन्दर सालमा पनि
 प्राण, आत्मा, शरीर, हृदय पनि
 रक्षा गरिदियौ,
@@ -42,7 +42,7 @@ praaN, aatmaa, sharir, ridai pani
 rakchyaa gari-diyau, (
 prabhuji, gari-deu aatmik unnati) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 स्वर्ग देशमा पुग्‍‌न पाऊँ,
 अनन्त भजन सुनाउन पाऊँ
 सधैँ शरण परेर,

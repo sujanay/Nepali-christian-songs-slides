@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 राख्छु म ख्रीष्टको वचनमा विश्‍वास
 उनको श्रेष्ठ नाममा नित्य महिमा होस्‌
 मेरो गीत छ सदा उनको स्तुति होस्‌
@@ -22,7 +22,7 @@ pratigyaa-maathi bharosaa
 raakhchu, raakhchu, ma raakhchu
 unko bacan-maa vishwaas
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 छ विश्‍वास त्यस वचनमा जो टल्दैन
 जब द्विविधा र भयको बाढ उठ्‌छ।
 उनको जीवित वचनले जित्‍‌नेछु म
@@ -33,7 +33,7 @@ jaba dwi-bidhaa ra bhayeko baaDha uThcha.
 unko jivit bacanle jitnechu ma
 raakhchu khrisT-ko bacan-maa vishwaas.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 विश्‍वास गरी वचनमा म देख्दछु
 पापलाई धोई दिने रगत येशूको
 ख्रीष्टले दिएको छुटकारा गीत गाउँछु

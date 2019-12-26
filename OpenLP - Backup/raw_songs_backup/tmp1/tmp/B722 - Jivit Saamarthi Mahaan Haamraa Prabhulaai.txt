@@ -9,7 +9,7 @@ ridai kholi caRhaauň aadar mahimaa sadhaiň
 pavitrataa-maa, satyetaa-maa bhakti ra aaraadhanaa,
 nitye nitye caRhaauň uhaaň-kai caraN-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अद्‌भूत पराक्रमी सर्बशक्तिमान प्रभुलाई,
 नित्य, चौबिस प्राचिनले पनि जय जयकार गर्दछन्
 उहाँकै पराक्रम र बैभब पबित्रतालाई,
@@ -20,7 +20,7 @@ nitye, caubis praacin-le pani jai jaikaar gardachan
 uhaaň-kai paraakram ra baibhab pabitrataa-laai,
 ridai kholi, shir nihuraai daNdawat garauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 शुद्ध विवेक भक्ति र भाव अनि प्रेमले ,
 थरथराई, डराई अनि झुकौं श्रद्धा र भक्तिले
 उहाँकै दया करुणा भलाईलाई नै सम्झी,

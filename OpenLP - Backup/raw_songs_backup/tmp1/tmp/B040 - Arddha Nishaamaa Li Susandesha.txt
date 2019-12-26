@@ -7,7 +7,7 @@
 dina bani aayauň haami
 timro duwaar-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (दुर्दशा यो सब देखी संसारको
 पापको भारले मानव मिचेको) २
 (जिन्दगीको हाल सुधार्न भनी) २
@@ -18,7 +18,7 @@ paap-ko bhaara-le maanab miceko) ~2
 (jindagi-ko haal sudhaarna bhani) ~2
 ishwor putra jag-maa aaye saňkoc na-maani.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (ईश्‍वर र मानावबीचको पर्दा
 पापी मानवको पापले गर्दा) २
 (तोड़ी मानवलाई लान ईश्‍वरकहाँ) २
@@ -29,7 +29,7 @@ paapi maanab-ko paapa-le gardaa) ~2
 (toRi maanab-laai laana ishwor-kahaaň) ~2
 aaunu-bhayo mahaan ishwor dusTa sansaar-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (शहर येरुशलेम, गावैँ बेथलेहेम
 जन्मे गोठैमा बालक एक नरम) २
 (ख्रीष्ट जीवनधार, येशू तारणहार) २

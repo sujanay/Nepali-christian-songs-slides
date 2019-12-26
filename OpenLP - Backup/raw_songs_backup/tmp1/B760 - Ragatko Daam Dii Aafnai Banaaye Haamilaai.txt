@@ -9,7 +9,7 @@ aafnai banaaye haami-laai) ~2
 (ishwor-ko nij santaan banaaye haami-laai) ~2
 (kati ajiba prem! halleluyaah aamen ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (किनिएका हौं हामी ख्रीष्टको रगतले) २
 (यसर्थ हामी आफ्नै होइनौ हौं
 हामी प्रभु ख्रीष्टका) २
@@ -22,7 +22,7 @@ haami prabhu khrisT-kaa) ~2
 (yeskaaraN sewaa prabhu-kai gari mahimaa
 un-ko garauň naashwaan deha-baaTa . ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (हाम्रै निम्ति प्रभुले सब थोक दिए ) २
 (कहिल्यै नदेखेका, कानले नसुनेका,
 मानिसले नसोचेका ) २
@@ -35,7 +35,7 @@ maanis-le na-socekaa ) ~2
 (yestaa kuraa-laai haamraa nimti nai,
 premi khrisT-le tayaar paare-kaa chan . ) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (यस्ता प्रभुका निम्ति आऊ हे जवान ) २
 (जवानी जीवनको सम्पूर्ण सेवा
 प्रभुलाई मन पर्नेछ ) २
@@ -48,7 +48,7 @@ prabhu-laai man parne-cha ) ~2
 (haami sansaar-kaa murkha, tuccha-laai,
 khrisTkai sewaa-ko nimti bolaawaT cha . ) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (आऊ हे जवान, क्रूस उठाई अघि बढौं ) २
 (जवानी जीवनको जोश र
 उत्साह प्रभु येशूलाई सुम्पौं ) २
@@ -61,7 +61,7 @@ utsaaha prabhu yeshu-laai sumpauň ) ~2
 (yaatanaa bhaye pani, baaTo apThyaaro pratifal
 yes-ko hune-cha ati miThaa . ) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 (उठौं अब, होऊँ तयार, कम्मर कसौं ) २
 (संसारका निम्ति यो सुन्दर जीवन
 व्यर्थैमा नसाँचौं ) २

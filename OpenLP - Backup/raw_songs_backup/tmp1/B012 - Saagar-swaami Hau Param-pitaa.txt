@@ -1,4 +1,4 @@
----[Chorus 1:]---
+---[Chorus:1]---
 सागर-स्वामी हौ परमपिता,
 जयजयकार, जयजयकार सर्वसदा
 जयजयकार, जयजयकार सर्वसदा
@@ -18,7 +18,7 @@ paara garyau, krusa paara garyau
 jivana-kaa prabhu, paapi-kaa prabhu,
 hos jaijaikaar
 
----[Verse 1:]---
+---[Verse:1]---
 (तिमी हौ प्रेम-पतवार,
 तिमी जीवनको सार) २
 (जल-थल, नभ मिली
@@ -29,7 +29,7 @@ timi jivan-ko saar) ~2
 (jala-thala, nabha mili
 timrai sama-mukha jhuki) ~2
 
----[Chorus 2:]---
+---[Chorus:2]---
 पार गर्‍यौ, क्रूस पार गर्‍यौ
 जीवनका प्रभु, पापीका प्रभु,
 होस्‌ जयजयकार
@@ -38,7 +38,7 @@ paara garyau, krusa paara garyau
 jivana-kaa prabhu, paapi-kaa prabhu,
 hos jaijaikaar
 
----[Verse 2:]---
+---[Verse:2]---
 (किन नहोस्‌ मझधार,
 होस्‌ थपडीको मार) २
 (हृदय प्रफुल्लित रही,
@@ -49,7 +49,7 @@ hos thapa-Diko maar) ~2
 (ridaya praful-lit rahi,
 prabhu haamro dhiraja dhari) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (जयजयकार गाऊ ललकार,
 प्रभु हुन्‌ सेवनहार) २
 (जयजय प्रभुको जय,

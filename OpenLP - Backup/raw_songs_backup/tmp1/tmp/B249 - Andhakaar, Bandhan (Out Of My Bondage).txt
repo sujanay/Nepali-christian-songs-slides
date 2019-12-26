@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अन्धकार, बन्धन, दु:खदेखि
 येशू म आऊँ, येशू म आऊँ
 पाउन छुटकारा, हर्ष,
@@ -20,7 +20,7 @@ abhaav-dekhi prashastataa-maa
 paap-bhula-dekhi pavitrataa-maa,
 yeshu ma aauňdai chu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मलाई लजाउने बानीदेखि,
 (येशू म आऊँ) २
 तपाईंको चरण घोप्टो परी,
@@ -42,7 +42,7 @@ jagko shok-dekhi saantwonaa-maa
 sangkaT-dekhi prashaňsaa-maa,
 yeshu ma aauňdai chu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 चिन्ता, घमण्ड बेचैनीदेखि,
 (येशू म आऊँ) २
 इच्छा तपाईंको स्वीकार गरी,
@@ -64,7 +64,7 @@ niraash-dekhi param-aananda-maa
 pakchyi-jhaiň uDi pakheTaa-maa,
 yeshu ma aauňdai chu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 मृत्युको त्रास भयङ्करदेखि
 स्वर्ग घरतिर अघि बढी,
 येशू म आउँदै छु

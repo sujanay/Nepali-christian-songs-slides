@@ -16,7 +16,7 @@ stuti ra prashaňsaa gardai
 (immaa-nuyel immaa-nuyel
 tapaaiň sab-kaa parmeshwor) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (भरोसा योग्य परमेश्‍वरलाई
 भक्तिसाथ सधैँ पुज्दछौं,
 उनको यो मिठो नामलाई
@@ -34,7 +34,7 @@ saaraa jaati-maa pracaar-chauň) ~2
 (uni pavitra chan shakti-shaali chan
 yesai-le haami ucaalauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गबाट सधैँ हामीलाई
 उत्तम कुरोले भर्नुहोस्
 तपाईंको अभिषेक तेलले

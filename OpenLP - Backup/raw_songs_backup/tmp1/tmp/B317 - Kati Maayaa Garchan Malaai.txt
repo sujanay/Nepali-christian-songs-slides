@@ -9,7 +9,7 @@ meraa pyaaraa prabhu-le
 merai maayaa-ko trisNaa-maa
 sadhaiň nai taDpi-dinchan
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मलाई अनन्त जीवन दिन
 आफ्‍‌नो प्राणसम्म दिए
 मैले भोग्‍‌नुपर्ने दु:ख
@@ -20,7 +20,7 @@ aafno praaN-samma diye
 maile bhognu-parne dukha
 uhaaň-le nai lii-diye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मेरो जीवन सहारा बनी
 डोर्‍याउनुहोस्‌ गोरेटोमा
 म त अन्धो छु,
@@ -31,7 +31,7 @@ Doryaaunuhos goreTo-maa
 ma ta andho chu,
 yahaaň tapaaiň nai jyoti mero.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 संसार टलिगए पनि,
 मृत्यु नै आए पनि
 यो मिलन अनन्तसम्म

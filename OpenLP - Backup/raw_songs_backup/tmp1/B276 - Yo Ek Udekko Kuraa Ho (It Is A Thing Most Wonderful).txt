@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यो एक उदेकको कुरा हो,
 ईश्‍वरको पुत्र येशू ख्रीष्ट
 स्वर्गलाई त्यागी आउनुभो
@@ -9,7 +9,7 @@ ishwor-ko putra yeshu khrisT
 sworga-laai tyaagi aaunubho
 ma jasto paapi bacaauna.
 
----[Verse 2:]---
+---[Verse:2]---
 ती गरीब घरमा जन्मिए काम गरे,
 सुख-दु:खले रोए
 पापीको लागि ती मरे,
@@ -20,7 +20,7 @@ sukha-dukhale roye
 paapi-ko laagi ti mare,
 jaana yo kuraa saaňco ho.
 
----[Verse 3:]---
+---[Verse:3]---
 यो एक उदेकको कुरा हो,
 अघोर छ उनको प्रेम ममा
 यो झन्‌ उदेकको कुरा हो,
@@ -31,7 +31,7 @@ aghora cha un-ko prem ma-maa
 yo jhan udek-ko kuraa ho,
 thorai cha mero prem un-maa.
 
----[Verse 4:]---
+---[Verse:4]---
 तपाईंलाई प्रेम म गर्न पाएँ,
 हृदयमा प्रेमको आगो बाल
 अझै म गर्नेछु धेर प्रेम,

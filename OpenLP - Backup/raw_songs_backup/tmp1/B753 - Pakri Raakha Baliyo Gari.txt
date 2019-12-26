@@ -11,7 +11,7 @@ jas-ko kaan cha, tyes-le sunos,
 aatmaa-le maNDali-laai ke bhanda-cha
 pakri raakha, pakri raakha.
 
----[Verse 1:]---
+---[Verse:1]---
 हेर, म चाँडै आइरहेकोछु,
 बलियो समात तिमीमा जे छ,
 मृत्युसम्मै नै रहे विश्‍वासी,
@@ -22,7 +22,7 @@ baliyo samaata timi-maa je cha,
 mrityu-sammai nai rahe bishwaasi,
 jivan-ko mukuT timi-laai dinchu .
 
----[Verse 2:]---
+---[Verse:2]---
 विश्‍वासको उत्तम लडाईँ लडी,
 अनन्त जीवनलाई बलियो पक्र,
 जसका निम्ति नै तिमी बोलाइयौ,
@@ -33,7 +33,7 @@ ananta jivan-laai baliyo pakra,
 jas-kaa nimti nai timi bolaai-yau,
 yesai-kaa nimti bishwaas-yogye bana .
 
----[Verse 3:]---
+---[Verse:3]---
 विवेकलाई सधैँ पवित्र राख,
 विश्‍वासको नित्य रखवाली गर,
 खाँटी वचनको नमूनालाई लिई,
@@ -44,7 +44,7 @@ bishwaas-ko nitye rakhwaali gara,
 khaaňTi bacan-ko namunaa-laai lii,
 aashaa-ko aananda-laai pakri raakha.
 
----[Verse 4:]---
+---[Verse:4]---
 इस्करियोत झैँ प्रभुको सेवा,
 हुमेनियसले झैँ आफ्नो विश्‍वासलाई,
 वर्णवासले झैँ मण्डली दर्शनलाई,
@@ -55,7 +55,7 @@ humeniyes-le jhaiň aafno bishwaas-laai,
 barNabaas-le jhaiň maNDali darshan-laai,
 khosna na-deu hai dhurta shaitaan-laai .
 
----[Verse 5:]---
+---[Verse:5]---
 ज-जसले जय पाई मेरा कामलाई,
 अन्तसम्म नै सम्हाली राख्छ,
 सब जातिमाथि हक दिनेछु,

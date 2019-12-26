@@ -9,7 +9,7 @@ saňgharsa ra dukha pachi
 kati miTho chan ti pala
 ropaaiň ra kaTani pachi
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो जीवन यात्र नै हो
 आउँछन् अनेक दु:ख बाधा) २
 (जीवन हाम्रो पानी जस्तै हुन्छ
@@ -27,7 +27,7 @@ anek Thakkar yahaaň) ~2
 {y}(saňgharsa-ko jivan jiunu nai
 khrisTiye jivana ho) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (दु:ख पिडा सबलाई भुली
 ख्रीष्टको वचन याद गरी) २
 (बढ्दै जाऔँ आउ येशूमा

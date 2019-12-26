@@ -5,7 +5,7 @@
 (aau-aau, daaju-bhaai,
 mili-juli gaauň) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 येशू मुक्तिदाताले
 मृत्यु जय गरे,
 आऊ-आऊ, सबै भाइ,
@@ -16,7 +16,7 @@ mrityu jai gare,
 aau-aau, sabai bhaai,
 aananda manaauň.
 
----[Verse 2:]---
+---[Verse:2]---
 शैतानमाथि जयवन्त भई
 फेरि जिइउठे,
 आऊ-आऊ, भाइ-बहिनी,
@@ -27,7 +27,7 @@ feri jiiuThe,
 aau-aau, bhaai-bahini,
 unkai jai manaauň.
 
----[Verse 3:]---
+---[Verse:3]---
 मृत्यु-बन्धन तोडीकन
 सबलाई बचाए
 आऊ-आऊ, ख्रीष्टीय भाइ,
@@ -38,7 +38,7 @@ sablaai bacaaye
 aau-aau, khrisTiye bhaai,
 jaijaikaar manaauň.
 
----[Verse 4:]---
+---[Verse:4]---
 तीनै दिनमा बौरी उठे,
 शत्रु लजाए
 आऊ-आऊ, प्यारा भाइ,
@@ -49,7 +49,7 @@ shatru lajaaye
 aau-aau, pyaaraa bhaai,
 jaiko shabda sunaauň.
 
----[Verse 5:]---
+---[Verse:5]---
 विश्‍वास गरी कम्मर कसी
 ख्रीष्टकै पछि जाऔं
 आऊ-आऊ, प्रिय बहिनी,
@@ -60,7 +60,7 @@ khrisTkai pachi jaauň
 aau-aau, priye bahini,
 unailaai pachyaauň.
 
----[Verse 6:]---
+---[Verse:6]---
 प्रेमी ईश्‍वर पुत्र दिने
 उनकै गुण गाऔं
 भाइ-बहिनी सब मिली

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परमप्रेमी सर्वश्रेष्ठ,
 ओर्लिआउनोस्‌ जगत्‌मा
 दयाभन्दा दया गरी
@@ -20,7 +20,7 @@ nirmal prem apaar tapaaiň
 harek namra man-maa aai
 lau bacaaunu-hos haami-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 सर्वशक्तिमान्‌ उद्धारक,
 आउनुहोस्‌ सबैलाई बचाई
 फर्की जगत्‌मा अचानक लौ,
@@ -42,7 +42,7 @@ sworga-dut-le gare-jhaiň
 praarthanaa, stuti garauň sadaa bhaji
 khrisT-ko prem sadhaiň.
 
----[Verse 3:]---
+---[Verse:3]---
 परिवर्तन पूरा गर्नोस्‌,
 हामी निष्कलङ्क बनौं
 आफैसँग फेरि मिलाउनोस्‌,

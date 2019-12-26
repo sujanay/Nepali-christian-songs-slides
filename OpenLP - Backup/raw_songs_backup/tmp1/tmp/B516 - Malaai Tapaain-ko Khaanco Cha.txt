@@ -20,7 +20,7 @@ haat prema-ko baRhaau-nos
 siňhaasan-baaTa aau-nuhos,
 he yeshu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 तपाईंको उपस्थितिमा डोर्‍याउनोस्‌,
 मेरो हृदय, आत्मा छुनुहोस्‌
 नयाँ आशा, भरोसा,
@@ -31,7 +31,7 @@ mero ridai, aatmaa chu-nuhos
 nayaaň aashaa, bharosaa,
 nayaaň cangaai ra mukti dinu-hos.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तपाईंको स्वतन्त्रताभित्र लानुहोस्‌,
 मेरो हृदय, आत्मा फुकाउनुहोस्‌
 नयाँ आनन्द र खुशी,

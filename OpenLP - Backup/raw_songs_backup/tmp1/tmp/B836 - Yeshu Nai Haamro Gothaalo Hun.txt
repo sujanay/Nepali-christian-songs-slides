@@ -9,7 +9,7 @@ yeshu nai haamro sahaaraa hun,
 (unai-ko komal anugraha-maa,
 yo jivan bitaai-deu yahaaň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (संसारको हाम्रो यात्रामा,
 वाधा विघ्नहरू धेरै छन् ) २
 लक्ष्यमा पुग्न हामीलाई,
@@ -31,7 +31,7 @@ unai-ko haatmaa sumpi-deu,
 unai-ko nishcit aguwaai-maa,
 yo jivan jiune praN garauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जिउँदो ख्रीष्टको सहारामा,
 वाधाहरूलाई झेल्न सकौँ) २
 उनको आत्माको अगुवाइमा,

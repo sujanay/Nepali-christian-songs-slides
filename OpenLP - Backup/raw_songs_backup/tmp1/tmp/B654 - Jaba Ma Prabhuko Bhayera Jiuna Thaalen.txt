@@ -14,7 +14,7 @@ jiuna thaaleň) ~2
 {y}(jaba ma prabhu-ko bhayera
 jiuna thaaleň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जीवनको धेरै यात्राहरू
 आफ्नै इच्छामा हिँडिरहें) २
 मैले हार सम्झेँ,
@@ -32,7 +32,7 @@ jivana-laai, jivana-laai.
 {y}(byertha thiyo yo jivan mero
 prabhu tapaaiň-maa artha paayeň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवनको बाँकी यात्राहरू
 प्रभुको इच्छामा जिउन पाएँ) २
 मैले जीत सम्झेँ,

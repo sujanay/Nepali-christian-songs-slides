@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दुःखले बारबार दबिन्छौं
 यहाँ समस्या उठ्छन् जहाँ तहाँ
 आँशु लिई उरमा बढ्दछौं पथमा,
@@ -22,7 +22,7 @@ jaaňdaa kaaraN sab thaahaa hune-cha,
 hares na-khaau dhiraj-wanta hou
 miTho prati-fal cha .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मसिहका जन हौं,
 सेवा गर्दछौं ठिहिर्‍याउने हिउँमा,
 पोल्ने घाममा सुस्केरा हाल्दै
@@ -40,7 +40,7 @@ parish-ram garchauň
 {y}prashna uTh-cha yesto kina yahaaň
 aru jaba cain-maa baaňc-dachan ?
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मृत्यु यहाँ आउँछ
 घायल पार्छ, पार्छ घर उजाड,
 नीरव शुन्य व्यथा लिई
@@ -58,7 +58,7 @@ ura-maa caar-tira her-chauň
 {y}prashna uThcha dusTa kina yahaaň
 maulaauň-dachan, cain-maa rahan-chan ?
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ख्रीष्टको इच्छालाई सब स्वीकार गरौं
 चाहे होऊन पिर रोदन वा,
 कुनै थोक उनले हानिका निम्ति

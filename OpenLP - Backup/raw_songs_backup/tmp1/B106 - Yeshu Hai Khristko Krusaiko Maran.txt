@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू है ख्रीष्टको क्रूसैको मरण) २
 हृदय त लै लै छेड्‌ने हात
 ए दिदै, हृदय त लै लै छेड्‌ने गत।
@@ -7,7 +7,7 @@
 ridai ta lai lai cheDne haat
 ye didai, ridai ta lai lai cheDne gat.
 
----[Verse 2:]---
+---[Verse:2]---
 (हेरन दिदै, सुनन दिदै) २
 रगतले लै लै धारै-धार
 हे दिदै, रगतको लै लै धारै-धार।
@@ -16,7 +16,7 @@ ye didai, ridai ta lai lai cheDne gat.
 ragatle lai lai dhaarai-dhaara
 he didai, ragatko lai lai dhaarai-dhaara.
 
----[Verse 3:]---
+---[Verse:3]---
 (मुटु त मेरो रहेन दिदै) २
 भइगयो लै लै चूरै-चूर
 हे दिदै, भइगयो लै लै चूरै-चूर।
@@ -25,7 +25,7 @@ he didai, ragatko lai lai dhaarai-dhaara.
 bhaigayo lai lai curai-cura
 he didai, bhaigayo lai lai curai-cura.
 
----[Verse 4:]---
+---[Verse:4]---
 (गई बस्छु म त क्रूसैको मुनि) २
 शिरैमा लै लै थाप्छु धार
 हे दिदै, शिरैमा लै लै थाप्छु धार।
@@ -34,7 +34,7 @@ he didai, bhaigayo lai lai curai-cura.
 shiraimaa lai lai thaapchu dhaara
 he didai, shiraimaa lai lai thaapchu dhaara.
 
----[Verse 5:]---
+---[Verse:5]---
 (ख्रीष्टको मरण पापैको हरण) २
 पर्छु म लै लै ख्रीष्टको पाउ
 हे दिदै, पर्छु म लै लै ख्रीष्टको पाउ।
@@ -43,7 +43,7 @@ he didai, shiraimaa lai lai thaapchu dhaara.
 parchu ma lai lai khrisTko paau
 he didai, parchu ma lai lai khrisTko paau.
 
----[Verse 6:]---
+---[Verse:6]---
 (पिता र पुत्र, पवित्र आत्मा) २
 महिमित लै लै महिमित
 हे दिदै, महिमित लै लै महिमित।

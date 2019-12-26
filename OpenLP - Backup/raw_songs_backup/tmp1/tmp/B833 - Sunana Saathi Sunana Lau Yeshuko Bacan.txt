@@ -9,7 +9,7 @@ sunana lau yeshu-ko bacan,
 (shaanti ra aananda paaune-chau
 ananta jivan ho... ) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 संसारको माया प्रेमले मृत्युमा पुर्‍याउँछ,
 येशूको अमर प्रेमले जीवनमा डोर्‍याउँछ
 मर्नु त आखिर छँदैछ एकदिन सबैलाई,
@@ -23,7 +23,7 @@ marnu ta aakhir chaň-daicha ek-din sabai-laai,
 (yeshu-maa bishwaas garera bacaaunu
 aatmaa-laai ho...) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 धर्तीको सबै मानिसलाई यो शुभ खबर छ,
 येशूको पछि हिंड्नलाई अनन्त जीवन छ
 संसारको ज्योति येशू हुन् अँध्यारो हटाउने

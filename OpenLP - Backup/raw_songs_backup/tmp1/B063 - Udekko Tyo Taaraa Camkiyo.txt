@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 उदेकको त्यो तारा चम्कियो
 आकाशमा जन्मनुभो,
 प्रभु आज गाईको गोठमा,
@@ -20,7 +20,7 @@ mahimaa haamro jivan-maa
 hos-hos prabhu-laai
 mahimaa ananta-kaal-samma
 
----[Verse 2:]---
+---[Verse:2]---
 उदेकको त्यो बलिदान प्रभुले जो दिनुभो
 श्रापित क्रूसमा मर्नुभो,
 प्रभु दिनु एक वरदान,
@@ -31,7 +31,7 @@ shraapit krusmaa marnubho,
 prabhu dinu ek waradaana,
 haamilaai muktidaana.
 
----[Verse 3:]---
+---[Verse:3]---
 उदेकको त्यो आशा पाउँछौं
 जो प्रभुमा
 आउनेछन्‌ बादलमा तुरहीको साथमा,

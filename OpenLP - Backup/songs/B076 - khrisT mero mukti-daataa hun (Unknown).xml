@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-24T20:31:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:39:33">
   <properties>
     <titles>
       <title>B076 - khrisT mero mukti-daataa hun</title>
     </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Unknown</author>
     </authors>
@@ -17,20 +18,14 @@
     </tags>
   </format>
   <lyrics>
-    <verse name="c1a">
-      <lines>ख्रीष्ट मेरो मुक्तिदाता हुन्,<br/>उनी हुन् मित्र पापीको<br/>सदा स्तुति प्रभुको<br/>आदर महिमा उनैको<br/><br/><tag name="y">khrisT mero mukti-daataa hun,<br/>uni hun mitra paapi-ko<br/>sadaa stuti prabhu-ko<br/>aadar mahimaa unai-ko </tag></lines>
+    <verse name="c1">
+      <lines>ख्रीष्ट मेरो मुक्तिदाता हुन्,<br/>उनी हुन् मित्र पापीको<br/>सदा स्तुति प्रभुको<br/>आदर महिमा उनैको<br/><br/><tag name="y">khrisT mero mukti-daataa hun,<br/>uni hun mitra paapi-ko<br/>sadaa stuti prabhu-ko<br/>aadar mahimaa unai-ko<br/></tag></lines>
     </verse>
     <verse name="v1">
-      <lines>(येशू संसारका ज्योति हुन्,<br/>येशू स्वर्गका बाटो हुन्,<br/>येशू तारणहार हुन्,<br/>पापीका केवल सहारा हुन्।) २<br/><br/><tag name="y">(yeshu sansaar-kaa jyoti hun,<br/>yeshu sworga-kaa baato hun,<br/>yeshu taaraNahaar hun,<br/>paapi-kaa keval sahaaraa hun.) ~2</tag></lines>
-    </verse>
-    <verse name="c1b">
-      <lines>ख्रीष्ट मेरो मुक्तिदाता हुन्,<br/>उनी हुन् मित्र पापीको<br/>सदा स्तुति प्रभुको<br/>आदर महिमा उनैको<br/><br/><tag name="y">khrisT mero mukti-daataa hun,<br/>uni hun mitra paapi-ko<br/>sadaa stuti prabhu-ko<br/>aadar mahimaa unai-ko </tag></lines>
+      <lines>(येशू संसारका ज्योति हुन्,<br/>येशू स्वर्गका बाटो हुन्,<br/>येशू तारणहार हुन्,<br/>पापीका केवल सहारा हुन्।) २<br/><br/><tag name="y">(yeshu sansaar-kaa jyoti hun,<br/>yeshu sworga-kaa baato hun,<br/>yeshu taaraNahaar hun,<br/>paapi-kaa keval sahaaraa hun.) ~2<br/></tag></lines>
     </verse>
     <verse name="v2">
-      <lines>(त्यागे येशूले स्वर्ग-सुख,<br/>उठाउन पापीहरूका दु:ख,<br/>दिए येशूले क्रूसमा प्राण<br/>गराउन पापीहरूको त्राण) २<br/><br/><tag name="y">(tyaage yeshu-le sworga-sukh,<br/>uThaauna paapiharu-kaa dukh,<br/>diye yeshu-le krus-maa praaN<br/>garaauna paapi-haru-ko traaN) ~2</tag></lines>
-    </verse>
-    <verse name="c1c">
-      <lines>ख्रीष्ट मेरो मुक्तिदाता हुन्,<br/>उनी हुन् मित्र पापीको<br/>सदा स्तुति प्रभुको<br/>आदर महिमा उनैको<br/><br/><tag name="y">khrisT mero mukti-daataa hun,<br/>uni hun mitra paapi-ko<br/>sadaa stuti prabhu-ko<br/>aadar mahimaa unai-ko </tag></lines>
+      <lines>(त्यागे येशूले स्वर्ग-सुख,<br/>उठाउन पापीहरूका दु:ख,<br/>दिए येशूले क्रूसमा प्राण<br/>गराउन पापीहरूको त्राण) २<br/><br/><tag name="y">(tyaage yeshu-le sworga-sukh,<br/>uThaauna paapiharu-kaa dukh,<br/>diye yeshu-le krus-maa praaN<br/>garaauna paapi-haru-ko traaN) ~2<br/></tag></lines>
     </verse>
   </lyrics>
 </song>

@@ -9,7 +9,7 @@ uni hun mitra paapi-ko
 sadaa stuti prabhu-ko
 aadar mahimaa unai-ko
 
----[Verse 1:]---
+---[Verse:1]---
 (येशू संसारका ज्योति हुन्,
 येशू स्वर्गका बाटो हुन्,
 येशू तारणहार हुन्,
@@ -20,7 +20,7 @@ yeshu sworga-kaa baato hun,
 yeshu taaraNahaar hun,
 paapi-kaa keval sahaaraa hun.) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (त्यागे येशूले स्वर्ग-सुख,
 उठाउन पापीहरूका दु:ख,
 दिए येशूले क्रूसमा प्राण

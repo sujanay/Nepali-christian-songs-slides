@@ -9,7 +9,7 @@ unle Daakdai chan ahile
 thaakeko sabai, bhaari-le thiceko,
 paap-dekhi mukti unai-maa paauňcha
 
----[Verse 1:]---
+---[Verse:1]---
 येशू ख्रीष्टले डाकेका सुनेर
 ध्यान नदिएको किन?
 संसारमा दु:ख कति सहन्छौ,
@@ -20,7 +20,7 @@ dhyaan nadiyeko kina?
 sansaar-maa dukha kati sahanchau,
 mehanata garchau, caina paauňdainau.
 
----[Verse 2:]---
+---[Verse:2]---
 डाक्दै छन्‌ अहिले भाइ,
 ठाउँ खाली छ, मौका पाउँदैनौ फेरि,
 बेला छैन, दिन बितिजान्छ,
@@ -31,7 +31,7 @@ Thaauň khaali cha, maukaa paauňdainau feri,
 belaa chaina, din biti-jaancha,
 sansaar-maa aňdhyaaro-le chopcha.
 
----[Verse 3:]---
+---[Verse:3]---
 येशू ख्रीष्टको नाउँदेखि बाहेक
 मुक्ति पाउँदैनौं कहिल्यै,
 उनैमा छ सब पापदेखि छुटकारा,

@@ -7,7 +7,7 @@
 bihaani-kaa shit bani
 shunyetaa-maa haraai-nadeu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (तिम्रा सबै इच्छाहरू
 राखिदेऊ येशूमा) २
 बितिजाने यो जिन्दगी
@@ -20,7 +20,7 @@ biti-jaane yo jindagi
 sumpi-deu unai-laai
 prashasta sadhaiň paaune-chau.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तिम्रा सबै हारहरू
 जितहरू छन् येशूमा) २
 उजाड तिम्रो त्यो जिन्दगी

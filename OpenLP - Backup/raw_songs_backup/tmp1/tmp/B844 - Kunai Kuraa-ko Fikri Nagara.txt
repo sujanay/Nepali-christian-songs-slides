@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 कुनै कुराको फिक्री नगर,
 हरेकमा प्रार्थना गर,
 बिन्तिद्वारा मागहरू जाहेर गर,
@@ -20,7 +20,7 @@ aafnai samajh-maa bhara na-para,
 sabai kuraa-maa prabhu samjha,
 prabhu-le timi-laai Doryaau-nechan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अनेकौं परिक्षाहरूमा पर्दा,
 यसलाई पूरा आनन्द सम्झ,
 यो जानेर तिम्रो विश्‍वासको जाँचले,
@@ -31,7 +31,7 @@ yes-laai puraa aananda samjha,
 yo jaanera timro bishwaas-ko jaaňc-le,
 dhairye utpanna gar-cha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 "नडराऊ, म तिम्रो साथैमा छु,
 तिमीलाई मद्दत गर्छु,
 म हूँ तिम्रो परमेश्‍वर निराश नहोऊ,

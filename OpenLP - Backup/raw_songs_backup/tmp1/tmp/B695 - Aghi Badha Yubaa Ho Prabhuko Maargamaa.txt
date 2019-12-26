@@ -7,7 +7,7 @@
 prabhu-ko maarga-maa) ~2
 (prabhu-ko maarga-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (बढ तिमी प्रभुमा
 प्रार्थनाको जीवन लिएर) २
 (सफलताको शिकरमा)
@@ -18,7 +18,7 @@ praarthanaa-ko jivan liyera) ~2
 (safaltaa-ko shikar-maa)
 (pugne-chau aananta-samma) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (ख्रीष्टले मात्र दिनेछ
 तिमीलाई छुटकारा) २
 (विश्‍वास गर प्रभु ख्रीष्टमा) २

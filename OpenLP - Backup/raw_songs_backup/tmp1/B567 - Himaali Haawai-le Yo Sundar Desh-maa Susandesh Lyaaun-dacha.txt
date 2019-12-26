@@ -9,7 +9,7 @@ su-sandesh lyaauň-dacha) ~2
 yo sandesha sunera manai-maa gune
 jivana paauň-dacha
 
----[Verse 1:]---
+---[Verse:1]---
 (आजको रीति धर्म र कर्म
 बुझ्दैन यो मर्म) २
 दु:खको देशमा नहुने भाग्य
@@ -22,7 +22,7 @@ dukha-ko desh-maa na-hune bhaagye
 paapa-ko yo sharma ni daajai
 paapa-ko yo sharma.
 
----[Verse 2:]---
+---[Verse:2]---
 (जीवनको सन्देश आजको बाटो
 लेऊ येशू प्रभुमा) २
 त्यागेर संसार शान्तिको जीवन
@@ -35,7 +35,7 @@ tyaagera sansaar shaanti-ko jivan
 jiunu-cha unai-maa ni lai lai
 jiunu-cha unai-maa
 
----[Verse 3:]---
+---[Verse:3]---
 (येशूको वाणी जीवनको पानी
 सित्तैँमा पिउनुछ) २
 विश्‍वास गरी सत्यले भरी

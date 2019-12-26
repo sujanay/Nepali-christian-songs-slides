@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आज जिइउठे येशू नै,
 हल्लेलूयाह,
 हाम्रो बडादिनमा,
@@ -20,7 +20,7 @@ halleluyaah,
 haamro laagi gare traaN,
 halleluyaah.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 गाऔं धन्यवादको गान,
 हल्लेलूयाह,
 स्वर्गको राजा ख्रीष्टको मान,
@@ -42,7 +42,7 @@ halleluyaah,
 unko baaTo cha uddhaar,
 halleluyaah.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सहे उनले दु:ख नै,
 हल्लेलूयाह,
 मलाई मुक्ति दिनलाई,

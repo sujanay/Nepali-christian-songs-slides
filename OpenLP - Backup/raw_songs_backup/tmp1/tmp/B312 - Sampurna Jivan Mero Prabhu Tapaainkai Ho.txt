@@ -9,7 +9,7 @@ prabhu tapaaiň-kai ho
 (raaj garnu-hos sadaa
 tapaaiň-kai purNa hos ichyaa.) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 महान् प्रभु तपाईको
 प्रेम अति गहिरो
 सागरभन्दा चौड़ा छ यो
@@ -31,7 +31,7 @@ jivan daan dinubho
 (ichyaa, aashaa, uddeshye
 prabhu tapaaiň nai ho mero) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 दूतगणले गर्थे तपाईंको
 स्वर्गमा महिमा
 मानिसले गरे उनको

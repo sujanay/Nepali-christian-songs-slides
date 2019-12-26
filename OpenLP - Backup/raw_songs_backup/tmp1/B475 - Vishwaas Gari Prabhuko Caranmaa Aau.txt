@@ -20,7 +20,7 @@ haami sabai-laai
 kewal un-maa cha mukti,
 uni hun saaňco goThaalaa
 
----[Verse 1:]---
+---[Verse:1]---
 कलवरी डाँडामा येशूलाई
 झुन्डिएको आज हेरिदेऊ
 (केवल तिम्रै निम्ति मात्र उनैले
@@ -31,7 +31,7 @@ jhunDi-yeko aaja heri-deu
 (kewal timrai nimti maatra unai-le
 aafno praaN-samma dinu-bho) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 उनको प्रेमी बोलावट सुनिदेऊ,
 आफ्‍‌नो हृदय उहाँलाई खोलिदेऊ
 (उनी आउनुहुनेछन्‌ तिमीभित्र

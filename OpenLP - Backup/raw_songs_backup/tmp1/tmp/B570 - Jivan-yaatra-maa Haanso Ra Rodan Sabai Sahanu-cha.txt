@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (हा हा हा हा हो हो हो हो) २
 (जीवन-यात्रमा हाँसो
 र रोदन सबै सहनुछ) २
@@ -11,7 +11,7 @@ ra rodan sabai sahanu-cha) ~2
 khrisT hun haamraa asal mitra
 (uhaaň-maa nai rahaanu-cha) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (कहिले हिँड्छौँ पहाड-पर्वत
 कहिले भञ्‍ज्याङ्गतिर) २
 माया नै गर्छौं जीवित प्रभुलाई
@@ -24,7 +24,7 @@ maayaa nai garchauň jivit prabhu-laai
 (uhaaň gaye taapani) ~2
 (haa haa haa haa ho ho ho ho) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मित्रहरूले हामीलाई तिरस्कारे पनि) २
 मित्रता हाम्रो ख्रीष्ट येशूमा
 (अमर रहिरहनेछ) २

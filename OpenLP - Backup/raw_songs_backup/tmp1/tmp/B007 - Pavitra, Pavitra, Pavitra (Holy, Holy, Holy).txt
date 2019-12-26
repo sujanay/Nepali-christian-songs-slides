@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पवित्र, पवित्र, पवित्र परमेश्‍वर,
 बिहान सधैं तपाईंको आराधना हुँदछ
 पवित्र, पवित्र शक्तिमान्‌, दयालु,
@@ -9,7 +9,7 @@ bihaana sadhaiň tapaaiňko aaraadhanaa huňdacha
 pavitra, pavitra shaktimaan, dayaalu,
 triyek parmeshwor dhanye tapaaiňlaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पवित्र, पवित्र, पवित्र परमेश्‍वर,
 भक्तहरू ढोग्दछन्‌, तपाईंको चरणमा
 करुब र सराफ दूतले दण्डवत्‌ गर्छन्‌,
@@ -20,7 +20,7 @@ bhaktaharu Dhogdachan, tapaaiňko caraNamaa
 karub ra saraaf dut-le daNDawat garchan,
 jo thiye, chan ra hunechan sadaa
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पवित्र, पवित्र, पवित्र परमेश्‍वर,
 पापी मानिस देख्दैन तपाईंको महिमा
 तपाईंझैँ पवित्र अरु कोही छैन,
@@ -31,7 +31,7 @@ paapi maanisa dekhdaina tapaaiňko mahimaa
 tapaaiňjhaiň pavitra aru kohi chaina,
 siddha chan bal, prem, satye tapaaiňkaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पवित्र, पवित्र, पवित्र परमेश्‍वर,
 गर्दछन्‌ सबै सृष्टिले तपाईंको बढाइ
 पवित्र, पवित्र शक्तिमान्‌, दयालु

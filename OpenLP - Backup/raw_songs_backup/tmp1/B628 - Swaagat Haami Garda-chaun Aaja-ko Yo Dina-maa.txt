@@ -7,7 +7,7 @@
 aaja-ko yo din-maa) ~2
 (premi prabhu yeshu-ko naauň-maa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (खुशीको दिन यो आनन्द गरौँ) २
 (हे सबै युवा हो) २
 (कदम बढ, अघि बढौँ
@@ -18,7 +18,7 @@ aaja-ko yo din-maa) ~2
 (kadam baDha, aghi baDhauň
 chaina bholi bhanne samai yo) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (पूर्व मेची पश्‍चिम महाकाली) २
 (जानुछ ख्रीष्टको सन्देश बोकी) २
 (पहाड, तराई मधेस सबै ल्याउनु छ

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 महापबित्र प्रभुलाई,
 पबित्रतामा सुशोभित भई ,
 आऔं डण्दवत् गरौं निहुरौं,
@@ -31,7 +31,7 @@ caubis praacin-haru, jivit-jivaat-haru
 sworga-dut-haru-kaa aawaaj sadhaiň -
 gunjan-chan .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 चौबीस प्राचिनहरू पनि,
 मुकुट खोली दण्डवत् गरी,
 सर्वदा जीवित रहनेलाई,
@@ -42,7 +42,7 @@ mukuT kholi daNDawat gari,
 sarbadaa jivit rahane-laai,
 mahimaa, aadar, bhakti dinchan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जीवित-जिवातहरू पनि,
 पखेटाले मुहार ढाकी ,
 पबित्र-पबित्र भन्दै
@@ -53,7 +53,7 @@ pakheTaa-le muhaar Dhaaki ,
 pabitra-pabitra bhandai
 nabisaai mahimaa gaauň-chan .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अनगिन्ती भिड पनि,
 सेता वस्त्र पहिरेर।
 हतमा खजुरको डालो लिई,
@@ -64,7 +64,7 @@ setaa bastra pahirera.
 hat-maa khajur-ko Daalo lii,
 prashaňsaa baDhaai garda-chan .
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 स्वर्गमा र पृथ्बीमा,
 पृथ्बीमुनी समुन्द्रमा,
 सृजेका जुनसुकै थोकले,
@@ -75,7 +75,7 @@ prithbi-muni samundra-maa,
 srije-kaa jun-sukai thok-le,
 yug-yug stuti timrai garchan .
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 आऔं हामी सबै मिली,
 उद्धारको चट्टानका निम्ति ,
 हाम्रा महान् परमेश्‍वरको,

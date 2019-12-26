@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे येशू मेरो मन लुकाऊ
 त्यस धारामा, त्यस धारामा
 र पाप र डर सबै मेटाऊ
@@ -20,7 +20,7 @@ prabhu malaai lukaau pavitra banaau
 ra din-dinai malaai Dubaau
 ragat-ko dhaaraa-maa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पापीलाई मिल्दछ क्षमा
 त्यस धारामा, त्यस धारामा
 र पाउँदछ स्वतन्त्रता
@@ -31,7 +31,7 @@ tyes dhaaraa-maa, tyes dhaaraa-maa
 ra paauňdacha swotantrataa
 ragat-ko dhaaraa-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अब भर आफैले मलाई
 त्यस धारामा, त्यस धारामा
 मलाई पनि पवित्र बनाई
@@ -42,7 +42,7 @@ tyes dhaaraa-maa, tyes dhaaraa-maa
 malaai pani pavitra banaai
 ragat-ko dhaaraa-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 पवित्र आत्मा दिनदिनै
 त्यस धारामा, त्यस धारामा
 मलाई प्रभु देखाउँदछन्‌

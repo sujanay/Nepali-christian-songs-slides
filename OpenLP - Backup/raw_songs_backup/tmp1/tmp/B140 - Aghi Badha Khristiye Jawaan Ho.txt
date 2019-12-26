@@ -7,7 +7,7 @@
 samai-laai naparkha bhaai ho
 (haamro dulahaa aauňdai chan) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अन्तिम चिन्ह देखिँदै छ,
 (भविष्यवाणी पूरा हुँदै छ) २
 (सांसारिक जीवनलाई त्यागी आऊ
@@ -18,7 +18,7 @@ bhabisye-baaNi puraa huňdai cha) ~2
 (saansaarik jivan-laai tyaagi aau
 prabhu-maa nayaaň bhai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवन प्रभुमा अर्पण गरी
 सम्पूर्ण वचन पालन गरी) २
 (प्रभुको यो क्रूस उठाई
@@ -29,7 +29,7 @@ sampurNa bacan paalan gari) ~2
 (prabhuko yo krus uThaai
 aghi baDha unmaa bhai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (जयवन्त जीवन बिताउँदै जाऊ
 प्रभुको काममा व्यस्त भई) २
 (उनमा सदा आशा राख्दै बढ अझ थकित नभई) २

@@ -5,7 +5,7 @@
 (yahaaň maile uddhaar-ko git gaaunu-cha,
 har man-maa khrisT basaaunu-cha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 येशूको करुण क्रन्दन यहाँ सुनिदेऊ,
 उनैको आदेश जीवनमा झल्काइदेऊ,
 उहाँसँग जिउन चाहनेहरू
@@ -16,7 +16,7 @@ unai-ko aadesh jivan-maa jhalkaai-deu,
 uhaaň-saňga jiuna caahane-haru
 uhaaň-jastai bani-deu.
 
----[Verse 2:]---
+---[Verse:2]---
 रात-दिनको फेरोजस्तै भई
 तिमी यहाँ बाँचिदेऊ
 (सधैँ-सधैँ यहाँ बाँचिदेऊ) २

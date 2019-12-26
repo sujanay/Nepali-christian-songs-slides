@@ -9,7 +9,7 @@ uddhaar haamro yo
 taaraa camkilaa dutgaN
 haňsilaa ishwor maanab bho
 
----[Verse 1:]---
+---[Verse:1]---
 जसको नाउँ येशू हो
 पापीलाई बचाउने
 मानिसको सट्टामा नयाँ जीवन-दान
@@ -20,7 +20,7 @@ paapilaai bacaaune
 maanisko saTTaamaa nayaaň jivan-daan
 gari aafno banaaune.
 
----[Verse 2:]---
+---[Verse:2]---
 तिरेर पापको दाम
 मृत्यु ध्वंस पार्ने
 मृत्युको सट्टामा बनाई

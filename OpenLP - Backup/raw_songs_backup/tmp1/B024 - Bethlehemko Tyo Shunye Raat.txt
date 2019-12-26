@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 बेथलेहेमको त्यो शून्य रात,
 उदेकको हाम्रो नाथ
 (गरीबी छानी, तुच्छ नमानी) २
@@ -22,7 +22,7 @@ bhaye khrisT awataar
 garaauna mrityu paara,
 paap-dekhi bacaauna sansaar
 
----[Verse 2:]---
+---[Verse:2]---
 त्यागेर स्वर्गैको सुख,
 उठाउन हाम्रो दु:ख
 (आउनुभो, पाठो हाम्रो साटो) २
@@ -35,7 +35,7 @@ uThaauna haamro dukha
 hunalaai mahaabalidaan,
 dhanye yo sittaiňko daana.
 
----[Verse 3:]---
+---[Verse:3]---
 सुनन हे बहिनी-भाइ,
 चाहन्छन्‌ ख्रीष्ट आउनलाई
 (गोठरूपी यो तुच्छ हृदयमा) २

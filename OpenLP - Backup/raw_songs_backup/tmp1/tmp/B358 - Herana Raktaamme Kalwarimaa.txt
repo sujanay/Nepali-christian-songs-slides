@@ -9,7 +9,7 @@ prem-ko pratika krus khaDaa tyahaaň,
 (Taaň-giyekaa tyes-maa prabhu-ji chan,
 din timi-laai uddhaar mahaan) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 बाँच्छन्‌ मानिस बेहोससरि
 मानौं कहिल्यै मर्दैनन्‌ ती
 मित्र निश्चय मर्छौ, तिमी,
@@ -20,7 +20,7 @@ maanauň kahilyei mar-dainan ti
 mitra nishcai marchau, timi,
 jiuň-chau taba kahaaň yug-yug-bhari?
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 बाँच्‍‌नलाई वस्तु चाहिए पनि
 छातीमा हाली लाँदैनौ ती
 मृत्युपारि पनि जिउँछौ तिमी,
@@ -31,7 +31,7 @@ chaati-maa haali laaň-dainau ti
 mrityu-paari pani jiuňchau timi,
 laanchau ki kehi tyahaaň saňgaali?
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रभु ख्रीष्ट बने गरीबै अति,
 त्यागे सबै थोक तिम्रै निम्ति
 प्रिय, तिमी त जन हौ ख्रीष्टका,
@@ -42,7 +42,7 @@ tyaage sabai thok timrai nimti
 priye, timi ta jan hau khrisT-kaa,
 jiuň-dachau aba kas-ko nimti?
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 देखी खूनै-खून क्रूसमा,
 ख्रीष्टलाई गर्ने कसरी उपेक्षा उनलाई
 सट्टामा ख्रीष्टको अपार प्रेमको

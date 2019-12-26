@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 उज्यालो भइगयो, प्रभु,
 दिनभरि काम गर्न
 (अल्छी छोडी रमाई उठूँ,
@@ -9,7 +9,7 @@ din-bhari kaam garna
 (alchi choDi ramaai uThuň,
 bihaana-ko bheT dina) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 बोलचालमा चोखो भई, प्रभु,
 घामजस्तै उज्यालो
 (सबै देख्छन्‌ मेरो
@@ -20,7 +20,7 @@ ghaam-jastai ujyaalo
 (sabai dekh-chan mero
 baaTo ra bicaar sab mero) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 उचालिदिनोस्‌ मन मेरो, प्रभु,
 दिनभरि कामैमा
 (दु:ख-सुख जे-जे होला
@@ -31,7 +31,7 @@ din-bhari kaamai-maa
 (dukha-sukha je-je holaa
 tapaaiň-ko naawai-maa) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 गत रातको नीदको लागि,
 प्रभु, धन्यवाद दिँदछु
 (तपाईंको दानै भन्छु
@@ -42,7 +42,7 @@ dhanyebaad diň-dachu
 (tapaaiň-ko daanai bhanchu
 manai-maa liň-dachu) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 रक्षा हवस्‌ दिनभरि, प्रभु,
 तपाईं नै देखि
 (सफल हवस्‌ कामै
@@ -53,7 +53,7 @@ tapaaiň nai dekhi
 (safal haus kaamai
 jati tapaaiň-kai laagi) ~2
 
----[Verse 6:]---
+---[Verse:6]---
 सत्य-सत्य ईश्‍वर तपाईं प्रभु,
 कोही छैन मेरो
 (संसार भने पापले भर्‍यो
@@ -64,7 +64,7 @@ kohi chaina mero
 (sansaar bhane paap-le bharyo
 dukhai-ko thupro) ~2
 
----[Verse 7:]---
+---[Verse:7]---
 आज बाँचूँ पापैदेखि,
 प्रभु, गोहारै पाई
 (मुक्तिदाता आफै

@@ -9,7 +9,7 @@ ek din maraN-maa parnucha
 aaunu khaali alik din basnu,
 ek din sabai thok choDnucha
 
----[Verse 1:]---
+---[Verse:1]---
 धनसम्पत्ति, माया, पिरती
 जाँदैनन्‌ सँग यी
 समयलाई व्यर्थ बिताउँछौ किन?
@@ -20,7 +20,7 @@ jaaňdainan saňga yi
 samai-laai byertha bitaauňchau kina?
 sadaa na-rahane ti.
 
----[Verse 2:]---
+---[Verse:2]---
 नासिने जगत्‌मा सुख-चैन गर्छौ
 सबै यो व्यर्थ छ
 सदा नरहने जीवनमा भुले
@@ -31,7 +31,7 @@ sabai yo byertha cha
 sadaa na-rahane jivan-maa bhule
 byerthai-byertha cha.
 
----[Verse 3:]---
+---[Verse:3]---
 महल बनाई, बगैँचा लगाई
 बस्दछन्‌ रानी
 बगैँचामा सधैँ बुलबुल बोल्दैन,
@@ -42,7 +42,7 @@ basdachan raani
 bagaiňcaa-maa sadhaiň bulabula boldaina,
 yo pani byerthai ho.
 
----[Verse 4:]---
+---[Verse:4]---
 बालकपन त खेलमा बित्यो,
 जवानी पापमा छ
 मरे फेरि के याद छैन
@@ -53,7 +53,7 @@ jawaani paap-maa cha
 mare feri ke yaad chaina
 narak-maa jaanucha.
 
----[Verse 5:]---
+---[Verse:5]---
 जगत्‌गुरु सारा लोकका
 मृत्युमा परे
 मरिगए सबै राजा-महाराजा
@@ -64,7 +64,7 @@ mrityu-maa pare
 marigaye sabai raajaa-mahaaraajaa
 maaTo-maa mile.
 
----[Verse 6:]---
+---[Verse:6]---
 पापको क्षमा प्रभु येशूको
 रगतमा पाउनेछौ
 विश्‍वास उनमा अहिले ल्याऊ

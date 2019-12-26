@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परमप्रभु अघि बढ्दैछन्,
 उनको सेना सदा बलियो छ,
 उनको महिमा
@@ -27,7 +27,7 @@ kunai haat-hatiyaar kaam laagne-chaina.
 haami un-ko paailaa pachyaauň-dachauň
 kohi aghi khaDaa huna sakne-chaina.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हामी मसीही सेना हौं
 जयको साँचो उनको हातमा छ,
 प्रतिज्ञाको देश लिन अघि बढौं।

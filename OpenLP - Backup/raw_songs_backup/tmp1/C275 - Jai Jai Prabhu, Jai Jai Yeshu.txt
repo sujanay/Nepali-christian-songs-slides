@@ -20,7 +20,7 @@ mahimaa hos sadaa,
 saaraa srisTi nihuros timrai aghi.
 raaj, paraakram, mahimaa sadaa,
 
----[Verse 1:]---
+---[Verse:1]---
 (बाटो भुली हिँडेका सबै आऊ आज) २
 (खोज्‍‌नुपर्दैन बाटो अरु कतै,
 (येशू नै हुन्‌ बाटो, सत्य, जीवन) २
@@ -31,7 +31,7 @@ khojnu-pardaina baaTo aru katai,
 (yeshu nai hun baaTo, satye, jivan) ~2
 dhanye dhanye yeshu, dhanye dhanye prabhu.
 
----[Verse 2:]---
+---[Verse:2]---
 (खुशीको सुसमाचार सुनाऔं आज) २
 (खोज्‍‌नुपर्दैन बाटो अरु कतै,
 (पाउनेछौ शान्ति उनैमा तिमी) २

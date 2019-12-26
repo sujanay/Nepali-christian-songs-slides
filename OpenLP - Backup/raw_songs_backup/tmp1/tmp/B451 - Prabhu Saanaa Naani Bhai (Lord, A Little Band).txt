@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु साना नानी भई
 स्तुति गर्न आएका छौं
 तपाईं धर्मी हुनुहुन्छ
@@ -20,7 +20,7 @@ haamro man-maa bhar-nuhos
 khrisT-laai khush na-paarne
 kaarye garna-dekhi thaam-nuhos.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 किनभने प्रभु ख्रीष्टले
 हामीलाई नित्य हेर्छन्‌
 जति गर्छौं काम र विचार

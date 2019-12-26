@@ -11,7 +11,7 @@ baadal-maathi aau-nechan yeshu
 timi-laai lina-laai [ho, ho]
 haami-laai lina-laai) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (बाटो, सत्य र जीवन
 प्रभु येशू ख्रीष्ट हुन्‌
 बचाऊ आत्मा आज तिमीले [हो-हो]
@@ -22,7 +22,7 @@ prabhu yeshu khrisT hun
 bacaau aatmaa aaja timi-le [ho-ho]
 sworga jaana-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अन्धकारको त्यो संसारमा
 नपर हे मेरा दाजु-भाइ,
 अनुग्रहको ढोका खुला छ

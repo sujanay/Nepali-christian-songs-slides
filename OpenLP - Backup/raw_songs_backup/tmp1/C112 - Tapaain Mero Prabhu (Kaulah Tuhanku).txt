@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 तपाईं मेरो प्रभु,
 तपाईं मेरो राजा,
 तपाईं अति महिमित
@@ -9,7 +9,7 @@ tapaaiň mero raajaa,
 tapaaiň ati mahimit
 prithivi ra sworga-maa,
 
----[Chorus 1:]---
+---[Chorus:1]---
 आराधना गर्छु म
 तपाईं प्रभु येशूलाई
 महिमित पार्छु म
@@ -20,7 +20,7 @@ tapaaiň prabhu yeshu-laai
 mahimit paarchu ma
 tapaaiň-ko naauň.
 
----[Verse 2:]---
+---[Verse:2]---
 काउलाह तुहान कु
 काउलाह राजा कु
 काउ यङ्ग तरमुल्या
@@ -31,7 +31,7 @@ Kaulah Rajaku
 Kau yang termulia
 Di bumi dan di sorga
 
----[Chorus 2:]---
+---[Chorus:2]---
 (कु समबाह काउ तुहान) २
 कु पुजि कु मुल्याकान नामा मु
 

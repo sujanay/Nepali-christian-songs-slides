@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु हिँड्‌छौं जति,
 वचन हुन्छ बत्ती
 जसले विश्‍वास लाउँछ,
@@ -9,7 +9,7 @@ bacan huncha batti
 jasle vishwaas laauňcha,
 harsa jyoti paauňcha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जब शत्रु आउँछ,
 वचनले सम्झाउँछ
 साहस दिने शिक्षा
@@ -20,7 +20,7 @@ bacanle samjhaauňcha
 saahas dine shikchyaa
 muktiko pratikchyaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आउँदा मेघ अँध्यारो,
 जब घर छ टाढो
 यात्री वचन लिन्छ,
@@ -31,7 +31,7 @@ jaba ghar cha TaaDho
 yaatri bacan lincha,
 baaTo dekhaai-dincha.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 वचन केको तुल्य?
 कति बहुमूल्य?
 सुख-विलासको कारण
@@ -42,7 +42,7 @@ kati bahumulye?
 sukha-bilaas-ko kaaraN
 maanche-laai saadhaaraN.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 परमेश्‍वरका कुरा बुझौं,
 वचन पूरा
 तपाईंसँग प्रेम गरी

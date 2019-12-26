@@ -5,7 +5,7 @@
 gaau khrisT'ye jhuND,
 sarvaa mili, prabhu-ko stuti
 
----[Verse 1:]---
+---[Verse:1]---
 (हृदय वीणाको तार बजाई) २
 स्तुति-महिमा देऊ
 मुक्तिदातालाई
@@ -23,7 +23,7 @@ aafno srijanhaara-laai
 (jaijai-kaar garauň,
 swor-maa swor milaai) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 (ईषर्या र द्वेषको जाल फाड़ी) २
 एकताको सूत्रमा सबैलाई बाँधी
 प्रेमको सन्देश बाँडी,
@@ -34,7 +34,7 @@ ektaa-ko su-tra-maa sabai-laai baaňdhi
 prem-ko sandesha baaňDi
 (kaThina-i-laa-i para saari) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 (अन्धकार यो जगको ज्योति अनि) २
 मिठास दिने नुन बनी
 हामी नुन बनी,

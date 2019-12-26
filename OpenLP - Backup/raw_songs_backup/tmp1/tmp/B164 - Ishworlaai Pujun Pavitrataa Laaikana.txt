@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरलाई पुजूँ पवित्रता लाईकन
 दण्डवत्‌ गरूँ प्रचारी प्रताप
 आज्ञा मनाई र दीनता चढाईकन
@@ -9,7 +9,7 @@ daNDawat garuň pracaari prataap
 aagyaa manaai ra dinataa caDhaa-ikana
 unai-ko naauň liňdai jo aafai-aaf.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 फिक्रीका भार हालूँ ईश्‍वरको चरणमा,
 उनले त्यो हृदयमा बोक्छन्‌ उठाई
 शोक मेटिन्छन्‌, पुर्‍याउँदछन्‌
@@ -20,7 +20,7 @@ unle tyo ridai-maa bokchan uThaai
 shok meTinchan, puryaauňdachan
 sharaN-maa paau Doryaai maareko jhaiň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वरको महलमा
 बिनाडराईकन छौं
 आउन सक्‍‌ने दीन-हीन
@@ -40,7 +40,7 @@ ra dhan premko
 lyaa-ikana grahaN garinchauň
 yi maatra caDhaai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 यति नै ल्यायौं त येशूको नाउँमा
 ईश्‍वरले लिन्छन्‌
 ती कारण उनको हर्षको
@@ -53,7 +53,7 @@ ti kaaraN unko harsa-ko
 din dinchan shok-ko saaTo-maa
 kamaai-ko saaTo vishwaas darilo.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 ईश्‍वरलाई पुजूँ पवित्रता लाईकन
 दण्डवत्‌ गरूँ प्रचारी प्रताप
 आज्ञा मनाई र दीनता चढाईकन

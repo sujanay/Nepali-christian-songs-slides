@@ -7,7 +7,7 @@ maaTo-ko mero chyeN-bhaňgur sharir-laai,
 arpaN chu prabhu timro caraN-maa ,
 samarpaN garchu timro sharaN-maa
 
----[Verse 1:]---
+---[Verse:1]---
 अन्धकारपूर्ण यो पापी संसारमा,
 हराइ रहेको रहेछु ,
 प्रभु तिमी नै मेरो जीवनको,
@@ -18,7 +18,7 @@ haraai raheko rahechu,
 prabhu timi nai mero jivan-ko,
 jyoti bhai aai-diyau,
 
----[Verse 2:]---
+---[Verse:2]---
 स्वार्थले पूर्ण यो संसारमा,
 मरी रहेको रहेछु ,
 प्रभु तिमी नै मेरो जीवनको,
@@ -29,7 +29,7 @@ mari raheko rahechu,
 prabhu timi nai mero jivan-ko,
 maalik bhai aai-diyau.
 
----[Verse 3:]---
+---[Verse:3]---
 मेरो लागि नै बैरी संसारमा,
 क्रूसमा मरिदियौ ,
 प्रभु तिमीले आफ्नै रगतले,

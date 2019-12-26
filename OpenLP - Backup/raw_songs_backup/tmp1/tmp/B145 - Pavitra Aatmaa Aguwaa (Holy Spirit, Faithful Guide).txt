@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पवित्र आत्मा अगुवा,
 सधैँ बस्‍‌नुहोस्‌ साथमा
 यहाँ परदेशी जो छु,
@@ -20,7 +20,7 @@ sora tapaaiňko sunera
 yeso bhandai gareko,
 aaija taňlaai Doryaauňchu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 साथमा बस्‍‌नुहोस्‌,
 सधैँ गोहार दिइरहने तपाईं
 अन्धकारको माझमै प्रभु
@@ -42,7 +42,7 @@ jaba saano huncha man
 bhannu-haus bistaarai,
 aaija Doryaauňchu taňlaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मेरो बेला आइपुग्दा जाने
 तपाईं छेउ वहाँ
 जब स्वर्गलाई सम्झन्छु

@@ -16,7 +16,7 @@ aaja ti sabai-laai
 {y}(kaaraN unai-le prem-saath bolaauň-daichan ) ~2
 (angaalo-maa timi-laai raakhuň bhanera) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (नसेलाई देऊ कहिल्यै
 तिमी काम गनै अझै धेरै छ,
 नथाकि देऊ कहिल्यै
@@ -34,7 +34,7 @@ timi pugne Thaauň ajhai dherei cha) ~2
 {y}(DaaňDaa-kaaňDaa kaaTera himaalai naaghera) ~2
 (stuti prabhu-ko ajhai garnu-cha) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवन तिम्रो व्यर्थै नफाल
 शान्तिको बास्ना छर्नु छ,
 दुनियाँको हृदयमा

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 कसका सामु गोठमा
 घुँडा टेक्छन्‌ गोठाला?
 
@@ -16,49 +16,49 @@ prabhu ho baibhabkaa raajaa
 ghuňDaa Tekdai haami aauň,
 prabhu khrisTmaa mukuT laauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 खुशी भई घरैमा
 आफ्‍‌नो हातले काम गर्दा।
 
 {y}khushi bhai gharaimaa
 aafno haatle kaam gardaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 साह्रो भोको जङ्गलमा
 शैतानसँग युद्ध गर्दा।
 
 {y}saahro bhoko jangal-maa
 shaitaan-saňga yuddha gardaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आफ्‍‌नो मीतको चिहानमा
 उभी दु:खले रुँदा।
 
 {y}aafno mitako cihaan-maa
 ubhi dukhale ruňdaa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 कष्टित भई बारीमा आधा
 रात प्रार्थना गर्दा।
 
 {y}kasTit bhai baarimaa aadhaa
 raat praarthanaa gardaa.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 पापको क्रूसमा टाँगिदा,
 शत्रुलाई आशिष्‌ दिँदा।
 
 {y}paapko krusmaa Taaňgidaa,
 shatrulaai aashis diňdaa.
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 आफ्‍‌नो निज चिहान छोड्‌दा,
 यस संसारको त्राण गर्दा।
 
 {y}aafno nija cihaana choDdaa,
 yesa sansaarko traaN gardaa.
 {/y}
----[Verse 8:]---
+---[Verse:8]---
 स्वर्गको सिंहासनमा
 बसीकन राज्य गर्दा।
 

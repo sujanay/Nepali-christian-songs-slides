@@ -9,7 +9,7 @@ cir-aananda prakaash deu
 (ridai mero liyera
 navin aatmik banaai-deu) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अन्तरात्माले मेरो विनय
 यही गर्दछ) २
 कलङ्क सब धोएर
@@ -20,7 +20,7 @@ yehi gardacha) ~2
 kalangka sab dhoyera
 masihi jivan banaai-deu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जीवन अरुणको रोशनी ल्याई
 यो मेरो हृदयाकाशमा) २
 आत्मामा नव उमङ्ग देऊ,
@@ -31,7 +31,7 @@ yo mero ridai-aakaash-maa) ~2
 aatmaa-maa nawa umanga deu,
 he prabhu, binti suni-leu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (आशा, विश्‍वास र प्रेममा
 स्थिर रहने शक्ति देऊ) २
 जीवन-यात्रा शेष भए

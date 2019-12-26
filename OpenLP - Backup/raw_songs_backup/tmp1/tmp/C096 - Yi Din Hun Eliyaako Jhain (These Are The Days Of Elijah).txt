@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यी दिन हुन्‌ एलियाको झैँ
 वचन प्रचार गर्ने
 यी दिन हुन्‌ प्रभुको दास मोशाको झैँ
@@ -31,7 +31,7 @@ surye-jhaiň camkaň-dai turahi-ko aawaaj-maa
 carko gari karaau chuTkaaraa-ko barsa,
 siyon-baaTa ajhai aauňcha uddhaar.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 यी दिन हुन्‌ इजकिएलका झैँ,
 सुक्खा हड्डी शरीर बन्‍‌ने,
 यी दिन हुन्‌ प्रभुको दास दाऊदको झैँ,

@@ -9,7 +9,7 @@ prabhu-ko bacan-laai
 sunana didi-bahini,
 prabhu-ko bacan-laai
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ईश्‍वरको पुत्र प्रभु येशू ख्रीष्ट
 बचाउन पापीलाई) २
 (संसारमा आई क्रूसैमा
@@ -20,7 +20,7 @@ bacaauna paapi-laai) ~2
 (sansaar-maa aai krusai-maa
 caDhi ragatai bahaaye) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यो जीवन हाम्रो नबिताऔं व्यर्थ
 पापको बन्धनमा) २
 (प्रभु येशूमा विश्‍वास गरी
@@ -31,7 +31,7 @@ paap-ko bandhan-maa) ~2
 (prabhu yeshumaa vishwaas gari
 pugnechauň sworga-lok-maa) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मृत्युको पछि नरकमा नगई
 स्वर्गमा जानु छ) २
 (स्वर्ग जानु प्रभु येशूमा

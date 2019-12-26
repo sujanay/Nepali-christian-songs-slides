@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 कोक्रो उनको छैन, डूँड़ नै ओछ्यान भो
 सानो प्रभु येशू गोठमा पस्रिए
 स्वर्गदेखि ताराहरू उनलाई हेर्दै गए,
@@ -9,7 +9,7 @@ saano prabhu yeshu goTh-maa pasriye
 sworga-dekhi taaraaharu unlaai herdai gaye,
 saano prabhu yeshu paraal-maa sute.
 
----[Verse 2:]---
+---[Verse:2]---
 गाई-गोरु बराए, बालक बिऊँझिए,
 न उनी कराए, न कैले रोए,
 हे प्रभु, प्यार गर्छु, स्वर्गबाट हेर्नु
@@ -20,7 +20,7 @@ na uni karaaye, na kaile roye,
 he prabhu, pyaar garchu, sworga-baaTa hernu
 ra bihanai-samma ma-saňga rahanu.
 
----[Verse 3:]---
+---[Verse:3]---
 प्यार गर्नुहोस् मलाई
 यो बिन्ती गर्छु,
 अनन्तसम्म हुनुहोस् नजीक

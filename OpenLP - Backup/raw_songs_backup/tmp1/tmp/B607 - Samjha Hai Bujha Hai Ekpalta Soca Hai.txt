@@ -7,7 +7,7 @@
 eka-palTa soca hai) ~2
 ho ho ... haa haa ... ho ho ... laa laa ...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो जीवन के छ र ?
 माटोको शरीर माटोमा हो
 एक दिन त माटोमा मिल्नुछ) २
@@ -16,7 +16,7 @@ ho ho ... haa haa ... ho ho ... laa laa ...
 maaTo-ko sharir maaTo-maa ho
 eka din ta maaTo-maa milnu-cha) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पवित्र बाइबलले भन्दछ
 प्रभुलाई भुल्ने नाश हुनेछ
 उम्कने ठाउँ कहाँ छ र ?) ~2
@@ -25,7 +25,7 @@ eka din ta maaTo-maa milnu-cha) ~2
 prabhu-laai bhulne naash hune-cha
 umkane Thaauň kahaaň cha ra ?) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (अनन्तसम्म नरक-कुण्डमा
 दन्किरहेको आगोमा
 बचाउने को होला त्यो दिनमा) २
@@ -34,7 +34,7 @@ umkane Thaauň kahaaň cha ra ?) ~2
 danki-raheko aago-maa
 bacaaune ko holaa tyo din-maa) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (येशूको रगतमा शक्ति छ
 नरकदेखि बचाउनलाई
 पछुताउने पापीलाई मौका छ) २

@@ -16,7 +16,7 @@ tan-man-dhanle dhanye hos
 mahimaa unko,
 bane haamro taaraNahaar
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अन्धकारपूर्ण दुनियाँमा भुलिबस्‍‌नेछौ
 किन भाइ, दोषी बनी
 सुन यो पुकार जो आज भन्दछ
@@ -27,7 +27,7 @@ kina bhaai, dosi bani
 suna yo pukaar jo aaja bhandacha
 farki paap-dekhi ma-kahaaň aau.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 खुल्ला छ फाटक, जो कोही आउँदछन्‌,
 दाम केही लाग्दैन पस्‍‌न त्यहाँ
 जो कोही आउँछन्‌ भनिन्छन्‌ धन्यका,
@@ -38,7 +38,7 @@ daam kehi laagdaina pasna tyahaaň
 jo kohi aauňchan bhaninchan dhanyekaa,
 dura hunchan paapharu curNa mankaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्ट आज भन्‍‌नुहुन्छ तिमी छौ कहाँ,
 भन हे मित्र हो, प्रभु म यहाँ
 बोझले दबिएको पापले छु पीडित,
@@ -49,7 +49,7 @@ bhana he mitra ho, prabhu ma yahaaň
 bojha-le dabiyeko paaple chu piDit,
 liyera jivan-laai garaau nishcit.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 देख्दछु ढोकालाई प्रभुको क्रूसमा,
 बहेको त्यो रगत मेरो लागि
 शुद्ध हुन पापदेखि,

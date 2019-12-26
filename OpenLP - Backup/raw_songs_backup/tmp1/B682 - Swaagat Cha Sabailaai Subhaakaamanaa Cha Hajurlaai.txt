@@ -11,7 +11,7 @@ sabai-laai ] ~2
 mahimaa hos parmeshwor-laai) ~2
 (jaijaikaar ~3~ mahimaa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (आऔ हामी मिलीजुली
 कदम अघि बढाऔँ) २
 (बिगतको सुस्ति जीवन
@@ -22,7 +22,7 @@ kadam aghi baRhaauň) ~2
 (bigat-ko susti jivan
 aaja sabai haTaauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (आऔ हामी संसारमा
 शुभसन्देश सुनाउँ) २
 (अँध्यारोमा ज्योति बनी
@@ -33,7 +33,7 @@ shubha-sandesh sunaauň) ~2
 (aňdhyaaro-maa jyoti bani
 satye raaň-ko salkaauň) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (आऔ हामी संसारमा
 ख्रीष्टको गीत सुनाउँ) २
 (हिमाल र डाँडाकाँडा

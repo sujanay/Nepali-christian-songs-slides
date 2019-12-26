@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 "हृदय देऊ" माग्छन् परमप्रभु,
 प्रेम जस्तो दान छैन अनमोल अरू
 जहाँ भए पनि डाक्छन् आवाज मृदु,
@@ -20,7 +20,7 @@ aawaaj yo sunera ridaya deu,
 jagat andheri-dekhi chuTaau-na,
 prem-le bolaau-dai-chan, "ridaya deu ."
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 "हृदय देऊ" माग्छन् येशू मसिह,
 बोलाउँदै कृपाले घरी घरी
 "पापदेखी फर्क कुकर्म त्यागी,
@@ -31,7 +31,7 @@ bolaauň-dai kripaa-le ghari ghari
 "paap-dekhi farka ku-karma tyaagi,
 ke ma nai maarina timrai laagi ?"
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 "हृदय देऊ", माग्छन् आत्मा प्रभु,
 "सम्पूर्ण अर्पे, जीम्मा म लिन्छु
 अनुग्रह प्रशस्त दिन सक्छु,

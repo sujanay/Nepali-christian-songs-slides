@@ -9,7 +9,7 @@ haamro yo jivana bageko kholaa ho,
 farkera aauň-daina biteko jivana yo,
 royera fir-daina gayeko yauwana yo
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मिलेर-जुलेर सबैले
 जयजयकार मनाऔं
 हाँसेर गाएर सबैले
@@ -20,7 +20,7 @@ jai-jai-kaara manaauň
 haaňsera gaayera sabai-le
 prabhu-ko bacan sunaauň
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 आजलाई अनि भोलिलाई
 स्वर्गको मार्ग बनाऔं
 सम्झाउँदै-बुझाउँदै अरूलाई

@@ -9,7 +9,7 @@ shunye shunye timro jivan
 khrisT binaa ashaanti man
 khrisT binaa ashaanti man) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (धेरै कमायौँ धन मान यहाँ
 तर पाएनौ चैन मनमा) २
 सबथोक पाएर पनि यहाँ लाग्छ
@@ -27,7 +27,7 @@ kehi haraaye-jhaiň man-maa
 tyo ta shaanti aananda rahecha
 paaiň-daina khrisT yeshu binaa
 
----[Verse 2:]---
+---[Verse:2]---
 (तिम्रो फिक्‍का निरस जीवनमा
 येशू चाहन्छन्
 रंग रस भर्न) २

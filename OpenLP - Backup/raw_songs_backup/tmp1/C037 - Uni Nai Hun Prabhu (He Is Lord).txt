@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 उनी नै हुन् प्रभु
 मृत्युबाट बौरने,
 उनी प्रभु
@@ -16,7 +16,7 @@ harek ghuňDaa teknecha,
 har jibrole bhannecha
 yeshu khrisT nai hun prabhu
 
----[Verse 2:]---
+---[Verse:2]---
 तिमीं नै हौ प्रभु
 मृत्युबाट बौरने,
 तिमी प्रभु

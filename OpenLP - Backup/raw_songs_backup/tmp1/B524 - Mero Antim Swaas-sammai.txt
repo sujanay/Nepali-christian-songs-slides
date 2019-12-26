@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (मेरो अन्तिम स्वाससम्मै
 ख्रीष्टको गीत गाई नै रहन्छु
 मेरो अन्तिम पाइलासम्मै
@@ -14,7 +14,7 @@ uhaaň-laai nai pachyaai-rahanechu) ~2x
 
 (laa laa laa laa ... hu) ~4x
 
----[Verse 2:]---
+---[Verse:2]---
 (मेरो अन्तिम दृष्टिसम्मै
 ख्रीष्टलाई म सदा हेर्नेछु
 मेरो अन्तिम आकांक्षासम्मै
@@ -25,7 +25,7 @@ khrisTa-laai ma sadaa hernechu
 mero antim aakaaňk-chyaa-sammai
 susandesh-ko biu char-nechu) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 (मेरो अन्तिम स्वाससम्मै
 ज्योति छर्दै डाड़ा-पाखा लाग्नेछु
 मेरो अन्तिम इच्छासम्मै

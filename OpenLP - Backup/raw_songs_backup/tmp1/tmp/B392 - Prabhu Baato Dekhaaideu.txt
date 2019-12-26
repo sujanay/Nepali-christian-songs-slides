@@ -9,7 +9,7 @@ jivan-ko har pala-pala-maa
 prabhu jyoti dekhaai-deu
 jivan-ko aňdhyaaro-maa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 आउँदछु म तपाईंको छेउ
 निष्पट अँध्यारो संसारदेखि
 पापै भएको जीवन लिई
@@ -20,7 +20,7 @@ nispaT aňdhyaaro sansaar-dekhi
 paapai bhayeko jivana lii
 tapaaiň-maa jivan paauna.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 बित्‍‌न लागेको उद्धारको दिन
 धेरै समय अरु पापमा बिताई
 जिउन चाहन्छु, हिँड्‌न चाहन्छु

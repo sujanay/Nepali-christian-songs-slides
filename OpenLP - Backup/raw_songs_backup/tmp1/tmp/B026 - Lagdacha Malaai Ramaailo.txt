@@ -9,7 +9,7 @@ tyo ujyaalo taaraa-ko
 bethlehem gaauň-ko tyo saano goTh,
 yeshu janmeko saano DuňD
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अन्धकारको माझमा उज्ज्वल
 प्रकाश लिई आए) २
 जगलाई उद्धार गराउन
@@ -31,7 +31,7 @@ mukti-ko path-maa calna-laai
 laagdacha malaai ramaailo
 tyo ujyaalo taaraa-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (खुशीयाली रात मनाऊँ,
 यस धरतीलाई उज्ज्वल गराऊँ) २
 स्वर्गदूतले गाउँछन् गीत,

@@ -9,7 +9,7 @@ ishwor srijanaa-haar
 (sworga-ko sukha-laai tyaagera aaye
 paapi bacaauna tayaar) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (नर रूप धारण गरेर उनले
 प्रचारे सुसमाचार) २
 (पापीको पापको, दु:खीको दु:खको
@@ -31,7 +31,7 @@ dekhaaye ma'imaa apaar) ~2
 (yi sab-ko badali paaye un-le
 krusai-ko gahrauň bhaar) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (अन्तिम घडीमा गेतसमनीमा चेलागणसँग गए) २
 (निरन्तर प्रार्थना गरेर
 उनले पसिना बगाए) २
@@ -52,7 +52,7 @@ ma-dekhi haTaaideu bhani) ~2
 (tarai pani tapaaiňko
 ichyaa purNa haus bhane) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (येशू पकडाई बरब्बा छुडाइयो,
 कहाँ थियो यो न्याय) २
 (वैजनी वस्त्र लगाए

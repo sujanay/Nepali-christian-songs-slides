@@ -7,7 +7,7 @@
 harsa manaauň saaraa duniyaaň-laai
 susamaacaar sunaauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 उठ दाज्यूभाइ हो,
 हेर तारालाई,
 येशूजीको जन्म भयो,
@@ -18,7 +18,7 @@ hera taaraalaai,
 yeshujiko janma bhayo,
 uTha darshan garnalaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उठ दिदी-बहिनी हो,
 हेर तारालाई,
 येशूजीको जन्म भयो उठ,

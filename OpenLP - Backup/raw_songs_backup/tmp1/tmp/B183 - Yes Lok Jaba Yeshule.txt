@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यस लोक जब येशूले छोड्‌नुभो,
 प्रभु जो शिर हुनुहुन्छ मण्डलीको
 तब दिए चेलालाई आज्ञा
@@ -9,7 +9,7 @@ prabhu jo shir hunuhuncha maNDaliko
 taba diye celaa-laai aagyaa
 yes rit-le maannu sarvadaa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मलाई दिइयो यस संसार
 र स्वर्गमा सब अधिकार
 यसकारण सबै देशमा जाऊ,
@@ -20,7 +20,7 @@ ra sworga-maa sab adhikaar
 yeskaaraN sabai desh-maa jaau,
 sab jaati-laai celaa tulyaau.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 नाउँ पिता, पुत्र,
 आत्माकोमा गर तिनलाई बप्तिस्मा
 मैले सब दिएको आज्ञा
@@ -31,7 +31,7 @@ gara tinlaai baptismaa
 maile sab diyeko aagyaa
 tinai-laai maanna-laai sikaau.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 रहन्छु सब दिन साथ तिम्रो,
 अँ अन्तसम्म जगत्‌को
 हे प्रभु, आफ्‍‌नो कुराझैँ देऊ,

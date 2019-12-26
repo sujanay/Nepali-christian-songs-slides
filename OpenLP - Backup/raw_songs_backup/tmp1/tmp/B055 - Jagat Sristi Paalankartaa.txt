@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जगत्‌ सृष्टि पालनकर्ता,
 धन्य ईश्‍वर दाता
 धन्य धन्य प्रभु येशू
@@ -20,7 +20,7 @@ aau jan prabhu-kahaaň,
 bhaja manlaai,
 bhaja manlaai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमेश्‍वरको प्रथम
 वचन पुत्र दिउँला भनी
 साँचै प्रभु अवतार भए
@@ -31,7 +31,7 @@ bacan putra diuňlaa bhani
 saaňcai prabhu awataar bhaye
 jagatko maNi ni dhanye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 तीसै वर्ष पुगेपछि
 प्रचार गरी हिँड्‌थे
 प्रभु येशू महादाता
@@ -42,7 +42,7 @@ pracaar gari hiňDthe
 prabhu yeshu mahaadaataa
 ajammari dine ni dhanye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अजम्मरी वचन सुनाई
 देशै-विदेश फिरे
 क्रूसको महा दु:ख सही प्राण
@@ -53,7 +53,7 @@ deshai-bidesh fire
 krusko mahaa dukha sahi praaN
 daan garidiye ni dhanye.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आऊ पापी विश्‍वास गरी
 प्रभुकहाँ धाऊ
 पापको मृत्यु बन्धनदेखि
@@ -64,7 +64,7 @@ prabhu-kahaaň dhaau
 paapko mrityu bandhan-dekhi
 nistaara daan paau ni dhanye.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 प्रभुजीको दिव्य वचन
 दु:खी पापी आऊ
 दाऊदवंशी येशू ख्रीष्टको

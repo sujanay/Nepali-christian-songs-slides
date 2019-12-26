@@ -11,7 +11,7 @@ sojhaa man bhayekaa-haru-le
 uhaaň-ko stuti garna suhaauň-do cha.
 he dharmi-gaNa ho.
 
----[Verse 1:]---
+---[Verse:1]---
 (विणा बजाउँदै
 परमप्रभुको प्रशंसा गर) २
 (दश तारे सारङ्गी बजाउँदै) २
@@ -22,12 +22,12 @@ param-prabhu-ko prashaňsaa gara) ~2
 (dasha taare saarangi bajaauň-dai) ~2
 (uhaaň-ko stuti gara) ~2
 
----[Chorus 2:]---
+---[Chorus:2]---
 हे धर्मीगण हो ...
 
 he dharmi-gaNa ho ...
 
----[Verse 2:]---
+---[Verse:2]---
 (किनभने उहाँको वचन
 ठीक र सत्य छ) २
 (र उहाँको सबै कामहरू) २

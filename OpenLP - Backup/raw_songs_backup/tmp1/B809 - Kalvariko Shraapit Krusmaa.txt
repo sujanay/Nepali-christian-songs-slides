@@ -9,7 +9,7 @@ khrisT-le jivan arpi diye) ~2
 sabai paap-baaTa bacaauna
 (ragat-ko mulye cukaaye) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (हात, पाउ र शरिर
 ख्रीष्टको चोटै चोट थियो,
 काँडे मुकुट शिरमा लाउँदा
@@ -31,7 +31,7 @@ aananda-le ramaaye) ~2
 (khrisT-laai maayaa garne-haru
 chaati piTi roye) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (भोक तिर्खा अनिदो
 सहेर रातभरीको,
 थुकाइ पिटाइ

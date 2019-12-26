@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मसँग आऊन, शोक गरौं
 मुक्तिदाताको छेवैमा
 हामीहरू विलाप गरौं,
@@ -9,7 +9,7 @@ muktidaataa-ko chewaimaa
 haamiharu bilaap garauň,
 khrisT prabhu krusmaa Taaňgiye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मान्छेले निन्दा गर्दामा,
 के आँसु आउँदैन हाम्रो?
 हे भाइ कत्रो साहस थ्यो
@@ -20,7 +20,7 @@ ke aaňsu aauňdaina haamro?
 he bhaai katro saahasa thyo
 khrisT prabhu krusmaa Taaňgiye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सातैखेप बोले प्रेमको बात,
 तीन घण्टासम्म चुप रहे
 मान्छेलाई मुक्ति दिनलाई
@@ -31,7 +31,7 @@ tina ghaNTaasamma cup rahe
 maanchelaai mukti dina-laai
 khrisT prabhu krusmaa Taaňgiye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हे कडा मन, अब फर्किनू,
 तिमी अपस्वार्थी घमण्डी
 मृत्युमा उनलाई सुम्पिइयो,
@@ -42,7 +42,7 @@ timi apaswaarthi ghamaNDi
 mrityumaa unlaai sumpiiyo,
 khrisT prabhu krusmaa Taaňgiye.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 फाटेको हृदय अब माग,
 अनि दिइन्छ तिमीलाई
 यस्तो मनदेखि हुन्छ प्रेम,

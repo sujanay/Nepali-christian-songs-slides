@@ -17,7 +17,7 @@ pachyaauň-chu prabhu-laai) ~2
 stuti-ko yogye mahimaa-ko parmeshwor,
 (paapi-ko sab paap-laai meTaaune) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (अन्धकारपूर्ण छ यो पापी संसार,
 शैतानका पासो र जाल छन्‌ हजार) २
 तपाईंको दर्शन पाएर अटल भई
@@ -29,7 +29,7 @@ tapaaiň-ko darshana paayera aTal bhai
 (tyaagera sansaar
 pachyaauň-chu prabhu-laai) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (गर्जने सिंहझैँ वैरी कराउँछ,
 पानीको छालझैँ मनलाई हल्लाउँछ) २
 तपाईंको शक्ति पाएर अटल भई
@@ -41,7 +41,7 @@ tapaaiň-ko shakti paayera aTal bhai
 (tyaagera sansaar
 pachyaauň-chu prabhu-laai) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (आँधीझैँ शैतान तर्साउन आउँछ,
 कमजोर विश्‍वासको जरा हल्लाउँछ) २
 तपाईंको चरणमा बसेर अटल भई
@@ -54,7 +54,7 @@ tapaaiň-ko caraN-maa basera aTal bhai
 (prashaňsaa jaijaikaar
 caDhaauň-chu tapaaiň-laai) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (स्वर्गीय घरको दर्शन दिनुहोस्‌,
 फेरी एकचोटि ओर्लिआउनुहोस्‌) २
 आत्माको आगोले

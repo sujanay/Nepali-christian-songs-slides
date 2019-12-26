@@ -7,7 +7,7 @@
 shaanti-daayek jasako naauň stuti garauň
 baarambaar haamro prabhuko) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अपार छ प्रभुको
 प्यार अधर्मी जातिप्रति) २
 (क्षणभरको जीवन हाम्रो) २
@@ -18,7 +18,7 @@ pyaar adharmi jaati-prati) ~2
 (chyeNbhar-ko jivan haamro) ~2
 garnubho, feri taaraNa haamro.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जगत्‌ सारा संसार
 अन्धकार पापैमा छ) २
 (ज्योति बनी आउनुभो, प्रभु) २
@@ -29,7 +29,7 @@ andhakaar paapaimaa cha) ~2
 (jyoti bani aaunubho, prabhu) ~2
 sworgiye raajyeko maarga banaai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उदेक छ प्रभुको कार्य,
 (कसरी भुलौं, हे भाइ) २
 (आनन्दित मनले उनलाई भजौं) २

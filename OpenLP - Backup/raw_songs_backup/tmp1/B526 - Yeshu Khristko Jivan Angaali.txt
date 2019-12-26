@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (ला, ला, ला, ला, लैबरी
 लै लै लै [ हो हो] ] ) २
 (येशू ख्रीष्टको जीवन अँगाली
@@ -22,7 +22,7 @@ waripari ho, ho gaauň-shahar waripari
 (laa, laa, laa, laa, laibari
 lai lai lai [ho ho]. ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (जिउँदो परमेश्‍वरको प्रेम-कहानी
 मुक्ति अनन्त जीवनका खबर दिई) २
 (अब जाऔं सुनाउँदै) ४
@@ -44,7 +44,7 @@ meci-dekhi mahaakaali
 (laa, laa, laa, laa, laibari
 lai lai lai [ho ho]. ) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (पवित्र आत्माको अलौकिक शक्ति
 छुटकारा स्वतन्त्रताको लहरी) २
 (अब जाऔं सुनाउँदै) ४

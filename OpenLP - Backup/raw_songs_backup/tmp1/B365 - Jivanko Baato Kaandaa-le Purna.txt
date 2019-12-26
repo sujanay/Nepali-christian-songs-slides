@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जीवनको बाटो काँडाले पूर्ण,
 संग्राम छ भारी मन हुन्छ चूर्ण
 मरुझैँ शुष्क हुन्छ कहिले,
@@ -20,7 +20,7 @@ dhanyebaad premi parmeshwor pitaa
 dekh-dachu ma tyo baadal-ko khaaň-bo
 ujjwal camkilo Doryaaune malaai.
 
----[Verse 2:]---
+---[Verse:2]---
 अन्धकार कस्तो, ढाक्दछ मलाई,
 निराशको नित्य हुँदै छ बढाइ
 कसरी हिँड्‌नु, पाइला कहाँ हाल्‍‌नु,
@@ -42,7 +42,7 @@ paari dekh-dachu jyoti jivan-ko
 sodhna man laagcha kina, he prabhu,
 sikaau-nos malaai, dhairye, he yeshu.
 
----[Verse 3:]---
+---[Verse:3]---
 लछार र पछार संसारको अति
 घिनलाग्दो पापमय छ मेरो गति
 लडाइँ र झगडा छ देश-विदेशमा,

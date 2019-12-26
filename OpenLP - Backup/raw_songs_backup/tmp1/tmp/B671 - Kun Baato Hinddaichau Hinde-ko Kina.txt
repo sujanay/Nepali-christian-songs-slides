@@ -9,7 +9,7 @@ hiňDeko kina) ~2
 (yeshu nai tayaar chan
 mukti-daan dina) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जीवन हाम्रो दुइ दिनको
 घाम छाया मात्रै हो) २
 येशूमा नै जीवन छ मानिस जातिको
@@ -22,7 +22,7 @@ yeshu-maa nai jivan cha maanis jaati-ko
 yeshu aaye sansaar-maa sworga choDera
 (naash na-hos kohi pani baaňcos bhanera) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (नबिताउ जीवन हाम्रो
 ब्यर्थैँ ब्यर्थैँमा) २
 मुक्ति लेऊ सित्तै प्रभु येशूमा

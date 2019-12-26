@@ -5,7 +5,7 @@
 {y}(hernechu yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (प्रार्थनामा हेर्नेछु
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -14,7 +14,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गदूतका बीचमा
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -23,7 +23,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (शैतानमाथि जय हुने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -32,7 +32,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (आफ्‍‌ने प्राण क्रसमा दिन
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -41,7 +41,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (आफ्‍‌ने रगत बहाइदिने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -50,7 +50,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 (कुटाइ, निन्दा सहने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -59,7 +59,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 (मृत्युदेखि बौरी उटने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -68,7 +68,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 8:]---
+---[Verse:8]---
 (मलाई मुक्ति दिने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -77,7 +77,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~
 ma sadhaiň hernechu
 {/y}
----[Verse 9:]---
+---[Verse:9]---
 (पुरो शान्ति दिने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -86,7 +86,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 10:]---
+---[Verse:10]---
 (पवित्र आत्मा दिने
 येशू राजालाई) ३
 म सधैं हेर्नेछु
@@ -95,7 +95,7 @@ ma sadhaiň hernechu
 yeshu raajaa-laai) ~3
 ma sadhaiň hernechu
 {/y}
----[Verse 11:]---
+---[Verse:11]---
 (राजाहरूका राजा
 येशू राजालाई) ३
 म सधैं हेर्नेछु

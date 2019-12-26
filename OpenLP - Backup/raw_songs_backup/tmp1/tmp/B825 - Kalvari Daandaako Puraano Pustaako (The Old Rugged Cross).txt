@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 कलवरी डाँडाको पुरानो पुस्ताको
 झलझली हेर्दै म याद गर्छु,
 संसारको लागि नै थुमा भई ईश्‍वरको निष्पापी येशू बलि भाको
@@ -19,7 +19,7 @@ choDnu pare pani aru-laai,
 sansaar yo jaba choDi jaan-chu
 mukuT mahimaa-ko ma laauň-chu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 संसारले त्यागेको र घृणा गरेको
 कति प्यारो छ मलाई त्यो क्रूस
 कारण मुक्ति दिन म पापीलाई जस्तो,
@@ -30,7 +30,7 @@ kati pyaaro cha malaai tyo krus
 kaaraN mukti dina ma paapi-laai jasto,
 prabhu yeshu khrisT bali bhaako.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 कलवरी डाँडाको कति सुन्दर त्यो क्रूस,
 पवीत्र रगतको दागसरी याद गरौं
 उच्च दुःख, प्रभुले सहेको गर्न
@@ -41,7 +41,7 @@ pavitra ragat-ko daag-sari yaad garauň
 ucca dukh, prabhu-le sahe-ko garna
 uddhaar sabai paapi-ko.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जीवनभरी मेरो विश्‍वासी रहन्छु,
 क्रूसको संकष्ट म सहन्छु,
 शेषमा स्वर्गीय मेरो घरमा जब जान्छु,

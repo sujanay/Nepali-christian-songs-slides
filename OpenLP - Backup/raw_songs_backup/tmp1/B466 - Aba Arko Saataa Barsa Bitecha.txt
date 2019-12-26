@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अब अर्को साता (बर्ष) बितेछ,
 हे मेरो मन, चेत गर
 ईश्‍वरले रक्षा गरेछन्‌
@@ -9,7 +9,7 @@ he mero man, ceta gara
 ishwor-le rakchyaa garechan
 prabhu-laai dhanyebaad gara.
 
----[Verse 2:]---
+---[Verse:2]---
 यस साता (वर्ष) कति थिए
 बिमार र कति मरेछन्‌
 शैतानदेखि कति डराई
@@ -20,7 +20,7 @@ bimaar ra kati marechan
 shaitaan-dekhi kati Daraai
 dusTa aatmaa pujechan.
 
----[Verse 3:]---
+---[Verse:3]---
 मलाई त जुर्‍यो आत्मिक ज्ञान,
 शरीरको सुख र आड
 धेर रोटी, वस्त्र, मीत,
@@ -31,7 +31,7 @@ sharir-ko sukha ra aaD
 dher roTi, bastra, mit,
 Thegaana Thik khaaňco nai anusaar.
 
----[Verse 4:]---
+---[Verse:4]---
 यस साताका (वर्ष) सब पाप अपराध
 हे ईश्‍वर माफ गर्नोस्‌
 ठीक धर्म गर्नुछ,

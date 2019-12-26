@@ -7,7 +7,7 @@
 halleluyaah, halleluyaah,
 halleluyaah) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ख्रीष्टको प्रेम अति ठूलो छ,
 कठोर पापी हृदय तोड्‌ने
 अन्धकारमा लुकिबस्‍‌ने
@@ -18,7 +18,7 @@ kaThor paapi ridai toDane
 andhakaar-maa luki-basane
 maanche-laai khoji bheT-Taaune.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (ख्रीष्टको प्रेम अति धेरै छ
 संसारले दिनै नसक्‍‌ने,
 खुशी उनको अचम्मको छ,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मैले येशू मित्र पाएँ,
 जो मेरो सब थोक हो,
 मेरो आत्माको लागि के उत्तम वर,
@@ -34,7 +34,7 @@ tyo sundar ful baaTo-ko,
 bihaan-ko tyo taaraa
 kati uttam tyo bar mero aatmaa-ko
 
----[Verse 2:]---
+---[Verse:2]---
 उनले मेरो दु:ख सब लिए,
 सबै अफसोस पनि,
 परीक्षामा मेरो छ
@@ -67,7 +67,7 @@ shaitaan-le dukha diňdaa,
 khrisT prabhu hunchan saath-maa,
 shok na-gara.
 
----[Verse 3:]---
+---[Verse:3]---
 मलाई छोड्‌नेछैनन्‌ कैले,
 न भुल्‍‌नेछन्‌ मलाई,
 विश्‍वासमा बसी मान्‍‌नेछु उनैलाई,

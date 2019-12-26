@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 लौ येशू आउँछन्‌ बादलमा ओर्ली,
 त्यागे त्राणको लागि प्राण
 बाटोमा उनका लाखौं विश्‍वासी
@@ -16,7 +16,7 @@ mili garchan stuti, maan
 (gaau halleluyaah) ~3
 jag-maa aai raajye garlaan.
 
----[Verse 2:]---
+---[Verse:2]---
 आँखाले हरेक हेर्नेछ ख्रीष्टलाई,
 स्वर्गीय गद्दीमा बसेको
 ज-जसले उनलाई थुके गिज्याई,
@@ -34,7 +34,7 @@ krus-maa haat-paau cheDne jo
 (garlaan bilaunaa) ~3
 dekhdaa masih-laai saaňco.
 
----[Verse 3:]---
+---[Verse:3]---
 आमिन सनातन स्वर्गीय त्राता जय,
 तपाईंको सदा होस्‌
 पराक्रम महिमा लिई मुक्तिदाता

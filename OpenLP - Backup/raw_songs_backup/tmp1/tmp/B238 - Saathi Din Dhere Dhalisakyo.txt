@@ -9,7 +9,7 @@ pashcaattaap-ko belaa biti-sakyo) ~2
 (su-samaacaar sunaauna jaane ho ki,
 krus-laai nai aňgaali-basne ho ? ) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (येशूको जीवनलाई हेर,
 सरलताको सजीव शक्ति हो) २
 (साँचो मानव जीवनको मात्र
@@ -31,7 +31,7 @@ awasthaa kasto-kasto cha) ~2
 (soci-deu ek chyeN aaja timi,
 sworgiye prema kina sasto cha.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (भन्छन्‌ सबै मानव यहाँ
 मातिएर दानव हुन्छ) २
 (माया नपाई रुन्छन्‌ भने

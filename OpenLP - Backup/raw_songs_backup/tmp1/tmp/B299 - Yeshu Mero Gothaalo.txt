@@ -9,7 +9,7 @@ ma unko guNa gaauňdachu
 jasko huň ma saano paaTho,
 pachi pachyaauňchu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हरियो चउरमा
 मलाई चराउँदछन्‌
 सुख-चैनको पानीमा
@@ -31,7 +31,7 @@ ra meraa paau Doryaauň-dachan
 dharma-kaa baaTaa-maa
 haat samaai lii hiňDaauň-dachan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मृत्युको तराईमा
 मलाई हिँडाउँदछन्‌
 शैतानको भयदेखि
@@ -53,7 +53,7 @@ jaiwant sadhaiň garaauň-dachan
 unko shikchyaa-daNDa-le
 malaai cetnaa lyaauň-dachan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दुश्मनका सामुन्‍‌नेमा भोज
 तयार गर्दछन्‌
 जीवनको कचौरो

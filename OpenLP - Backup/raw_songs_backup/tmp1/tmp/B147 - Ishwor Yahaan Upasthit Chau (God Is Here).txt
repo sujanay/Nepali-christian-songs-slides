@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वर यहाँ उपस्थित छौ
 आशिष्‌ अहिले दिनलाई
 मेघले हेर, घेर्दै आयो,
@@ -20,7 +20,7 @@ ghan-ghor brisTi gara
 priye yeshu parkhaňdai chauň
 man jagaau yehi pahar
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अनुभव भो उपस्थित छौ,
 भैगो पवित्र भूमि
 तर अझै बढ्‌ता माग्छौं,
@@ -31,7 +31,7 @@ bhaigo pavitra bhumi
 tara ajhai baDhtaa maagchauň,
 aau man-maa yes-ghari.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 उपस्थित छ अब विन्ती छ,
 ल्याउँदै छौं अब विश्‍वासलाई
 आत्मा आज जलाऊ मनमा,
@@ -42,7 +42,7 @@ lyaauňdai chauň aba vishwaas-laai
 aatmaa aaja jalaau man-maa,
 ahile aafno haat baDhaai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 प्यारसित हृदय अब देख्दछौं,
 अहिले खोल भण्डारलाई
 एउटा गराऊ वृष्टि ठूलो,

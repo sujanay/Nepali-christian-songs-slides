@@ -17,7 +17,7 @@ la la la la la la
 satye kahilyei Dag-daina) ~2
 ye saathi, suna
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सत्यलाई छोप्न कतिले
 यसलाई दन्त्यकथा नै हो भने
 बाइबल लेखकले चलाखी गरी
@@ -41,7 +41,7 @@ lekhiyeko bacan yo) ~2
 pramaaNit bhayo) ~2
 ye saathi suna
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (भूगर्भशास्त्रीहरूको साक्षी
 अवशेष शिलापत्रबाट
 पुराना पाण्डुलिपिबाट अनि

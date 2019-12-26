@@ -16,7 +16,7 @@ sadaiba hos tapaaiň-ko guNa gaan
 {y}(ha ha ha halleluyaah) ~7
 aamin
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सब संसार टलेर जानेछ,
 टल्‍‌नेछैन तपाईंको वचन
 बितेर जानेछ यो जीवन,
@@ -27,7 +27,7 @@ Talne-chaina tapaaiň-ko bacana
 bitera jaane-cha yo jivana,
 tara vishwaasi mar-daina ka'ile) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (नयाँ संसार र स्वर्ग हुनेछ,
 विश्‍वास गर्ने सबैको निम्ति
 प्रशंसा, आदर हुनेछ त्यहाँ,

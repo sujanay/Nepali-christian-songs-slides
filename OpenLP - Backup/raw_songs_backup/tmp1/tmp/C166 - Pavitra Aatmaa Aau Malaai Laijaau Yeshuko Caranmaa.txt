@@ -7,7 +7,7 @@
 (malaai lai-jaau yeshu-ko caraNa-maa
 pavitra aatmaa aau) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (शिर झुकाउँदै दण्डवत् गर्दै,
 आउँछु तपाईंको चरणमा) २
 (केवल तिम्रैलागि, येशू तिम्रैलागि) ३
@@ -18,7 +18,7 @@ aauňchu tapaaiň-ko caraN-maa) ~2
 (kewal timrai-laagi, yeshu timrai-laagi) ~3
 ma haat ucaal-dachu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (शिर झुकाउँदै दण्डवत् गर्दै,
 आउँछु तपाईंको चरणमा) २
 (केवल तिम्रैअघि, येशू तिम्रैअघि) ३

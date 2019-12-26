@@ -9,7 +9,7 @@ ridai bheT caDhaauň-dai
 stuti, prashaňsaa, ijjat
 sadaa-sarvadaa din-chu) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मेरो जीवन सुरक्षा तिमी हौ,
 आशा-भरोसा,
 शान्ति हौ) २
@@ -27,7 +27,7 @@ shaanti hau) ~2
 mero jivan-ko yaatraa-maa) ~2
 (timi ek sahaaraa hau) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रभु मेरो हृदयमा आइदेऊ,
 ज्योतिमय जीवन बनाइदेऊ) २
 

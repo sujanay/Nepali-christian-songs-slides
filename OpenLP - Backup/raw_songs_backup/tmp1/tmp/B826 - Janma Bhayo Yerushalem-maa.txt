@@ -9,7 +9,7 @@ yeshu raajaa gaai-ko goThai-maa,
 (sworga-dut-le lyaaye sandesh
 yeshu khrisT-laai timro dwaar-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (निन्द्रालाई त्यागी आज
 यो रात दिनु छ) २
 (सुसन्देश लिई आयो
@@ -27,7 +27,7 @@ haami hajur-ko aaňgan-maa) ~2
 {y}(aaja-ko raat-maa jyoti-ko saath-maa
 janma-bho gaai-ko goTh-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 निलो गगनमा हिँड्न लागे
 चम्किलो त्यो तारा) २
 (भन्दै आए ज्योतिषीगण

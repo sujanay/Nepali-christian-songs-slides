@@ -11,7 +11,7 @@ khulu-lulu gardai kholaa baga-ne
 tapaaiň-kaa srisTi hun
 he ishwor, tapaaiň-kaa srisTi hun
 
----[Verse 1:]---
+---[Verse:1]---
 (जगजग गर्ने बत्तीझैँ बल्‍‌ने
 आकाशमा तारा छन्‌) २
 (जूनको किरण कति हो नरम) २
@@ -37,7 +37,7 @@ bana-maa ufrekaa) ~2
 tapaaiň-le racekaa, he ishwor,
 tapaaiň-le racekaa.
 
----[Verse 2:]---
+---[Verse:2]---
 (वनमा जान्छु, फलफूल हेर्छु
 तपाईंलाई सम्झन्छु) २
 (तपाईंको रचना सम्झेर मनमा) २
@@ -63,7 +63,7 @@ bana-maa ufrekaa) ~2
 tapaaiň-le racekaa, he ishwor,
 tapaaiň-le racekaa.
 
----[Verse 3:]---
+---[Verse:3]---
 (अब्राहाम, इसहाक, याकूबका ईश्‍वर,
 दाता जीवनका) २
 (पापीका निम्ति अति प्रेम गरी) २

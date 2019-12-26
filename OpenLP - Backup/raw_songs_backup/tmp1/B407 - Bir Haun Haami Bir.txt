@@ -9,7 +9,7 @@ prabhu-kaa senaa banekaa chauň
 jaiwant prabhu-ko aagyaa paai
 ghosaNaa garda-chauň
 
----[Verse 1:]---
+---[Verse:1]---
 एक मात्र जीवन
 यो ऋणी छ येशूको
 बाँकी जीवन पूर्ण समय
@@ -20,7 +20,7 @@ yo riNi cha yeshu-ko
 baaňki jivan purNa samai
 aafno hoina, tapaaiňko.
 
----[Verse 2:]---
+---[Verse:2]---
 दगुर्दै-दगुर्दै मुक्तिका राँका लिई
 आफ्‍‌नो देशको सब जिल्लामा
 चम्कन जाऊँ ज्योति भई।
@@ -29,7 +29,7 @@ dagurdai-dagurdai mukti-kaa raaňkaa lii
 aafno desh-ko sab jillaa-maa
 camkana jaauň jyoti bhai.
 
----[Verse 3:]---
+---[Verse:3]---
 बाटो छ उकालो कष्टले भरेको
 डाँडापारि देख्दछु म,
 कति आत्मा मरेको।
@@ -38,7 +38,7 @@ baaTo cha ukaalo kasTa-le bhareko
 DaaňDaa-paari dekh-dachu ma,
 kati aatmaa mareko.
 
----[Verse 4:]---
+---[Verse:4]---
 यो देशले जबसम्म
 ख्रीष्टको प्रेम चाख्दैन
 सुख-चैन त्यागी क्रूसै बोकी

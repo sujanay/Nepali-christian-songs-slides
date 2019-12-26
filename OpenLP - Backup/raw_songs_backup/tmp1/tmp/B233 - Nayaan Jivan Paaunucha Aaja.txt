@@ -7,7 +7,7 @@
 haami sabai yeshuko saath-maa
 biuňjhanucha aaja
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (रीतिरिवाजमा डुबेको मान्छे) २
 ख्रीष्टको नौलोपनलाई हेर
 (धर्म होइन, कर्म पनि होइन) २
@@ -18,7 +18,7 @@ khrisT-ko naulopan-laai hera
 (dharma hoina, karma pani hoina) ~2
 ridai-ko muhaar-laai krus-tira fera.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जब जीवन भार हुन्छ) २
 मृत्युको चोट रगतमा जल्छ
 (व्यर्थ होइन, स्वार्थ पनि होइन) २

@@ -9,7 +9,7 @@ krus-ko chahaari-maa,
 tapaaiň-ko caraN-maa,
 paap-ko bojhaa liyera
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (जीवन निराश छ, पथ अँध्यारो,
 कहाँ पुग्‍‌नु हो, सम्हाल्‍‌नुहोस्‌) २
 प्रभु बाटो देखाउनोस्‌,
@@ -22,7 +22,7 @@ prabhu baaTo dekhaaunos,
 kalwari-maa Doryaaunos,
 tapaaiň-ko jyoti diyera.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (कति उजाड छ पापमय संसार,
 कहाँ उद्धार छ, बचाउनुहोस्‌) २
 प्रेमले भर्नुहोस्‌, मेरो यो जीवनमा,

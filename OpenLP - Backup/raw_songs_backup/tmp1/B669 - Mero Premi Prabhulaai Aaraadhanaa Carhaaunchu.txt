@@ -34,7 +34,7 @@ ananta daNDa narak-ko
 (nishcai-taa diyau malaai
 mahimit sworga-maa pugne) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 बिर्सिसकेको थिएँ
 आफ्नै सृष्टिकर्तालाई
 गुमाइरहेको थिएँ

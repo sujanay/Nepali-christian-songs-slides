@@ -14,7 +14,7 @@ bolaai-rahecha) ~2
 
 ashaanti-maa jiuňne-haru
 
----[Verse 1:]---
+---[Verse:1]---
 (टाढा भागी नजाउ
 ख्रीष्टको प्रेमदेखि
 ख्रीष्टले तिमीलाई
@@ -36,7 +36,7 @@ timi prati khrisT-ko prem
 sagar-bhandaa gahiro cha
 timi prati unko prem) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (संसारमा रहुन्जेल
 माया गर्छन् धेरैले
 एक दिन मरेपछि

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (परमेश्‍वरलाई धन्यवाद
 सदा चढाउँछौं,
 यस दिनमा आज
@@ -20,7 +20,7 @@ aaja pani uhi,
 dinu-bhayeko pratigyaa-laai
 puraa garnu-huncha nai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उपस्थिति जो त्यो थियो
 बगैँचा अदनमा,
 आनन्द लिएर आउनुभो

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (मेरो आँखाको आँशु पुछिदिने
 हृदयका चोट निको बनाउने) २
 मृत्यु र जोखिमबाट बचाउने
@@ -16,7 +16,7 @@ aafu royera malaai hasaaune
 {y}(mero yeshu kati mahaan
 mero yeshu kati mahaan ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (दुःख सहेर सुख दिने,
 मृत्यु अँगाली जीवन दिने) २
 बेसहारा भई लडेको बेला
@@ -34,7 +34,7 @@ sahaaraa diyera malaai uThaaune
 {y}(mero yeshu kati mahaan
 mero yeshu kati mahaan ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मेरो लागि नै क्रूसमा टाँगिने,
 मेरो लागि सबै दर्द सहने) २
 पापको दलदल हिलोबाट

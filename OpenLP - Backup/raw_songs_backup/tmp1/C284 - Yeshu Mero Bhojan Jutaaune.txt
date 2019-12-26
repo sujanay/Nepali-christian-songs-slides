@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू मेरो भोजन जुटाउने
 येशू मेरो तृष्णा मेटाउने) २
 
@@ -12,14 +12,14 @@ yeshu mero trisNaa meTaaune) ~2
 tapaaiň prabhu mahaan
 tapaaiň prabhu mahaan
 
----[Verse 2:]---
+---[Verse:2]---
 (येशू मलाई शान्ति दिने
 येशू मलाई आनन्द दिने) २
 
 (yeshu malaai shaanti dine
 yeshu malaai aananda dine) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (येशू मलाई शक्ति दिने
 येशू मलाई विजय दिने) २
 

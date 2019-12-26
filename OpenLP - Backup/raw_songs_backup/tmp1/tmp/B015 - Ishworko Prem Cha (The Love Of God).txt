@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरको प्रेम छ कति महान्‌,
 वर्णन गरी नसकिने,
 तारागणदेखि अझ उच्च,
@@ -31,7 +31,7 @@ bahumulye apaar
 sadhaiň-bhari dutgaN samasta gaauňchan
 tyesko jaijaikaar
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अफसोसी दिन जब बित्‍‌नेछन्‌,
 सांसारिक राज्य नाश हुनेछ,
 प्रार्थना नगर्ने
@@ -53,7 +53,7 @@ kati cha driDha ra mahaan,
 anugraha aadama baňsha-laai
 bhani gaaunechan dutgaN.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 समुद्र मसीले भरेको,
 आकाश पत्र भएको भए,
 हर रूखको डाँठ कलम बनेको

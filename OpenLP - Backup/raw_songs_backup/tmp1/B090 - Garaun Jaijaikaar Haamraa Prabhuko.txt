@@ -9,7 +9,7 @@ unai hun haamraa saaňco goThaalo
 harsit ridai lii dhanyebaad caDhaauň,
 bhakti-sahit sable daNDawat garauň
 
----[Verse 1:]---
+---[Verse:1]---
 (पापको दण्ड भयङ्कर नरक,
 कमाइ यो मेरै थियो) २
 धर्मकर्मका च्यादरले
@@ -28,7 +28,7 @@ Dhaaki paap Dhaakiiň-dainathyo
 thukaai ra kuTaai sahanubho jati
 (bacaauna praaN diye) 2
 
----[Verse 2:]---
+---[Verse:2]---
 (हेर्दछु कलवरी डाँडालाई,
 टाँगिए प्रभु क्रूसमा) २
 हातमा काँटी, खुट्टामा काँटी,
@@ -47,7 +47,7 @@ shir-maa tiwra piDaa
 sahe sab piDaa, dukha ashaanti
 (thiye sab merai nimti) 2
 
----[Verse 3:]---
+---[Verse:3]---
 (अचम्मैको रहेछ प्रेम येशूको
 म दुष्ट घृणितप्रति) २
 जब पापमा थेँ ख्रीष्ट मेरो मरे
@@ -67,7 +67,7 @@ shuddha malaai paardai,
 baheko ragatle
 (dharmi malaai tulyaaye) 2
 
----[Verse 4:]---
+---[Verse:4]---
 (पथिक नरकको ख्रीष्टले
 फिराउँदा स्वर्गको यात्री बने) २
 स्वर्ग मेरो देश भो,

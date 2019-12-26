@@ -11,7 +11,7 @@ pyaaraa khrisTiye jan.
 (raaj-dut timi hau yeshu raajaa-ko) ~2
 (puraa huncha prati-gyaa mahaan prabhu-ko) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मृतकहरू बौरिउठ्छन्,
 चिहान रित्ता हुनेछन्
 आकाशमा प्रभुकासाथ
@@ -33,7 +33,7 @@ prabhu aaune-chan) ~2
 (aafnaa priye-haru-laai
 saath-maa laane-chan) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 निराश नभई दौड है
 प्रेरित पावल दौडेझैँ
 आफ्ना दौड पुरा गर्दै
@@ -55,7 +55,7 @@ kaam-ko puraa fal) ~2
 (mehenat garna na-thaaka
 nikaala puraa bal) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 विश्‍वास गर प्रभुमा
 दानिएलले गरेझैँ
 अनुग्रह र आशिष्‌मा

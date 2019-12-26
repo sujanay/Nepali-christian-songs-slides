@@ -22,7 +22,7 @@ puraa garne yeshu-laai herauň) ~2
 (naho-auň baru dhiraji
 yeshu-baaTa sahaas liauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (उहाँले दिने इनाम हल्का नसम्झी
 संकष्ट आउँदा हरेस नखाऔँ) २
 सधैँभरी, सधैँभरी,

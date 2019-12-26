@@ -5,7 +5,7 @@
 {y}prabhu-jyu ma ta a-yogye maanche,
 ma baaTa mahimaa kahaaň huncha ra?
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 भुल अपराध पापको कारण
 बरब्बा झैँ बन्धनमा थिएँ,
 मुक्त गरायौ रगतको दाम तिरेर
@@ -24,7 +24,7 @@ chyemaa diyau baaňki na-raakhi,
 sarba-swa diyau ayogye maanis-le
 ke diuň timi-laai ?
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 काँडा रूपी मेरो जीवनका
 जटिल समस्याहरू,
 आफ्नै शिरको मुकुट बनाई पहिरियौ

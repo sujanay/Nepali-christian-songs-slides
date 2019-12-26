@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आऊ सबै विश्‍वासी, आनन्द गर्दै आऊ,
 आऊ सबैजना मिली बेथलेहेममा,
 जगत्‌को त्राता बालक भए हेर
@@ -14,7 +14,7 @@ jagat-ko traataa baalak bhaye hera
 {y}(aa-u bhajan gardai pujauň) ~3x
 khrisT prabhu-laai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 हे वचन सनातन, परमेश्‍वरको पुत्र,
 प्रभु येशू हुन् ख्रीष्ट इम्मानुएल,
 कन्याको गर्भदेखि, मान्छे जन्मेको
@@ -23,7 +23,7 @@ khrisT prabhu-laai
 prabhu yeshu hun khrisT immaanuel,
 kanyaako garbha-dekhi, maanche janmeko
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हे सब स्वर्गदूत हो, जयजयकार गर्नु
 परमेश्‍वरलाई होस् स्वर्गमा धन्यवाद
 पृथ्वीमा कुशल मान्छेहरूमा मिलाप
@@ -32,7 +32,7 @@ kanyaako garbha-dekhi, maanche janmeko
 parmeshworlaai hos sworgamaa dhanyebaad
 prithivi-maa kushal maancheharu-maa milaap
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आमिन प्रभु धन्य हाम्रोलागि जन्मे
 येशू सदा तपाईंको नाम पुजिओस्
 ईश्‍वरको वचन अब देही भएको

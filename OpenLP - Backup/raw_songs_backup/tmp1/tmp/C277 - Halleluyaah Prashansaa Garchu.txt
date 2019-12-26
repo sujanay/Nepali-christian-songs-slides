@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हल्लेलूयाह, (हल्लेलूयाह)
 हल्लेलूयाह, (हल्लेलूयाह)
 हल्लेलूयाह, (हल्लेलूयाह)
@@ -9,7 +9,7 @@ hal-leluyaah, (hal-leluyaah)
 halleluyaah, (halleluyaah)
 hal-leluyaah, (hal-leluyaah)
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रशंसा गर्छु, (प्रशंसा गर्छु)
 प्रशंसा गर्छु, (प्रशंसा गर्छु)
 प्रभु तपाईंलाई, (प्रभु तपाईंलाई)
@@ -20,7 +20,7 @@ prashaňsaa garchu, (prashaňsaa garchu)
 prabhu tapaaiň-laai, (prabhu tapaaiň-laai)
 prashaňsaa garchu (prashaňsaa garchu)
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म प्रेम गर्छु, (म प्रेम गर्छु)
 म प्रेम गर्छु, (म प्रेम गर्छु)
 प्रभु तपाईंलाई, (प्रभु तपाईंलाई)

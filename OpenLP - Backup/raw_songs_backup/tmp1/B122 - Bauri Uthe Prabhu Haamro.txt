@@ -9,7 +9,7 @@ jai jai gaauň unko
 shaitaan-maathi jaiwant huňdaa
 uddhaar bho' sabko
 
----[Verse 1:]---
+---[Verse:1]---
 (मृत्यु बन्धन तोडी
 उनले जगत्‌ उद्धार गराए) २
 (हाम्रो पापको दाग मेटाउन) २
@@ -27,7 +27,7 @@ unle jagat uddhaar garaaye) ~2
 saanaa-Thulaa jagat
 sablaai unle bacaaye
 
----[Verse 2:]---
+---[Verse:2]---
 (तेस्रो दिनमा बौरी उठ्‌दा
 उनका शत्रु लजाए) २
 (अविश्‍वासी विश्‍वास गर्दै) २
@@ -45,7 +45,7 @@ unkaa shatru lajaaye) ~2
 satye-uddhaarak yeshu bhandai
 gaauň-Thaauň sunaaye
 
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वर प्रेमी पुत्र दिने,
 (के चढाउने उनैलाई) २
 (संसार उनकै, स्वर्ग उनकै) २

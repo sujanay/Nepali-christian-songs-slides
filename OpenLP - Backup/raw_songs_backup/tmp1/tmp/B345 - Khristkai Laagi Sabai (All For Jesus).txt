@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्टकै लागि सबै,
 ख्रीष्टकै काम गर्ने शक्ति मेरो
 बात, विचार, कामहरू सबै,
@@ -20,7 +20,7 @@ sabai khrisT-kai kaam garne shakti meraa
 khrisT-kai laagi, sabai khrisT-kai din,
 ghaNTaa sabai meraa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उनको कार्य यी हातले गरून्‌,
 पाउ उनको पथमा हिँडून्‌
 आँखाले ख्रीष्टलाई देखून्‌,
@@ -42,7 +42,7 @@ khrisT-kai paau unko pathmaa hiňDun
 khrisT-kai laagi sabai,
 khrisT-kai oThle unko stuti garun.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आँखा जब ख्रीष्टमा लाएँ
 ख्रीष्ट टाँगिएको देखेँ
 आत्माले ख्रीष्ट मात्र देखेँ,

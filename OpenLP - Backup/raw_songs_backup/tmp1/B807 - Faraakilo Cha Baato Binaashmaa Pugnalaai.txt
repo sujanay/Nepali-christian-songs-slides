@@ -20,7 +20,7 @@ kun baaTo line?
 baaTo ra satye, jyoti ra jivan
 prabhu yeshu khrisT nai hun.) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 बाइबलले भन्छ
 "धर्मी कोही छैन, एउटै पनि छैन",
 बुझ्ने कोही छैन, खोज्ने कोही छैन,
@@ -42,7 +42,7 @@ saaraa bishwo-kaa uddhaar-kartaa,
 soci hera, nirNai gara,
 inkaar aba na-gara.
 
----[Verse 2:]---
+---[Verse:2]---
 धर्मकर्मले धर्मी कोही बन्दैन,
 स्वर्ग कोही पुग्दैन,
 आफ्नै कोशिसले, आफ्नै विवेकले
@@ -64,7 +64,7 @@ tara khrisT-maa ananta jivan cha,
 khoji hera jaaňci hera
 a-bishwaasi na-bana.
 
----[Verse 3:]---
+---[Verse:3]---
 रगत नबगाई पापको क्षमा छैन,
 मुक्ति पाउने छैन, पापको क्षमा छ,
 फर्की हेर क्रूसलाई, मुक्तिदातालाई

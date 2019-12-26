@@ -9,7 +9,7 @@ krusko dukha sahera
 ma bhanna sakchu, ma sworga jaanchu,
 prabhu-laai paayera
 
----[Verse 1:]---
+---[Verse:1]---
 (त्यो महादु:ख र
 त्यो महाकष्टलाई) २
 येशूज्यूले सहनुभो
@@ -27,7 +27,7 @@ yeshuji-le sahanu-bho
 pitaa-ko aagyaa puraa gari
 sworga jaanu-bho.
 
----[Verse 2:]---
+---[Verse:2]---
 (हे महान्‌ पिता मेरो,
 तपाईंले दिनुभो) २
 तपाईंको त्यो दया,
@@ -45,7 +45,7 @@ tapaaiň-ko tyo dayaa,
 nishcai haami naash hune thiyauň
 tyo dayaa na-paaye.
 
----[Verse 3:]---
+---[Verse:3]---
 (कति दिन छ र यहाँ
 म बसिरहनु जहाँ) २
 (यो सानो पृथ्वीमा
@@ -63,7 +63,7 @@ yo saano prithivi-maa
 paaunechu maile tyo aananda
 prabhu-ko bhanDaar-maa.
 
----[Verse 4:]---
+---[Verse:4]---
 (आउनुहोस्‌ सबै साथी
 पाउनुहोस्‌ स्वर्गीय शान्ति) २
 आफ्‍‌नो पाप धुनलाई,

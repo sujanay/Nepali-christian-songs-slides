@@ -9,7 +9,7 @@ pal-bhar-maa biti-jaancha
 (anishcit yaatra ke hune
 kaso hune thaahaa chaina) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हरेकको भरोसा केही छैन
 भोलिको सपना देख्‍नु के ?) २
 आजलाई साथ पाउन नसके
@@ -31,7 +31,7 @@ chyeN bhar-maa pagli-dincha
 bhaye-maa aafno na-bhaye
 biraano miTho boldai Dhokaa dincha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (देखाउँछन् आशा मान्छे यहाँ
 अनि मूर्तिझैँ बनेर बाँचिदिन्छन् ) २
 सिसाझैँ हृदयलाई तोडिदिएर

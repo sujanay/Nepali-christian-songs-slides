@@ -9,7 +9,7 @@ jaagrit-ko belaa aayeko cha
 raat dherei nai biti-sakyo
 aba din aaunai laageko cha.
 
----[Verse 1:]---
+---[Verse:1]---
 (ज्ञानी कुमारी झैँ पर्खनेहरू
 दुलहाको घरमा प्रवेश गर्छन्) २
 (मूर्ख कुमारी झैँ जिउनेहरू
@@ -22,7 +22,7 @@ dulahaa-ko ghar-maa prabesh garchan) ~2
 khola na khola Dhokaa
 bhandai runchan) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (ज्योतिका हतियारलाई धारण गरी
 ख्रीष्टका असल सेवक बनौँ) २
 (विश्‍वासको उत्तम लडन्त लडी
@@ -33,7 +33,7 @@ khrisT-kaa asal sewak banauň) ~2
 (vishwaas-ko uttam laDanta laDi
 jivan-ko mukuT praapta garauň) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (उठी र बागी मानिस बनी
 संसार मै किन फर्की जान्छौ) २
 (दुइ दिनको सुखलाई रोजी तिमी
@@ -44,7 +44,7 @@ sansaar mai kina farki jaanchau) ~2
 (dui din-ko sukha-laai roji timi
 yugaanu-yug-samma kina runchau ?) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (प्रतिपल आफैले आफैलाई जाँची
 पश्‍चात्तापी हामी बनिँदै जाऔँ) २
 (नजीक छ अब न्यायको घडी

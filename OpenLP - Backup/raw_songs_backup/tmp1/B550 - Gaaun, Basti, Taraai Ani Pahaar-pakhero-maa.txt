@@ -11,7 +11,7 @@ sadhaiň aňdhyaaro-maa
 yesai-le haami jaauň
 khrisT-ko sandesh sunaauna) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 असत्य पयाँकी सत्यता
 खोज्ने उद्देश्य महान्
 (सफल जीवन व्यतित
@@ -33,7 +33,7 @@ prabhu, yo jimmaa haamro bho
 (sahi baaTo pakri hiňD-dachauň,
 masih, yo praaN haamro ho) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 झुकेन शिर रत्तिभर पनि
 झन् अझ उच्च थ्यो
 मानिसको जस्तो मरण होइन

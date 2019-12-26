@@ -7,7 +7,7 @@
 (naujaat prabhu-ko darshana garna
 na-gara biyaaň-lo) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (ईश्‍वरको वचन पूरो गर्नलाई
 आए प्रभु जगमा) २
 मानवको सबै दु:ख
@@ -29,7 +29,7 @@ dekhe sworga-dut-laai
 (DhaaRasa paa-i ramaa-i gaye
 khabara dina-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (तारालाई आफ्नो लक्ष बनाई
 बढ़े ज्योतिषीगण) २
 (भेटी चढ़ाए दर्शन पाई

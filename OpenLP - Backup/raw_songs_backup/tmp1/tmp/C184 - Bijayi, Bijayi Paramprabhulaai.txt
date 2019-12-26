@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (विजयी, विजयी परमप्रभुलाई) २
 (हृदय भेटी जिउँदो बलिदान) २
 (समर्पित होस् जीवन जीवीत येशूलाई) २
@@ -7,7 +7,7 @@
 (ridaya bheTi jiuňdo balidaan) ~2
 (samarpit hos jivan jivit yeshu-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रशंसा प्रशंसा परमप्रभुलाई) २
 (हृदय भेटी जिउँदो बलिदान) २
 (समर्पित होस् जीवन जीवीत येशूलाई) २
@@ -16,7 +16,7 @@
 (ridai bheTi jiuňdo balidaan) ~2
 (samarpit hos jivan jivit yeshu-laai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (पवित्र पवित्र परमप्रभुलाई) २
 (हृदय भेटी जिउँदो बलिदान) २
 (समर्पित होस् जीवन जीवीत येशूलाई) २
@@ -25,7 +25,7 @@
 (ridai bheTi jiuňdo balidaan) ~2
 (samarpit hos jivan jivit yeshu-laai) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (उच्च उच्च परमप्रभुलाई) २
 (हृदय भेटी जिउँदो बलिदान) २
 (समर्पित होस् जीवन जीवीत येशूलाई) २
@@ -34,7 +34,7 @@
 (ridai bheTi jiuňdo balidaan) ~2
 (samarpit hos jivan jivit yeshu-laai) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (स्तुति स्तुति परमप्रभुलाई) २
 (हृदय भेटी जिउँदो बलिदान) २
 (समर्पित होस् जीवन जीवीत येशूलाई) २

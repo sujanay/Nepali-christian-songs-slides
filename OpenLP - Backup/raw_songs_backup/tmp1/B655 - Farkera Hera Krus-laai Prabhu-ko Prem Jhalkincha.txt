@@ -9,7 +9,7 @@ prabhu-ko prem jhalkincha
 krus-ko mrityu samjhera
 DhukaDhuki mero aRkincha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (कलवरी पहाड थाँतिले
 क्रूसको काँटीले के भन्छ) २
 (कोर्राको धेरै व्यथाले
@@ -20,7 +20,7 @@ krus-ko kaaňTi-le ke bhan-cha) ~2
 (korraa-ko dherei byethaa-le
 dukha-ko sandesh le bhan-cha) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (दिनभरी घाममा तड्पिएर
 प्यासले व्याकुल भएर) २
 (भालाको दर्द खपेर
@@ -31,7 +31,7 @@ pyaas-le byaakul bhayera) ~2
 (bhaalaa-ko darda khapera
 praaN diye ragat bahera) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (क्रूसको निर्दयी मृत्युमा
 आँसुको थोपा आँखामा)२
 (फर्केर हेर्छन् हामीलाई

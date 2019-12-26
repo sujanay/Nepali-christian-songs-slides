@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पहाडमा फुल्‍‌ने फूल-लताहरू
 कति राम्रा छन्‌
 पहाडबाट खस्‍‌ने हिम नदीहरू
@@ -27,7 +27,7 @@ ma mahaan prabhu-ko bipanaa
 ma sadhaiň garchu mahaan prabhu-ko,
 mahaan prabhu-ko mahimaa
 
----[Verse 2:]---
+---[Verse:2]---
 पृथ्वीमा हिँड्‌ने पशु-प्राणीहरू
 कति अचम्मका छन्‌
 पानीमा बस्‍‌ने सबै प्राणीहरू
@@ -45,7 +45,7 @@ kati aakar-saka chan
 (prakriti-laai srisTi garne prabhu
 kati adwi-tiya chan) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 प्रभुमा सुम्पिएका जीवनहरू
 कति असाधारण छन्‌
 प्रभुलाई मात्र पुज्‍‌ने जीवनहरू

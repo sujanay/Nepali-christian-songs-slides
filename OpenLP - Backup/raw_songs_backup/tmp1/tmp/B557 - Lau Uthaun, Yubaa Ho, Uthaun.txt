@@ -16,7 +16,7 @@ jivan-ko baaTo-maa Doryaauň
 {y}lau uThauň, yubaa ho, uThauň,
 prakaashmaan bhai uThauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (काटीएको चङ्गाझैँ
 लक्षविहीन उड्नेलाई
 भविष्य बन्धक राखी
@@ -38,7 +38,7 @@ jaagriti-ko jwaalaa lii
 jivan-ko artha ke ho,
 swaadilo nun bani bujhaauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (येशू हुन् हाम्रो उचाइ,
 येशू नै गन्तव्य पनि
 उनी नै हाम्रो वर्तमान,

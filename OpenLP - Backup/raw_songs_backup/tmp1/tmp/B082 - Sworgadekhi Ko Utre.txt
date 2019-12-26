@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 स्वर्गदेखि को उत्रे?
 येशू मुक्तिदाता
 गरीब नरको चोलामा
@@ -20,28 +20,28 @@ unle uddhaar lyaayechan
 yesto premi chaina kohi,
 yeshu muktidaataa
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 क्रूसमा बलि भए
 को हाम्रो उद्धार गर्नलाई?
 
 {y}krusmaa bali bhaye
 ko haamro uddhaar garnalaai?
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पापको माफी दिने
 को विश्‍वासीलाई बचाउन?
 
 {y}paapko maafi dine
 ko vishwaasilaai bacaauna?
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 स्वर्गमा विराजमान
 को कसलाई हामी प्रेम गरौं?
 
 {y}sworgamaa biraajmaan
 ko kaslaai haami prem garauň?
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 स्वर्गदेखि आउँछन्‌
 को आफ्‍‌ना जनलाई लैजान?
 

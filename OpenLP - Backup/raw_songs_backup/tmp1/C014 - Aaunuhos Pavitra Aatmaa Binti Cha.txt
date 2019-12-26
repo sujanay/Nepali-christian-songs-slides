@@ -5,14 +5,14 @@
 (aaunuhos pavitra aatmaa
 binti cha) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 ल्याउनुहोस् चङ्गाइ र मुक्ति
 (हो हाम्रो हृदयको चित्कार) २
 
 lyaaunuhos cangaai ra mukti
 (ho haamro ridai-ko citkaar) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 ल्याउनुहोस् जागृति यहाँ
 (हो हाम्रो हृदयको चित्कार) २
 

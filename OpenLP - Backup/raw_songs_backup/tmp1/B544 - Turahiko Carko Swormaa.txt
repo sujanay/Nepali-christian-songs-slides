@@ -22,7 +22,7 @@ pradhaan duta garjan-chan hai
 baadala-ko sawaari-maa
 yeshu ek din aauňchan hai
 
----[Verse 1:]---
+---[Verse:1]---
 (चिहानभित्र सुतेकाहरू
 महिमित शरीरमा उठ्‌छन्‌ है) २
 हामी सबै दुलही बनी
@@ -33,7 +33,7 @@ mahimit sharir-maa uTh-chan hai) ~2
 haami sabai dulahi bani
 prabhu-laai bheT-na jaan-chauň hai.
 
----[Verse 2:]---
+---[Verse:2]---
 (त्यस दिन सबै साथी-सङ्गी
 बेहाल भई यहाँ छुट्‌छन्‌ है) २
 त्यो दिन हाम्रो आँशु प्रभुले पुछी

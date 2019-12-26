@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु तपाईंको प्रेमको उज्यालो,
 चम्किरहेछ जहाँ छ अँध्यारो
 येशू तपाईंको वचनको तेजले
@@ -38,7 +38,7 @@ yes desh-maa anugrah
 ra dayaa-ko baaRhi
 paThaaunos bacan ra yahaaň hos ujyaalo
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रभु, म आउँछु तपाईंकहाँ,
 अन्धकारबाट त्यो उज्यालोमा,
 तपाईंको रगतले
@@ -60,7 +60,7 @@ andhakaar haTaaunos,
 ma-maa camkanuhos,
 ma-maa camkanuhos.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जब हेर्छौं राजकीय उज्यालो,
 हाम्रो अनुहार हुन्छ तपाईंको जस्तो
 महिमाबाट महिमामा

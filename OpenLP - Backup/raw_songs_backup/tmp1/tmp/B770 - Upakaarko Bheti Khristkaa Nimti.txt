@@ -7,7 +7,7 @@
 harsit tulyaau-ne su-gandha ani,
 grahaN-yogye balidaan ho.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (सुन चाँदी सहित सृष्टि गरे
 पृथ्बीलाई महिमित प्रभुले) २
 (प्रभु भन्छन् "सुन चाँदी हुन्
@@ -25,7 +25,7 @@ meraa caahan-naň kehi sahaaraa") ~2
 {y}(yeskaaraN prabhu-laai kehi thok dina
 bhaar ra kar hoina ho sau-bhaagye.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रभुका जन दाऊदले भन्छन्
 "हामीहरूसँग के छ र ?) २
 (जति सम्पत्ति बटुलेका छौ
@@ -43,7 +43,7 @@ sabai yi timrai hun") ~2
 {y}(timrai haat-dwaaraa nai paaye-kaa hauň,
 timi-laai nai caRhaauň-chau.) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (हर्षसहित दिने विश्‍वासीलाई
 प्रभुले प्रेम गर्दछन् सधैँ) २
 (यसकारण चित्त नदुखाइकन
@@ -61,7 +61,7 @@ harsa-sahit diuň un-laai) ~2
 {y}(jas-le thorai charcha, thorai baTul-cha
 dherei charauň khubai baTu-lauň .) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (के मानिसले सत्य परमेश्‍वरलाई
 छल्न या लुट्न सक्दछ र ?) २
 (तर पनि प्रभुको भाग नदिई
@@ -79,7 +79,7 @@ nitye luTda-chauň un-laai) ~2
 {y}(yes-kaaraN prabhu-laai aadar garera
 un-ko bhaag lyaauň unko bhaban-maa .) ~2
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (सत्य प्रभूको प्रतिज्ञा यो छ,
 "सम्पूर्ण दशांश भण्डारमा ल्याऊ ) २
 (त्यसपछी मलाई जाँची हेर
@@ -99,7 +99,7 @@ aashis dinchu yaa dinnaň ? ) ~2
 khubai aashis barsaauň-chu
 yaa barsaaun-naň ? " ) ~2
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 (दिएर पनि आशिष् नपाऊँ
 तर पनि म दिन्छु नै ) २
 (घटी पनि मेरो पूर्ण नहोस्
@@ -117,7 +117,7 @@ dinu maile parcha nai ) ~2
 {y}(kinaki ma chu riNi mero prabhu-ko
 na-chuTne gari nitye chu riNi .) ~2
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 (सब थोक दियौ प्रभु मेरा निम्ति
 सक्दिनँ वर्णन गर्न यसको ) २
 (हृदय प्रशंसाले भरिन्छ

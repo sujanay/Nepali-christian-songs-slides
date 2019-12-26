@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (बहुमूल्य रगत बहाए तिम्रो लागि मरे
 तिमीलाई मुक्त गराउन र
 जीवन दिनलाई मेरो प्राण तिम्रैलागि दिएँ
@@ -9,7 +9,7 @@ timi-laai mukta garaauna ra
 jivan dina-laai mero praaN timrai-laagi diyeň
 malaai ke diye-kaa chau ? ) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (महिमित सिंहासनलाई छोडें
 परदेशी हुनलाई चम्किलो स्वर्ग त्यागें
 संसारको रात सहनलाई
@@ -22,7 +22,7 @@ sansaar-ko raat sahana-laai
 timrai-laagi maile sab tyaageň
 ke tyaage-kaa chau timi-le ? ) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (वर्णन गर्न असम्भब कष्ट मैले भोगें
 तिम्रै आत्मा बचाउन तितो संकष्ट भोगें
 तिम्रै लागि यी सबै भोगें
@@ -33,7 +33,7 @@ timrai aatmaa bacaauna tito saňkasTa bhogeň
 timrai laagi yi sabai bhogeň
 ke bhogeň-kaa chau timi-le ? ) ~2
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (दिँदछु पूर्ण मुक्ति सिँत्तैँमा तिमीलाई
 दिँदछु मेरो शान्ति र
 विश्राम प्रशस्त बहुमुल्य दान

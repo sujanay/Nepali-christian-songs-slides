@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:53:33">
+  <properties>
+    <titles>
+      <title>C010 - yeshu paarda-chan purai swotantra</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>येशू पार्दछन् पुरै स्वतन्त्र,<br/>कलवरीमा मरे दिन छुटकारा<br/>येशू पार्दछन् पुरै स्वतन्त्र,<br/>उनको नाउँको जय;<br/><br/><tag name="y">yeshu paarda-chan purai swotantra,<br/>kalvari-maa mare dina chuT-kaaraa<br/>yeshu paarda-chan purai swotantra,<br/>unko naauň-ko jai<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(यसैकारण म गाउँछु) २<br/>मेरो पाप क्षमा भयो,<br/>स्वर्ग मेरो घर भयो,<br/>(यसैकारण म) ३ गाउँछु ।<br/><br/><tag name="y">(yesai-kaaraN ma gaauň-chu) ~2<br/>mero paap chyemaa bhayo,<br/>sworga mero ghar bhayo,<br/>(yesai-kaaraN ma) ~3<br/>gaauň-chu.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(यसैकारण म खुशीछु) २<br/>मेरो पाप क्षमा भयो,<br/>स्वर्ग मेरो घर भयो,<br/>(यसैकारण म) ३ खुशीछु ।<br/><br/><tag name="y">(yesai-kaaraN ma khushi-chu) ~2<br/>mero paap chyemaa bhayo,<br/>sworga mero ghar bhayo,<br/>(yesai-kaaraN ma) ~3<br/>khushi-chu.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(यसैकारण म नाच्छु) २<br/>मेरो पाप क्षमा भयो,<br/>स्वर्ग मेरो घर भयो,<br/>(यसैकारण म) ३ नाच्छु ।<br/><br/><tag name="y">(yesai-kaaraN ma naac-chu) ~2<br/>mero paap chyemaa bhayo,<br/>sworga mero ghar bhayo,<br/>(yesai-kaaraN ma) ~3<br/>naac-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

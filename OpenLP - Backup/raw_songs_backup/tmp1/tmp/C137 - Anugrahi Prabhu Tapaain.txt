@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अनुग्रही प्रभु तपाईं,
 दया देखाउनुभो मलाई,
 चुन्‍‌नुभो तपाईंको हुनलाई
@@ -9,7 +9,7 @@ dayaa dekhaau-nubho ma-laai,
 cunnubho tapaaiň-ko huna-laai
 ma-jasto tuccha paapi-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 प्रेमीलो प्रभु तपाईं,
 प्रेम देखाउनुभो मलाई,
 सहनुभो क्रूसको दु:खलाई

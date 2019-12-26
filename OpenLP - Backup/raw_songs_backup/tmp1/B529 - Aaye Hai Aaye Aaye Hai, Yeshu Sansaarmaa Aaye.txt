@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आए है, आए,
 आए है, येशू संसारमा आए
 गए है, हाम्रो पाप मेटिगए,
@@ -9,7 +9,7 @@ aaye hai, yeshu sansaar-maa aaye
 gaye hai, haamro paap meTi-gaye,
 (o ho aa haa) ~4
 
----[Verse 2:]---
+---[Verse:2]---
 (दुई हजार वर्षअघि
 गाईको गोठमा) २
 परमेश्‍वरको एकलो पुत्र
@@ -31,7 +31,7 @@ taaraNahaar
 (maanis awataar bhaye) ~3,
 (o ho aa haa) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (हामी सबैको दु:ख बुझ्‍‌न
 संसारमा आए) २
 बाटो, सत्य, जीवन सबै

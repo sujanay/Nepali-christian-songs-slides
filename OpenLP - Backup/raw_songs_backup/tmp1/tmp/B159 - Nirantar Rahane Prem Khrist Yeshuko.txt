@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 निरन्तर रहने प्रेम ख्रीष्ट येशूको,
 अनुग्रह असीम अपार
 गाउनेछौं महिमा इम्मानुएल प्रभुको
@@ -20,7 +20,7 @@ narak-kuNDa-ko bhagi) ~2x
 (paapai na-jaane masih yeshu prabhu-le,
 sabai dos haTaaunu-bho) ~2x
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 धन्यवाद येशूलाई
 नचढाई सक्छौं कहाँ ?
 हाम्रो उहाँ सृजनहार
@@ -49,7 +49,7 @@ jyoti-kaa santaan haami) ~2x
 (yesto traaN-kartaa premi yeshu prabhu-laai
 caDhaauň sabai-le dhanyebaad) ~2x
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आनन्दित छौं आज,
 शक्ति पापको भयो नाश,
 छुटकारा दैनिक जीवनमा

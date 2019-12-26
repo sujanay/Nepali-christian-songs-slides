@@ -9,7 +9,7 @@ dayaa gara niskapaT,
 aafno paap-laai tyaagera
 prabhu yeshu-maa
 
----[Verse 1:]---
+---[Verse:1]---
 जुन कुरा छ पाप
 र शैतानले भरेको,
 त्यही कुरा छ मन
@@ -31,7 +31,7 @@ sadhaiň timro Thaauň-maa
 parai raakha tyo kuraa-laai
 parmeshworko cheu-maa.
 
----[Verse 2:]---
+---[Verse:2]---
 जुन कुरा छ राम्रो
 सधैँ परमेश्‍वरको छेउमा,
 त्यही कुरा हो गर्नुपर्ने
@@ -53,7 +53,7 @@ maayaa-prem gara
 kadara garne bhaabanaa sadhaiň
 aafno man-maa bhar.
 
----[Verse 3:]---
+---[Verse:3]---
 कोशिश गर सबै काममा
 अल्छे नबनेर,
 प्रभु सेवा गर्दै बस जोशिलो बनेर
@@ -73,7 +73,7 @@ aashaa-maa aananda gara
 dhiraji bani sabai kaam-maa,
 praarthanaa aTuT gara.
 
----[Verse 4:]---
+---[Verse:4]---
 मदत गर सभा-घरमा
 पवित्र जनहरूलाई,
 धन्य भन सधैँ तिम्रो

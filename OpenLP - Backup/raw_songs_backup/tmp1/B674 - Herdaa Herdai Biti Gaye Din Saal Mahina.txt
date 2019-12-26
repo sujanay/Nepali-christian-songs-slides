@@ -20,7 +20,7 @@ prabhu khrisT-ko jai
 (jai jai-hos sadaa) ~4
 (antim samai ho yo) ~4
 
----[Verse 1:]---
+---[Verse:1]---
 (अल्मलाउने थोकहरू
 धेरै धेरै छन्) २
 (लोभ्याउने थोकहरू
@@ -44,7 +44,7 @@ ek din puryaaune-cha) ~2
 binti timi-laai cha) ~2
 (antim samai ho yo) ~4
 
----[Verse 2:]---
+---[Verse:2]---
 (घटनाहरूले भनिरहेछ) २
 (वचनले पनि भनिरहेछ) २
 (विनाश नजीक छ
@@ -64,7 +64,7 @@ anta najik cha) ~2
 binti timi-laai cha) ~2
 (antim samai ho yo) ~4
 
----[Verse 3:]---
+---[Verse:3]---
 (आउनेवाला राजा
 हुँदैछन् तयार) २
 (आत्मालाई इनाम

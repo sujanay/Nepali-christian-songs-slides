@@ -9,7 +9,7 @@ caaňRai nai prabhu aaunu-huncha
 su-samaacaar suni raakha,
 (aafno aatmaa-laai bacaau aaja) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (तिमी भन्छौ समय छ मेरो) २
 (तर समयचैँ बितिसक्यो) २
 (प्रभुलाई ग्रहण गरिहाल) २
@@ -20,7 +20,7 @@ su-samaacaar suni raakha,
 (prabhu-laai grahaN gari-haala) ~2
 (natra anta-maa runu parlaa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अहिले सुनी भरे नभुल) २
 (सुसमाचार यो मनैमा गुन) २
 (तिमी आफैलाई जाँचिहाल) २
@@ -31,7 +31,7 @@ su-samaacaar suni raakha,
 (timi aafai-laai jaaňci-haala) ~2
 (aafno aatmaa-laai bacaau aaja) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (मित्र, प्रभुमा विश्‍वास गर) २
 (आज नै उनमा आघि बढ़) २
 (तिम्रो पापलाई धोइदिनुहुन्छ) २

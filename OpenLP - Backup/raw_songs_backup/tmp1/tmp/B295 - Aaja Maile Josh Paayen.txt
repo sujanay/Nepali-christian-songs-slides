@@ -9,7 +9,7 @@ yeshu-ko bardaan paayeň,
 sworga choDi aaye,
 mahimaa prakaT gare
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 सुस्त जीवन थियो,
 हृदय जगाइदिए,
 भुलिरहेकालाई बाटो वचनको दिए।
@@ -18,14 +18,14 @@ mahimaa prakaT gare
 ridai jagaaidiye,
 bhuli-rahekaa-laai baaTo bacan-ko diye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 स्वर्गीय ज्योति ममा प्रकाशित भयो,
 याद गर अब धरती नै स्वर्ग भयो।
 
 {y}sworgiye jyoti ma-maa prakaashit bhayo,
 yaad gara aba dharti nai sworga bhayo.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 बोलाउँछन्‌ हामीलाई
 येशू आफ्‍‌नो छेउमा,
 छोड्‌न संसारको मोह

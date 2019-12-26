@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (उत्सव मनाऔँ,
 येशूको उत्सव मनाउऔँ) २
 उनी बौरी उठेका छन्,
@@ -9,7 +9,7 @@ yeshu-ko utsab manaauň) ~2
 uni bauri uThekaa chan,
 rajye garchan sadaa-sarvadaa
 {/y}
----[Chorus 1:]---
+---[Chorus:1]---
 उनी बौरी उठेका छन्,
 आऊ हामी उत्सव मनाऔँ
 पुनरुत्थान हाम्रो प्रभुको ।
@@ -18,7 +18,7 @@ rajye garchan sadaa-sarvadaa
 aau haami utsab manaauň
 puna-rutthan haamro prabhu-ko.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (रयाकान् येसुस् रयाकान् ) ४
 दिया बङ्कित् , दिया बङ्कित्
 दिया हिदुप् स्लमन्या
@@ -27,7 +27,7 @@ puna-rutthan haamro prabhu-ko.
 Dia bangkit, Dia bangkit
 Dia hidup selamanya
 
-{y}---[Chorus 2:]---
+{y}---[Chorus:2]---
 दिया बङ्कित् , दिया बङ्कित्
 मरि लाह रयाकान्
 कबङ्कितान् तुहान् किता

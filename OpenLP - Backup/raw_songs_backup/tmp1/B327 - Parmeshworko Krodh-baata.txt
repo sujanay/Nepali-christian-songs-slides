@@ -9,14 +9,14 @@ haami-laai bacaauňchan
 uhaaň-ko jivan-le haami-laai
 paap-dekhi bacaauňcha
 
----[Verse 1:]---
+---[Verse:1]---
 महिमाको आशामा आनन्दित बनौं
 निराशा गराउँदैन आशामा रहौं।
 
 mahimaa-ko aashaa-maa aanandit banauň
 niraashaa garaauň-daina aashaa-maa rahauň.
 
----[Verse 2:]---
+---[Verse:2]---
 उहाँको जीवनद्वारा उद्धार पाउनेछौं
 मिलाप र आनन्द गरौं सदासर्वदा।
 

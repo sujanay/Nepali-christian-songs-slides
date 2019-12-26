@@ -9,7 +9,7 @@ prabhu yeshu janme
 dharti halyo, yo su-sandesh lii
 haami aayauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (थिएन कोही संसारमा आज
 मुक्ति दिने पापीलाई) २
 (आज जन्मे जीवनदाता
@@ -22,7 +22,7 @@ mukti dine paapi-laai) ~2
 mukti dina haami-laai) ~2
 tyesai-le grahaN gara uhaaňko su-sandesh.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (महल होइन गोठैमा जन्मे
 कोक्रो होइन डुँडैमा सुते) २
 (सुख होइन, दु:ख नै सहे

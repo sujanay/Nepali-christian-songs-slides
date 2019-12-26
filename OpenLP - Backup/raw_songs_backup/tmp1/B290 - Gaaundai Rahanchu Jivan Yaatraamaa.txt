@@ -9,7 +9,7 @@ kewal yeshu-ko cha stuti
 dhanyebaad maanauň,
 he vishwaasi-gaN mileko cha mukti
 
----[Verse 1:]---
+---[Verse:1]---
 हो कस्तो आनन्द पाप-क्षमा शान्ति
 तिनका म उमेद्‌वार
 मौका छ मलाई सुनाउन
@@ -29,7 +29,7 @@ kholo hai daan-ko pyaaro prabhu
 kasari baheko upayog jasko
 garna na-jaani sharaN-maa pareko.
 
----[Verse 2:]---
+---[Verse:2]---
 जीवन है मेरो समयले
 सीमित कसरी चलाउनु
 सिकाउनुहोस्‌ प्रभु प्रत्येक
@@ -51,7 +51,7 @@ awasar mile-ko cha malaai
 jhalamalla balne jyoti
 ma banuň satye-ko fal falaai.
 
----[Verse 3:]---
+---[Verse:3]---
 दान मैले पाएँ, स्थान मैले पाएँ
 आत्मा र स्वर्गको
 संसारमै बसी बनेँ

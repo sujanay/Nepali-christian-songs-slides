@@ -20,7 +20,7 @@ yi sab kas-le racyo) ~2
 (sabai srisTi uhaaň-kai hun
 sarva srijanaa unai-ko hun) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 माथि हेरे लेकै भरी
 लालीगुँरास ढकमक
 (तल हेरौ तराइ बेँसी वसन्त
@@ -42,7 +42,7 @@ merai sundar sansaar cha
 gamki basdina aafnai nimti
 ishwor-ko kaarye mahaan cha) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मानिस चोला छोटो हुन्छन्
 लामो हुन्छन् उद्देश्य
 (उहाँको सन्देश सुनेर हेर

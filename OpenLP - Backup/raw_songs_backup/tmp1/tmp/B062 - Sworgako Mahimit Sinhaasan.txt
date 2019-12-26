@@ -16,7 +16,7 @@ khrisTle rojnubho
 yeshule garnubho) ~2
 (tinlaai algaauna swoyeň hocinubho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 पापीलाई बचाउन स्वयं पाप बन्‍‌नुभो,
 (मृत्युदण्ड पनि प्रभुले भोग्‍‌नुभो) २
 (जयवन्त जीवन दिन
@@ -29,7 +29,7 @@ yeshule garnubho) ~2
 khrisT bauri uThnubho,
 halleluyaah prabhu yeshuko) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तुरहीको साथ
 महिमित बादलमा,
 (आउनेछन्‌ प्रभु ख्रीष्ट

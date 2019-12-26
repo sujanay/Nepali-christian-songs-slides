@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 नदीजस्तो राम्रो
 ईश्‍वरको शान्ति,
 दु:ख हटाउँछ
@@ -31,7 +31,7 @@ man-maa cha aaraam,
 bacan-anusaar paai
 shaanti ra bishraam
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 उनको आडमा बस्छ
 जो कोही पाउँछ सुख,
 शत्रु त्यहाँ न पस्छ
@@ -53,7 +53,7 @@ aaňdhi-jhaiň aauňcha,
 tara praaN-laai
 huri asar paardaina.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हर वरदान सर्वोत्तम
 ईश्‍वरबाट हो,
 हामीलाई छ उत्तम

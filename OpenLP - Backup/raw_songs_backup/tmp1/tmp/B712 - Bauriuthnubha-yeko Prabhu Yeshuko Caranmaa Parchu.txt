@@ -9,7 +9,7 @@ caraN-maa parchu
 ghuňRaa Tekdai daNDawat garchu
 prabhu-laai ma pyaaro garchu.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 भज्दै, पुज्दै, स्तुति गाउँदै,
 हृदयबाट धन्यवाद दिनेछु
 उनको मुहार हेरिबस्दै,
@@ -20,7 +20,7 @@ ridai-baaTa dhanyebaad dine-chu
 un-ko muhaar heri-basdai,
 un-ko aawaaj suni-rahane-chu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मेरो अरू कोही छैन,
 हजुरबाहेक कोही छैन,
 हजुरको हात समातेर

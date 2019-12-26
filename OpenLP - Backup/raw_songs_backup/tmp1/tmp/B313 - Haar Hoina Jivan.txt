@@ -16,7 +16,7 @@ kine-ko bardaana yo jivan dherei daami ho
 {y}(haara hoi-na jivan jita ho,
 abhi-shaap hoi-na aashis ho) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 ए हतास-हतास जिउनेहरू,
 ए उदास भएका मनहरू
 ए निराश-निराश आँखाहरू,
@@ -34,7 +34,7 @@ bibashtaa-maa rune praaNa-haru
 {y}nayaaň gari khrisT-maa janma leu,
 natra jivan byertha jaa-necha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जीवनदेखि थाकेकाहरू,
 अविश्‍वास गरी भाग्‍‌नेहरू
 मनका ती सबै व्यथालाई

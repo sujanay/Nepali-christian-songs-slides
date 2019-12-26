@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सारा संसारका मानिस हो,
 प्रभुको जयजयकार मनाओ
 गर खुशीसाथ सेवा उनको,
@@ -9,7 +9,7 @@ prabhu-ko jaijaikaar manaao
 gara khushi-saath sevaa unko,
 un-kahaaň aai bhajan gaao.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 परमेश्‍वर हाम्रा प्रभु हुन्‌,
 हामीलाई सिर्जे भन्‍‌ने जान
 हामी सबै उनका हौं प्रजा
@@ -20,7 +20,7 @@ haami-laai sirje bhanne jaana
 haami sabai un-kaa hauň prajaa
 ra unko kharka-kaa bheDaa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 द्वारभित्र धन्यवादसाथ आओ,
 चोकभित्र आई खुशी होओ
 ईश्‍वरलाई धन्यवाद चढाओ,
@@ -31,7 +31,7 @@ coka-bhitra aai khushi ho
 ishwor-laai dhanyebaad caDhaao,
 naam unko bhana dhanyeko.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 कारण प्रभु हुन्छन्‌ भला,
 सधैँभरि उनको कृपा रहन्छ
 उनको सत्यता

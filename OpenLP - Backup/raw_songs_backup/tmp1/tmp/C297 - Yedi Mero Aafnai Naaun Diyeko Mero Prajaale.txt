@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 यदि मेरो आफ्‍नै नाउँ दिएको मेरो प्रजाले
 नम्र भएर प्रार्थना गर्छ,
 मेरो मुहार खोजी
@@ -31,7 +31,7 @@ ma feri aghi-jastai swastha paarne-chu.
 khoja ta timi-le bheTaau-nechau,
 Dhak-Dhakaau Dhokaa ughaarine-cha.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (फसलको प्रभुलाई प्रार्थना गर
 उहाँको फसलमा खेतालाहरू पठाऊन्
 रुँदै छर्नेहरूले आनन्दले

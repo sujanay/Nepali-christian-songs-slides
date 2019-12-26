@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 खल्लो छ जीवन,
 नाथ अति नै घिनलाग्दो,
 तपाईंको योग्यको छैन
@@ -31,7 +31,7 @@ maagnu-huncha prabhu,
 thaakeň ma aafai-sita,
 thaaknu-hunna, he prabhu.
 
----[Verse 2:]---
+---[Verse:2]---
 भएँ म बालक ख्रीष्टको
 तापनि छु हताश;
 पवित्र प्रेम उहाँको
@@ -64,7 +64,7 @@ sunchu jaba aawaaj,
 fikaa yesto jivan-laai daan cha
 yeshu-ko raajye.
 
----[Verse 3:]---
+---[Verse:3]---
 पत्याउनु गाह्रो लाग्छ
 प्रेम कस्तो गहिरो,
 बेकम्मा फोस्रो मानिस

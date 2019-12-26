@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सिकाउनोस् सङ्गत गर्न तपाईंको
 दिन व दिन, हे मेरो नाथ
 गराउनोस् शान्त हलचल हृदयको
@@ -20,7 +20,7 @@ sunna tyo mridu aawaaj
 (gar-nuhos gohaar masihi jivan
 bitaauna binaalaaj) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 चाहन्छु प्रभु, हिँड्न बाटोमा
 तपाईंको दिन-प्रतिदिन
 स्वार्थकै कारण याद मलाई हुन्छ,
@@ -42,7 +42,7 @@ na-bani apswaarthi
 (baRhaai hos aaja prabhu yeshu-ko,
 banuň ma niswaarthi) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 निश्‍वयता प्रभु, आज मलाई छ
 भएको छु मृत्यु पार
 पवित्र आत्मा र प्रतिज्ञाका भएँ

@@ -9,7 +9,7 @@ malaai lina-laai aauňdai chan) ~2
 (sanaiko sor-le prithivi Dhaaki
 malaai lina-laai aauňdai chan) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (निराश-निराश रूपहरूमा
 मुस्कानको छवि झल्कनेछ) २
 (तुरहीका सोरहरू
@@ -20,7 +20,7 @@ muskaan-ko chabi jhalkanecha) ~2
 turahi-kaa soraharu
 srisTi-bhari gunjinechan ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (दु:ख र व्यथा बोकेको सृष्टि
 तुरहीको लयमा गाउनेछ) २
 (दु:खको सागर बनेको मुहारमा
@@ -31,7 +31,7 @@ turahi-ko laye-maa gaaunecha) ~2
 (dukha-ko saagar baneko muhaar-maa
 haaňso-ko rekhaa dekhinecha ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (सबै आँखाले देख्‍‌नेछन्‌,
 सबै कानले सुन्‍‌नेछन्‌) २
 (तर येशूमा जो जीवित छन्‌,

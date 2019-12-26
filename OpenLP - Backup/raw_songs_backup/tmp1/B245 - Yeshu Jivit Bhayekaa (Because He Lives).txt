@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परमेश्‍वरले येशू पठाए
 पाप क्षमा चङ्गाइ दिनलाई
 जिए मरे क्षमाको लागि
@@ -20,7 +20,7 @@ bholi-ko Dar haTi-gayo
 kaaraN bhabishye un-le samhaal-chan
 ra mero jivan-laai saarthak banaauň-dachan
 
----[Verse 2:]---
+---[Verse:2]---
 नयाँ बालकले आनन्द ल्याउँछ,
 खुशी गौरव थपिन्छ
 अझ उहाँको जीवितताले
@@ -31,7 +31,7 @@ khushi gaurav thapin-cha,
 ajha uhaaň-ko jivittaa-le
 anishcit bhabishye sabai surakchit cha
 
----[Verse 3:]---
+---[Verse:3]---
 मृत्यु नदी तरेर जाँदा
 अन्तिम लड़ाइँ संघर्षसाथ
 मृत्युपछि विजय पाउँदा

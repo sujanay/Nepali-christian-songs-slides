@@ -9,7 +9,7 @@ aaňsu ho ki haaňso ho yo
 dharma-karma-ko puraano riwaaj ho ki
 (sworga-ko naulo aawaaj ho) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 शान्ति विश्वमा हराइरहेछ,
 आफ्नो शत्रु मान्छे आफै नै बनेछ
 आतङ्ग, अन्यायको डढेलो सल्केछ
@@ -29,7 +29,7 @@ yeshu-ko aawaaj-laai ek palTa suni-hera
 shaanti bishraam dine bacan
 ek palTa bujhi-hera.
 
----[Verse 2:]---
+---[Verse:2]---
 मान्छे आफैले आफ्नो आत्मालाई
 कति दाम तिरी बचाउन सक्छ र ?
 (पूजा र भक्ति, आफ्नै प्रयत्‍नले

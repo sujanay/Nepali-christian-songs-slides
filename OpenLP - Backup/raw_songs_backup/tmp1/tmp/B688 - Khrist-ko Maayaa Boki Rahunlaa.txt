@@ -18,7 +18,7 @@ khrisT-maa baaňcau-laa) ~2
 boki rahuň-laa
 ridaya-maa sajjaa-yera
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्टले जीवन चढापदिए
 गलगथाको माटोमा
 (ख्रीष्ट येशू मरी दिए
@@ -38,7 +38,7 @@ timro haamro saaTo-maa) ~2
 krus-ko fedi-laai
 ridaya-maa sajjaa-yera) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (ख्रीष्टको दु:खलाई सम्झेर ल्याउँदा
 मन मेरो कल्पिन्छ
 उनको प्रेमलाई सम्झेर ल्याउँदा

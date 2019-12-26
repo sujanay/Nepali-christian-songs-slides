@@ -11,7 +11,7 @@ unko abaai au antakaa cinha,
 ek-ek gari puraa huňdai chan
 yeshu caaňDai feri aaunechan
 
----[Verse 1:]---
+---[Verse:1]---
 पाप, दु:ख औ सङ्कष्ट बढिरहेछन्‌,
 लडाइँ, हलचल जगत्‌मा भइरहेछन्‌,
 जाति-जातिको विरुद्धमा उठ्‌नेछन्‌,
@@ -22,7 +22,7 @@ laDaaiň, hal-cal jagat-maa bhai-rahechan,
 jaati-jaati-ko biruddha-maa uThnechan,
 raajye-raajye-ko biruddha-maa uThnechan.
 
----[Verse 2:]---
+---[Verse:2]---
 विनाशक भुइँचाला
 ठाउँ-ठाउँमा जानेछन्‌, रूढी,
 अनिकाल संसारमा हुनेछन्‌,
@@ -35,7 +35,7 @@ anikaala sansaarmaa hunechan,
 aakaashmaa Dar-laagdaa lakchyeN hunechan,
 udek-kaa mahaan cinha dekhinechan.
 
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्ट येशू बिजुलीझैँ स्वर्गबाट
 विश्‍वासीलाई उठाउन ओर्लनेछन्‌,
 हामी रक्तले किनिएका उनीसाथ रही,
@@ -46,7 +46,7 @@ vishwaasi-laai uThaauna orlanechan,
 haami rakta-le kiniekaa uni-saath rahi,
 hajaar barsa-samma raajye garnechauň.
 
----[Verse 4:]---
+---[Verse:4]---
 पश्चात्ताप गरी प्रभु येशूमाथि,
 विश्‍वास गरी रगतले सब पाप धोई माग
 परमेश्‍वरका धार्मिक सत्य राज्यमा,

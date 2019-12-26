@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 एक मित्र मैले पाएको छु,
 प्यार गर्ने अघिदेखि
 प्रेम सूत्रले ताने उनले,
@@ -20,7 +20,7 @@ kahilyei un-laai natyaagi
 ma khrisT-ko huň, khrisT meraa hun
 sadaa-sarvadaa-ko laagi.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 एक मित्र मैले पाको छु,
 त्राण दिनु उनी मरे
 जीवनदान र उनको साथ
@@ -42,7 +42,7 @@ daataa-ko laagi raakhi
 ridai saamartha jivan
 sabai unkaa sadhaiň-kaa laagi.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 एक मित्र मैले पाको छु
 उनको हो सबै सामर्थ
 यात्रामा मेरो अगुवा
@@ -64,7 +64,7 @@ tyo malaai saahas dincha
 aba paharaa kaam ra laDaaiň
 taba bishraam sadhaiň huncha.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 एक मित्र मैले पाको छु दयालु,
 साँचो, नम्र
 खूब ज्ञानी राजा, अगुवा,

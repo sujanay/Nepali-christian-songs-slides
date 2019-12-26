@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पूर्वतिर जब फर्किहे्र्छु
 त्यहाँ मेरो यशूलाई पाउँछु
 पश्‍चिमतिर जब फर्किहे्र्छु
@@ -31,7 +31,7 @@ sadhaiň saath-maa yeshu-laai
 ma paauňchu) ~2
 (halleluyaah aamin ) ~3
 
----[Verse 2:]---
+---[Verse:2]---
 पूर्वतिर जब फर्किहे्र्छु
 त्यहाँ शैतान हारेको देख्छु
 पश्‍चिमतिर जब फर्किहे्र्छु
@@ -62,7 +62,7 @@ tyehaaň shaitaan haareko dekhchu
 shaitaan-laai haareko dekhchu) ~2
 (halleluyaah aamin ) ~3
 
----[Verse 3:]---
+---[Verse:3]---
 पूर्वतिर जब फर्किहे्र्छु
 त्यहाँ येशू ख्रीष्टको कामलाई देख्छु
 पश्‍चिमतिर जब फर्किहे्र्छु

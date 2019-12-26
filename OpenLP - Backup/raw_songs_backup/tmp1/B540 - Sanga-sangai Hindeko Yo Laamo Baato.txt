@@ -9,7 +9,7 @@ yehi Tungeko chaina
 (shuru huncha aba yaatraa
 parkhi-basa ma aauň-dai chu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (उस्तै छ आकाश यहाँको,
 धर्ती पनि उस्तै) २
 (तिमीले राखेको आशासितै
@@ -20,7 +20,7 @@ dharti pani ustai) ~2
 (timi-le raakhe-ko aashaa-sitai
 parkhi-basa ma aauň-dai chu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 दिन पनि बिस्तारै बस्तैछ,
 (छोडेको तिमीलाई मैले होइन) २
 (हामीले बाँधेको वाचासितै

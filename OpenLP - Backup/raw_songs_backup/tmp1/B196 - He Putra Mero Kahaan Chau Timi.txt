@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे पुत्र मेरो कहाँ छौ तिमी,
 पर्खिरहेछु म
 खोज्दै र हिँड्‌दै बाटो तिम्रो
@@ -20,7 +20,7 @@ Thaauň bheTnechu timi-laai
 farkera aau ma bhaye Thaauň,
 sthaan ho tyo kalwari.
 
----[Verse 2:]---
+---[Verse:2]---
 माता-पिता छन्‌ र धेरै साथी
 प्यार पाउँछौ तिमीले
 तर सुन ती सबै
@@ -42,7 +42,7 @@ huna-laai timrai mit
 aaja-bholi sadaa-sarvadaa
 rahanechu timrai mit.
 
----[Verse 3:]---
+---[Verse:3]---
 थकित छ होला दु:खित
 तिम्रो मन चिन्ताले संसारको
 भविष्यको डर मनमा राखी
@@ -64,7 +64,7 @@ ma-sita chan pracura
 ananta shaanti-le paari bharpur,
 garnechu sab dos dur.
 
----[Verse 4:]---
+---[Verse:4]---
 हे पुत्र, मेरो भन कहाँ छौ
 अँध्यारो हुँदै छ
 छिट्टै नै आऊ बेला

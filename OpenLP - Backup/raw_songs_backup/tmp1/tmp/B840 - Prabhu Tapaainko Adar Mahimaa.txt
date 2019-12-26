@@ -9,7 +9,7 @@ garna sakuň ma sadaa-sarvadaa,
 ke bihaana, saaňjh ke din ra raat,
 stuti prashaňsaa gaai-rahuň ma...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 छुनुहोस् प्रभु चिसो मन मेरो,
 धन्यवाद तपाईंलाई भन्‍न सकूँ म,
 छुनुहोस् प्रभु बन्द आँखा,
@@ -20,7 +20,7 @@ dhanyebaad tapaaiň-laai bhanna sakuň ma,
 chunu-hos prabhu banda aaňkhaa,
 sab-maa tapaaiň-laai dekh-na sakuň ma.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 खोल्नुहोस् प्रभु बैरो कान मेरो,
 मृदू स्वर तपाईंको सुन्‍न सकूँ म,
 खोल्नुहोस् प्रभु हृदय मेरो,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 विस्तृत र गहिरो,
 अझ गहिरो सागरभन्दा
 (प्यार छ मुक्तिदाता ख्रीष्टको
@@ -9,7 +9,7 @@ ajha gahiro saagar-bhandaa
 (pyaar cha mukti-daataa khrisT-ko
 ananta-ananta kaal-samma) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 तर पाप मेरा छन्‌ अनेक,
 के छ प्यार उनको महान्‌?
 (अनुग्रह सब पापको लागि
@@ -20,7 +20,7 @@ ke cha pyaar un-ko mahaan?
 (anugraha sab paap-ko laagi
 chyemaa dine raakhne praaN) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 मेट्‌न सक्छन्‌ तिर्खा सधैँ
 के आत्माले दिन्छ बल?
 (जीवन जल पिलाउँछन्‌

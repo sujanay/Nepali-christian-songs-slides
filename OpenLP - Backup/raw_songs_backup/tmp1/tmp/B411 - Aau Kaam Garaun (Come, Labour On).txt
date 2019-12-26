@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आऊ काम गरौं,
 कटनीमा अल्छे गरी को बस्ला?
 सबतिर अन्‍‌न पाकेको हुँदा
@@ -11,7 +11,7 @@ sab-tira anna paakeko huňdaa
 ek-ekai daas-laai unle bhandachan,
 jaau kaam gara.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 आऊ काम गरौं,
 दूतले नपाएको काममा हात लगाऔं
 सबैलाई यो सुसमाचार सुनाऔं,
@@ -24,7 +24,7 @@ sabai-laai yo su-samaacaar sunaauň,
 bitdai cha belaa
 Dhilo na-garauň, raat pardai cha.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 आऊ काम गरौं,
 शङ्का र डर सबै दूर गरेर
 यहाँ सबैले काम त गर्नुछ
@@ -37,7 +37,7 @@ yahaaň sabai-le kaam ta garnucha
 unle nirdhaa-baaTa garaauň-dachan
 aafno ichyaa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 आऊ काम गरौं,
 घाम हुँदा हामीहरू नबिसाऔं
 जहिलेसम्म हाम्रो धेर काम नहोस्‌
@@ -50,7 +50,7 @@ jahile-samma haamro dher kaam na-hos
 ra jaba-samma unle
 bhan-dainan, 'taň daas dhanye.'
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 आऊ काम गरौं,
 काम गर्नेले निश्चय पाउनेछन्‌ इनाम
 धन्य जो अन्तसम्म स्थिर होलान्‌,

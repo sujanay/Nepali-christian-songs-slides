@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मुक्त भनी बताउन मन लाग्छ,
 मुक्त थुमाको रगतले,
 मुक्त भएँ अनन्त कृपाले,
@@ -18,7 +18,7 @@ sadaa unkai santaan bhayeň .
 mukta bhani bataauna man laagcha,
 sadaa unkai santaan bhayeň .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 मुक्त यो कस्तो आनन्द येशूमा,
 शब्द छैन वर्णन गर्नलाई ,
 उनको उपस्थितिको यो ज्योति रहन्छ
@@ -29,7 +29,7 @@ shabda chaina barNan garna-laai ,
 un-ko upasthiti-ko yo jyoti rahan-cha
 ma-sanga sadhaiň .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 सम्झन्छु धन्य मुक्तिदातालाई,
 सम्झन्छु उनलाई दिनभरी,
 गाउँछु कारण चूप बस्न सक्दिनँ,
@@ -40,7 +40,7 @@ samjhan-chu un-laai dina-bhari,
 gaauň-chu kaaraN cupa basna sak-dinaň,
 uhaaň-ko prem nai mero git .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 देख्‍नेछु सुन्दरतामा राजालाई,
 जसको व्यवस्थामा रमाउँछु,
 जो प्रेमले पाइला रक्षा गर्दछन्

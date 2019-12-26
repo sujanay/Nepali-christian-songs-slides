@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (आदि र अन्त र जगत्‌को ज्योति
 चरणमा तपाईंको आउँदछौं) २
 हल्लेलूयाह गाउँदै, स्तुति सुनाउँदै
@@ -9,7 +9,7 @@ caraN-maa tapaaiň-ko aauň-dachauň) ~2
 halleluyaah gaauň-dai, stuti sunaauň-dai
 shir nihu-raauň-dachauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अल्फा-ओमेगा र जीवनको रोटी
 तपाईंमा जीवन पाउँदछौं) २
 हल्लेलूयाह गाउँदै, हात पसार्छौं,
@@ -20,7 +20,7 @@ tapaaiň-maa jivan paauňdachauň) ~2
 halleluyaah gaauňdai, haat pasaarchauň,
 aashirbaad paauňdachauň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (रगतले धोएर गर्नोस्‌ पवित्र,
 पूरा पवित्रता दिनुहोस्‌) २
 हल्लेलूयाह गाउँदै, आशा राख्दै,
@@ -31,7 +31,7 @@ puraa pavitrataa dinuhos) ~2
 halleluyaah gaauňdai, aashaa raakhdai,
 tapaaiň-kahaaň aauňdachauň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (पवित्र आत्माको दान दिई हामीलाई,
 प्रतिज्ञा पूरो गर्नुहोस्‌) २
 हल्लेलूयाह गाउँदै, जयजयकार गर्दै,
@@ -42,7 +42,7 @@ pratigyaa puro garnuhos) ~2
 halleluyaah gaauňdai, jaijaikaar gardai,
 khushi-le bharijaauň.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (दुलहा हुन्‌ हाम्रा प्यारा ख्रीष्ट येशू,
 छिट्टै लिनलाई आउनेछन्‌) २
 हल्लेलूयाह गाउँदै, खुशी मनाउँछौं,
@@ -53,7 +53,7 @@ chiTTai lina-laai aaunechan) ~2
 halleluyaah gaauňdai, khushi manaauňchauň,
 sworga-maa laanechan.
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 (भरिदिनोस्‌ प्रेमले यो हाम्रो मनलाई
 र विन्ती तपाईंलाई गर्नेछौं) २
 हल्लेलूयाह गाउँदै, हाम्रो मन जगाऔं

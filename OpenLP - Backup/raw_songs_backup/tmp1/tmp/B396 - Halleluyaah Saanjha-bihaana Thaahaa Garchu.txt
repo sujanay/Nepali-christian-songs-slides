@@ -5,7 +5,7 @@
 {y}halleluyaah, halleluyaah,
 halleluyaah, halleluyaah
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 साँझ-बिहान थाहा गर्छु
 प्रभु साथमा भएको
 उनको कोमल हातले मलाई
@@ -27,7 +27,7 @@ saahas, shakti, bal paauň-chu
 (maha-bhandaa miTho khrisT-ko pyaar
 sadhaiň nai paauň-dachu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 जब प्रार्थना गर्छु उनलाई,
 उत्तर चाँडै मिलेको
 थाहा हुन्छ हरकदममा
@@ -49,7 +49,7 @@ eklai taanna sakdinaň
 (prabhu daayaaň, ma chu
 baayaaň kaThinaai-le rok-daina) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 किन मलाई प्रेम गर्नुभो,
 कहिल्यै पनि बुझ्दिनँ
 जबसम्म जिउनुपर्छ साथ

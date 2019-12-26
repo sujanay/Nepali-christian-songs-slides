@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हामीले सुनेका छौं,
 येशूले बचाउँदछन्‌,
 अरुलाई जनाएका छौं,
@@ -20,7 +20,7 @@ khrisT-le diyeko uddhaar,
 prabhu-ko su-samaacaar,
 yeshu-le bacaauň-dachan.
 
----[Verse 2:]---
+---[Verse:2]---
 पापीलाई सुनाइयोस्‌,
 येशूले बचाउँदछन्‌,
 दु:खीलाई जनाइयोस्‌,
@@ -42,7 +42,7 @@ nasTa haus sab udaas,
 sabkaa man-maa yestai hos,
 yeshu-le bacaauň-dachan.
 
----[Verse 3:]---
+---[Verse:3]---
 आफ्‍‌नो जीवन-मृत्युले,
 येशूले बचाउँदछन्‌,
 स्तुति गर यस गीतले,
@@ -64,7 +64,7 @@ gaau pash-caattaap gardaa,
 gaau jivan choD-daa,
 yeshu-le bacaauň-dachan.
 
----[Verse 4:]---
+---[Verse:4]---
 सबैलाई यो आह्वान छ,
 येशूले बचाउँदछन्‌,
 सबैलाई रमाहट छ,

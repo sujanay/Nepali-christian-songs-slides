@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूको वाणी सुनेथेँ,
 'आऊ थकित, मकहाँ आऊ,
 छौ पापको बोझले दबेका,
@@ -20,7 +20,7 @@ thakaai ra paap ra dukha,
 un-maa maile bishraam paayeň,
 aba malaai milyo sukha.
 
----[Verse 2:]---
+---[Verse:2]---
 येशूको वाणी सुनेथेँ,
 'आऊ तिर्खाएका छेउ,
 म जिउँदो पानी दिनेछु
@@ -42,7 +42,7 @@ tyo jiuňdo kholaa-ko,
 pyaasa meTiyo, aatmaa byuňjhyo,
 aba un-maa ma jiuňdo.
 
----[Verse 3:]---
+---[Verse:3]---
 येशूको वाणी सुनेथेँ,
 'म जगको हुँ ज्योति,
 मतिर हेर, तिम्रो होस्‌

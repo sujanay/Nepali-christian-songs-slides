@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जो हुन्छ साहसी ऊ यता आओस्‌
 जे-सुकै होस्‌, गत विश्‍वासी हवस्‌,
 हुँदैन निराश,
@@ -16,7 +16,7 @@ u rahancha, sthir sadaa
 ra garne-cha ichyaa
 sworga-yaatraa garnu.
 
----[Verse 2:]---
+---[Verse:2]---
 जो-जो उसलाई सुनाउँछन्‌
 कथा डरलाग्दो
 आफैलाई भुलाउँछन्‌
@@ -38,7 +38,7 @@ na shatru-dekhi Dar,
 usko cha adhikaar
 sworga yaatraa garnu.
 
----[Verse 3:]---
+---[Verse:3]---
 न भूत, न शैतानले
 उसलाई तर्साउँछ,
 ऊ जीवन अन्त्यमा

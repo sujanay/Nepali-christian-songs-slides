@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू कस्तो प्यारो मित्र
 पापको भार उठाउनुभो
 दु:ख-सुख ईश्‍वरकहाँ ल्याओं
@@ -20,7 +20,7 @@ kati dukh cha byerthai-maa?
 kaaraN ishwor-kahaaň haami
 sab lyaauň-dainauň praarthanaa-maa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 चारैतिरबाट आउँछ
 सङ्कट, क्लेश र परीक्षा
 लौ, हरेस खानुपर्दैन
@@ -42,7 +42,7 @@ yesto mitra ka'aaň paauňlaa?
 har-kamjori yeshu bujh-chan,
 khrisT-laai bhanauň praarth'naa-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हामी छौं कि निर्बल, दु:खित,
 चिन्ता, बोझले लादिएका?
 हाम्रो आश्रय खालि येशू

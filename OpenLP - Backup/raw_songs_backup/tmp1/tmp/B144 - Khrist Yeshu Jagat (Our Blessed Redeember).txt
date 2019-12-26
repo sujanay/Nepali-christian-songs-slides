@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ख्रीष्ट येशू जगत् छेड्दामा
 दिई गए बिदा भई,
 एक शान्तिदाता
@@ -9,7 +9,7 @@ dii gaye bidaa bhai,
 ek shaanti-daataa
 aguwaa saathai basna-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सब चिन्ता उनले थाम्दछन्‌,
 दूर गर्दछन्‌ सब डर,
 र स्वर्गका कुरा
@@ -20,7 +20,7 @@ dur gardachan sab Dar,
 ra sworga-kaa kuraa
 boldachan jivan amar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 र हाम्रो भलाइ जति भो
 र हाम्रो सबै जय,
 र सोच पिताको
@@ -31,7 +31,7 @@ ra haamro sabai jai,
 ra soca pitaa-ko
 kuraa-ko hun unkai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हे आत्मा सब अनुग्रहका,
 होस्‌ दृष्टि दयाको,
 र हाम्रो अयोग्य
@@ -42,7 +42,7 @@ hos drisTi dayaa-ko,
 ra haamro ayogye
 ridai-maa baas tapaaiň-ko.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 होस्‌ पिता पुत्रको बढाइ,
 होस्‌ पनि आत्माको,
 होस्‌ स्तुति महिमा

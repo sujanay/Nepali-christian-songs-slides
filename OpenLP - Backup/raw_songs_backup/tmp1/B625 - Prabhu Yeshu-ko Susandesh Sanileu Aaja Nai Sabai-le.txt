@@ -22,7 +22,7 @@ paapi-ko paap-laai chyemaa garne
 yeshu nai saaňco prabhu hun
 prabhu hun.
 
----[Verse 1:]---
+---[Verse:1]---
 येशूमा आउ सबै जना
 मुक्ति उद्धार पाउनलाई
 नगर अबेर कसैले पनि
@@ -40,7 +40,7 @@ sworgiye shaanti paauna-laai
 ghaam chaayaa jastai jivan haamro
 marera laanu ke cha ra ?
 
----[Verse 2:]---
+---[Verse:2]---
 हाम्रो पापको निम्ति
 येशू क्रूसैमा मर्नुभो
 सत्य बाटो देखाउनलाई

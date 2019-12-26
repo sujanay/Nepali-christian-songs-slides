@@ -16,7 +16,7 @@ lau hai caDhaayeň
 prabhuji mana-ko mailo dho-i-deu,
 lau hai caDhaayeň
 
----[Verse 1:]---
+---[Verse:1]---
 (संसारै छ पापैले भरेको) २
 धनको लोभमा सबै परेको
 (लौन विन्ती आज मैले चढाएँ) २
@@ -25,7 +25,7 @@ lau hai caDhaayeň
 dhan-ko lobh-maa sabai pareko
 (launa binti aaja maile caDhaayeň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (संसाररूपी समुद्र चौड़ा छ) २
 जीवनरूपी नाउ पुरानो छ
 (लौन मेरो नाउलाई पार लगाइदेऊ) २
@@ -34,7 +34,7 @@ dhan-ko lobh-maa sabai pareko
 jivan rupi naa-u puraano cha
 (launa mero naau-laai paara lagaai-deu) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (राता सेता फूलै फूलेका) २
 माया जालमा दुनियाँ भुलेका
 (लौन जगको माया
@@ -45,7 +45,7 @@ maayaa jaal-maa duniyaaň bhulekaa
 (launa jag-ko maayaa
 jaal-laai fukaai-deu) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (डाँड़ापारि घामै डुबिगो) २
 चारै दिशा घोर अन्धकार भो
 (लौन अन्धकारमा

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हृदयमा छ मेरो दिव्य राग,
 येशूको मीठो ध्वनि
 नडराऊ सदैव छु म साथ,
@@ -20,7 +20,7 @@ shresTh ra miTho naam
 lyaayo shaanti, sthaayi
 krus-maa gari jag-ko traaN
 
----[Verse 2:]---
+---[Verse:2]---
 पापको भारले जीवन थियो
 निकृष्ट, दुर्बल, थेँ म निरुपाय,
 बनेर सहायक आए ख्रीष्ट
@@ -31,7 +31,7 @@ nikrisTa, durbal, theň ma nirupaai,
 banera sahaayak aaye khrisT
 garna-laai shatru-ko chyeye.
 
----[Verse 3:]---
+---[Verse:3]---
 एक सुनौलो बिहान फेरि
 ख्रीष्ट आउँछन्‌ बादलमा निश्चय,
 लिएर शरीर त्यो महिमित

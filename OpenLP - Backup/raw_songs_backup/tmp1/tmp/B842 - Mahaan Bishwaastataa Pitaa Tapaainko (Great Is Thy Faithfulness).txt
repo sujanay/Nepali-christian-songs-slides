@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 महान् विश्‍वास्तता पिता तपाईंको,
 तपाईंमा फेरिने छायाँ छैन।
 जस्ताको त्यस्तै नै रहनुहुन्छ,
@@ -20,7 +20,7 @@ harek bihaana nayaaň dayaa dekhaai,
 puryaau-nubho abhaab mero tapaaiň-le,
 mahaan bishwaasta-taa hun-cha malaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 रहुन्जेल पृथ्वी बीउ छर्ने र कटनी,
 ग्रीष्म र शिशिर जून तारा र घाम,
 सारा प्रकृतिसाथ दिन्छन् गवाही
@@ -31,7 +31,7 @@ grisma ra shishir jun taaraa ra ghaam,
 saaraa prakriti-saath din-chan gawaai
 tapaaiň-ko kripaa bishwaasta-taa prem.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पापको क्षमा अनि खपुवा शान्ति
 साहस र अगुवाइ दिने तपाईं,
 आजको शक्ति र भोलीलाई आशा

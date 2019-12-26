@@ -9,7 +9,7 @@ malaai prabhu) ~2
 (mero ekaanta-maa saath
 timro paauna sakuň) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (रोइरहे थिएँ
 यो एक्लो जीवनमा
 अब हाँस्न
@@ -31,7 +31,7 @@ baaňcna caahan-chu timi-maa
 (sahaaraa timro paayera ma ta
 khushi chu prabhu) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (म त डुब्दै गरेको एउटा नाउ
 साथ तिम्रो पाउँ येशू) २
 जीवनको यो भुमरीमा

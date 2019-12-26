@@ -7,7 +7,7 @@ prabhu-laai mahimaa garchu mero oTh-le
 ucaalchu tapaaiň-laai dui haat-le
 prabhu-laai mahimaa mahimaa.
 
----[Verse 1:]---
+---[Verse:1]---
 (हिमालीहरू, तराई बासी,
 हामी कति भाग्यमानी)२
 (येशूलाई पाउनाले) २
@@ -18,7 +18,7 @@ haami kati bhaagye-maani) ~2
 (yeshu-laai paaunaa-le) ~2
 prabhu-laai mahimaa mahimaa.
 
----[Verse 2:]---
+---[Verse:2]---
 (शहर शहरमा, पहाडको कुनामा) २
 (तपाईंको नाम गुञ्‍जयोस्) २
 प्रभुलाई महिमा महिमा।

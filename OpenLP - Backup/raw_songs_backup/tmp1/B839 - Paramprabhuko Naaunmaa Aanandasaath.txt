@@ -9,7 +9,7 @@ gar-dachauň stuti mahimaa jivan-bhar) ~2
 (parish-ram haamro prati-fal tapaaiň-kai hos,
 aashis-ko jhari-le bhijaau-nuhos ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (स्वर्गीय प्रेममा समर्पित यो तन मन,
 गर्दछौँ अर्पण तपाईंलाई यो जीवन
 (परिश्रम हाम्रो प्रतिफल तपाईंकै होस्,
@@ -20,7 +20,7 @@ gar-dachauň arpaN tapaaiň-laai yo jivan
 (parish-ram haamro prati-fal tapaaiň-kai hos,
 aashis-ko jhari-le bhijaau-nuhos ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (शान्ति र आनन्द तपाईंकै देहमा,
 प्रशस्त बर्षाउनुहोस् अनुग्रहमा) २
 (परिश्रम हाम्रो प्रतिफल तपाईंकै होस्,

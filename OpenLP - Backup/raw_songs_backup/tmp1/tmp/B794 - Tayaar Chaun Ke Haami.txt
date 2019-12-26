@@ -16,7 +16,7 @@ pratikchyaa-maa chauň ke ?
 {y}tayaar chauň ke haami
 khrisT raajaa-laai swaagat garna ?
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जो उनको आशामा रहन्छन्,
 धन्य ती हुन् व्यक्ति,
 ती सदा जागिरहन्छन्
@@ -34,7 +34,7 @@ nitye tayaasa bhai rahan-chan
 {y}turahi-ko aawaaj-ko
 pratikchyaa garirahan-chan .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 तयार रहौं उनलाई स्वागत गर्न,
 निर्दोष बनी सदा,
 एनको रगतमा पापलाई धुँदै,
@@ -52,7 +52,7 @@ un-ko guN-laai prakaT gardai
 {y}prem-maa pabitra ra
 tayaar rahi tayaar ho-auň.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ख्रीष्टको रूपमा परिवर्तित हुँदै,
 आत्माको फल द्वारा,
 ख्रीष्ट येशूको सुगन्ध बन्दै,
@@ -70,7 +70,7 @@ un-ko guN-laai prakaT gardai
 {y}prem-maa pabitra ra
 tayaar rahi tayaar haauň .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 नयाँ आकाश र पृथ्वीको बाटो
 नित्य हेरि रहौं,
 जहाँ धार्मिकताले वास गर्छ,

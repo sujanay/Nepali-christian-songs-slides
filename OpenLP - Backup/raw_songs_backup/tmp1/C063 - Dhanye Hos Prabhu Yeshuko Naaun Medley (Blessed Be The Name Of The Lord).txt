@@ -14,7 +14,7 @@ gaauňdai dhanye hos tyo naauň,
 dhanye hos tyo naauň
 dhanye hos prabhu yeshu-ko naauň
 
----[Verse 1:]---
+---[Verse:1]---
 योग्य, तपाईं योग्य, सबका राजा,
 सबका प्रभू, तपाईं योग्य,
 योग्य, तपाईं योग्य, सबका राजा,
@@ -25,7 +25,7 @@ sab-kaa prabhu, tapaaiň yogye,
 yogye, tapaaiň yogye, sab-kaa raajaa,
 sab-kaa prabhu, garchu praNaam
 
----[Verse 2:]---
+---[Verse:2]---
 पवित्र, तपाईं पवित्र, सबका राजा,
 सबका प्रभू, तपाईं पवित्र,
 पवित्र, तपाईं पवित्र, सबका राजा,
@@ -36,7 +36,7 @@ sab-kaa prabhu, tapaaiň pavitra,
 pavitra, tapaaiň pavitra, sab-kaa raajaa,
 sab-kaa prabhu, garchu praNaam
 
----[Verse 3:]---
+---[Verse:3]---
 येशू, तपाईं येशू, सबका राजा,
 सबका प्रभू, तपाईं येशू,
 येशू, तपाईं येशू, सबका राजा,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 मैले जसलाई
 पाएको छु... ऊ... ऊ...
 मेरो बाबा र आमाले
@@ -40,7 +40,7 @@ mahimaa-ko raajaa-laai,
 pyaaro saathi yeshu-laai
 paauna sakun.
 
----[Verse 2:]---
+---[Verse:2]---
 जीवनको अर्थ
 त्यहाँ छ... अ... अ...
 अनि सुःख समृद्धि

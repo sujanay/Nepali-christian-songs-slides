@@ -9,7 +9,7 @@ samaati mero haat-maa
 baatsalye prem diňdai
 (raakh-nuhos aafno saath-maa) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (निराश भएका क्षणहरूमा
 विचलित भई मात्तिने म मान्छे) २
 (बलेको बत्तीझैँ भएको यो जीवन) २
@@ -22,7 +22,7 @@ bicalit bhai maattine ma maanche) ~2
 fuki maarna khojne tyehi huň
 ma maanche
 
----[Verse 2:]---
+---[Verse:2]---
 (बाँचिरहेछु तिम्रो दयामा
 अनुग्रहको भारी पाएको म मान्छे) २
 (तिम्रै कृपाले म शुद्ध भएको) २

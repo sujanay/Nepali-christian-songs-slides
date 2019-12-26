@@ -9,7 +9,7 @@ praarthanaa-maa laagi-rahauň
 jaagi-rahauň aatmaa-maa sangati-maa rahera,
 (aatmaa-maa tel bharnaa-laai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (रात धेरै बितिसक्यो
 समयले बताउँदैछ) २
 (सुस्तता छोडौं अब,
@@ -20,7 +20,7 @@ samai-le bataauň-daicha) ~2
 (susta-taa choDauň aba,
 niňda-dekhi jaagi uThauň) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (आत्मा त तयार छ
 शरीरले बाधा दिन्छ) २
 (सचेत रही प्रार्थनामा
@@ -31,7 +31,7 @@ sharir-le baadhaa dincha) ~2
 (saceta rahi praarthanaa-maa
 aafu-laai tayaar raakhauň) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (अन्धकारको फौजसँग,
 प्रधानता, सामर्थसँग) २
 (पल-पलमा लडाई छ
@@ -42,7 +42,7 @@ pradhaan-taa, saamartha-sanga) ~2
 (pal-pal-maa laDaai cha
 paaune-chauň jai praarthanaa-maa) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (निभ्न नदेऊ आत्मालाई,
 दीयो झैँ निभ्न सक्छ) २
 (संगित, प्रार्थना गर्दै
@@ -53,7 +53,7 @@ diyo jhaiň nibhna sakcha) ~2
 (sangit, praarthanaa gardai
 aatmaa-laai jagaai-raakhauň) ~2
 
----[Verse 5:]---
+---[Verse:5]---
 (कृतज्ञ बनीसदा
 निरन्तर प्रार्थना गरौं) २
 (दुःख-सुःखमा आनन्द गर्दै

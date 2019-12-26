@@ -9,7 +9,7 @@ mero laas-maa aai ramaai dinu) ~2
 (hijo-ko tyo maayaa-laai samjhi
 prabhu-ko bhanera pukaari dinu) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 हजारौँ फूलले ढाकिएको हुन्छ
 (यो मेरो लासलाई) २
 (त्यो फूलको बास्नामा
@@ -22,7 +22,7 @@ prabhu-ko bhanera pukaari dinu) ~2
 sute-ko huncha
 feri na-jagaau ma-laai) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सेतो कफनले बेरिएको हुन्छ
 (यो मेरो लासलाई) २
 (मुर्दा शरीरमा सुतेको हुन्छ

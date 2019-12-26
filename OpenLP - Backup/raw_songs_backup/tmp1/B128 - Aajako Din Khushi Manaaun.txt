@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आजको दिन
 खुशी मनाऔं सबले
 (हाम्रो प्रभु मुक्तिदाता
@@ -20,7 +20,7 @@ khushile sansaar) ~2
 (haamro prabhu muktidaataa
 feri jiiuThe) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 क्रूसमा हाम्रो लागि
 दिए ख्रीष्टले प्राण
 (आफ्‍‌नो रगतको बाटोले
@@ -42,7 +42,7 @@ man-le jai-jai gaauň) ~2
 (aafnaa ragat-ko baaTo-le
 kine haamro praaN) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 जान्‍‌नुपर्छ मनमा
 हामी सबैले
 (हामी पनि बौरी उठ्‌छौं
@@ -64,7 +64,7 @@ sadaa rahanchan) ~2
 (haami pani bauri uThchauň,
 antako din-maa) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 हामी पापीहरूलाई
 उनले दिए सुख
 (धन्य ईश्‍वरका पुत्र

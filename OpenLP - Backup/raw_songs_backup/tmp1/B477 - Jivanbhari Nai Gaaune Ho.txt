@@ -7,7 +7,7 @@
 git-haru-maa bhanne ho
 yeshu nai hun prabhu) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 सास हुने सबै प्राणीले गर
 प्रशंसा परमेश्‍वरको
 (झुन्डाउने आफैलाई
@@ -20,7 +20,7 @@ prashaňsaa parmeshwor-ko
 krus-maa ragat bahaai,
 yeshu nai hun prabhu) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 भन-भन प्रभु येशूलाई
 मेरो हृदयका राजा हुन्‌
 (स्वर्ग र पृथ्वीका

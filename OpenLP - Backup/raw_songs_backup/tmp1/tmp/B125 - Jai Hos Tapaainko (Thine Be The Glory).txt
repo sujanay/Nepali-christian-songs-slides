@@ -25,7 +25,7 @@ kaatro maatra thiyo.
 yeshu gaurabmai paaunubho
 ananta mrityu-maa bijai
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 लौ जिउँदो येशू चिहानदेखि आई
 पाप र दु:ख मेटाउँछन्‌ भेटी हामीलाई
 ख्रीष्टीय मण्डली गरोस्‌ प्रभुको जय जय,
@@ -36,7 +36,7 @@ paap ra dukha meTaauňchan bheTi haami-laai
 khrisTiye maNDali garos prabhu-ko jai jai,
 haTi-gayo sab-laai mrityu-kaal-ko bhaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पूरा भरोसा राख्छौं,
 तारणहार हे प्रतापी प्रभु,
 दिनुहोस्‌ गोहार

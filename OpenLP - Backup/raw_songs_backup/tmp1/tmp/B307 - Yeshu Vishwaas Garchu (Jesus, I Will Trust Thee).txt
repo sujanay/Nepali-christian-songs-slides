@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशू विश्‍वास गर्छु
 खालि तपाईंमा,
 दोषी असहाय म
@@ -18,7 +18,7 @@ tapaaiň traaNkartaa
 kohi tapaaiň-jasto,
 ma-jasto paapi-ko laagi marnu-bho.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 येशू विश्‍वास गर्छु
 नाममा सत अपार,
 नाम दिएका दूतले
@@ -40,7 +40,7 @@ laaj-ko krus-maathi,
 paapi aau tyes naam-maa
 driDh-vishwaas raakhi.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशू विश्‍वास गर्छु
 तपाईंलाई सम्झी,
 प्रेम र दयापूर्ण
@@ -62,7 +62,7 @@ paapi ghin-laagdo,
 sable nigaaha
 paayauň mukti-daataa-ko.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 येशू विश्‍वास गर्छु
 वाणी तपाईंकै,
 'म हटाउन्‍‌नँ कहिल्यै

@@ -14,7 +14,7 @@ kunai ek din sworga-dhani yeshu
 janmiňdaa maanab rup liye,
 udaaharaN mero.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 प्रेम गरी आए, मर्दा बचाए,
 गाडिँदा पाप मेरो हटाइदिए
 ब्यूँती उनले मलाई निर्दोष ठहराए,
@@ -25,7 +25,7 @@ gaaDiňdaa paap mero haTaaidiye
 byuňti unle malaai nirdos Thaharaaye,
 aaunechan yeshu ho khushiko din
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 कुनै एक दिन उनलाई कलवरी लगे,
 कुनै एक दिन क्रूसमा टाँगे येशू
 गिल्ला संकष्ट
@@ -38,7 +38,7 @@ gillaa saňkasTa ra
 helaa khaayera boke sab paap,
 muktidaataa mero.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 कुनै एक दिन उनलाई चिहानमा राखे,
 कुनै एक दिन उनलाई आराम मिल्यो
 स्वर्गदूत आएर पहरा गरे,
@@ -49,7 +49,7 @@ kunai ek din unlaai aaraama milyo
 sworgadut aayera paharaa gare,
 niraashaa-maa aashaa uddhaarak mero.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 कुनै एक दिन मरणबाट जिई उठे,
 कुनै एक दिन चिहानको ढुङ्गा पल्ट‍यो
 येशू ब्यूँते मृत्युमाथि,
@@ -62,7 +62,7 @@ yeshu byuňte mrityu-maathi,
 jaiwant sworga farke,
 mahaaprabhu mero.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 कुनै एक दिन तुरहीको शब्द सुनिन्छ,
 कुनै एक दिन फर्किआउँछन्‌ येशू
 जयजयकार उनको आकाशमा गुन्जिन्छ,

@@ -7,7 +7,7 @@
 yeshu-ko darshan
 paayera bhaai laaga sewaa-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (नेपाल देशले डाकिरहेछ,
 आऊ बचाऊ हामीलाई) २
 (आत्मा मर्दै छन्‌) २
@@ -18,7 +18,7 @@ aau bacaau haami-laai) ~2
 (aatmaa mardai chan) ~2
 hera hajaarauň paap-ko saagar-maa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (क्रूसमा आफ्‍‌नो प्राण प्रभुले
 जगत्‌को लागि दिए) २
 (प्रेमलाई हेर) २
@@ -29,7 +29,7 @@ jagat-ko laagi diye) ~2
 (prem-laai hera) ~2
 nepaal-ko laagi unko ridai-maa.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (निद्रा त्यागी जाग उठ,
 हे नवजवान हो) २
 (अहिले नै गर) २
@@ -40,7 +40,7 @@ he nawa-jawaan ho) ~2
 (ahile nai gara) ~2
 prabhu-ko sewaa rahala jivan-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (अन्धकार छायो चारै दिशामा,
 रात आइपुग्यो) २
 (जे गर्नुपर्छ) २
@@ -51,7 +51,7 @@ raat aai-pugyo) ~2
 (je garnu-parcha) ~2
 ahile nai gara din-ko jyoti-maa.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (येशूको लागि आत्मा बचाउनु
 तिमी छिट्टै आऊ) २
 (अन्‍‌न छ पाकेको) २

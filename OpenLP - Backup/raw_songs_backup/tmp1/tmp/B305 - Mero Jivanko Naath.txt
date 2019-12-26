@@ -7,7 +7,7 @@
 jo mero harek pal-ko
 saaňco mitra hun
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 जिन्दगी यो पापी मेरो मनमा
 स्‍‌नेहको बहार ल्याई।
 (जीवनको मूल्य
@@ -25,7 +25,7 @@ bujhaai-diye traaN ma-laai) ~2
 {y}diye traaN ma-laai
 asim prem dekhaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 द्वेष पापीको यो संसारमा
 प्रभु ख्रीष्टको पुकार
 (थकित र कष्टित जन आऊ
@@ -43,7 +43,7 @@ paap-ko bhaari lyaau) ~2
 {y}paap-ko bhaari lyaau dinechan
 bishraam timi-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 हृदय खोलेर आऊ
 विश्‍वास येशूमा लगाऊ
 (दिन्छन्‌ मुक्ति तिमीलाई

@@ -16,7 +16,7 @@ muTu-bhitra unko prem sangaaleň
 ridai-maa nai khrisT-laai basaayeň
 bujhera nai sada-laai angaaleň
 
----[Verse 1:]---
+---[Verse:1]---
 (कसैको होहोरीमा,
 न कसैको प्रलोभनमा
 न आफ्नै स्वार्थमा) २
@@ -29,7 +29,7 @@ na aafnai swaartha-maa) ~2
 (hoina maile angaale-ko
 bujhera nai angaale-ko) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (स्वधर्मलाई त्यागेको होइन
 न पुर्खालाई लत्याएको
 न विदेशी नै भएको) २

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जब शान्तिको नदी म भित्र बग्दछ,
 जब हुरी बतास चल्दछ,
 हरेक समयमा गाउन सिकाउनुभो,
@@ -20,7 +20,7 @@ mero praaN, mero praaN,
 mukta cha mukta cha
 mero praaN.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 शैतानको खेदो र परीक्षामा पनि,
 यस निश्‍चयताले सम्हालोस्,
 ख्रीष्टले मेरो प्राणको वास्ता गर्नुभो,
@@ -31,7 +31,7 @@ yes nishcai-taa-le samhaalos,
 khrisT-le mero praaN-ko baastaa garnu-bho,
 ra aafnai ragat bahaaunu-bho .
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मेरो पाप यो कस्तो अचम्मको सत्यता,
 पाप सब केवल आधा होइन,
 ठोकिए उनको क्रूसमा ती बोक्दिनँ म,
@@ -42,7 +42,7 @@ paap sab kewal aadhaa hoina,
 Thokiye unko krus-maa ti bokdinaň ma.
 stuti gaau prabhu-ko mero praaN.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हतार्नोस् त्यो दिन जब विश्‍वास दृष्टि बन्छ,
 बादल पर्दाझैँ खोलिन्छ ,
 तुरही बज्नेछ र प्रभु आउनेछन्,

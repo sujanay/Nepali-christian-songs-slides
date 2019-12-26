@@ -1,32 +1,32 @@
----[Verse 1:]---
+---[Verse:1]---
 भजन गाउँदै येशू ख्रीष्ट चिनाउँछु,
 जसले मलाई उद्धार गरे
 
 {y}bhajan gaauň-dai yeshu khrisT cinaauň-chu,
 jas-le malaai uddhaar gare
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 भजन गाउँदै येशू ख्रीष्ट चिनाउँछु,
 जसले मरो जीवन बदले
 
 {y}bhajan gaauň-dai yeshu khrisT cinaauň-chu,
 jas-le maro jivan badale
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 मेरा मित्र येशू मुक्तिदाता येशू
 उनी परमेश्‍वर हुन् उनी सत्य हुन्
 
 {y}meraa mitra yeshu mukti-daataa yeshu
 uni parmeshwor hun uni satye hun
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 उनी राजाका राजा, शान्तिदाता,
 केवल उनमा पाइन्छ क्षमा,
 
 {y}uni raajaa-kaa raajaa, shaanti-daataa,
 kewal un-maa paaincha chyemaa,
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 केवल उनमा पाइन्छ आनन्द,
 केवल उनमा पाइन्छ आनन्द ।
 

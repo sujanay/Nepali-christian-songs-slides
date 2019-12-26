@@ -9,21 +9,21 @@ mero karma-le hoina,
 tapaaiň-ko anugraha-le
 siňhaasan aghi dhog-chu.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (गाउँदै येशू, थुमा येशू.
 थुमा येशू मारिएको) २
 
 {y}(gaauň-dai yeshu, thumaa yeshu,
 thumaa yeshu maari-yeko) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (गाउँदै पबित्र, थुमा पबित्र
 थुमा पबित्र मारिएको) २
 
 {y}(gaauň-dai pabitra, thumaa pabitra,
 thumaa pabitra maari-yeko) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (गाउँदै योग्य थुमा, योग्य थुमा
 योग्य थुमा मारिएको) २
 

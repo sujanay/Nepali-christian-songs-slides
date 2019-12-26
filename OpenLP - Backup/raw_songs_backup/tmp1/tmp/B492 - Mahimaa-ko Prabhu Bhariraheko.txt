@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 महिमाको प्रभु भरिरहेको,
 उज्यालोमा सधैँ बसिरहने
 मान्छेको बीचमा जन्म लिनुभो,
@@ -20,7 +20,7 @@ feri yeshu sansaar-maa aaunechan
 maanche-ko bic-maa janma linubho,
 feri yeshu sansaar-maa aaunechan.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 पृथ्वी आकाशमा अट्‌न सकेन,
 जो मन्दिरमा तपाईं बस्‍‌न असम्भव
 दीन भई गोठमा जन्म लिनुभो,
@@ -42,7 +42,7 @@ haamro man-maa tapaaiň-ko mandir banaau
 dina bhai goTh-maa janma linubho,
 haamro man-maa tapaaiň-ko mandir banaau.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 दानिएलको प्रार्थना तपाईंले सुन्‍‌नुभो,
 एज्रालाई पनि गोहार दिनुभो,
 बाबेलमा जागृति पठाउनुभो,
@@ -64,7 +64,7 @@ aafno jan-laai feri mukti deu
 baabel-maa jaagriti paThaaunabho,
 aafno jan-laai feri mukti deu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 तम्बूमा आएर दर्शन दिनुहोस्‌,
 आफूकहाँ मान्छेहरूलाई फर्काऊ
 देखाउनुहवस्‌ आगो र बादलमा
@@ -86,7 +86,7 @@ feri yeshu aafno shakti dekhaau
 dekhaaunu-haus aago ra baadal-maa
 feri yeshu aafno shakti dekhaau.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 हामीहरूको राजा तपाईं नै हौ,
 मुक्ति दिनसक्‍‌ने तपाईं मात्र छौ,
 संसारमा फेरि प्रभु आउनेछन्‌,

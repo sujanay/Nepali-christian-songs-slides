@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आऊ सबै गीत गाऔं है,
 हल्लेलूयाह आमिन,
 होस्‌ बढाइ येशूकै,
@@ -20,7 +20,7 @@ siňhaasan-ko aghi,
 man-pardo cha stuti,
 halleluyaah aamin.
 
----[Verse 2:]---
+---[Verse:2]---
 मन उँभो उचाल्दै,
 हल्लेलूयाह आमिन,
 खूब आकाश गर्जाउँदै,
@@ -42,7 +42,7 @@ haami-maa utranchan,
 prem un-ko Tungi-daina,
 halleluyaah aamin.
 
----[Verse 3:]---
+---[Verse:3]---
 गुण गाऔं प्रभुको,
 हल्लेलूयाह आमिन,
 शक्ति भर जीवनको,

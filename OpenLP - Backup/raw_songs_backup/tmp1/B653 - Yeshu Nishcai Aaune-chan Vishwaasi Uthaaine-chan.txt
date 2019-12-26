@@ -9,7 +9,7 @@ vishwaasi uThaaine-chan
 baadal-maa, baadal-maa,
 caaňDai aaune-chan) ~3
 
----[Verse 1:]---
+---[Verse:1]---
 (देख्‍नेछन् सबैले स्वर्गमा
 सवारी भई आउने राजालाई) २
 (स्वर्गदूतको साथमा तुरहीको आवाजमा) २
@@ -20,7 +20,7 @@ sawaari bhai aaune raajaa-laai) ~2
 (sworgadut-ko saath-maa turahi-ko aawaaj-maa) ~2
 lina aafno premi dulahi-laai
 
----[Verse 2:]---
+---[Verse:2]---
 (पहिरिनु छ वस्त्र
 धार्मिकताको पवित्रताले
 सुशोभित भएर) २

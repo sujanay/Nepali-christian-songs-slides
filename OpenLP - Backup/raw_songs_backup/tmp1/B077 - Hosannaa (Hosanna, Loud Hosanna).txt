@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 होसन्‍‌ना, जोर होसन्‍‌ना
 गाउँथे बालक साना,
 गुन्ज्यो खुशीको स्तुति
@@ -20,7 +20,7 @@ sab-kaa pyaaraa bhaye,
 gaaye stuti baalak-le
 uttam saadhaa taura-le.
 
----[Verse 2:]---
+---[Verse:2]---
 पछ‍याए भीडसाथ लागी
 जैतुन डाँडाबाटै,
 खजूरको पात हल्लाउँदै
@@ -42,7 +42,7 @@ stuti nilo aakaash-dekhi,
 ucca sthaan-maa hosannaa,
 pitaa-laai mahimaa.
 
----[Verse 3:]---
+---[Verse:3]---
 स्वर्गमा होसन्‍‌ना हो,
 गाऔं गीत पुरानो यो,
 ख्रीष्ट हाम्रा मुक्तिदाता

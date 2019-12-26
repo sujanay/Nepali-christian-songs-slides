@@ -7,7 +7,7 @@
 kahile runu, kahile haaňsnu
 chaina sadaa sthir
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (समुद्रको छालैसरि
 संसारैको गत छ) २
 कहिले जन्म, कहिले मरण,
@@ -18,7 +18,7 @@ sansaarai-ko gat cha) ~2
 kahile janma, kahile maraN,
 saraa-bari calcha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मेरो-मेरो जगले भन्छ,
 मेरो छैन केही) २
 हंसै उडी आत्मालोकमा,
@@ -29,7 +29,7 @@ mero chaina kehi) ~2
 haňsai uDi aatmaa-lok-maa,
 maTTi huncha dehi.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (कर्कलोको पानीसरी,
 ढलिजान्छ देही) २
 मायामोह धेरै-धेरै,
@@ -40,7 +40,7 @@ Dhali-jaancha dehi) ~2
 maayaa-moha dherei-dherei,
 laane-chaina kehi.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (प्रभु हाम्रो स्वर्ग धनी,
 टिठाई दर्शन देऊन) २
 जगत्‌ पापमा ढलिगयो,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 शान्तमय रात, शान्तमय रात,
 येशू ख्रीष्ट कृपानाथ
 विश्‍वका सर्वश्रेष्ठ तारणहार
@@ -14,7 +14,7 @@ vishakaa sarva-shresTh taaranahaar
 li-i goThai-maa sat awataar,
 (bethlehem shahar-maa) ~2x
 
----[Verse 2:]---
+---[Verse:2]---
 शान्तमय रात, शान्तमय रात,
 जयजय गाऔं दूतगणसाथ
 बालक सुन्दर जन्मेका छन्
@@ -30,7 +30,7 @@ baalak sundar janmekaa chan
 baalak ishworkaa putra hun,
 (yeshu ho unko naauň) ~2x
 
----[Verse 3:]---
+---[Verse:3]---
 शान्तमय रात, शान्तमय रात,
 येशू ख्रीष्ट हर्षसाथ,
 आए स्वर्गदेखि जगत्‌मा

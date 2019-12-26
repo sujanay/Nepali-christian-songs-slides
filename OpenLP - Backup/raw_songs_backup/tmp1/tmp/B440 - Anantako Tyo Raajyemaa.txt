@@ -9,7 +9,7 @@ jaana-laai tayaar hauň
 shaitaan-le abashye baadhaa nai dincha
 praarthanaa-maa laagi-rahauň
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 कस्तो छ होला, अनन्तको राज्य
 वर्णन गर्न नै सक्दैनौं
 कस्तो छ होला, ज्योतिको किरण
@@ -20,7 +20,7 @@ barNan garna nai sak-dainauň
 kasto cha holaa, jyoti-ko kiraN
 thaahaa paauna nai sak-dainauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 दूतगण सबैले गर्दै नै होला,
 प्रभुको जय-जयगान
 अनेकौं ध्वनि बज्दै नै होला,
@@ -31,7 +31,7 @@ prabhu-ko jai-jai-gaan
 anekauň dhwani baj-dai nai holaa,
 ishwor-ko premilo jan.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 अब्राहाम, इसहाक, याकूबले
 हामीलाई पर्खंदै होलान्‌ वहाँ
 कहिले पो आउँछ, अनन्त ठाउँमा
@@ -42,7 +42,7 @@ haami-laai parkhaň-dai holaan wahaaň
 kahile po aauňcha, ananta Thaauň-maa
 bhandai ishwor-saňga wahaaň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 हामी रमाऔं खुशी भएर
 वहाँको जयगान गरौं
 किनकि थुमा आफै नै

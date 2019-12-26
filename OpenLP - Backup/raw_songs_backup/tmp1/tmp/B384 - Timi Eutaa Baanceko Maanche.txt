@@ -9,7 +9,7 @@ khrisT-ko anugraha-le
 chaaniyeko hajaarauň-baaTa
 saakchyi deu timi-le
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 त्यो रूखलाई हेरी बुझन तिमी,
 (ग्रीष्म नजीकै छ) २
 (ईश्‍वरको राज्य आइपुगेको छ) २
@@ -20,7 +20,7 @@ saakchyi deu timi-le
 (ishwor-ko raajye aai-pugeko cha) ~2
 samai-laai bujhana.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 नोआलाई सम्झ प्रलय हुँदा,
 (मानिसको मूर्खता) २
 (सो बुझी आजै जोशिलो भई) २
@@ -31,7 +31,7 @@ samai-laai bujhana.
 (so bujhi aajai joshilo bhai) ~2
 lyaau bhitra bo-laai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (प्रभुलाई सम्झ इनारको छेउमा
 पर्खेका एउटीलाई) २
 (वरदान पाई गाग्रो छोडेर) २
@@ -42,7 +42,7 @@ parkhekaa yeuTi-laai) ~2
 (bardaan paai gaagro choDera) ~2
 taba shahar-maa gai-haali.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (हे प्रिय आज तिमीले केही
 त्याग निश्चय गर्नुछ) २
 (येशूको प्रेमले प्रेम गरौं सबलाई) २

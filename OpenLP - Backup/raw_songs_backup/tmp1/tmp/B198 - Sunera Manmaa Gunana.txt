@@ -5,7 +5,7 @@
 {y}(sunera man-maa gunana,
 yeshu-maa vishwaas garana) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कुन नाम छ साँचो
 स्वर्गको मुनि
 मानिसलाई बचाउने? ) २
@@ -25,7 +25,7 @@ narak-maa laijaane,
 suna bhaai ho,
 narak-maa laijaane.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (पृथ्वी टल्छ, स्वर्गलोक टल्छ,
 टल्दैन त्यो वचन) २
 ईश्‍वरको वचन मानिसको लागि
@@ -36,7 +36,7 @@ Taldaina tyo bacan) ~2
 ishwor-ko bacan maanis-ko laagi
 bacaauna amol praaN.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (जीवनको ढोका खोल्दछन्‌
 येशू विश्‍वासीहरूलाई) २
 ईश्‍वरको राज्यमा आत्मामा
@@ -47,7 +47,7 @@ yeshu vishwaasi-haru-laai) ~2
 ishwor-ko raajye-maa aatmaa-maa
 sadhaiň yeshu-saňga basna-laai.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (येशूको हातमा न्याय छ
 हाम्रो ईश्‍वरले दिएका) २
 बचाएको मानिस छोड्‌दैनन्‌
@@ -58,7 +58,7 @@ haamro ishwor-le diyekaa) ~2
 bacaayeko maanis choDdainan
 unle krusai-maa kineko.
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (विश्‍वास छ हाम्रो ख्रीष्ट येशूमाथि
 अघि नै बढ्‌दछौं) २
 विश्‍वास गर्छौं स्वर्गको लागि

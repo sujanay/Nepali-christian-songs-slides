@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 परदेशी भाइ हो,
 जाँदैछौँ कहाँ ?
 भेष हामी बदली
@@ -18,7 +18,7 @@ jaanchauň ni wahaaň.
 raajaa-ko samaacaar paayekaa chauň
 sworga pugna-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 त्यो सुखको ठाउँमा
 पुगूँला भन्‍‌ने,
 परदेशी भाइ हो,
@@ -39,7 +39,7 @@ bharosai timro cha hamme,
 aashaa ta saňccai agamme
 dukha-kaa baaTai-maa.
 
-{y}---[Verse 3:]---
+{y}---[Verse:3]---
 चम्किलो वस्त्र
 येशूले दिन्छन्,
 तेजिलो मुकुट
@@ -59,7 +59,7 @@ saňgilo amrit piune chauň
 sworga-ko sukha-lok paunechauň
 sworgiye raajye-maa.
 
-{y}---[Verse 4:]---
+{y}---[Verse:4]---
 बगाल छ सानो
 डर छैन,
 धेरै बाटो छ
@@ -79,7 +79,7 @@ dut haamro dukha-laai cha sunne,
 prabhu yeshu swomi chan herne rakcyhek
 bhai aguvaa.
 
-{y}---[Verse 5:]---
+{y}---[Verse:5]---
 आउन भाइ हो
 र आऊ दिदी–बहिनी
 बीच–बीचमा पस एक–एकै गनी
@@ -97,7 +97,7 @@ na-choDa hami-laai kahilyei,
 vishwaas gara khrisT-maa ahile,
 taba pugchau sukhalok-maa.
 
-{y}---[Verse 6:]---
+{y}---[Verse:6]---
 परदेशी भाइ हो,
 जान्छौँ नि हामी रमाइलो देशमा
 लैजाऊ है जानी

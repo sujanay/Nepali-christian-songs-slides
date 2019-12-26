@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 टाढो हुँदा परमेश्‍वरदेखि,
 हृदय थियो अन्धकार,
 पाएँ ज्योति ख्रीष्टको वचनमा,
@@ -20,7 +20,7 @@ khrisT ma-maa jiuňchan,
 yo udek-ko mukti ho,
 yeshu ma-maa jiuňchan.
 
----[Verse 2:]---
+---[Verse:2]---
 सुर्यका ज्योतिका किरणले,
 फूलहरू फक्रेझैँ,
 जीवन ज्योति प्रेम मबाट,
@@ -31,7 +31,7 @@ ful-haru fakre-jhaiň,
 jivan jyoti prem ma-baaTa,
 khrisT-dwaaraa dekhiň-dachan .
 
----[Verse 3:]---
+---[Verse:3]---
 एक सुन्दर फूल बीउभित्रदेखि,
 निस्केर फूलेझैं,
 चम्किन्छ ज्योति जीवनको,
@@ -42,7 +42,7 @@ niskera fule-jhaiň,
 camkin-cha jyoti jivan-ko,
 ho khrisT ma-maa jiuňchan.
 
----[Verse 4:]---
+---[Verse:4]---
 भरपूर छ हृदय यो तृष्णाले -
 उहाँजस्तै हुनपाऊँ,
 मग्न यो मिठो वचनमा -

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 हे प्रभु स्वर्ग र जगत्‌का
 तपाईंको स्तुति महिमा
 योग्य धन्यवाद असाध्य छ,
@@ -9,7 +9,7 @@ tapaaiň-ko stuti mahimaa
 yogye dhanyebaad asaadhye cha,
 he sarva-daataa.
 
----[Verse 2:]---
+---[Verse:2]---
 घाम, हावा, फूल र फल निरोग
 जुन-जुन वरदानको गर्‍यौं भोग
 ती सबका मानौं गुण सब जन,
@@ -20,7 +20,7 @@ jun-jun bardaanko garyauň bhog
 ti sab-kaa maanauň guNa sab jan,
 he sarva-daataa.
 
----[Verse 3:]---
+---[Verse:3]---
 संसारको लागि दिनुभो दान
 आफ्‍‌नै एक्लो पुत्रको
 झन्‌ सब थोक दिनुहोला,
@@ -31,7 +31,7 @@ aafnai eklo putra-ko
 jhan sab thok dinuholaa,
 he sarva-daataa.
 
----[Verse 4:]---
+---[Verse:4]---
 दिनुभो अझै आत्मा दान
 र देओस्‌ सब सच्चाइका ज्ञान
 बनाइदिई नयाँ मन
@@ -42,7 +42,7 @@ ra dos sab saccaai-kaa gyaan
 banaai-dii nayaaň man
 bhai fal-daataa.
 
----[Verse 5:]---
+---[Verse:5]---
 पापमोचन पायौं, प्राण उद्धार,
 अनुग्रह रीत स्वर्गाधिकार
 योग्य साटो दिऊँ कुन प्रकार,
@@ -53,7 +53,7 @@ anugraha rit sworga-adhikaar
 yogye saaTo diuň kun prakaar,
 he sworga-daataa.
 
----[Verse 6:]---
+---[Verse:6]---
 हराइन्छ खर्च अपस्वार्थका
 जो ऋण तपाईंलाई दिउँला
 त्यो मात्र रहन्छ सदा,
@@ -64,7 +64,7 @@ jo riN tapaaiň-laai diuňlaa
 tyo maatra rahancha sadaa,
 he sarva-daataa.
 
----[Verse 7:]---
+---[Verse:7]---
 जुन धन दिउँला तपाईंलाई
 बढाइन्छ सय गुणा सय
 तपाईंलाई दिन्छौं त रमाई,
@@ -75,7 +75,7 @@ baDhaaincha sai guNaa sai
 tapaaiň-laai dinchauň ta ramaai,
 he sarva-daataa.
 
----[Verse 8:]---
+---[Verse:8]---
 तपाईंले जीवन दिनुभो
 चढाऊ बलि जिउँदो
 तपाईंको दानको साटो यो,

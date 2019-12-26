@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आनन्द यही हो प्रभुलाई चिन्‍नु
 उहाँको इच्छामा जीबन जिउँनु ।
 परिवर्तन जीवनमा हुनु।
@@ -20,7 +20,7 @@ aaňsu jhare pani
 yesko rahasye,
 ridai-maa yeshu khrisT.
 
----[Verse 2:]---
+---[Verse:2]---
 आनन्द यही हो एक नयाँ सृष्टि,
 येशू र म सधैं छौं नजिक,
 उहाँको मुक्तिमा सहभागी ,
@@ -31,7 +31,7 @@ yeshu ra ma sadhaiň chauň najik,
 uhaaň-ko mukti-maa saha-bhaagi ,
 prabhu nai aanand ho.
 
----[Verse 3:]---
+---[Verse:3]---
 आनन्द यही हो पाप क्षमा पाउनु,
 प्रभुको योग्य चालमा जिउँनु,
 स्वर्ग जाने बाटोमा हिँड्नु

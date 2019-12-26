@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूले हामीलाई बचाए
 आफ्‍‌नो अमोल रगत बहाए,
 सब दोषी थ्यौं छुटकारा नपाई,
@@ -20,7 +20,7 @@ sadhaiňko laagi gara swikaar
 aau krusko cheumaa bhaari bisaai,
 khrisTle bacaaye haamilaai
 
----[Verse 2:]---
+---[Verse:2]---
 पापदेखि पायौं सबै छुटकारा,
 ख्रीष्टको जन अब भइगयौं सारा
 प्रेमैले भन्छन्‌ मकहाँ आऊ,
@@ -31,7 +31,7 @@ khrisTko jan aba bhaigayauň saaraa
 premai-le bhanchan ma-kahaaň aau,
 sadhaiň-ko laagi mukti paau.
 
----[Verse 3:]---
+---[Verse:3]---
 ईश्‍वरका पुत्र कस्तो आनन्दित,
 अधिकार उनको महिमासित
 मृत्यु नदी पार भई

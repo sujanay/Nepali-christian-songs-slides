@@ -11,7 +11,7 @@ sukha-bilaas rojne-haru
 yeshu binaa mari-rahe-chan
 yeshu binaa mari-rahe-chan) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अस्तव्यस्त संसारलाई नियालेर हेर्दा
 मान्छेको मूल्य केही पनि छैन) २
 (बाटो सत्य र जीवन यहाँ) २
@@ -35,7 +35,7 @@ sukha-bilaas rojne-haru
 yeshu binaa mari-rahe-chan
 yeshu binaa mari-rahe-chan) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (संसारको घटनाले यही संकेत दिन्छ
 येशूको आगमन चाँडै नै हुँदैछ) २
 (बाइबलको वचनले सत्य सत्य भन्छ) २

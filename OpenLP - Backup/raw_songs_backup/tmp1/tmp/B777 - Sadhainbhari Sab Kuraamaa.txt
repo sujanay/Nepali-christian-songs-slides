@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 सधैंभरि सब कुरामा
 पूरा भरपूर भएर,
 हरेक असल कामका लागि
@@ -20,7 +20,7 @@ anugraha prashasta
 durbal-taa-maa huncha siddha
 prabhu khrisT-ko saamarthye .
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 सधैं तिमीलाई
 सबै अनुग्रह प्रशस्त
 दिनलाई सामर्थी छन्
@@ -31,7 +31,7 @@ sabai anugraha prashasta
 dina-laai saamarthi chan
 haamraa pitaa parmeshwor.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 प्रभु ख्रीष्टको सामर्थ्य
 म माथि रहोस् भनेर,
 खुसी सित दुर्बलतामा
@@ -42,7 +42,7 @@ ma maathi rahos bhanera,
 khusi sita durbal-taa-maa
 garba garna sakuň ma .
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ख्रीष्टका निम्ति निन्दाहरू
 अनि अभावहरूमा,
 सतावट, क्लेशहरूमा

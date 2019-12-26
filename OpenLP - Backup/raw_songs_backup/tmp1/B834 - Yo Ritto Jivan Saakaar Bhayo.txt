@@ -16,7 +16,7 @@ caRhaauň-dai chu ma prabhu-laai) ~2
 (je jaso huncha bhane
 unkai ichyaa-maa hos ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (गर्भमै कालो पापको दाग धसेर आएछु) २
 सत्य मार्गमा हिँडेर अब म कर्म गर्नेछु,
 (विश्‍वास गरेर येशूलाई अपनाई) २
@@ -31,7 +31,7 @@ aba ma karma garne-chu,
 (paap-ko daag sabai meTaaune-chu) ~2
 (halleluyaah) ~3~ hosannaa
 
----[Verse 2:]---
+---[Verse:2]---
 (के कस्तो हुँदै छ,
 संसारै भरि, आँखैले देखिँदै छ) २
 जातिको विरुद्धमा जाति उठ्नेछ

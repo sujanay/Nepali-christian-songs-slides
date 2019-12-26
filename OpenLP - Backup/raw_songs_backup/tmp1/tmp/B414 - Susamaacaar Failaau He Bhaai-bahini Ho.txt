@@ -9,7 +9,7 @@ he bhaai-bahini ho
 pracaarna dui-dui joDaa bhai
 he shisye, dui-dui joDaa bhai
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 नजीकै आयो राज्य स्वर्गको,
 छाती फुकाई गर प्रचार
 मानव पापीलाई ...
@@ -20,7 +20,7 @@ chaati fukaai gara pracaar
 maanab paapi-laai ...
 he shisye, bacaauna yinai-laai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 भ्रममा परी हराएको दुनियाँ,
 माया-मोहमा परेको
 लाचार सहायताबिना ...
@@ -31,7 +31,7 @@ maayaa-moha-maa pareko
 laacaar sahaayetaa-binaa ...
 he shisye, lau garana pracaar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 येशू ख्रीष्ट आए गर्न उद्धार,
 सुनाइदेऊ समाचार मनमा लिई
 मेरो प्यार, हे मेरो परिवार ...
@@ -42,7 +42,7 @@ sunaai-deu samaacaar man-maa lii
 mero pyaar, he mero pariwaar ...
 he shisye, bacan jivan-ko.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 उत्तर-दक्षिण पूर्व-पश्चिम,
 सुनाइदेऊ कुल संसार, येशू ख्रीष्ट
 तारणहार गाऊ ताली बजाई,

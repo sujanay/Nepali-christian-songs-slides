@@ -20,7 +20,7 @@ kohi-le cinena
 paapi-laai mukti-daan dina mare,
 yo kuraa bujha lau.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (माया र मोह बाँचुञ्‍जेलसम्म,
 संसारमा दुई दिनको, ) २
 (धर्म र कर्म, सबै र्व्यथ छन्,
@@ -42,7 +42,7 @@ jhuN-Diye krusa-maa
 (paapi-laai mukti-daan dina mare,
 yo kuraa bujha lau.) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (बाँच्‍‌नलाई मान्छे सधैँ नै खोज्छ,
 जीवनको सहारा, ) २
 (पापको वशमा डुबेको मान्छे,

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 अघि बढ ख्रीष्टीय यत्‍‌न,
 बचाऊ एकै साथीलाई
 लैजाऊ उसलाई येशूकहाँ
@@ -20,7 +20,7 @@ satye ra dharma-laai baDhaau
 andhakaar-maa basne
 sab-laai nikaali jyoti-maa lyaau
 
----[Verse 2:]---
+---[Verse:2]---
 अघि बढ ख्रीष्टीय यत्‍‌न
 किन ढिलो गर्दछौ
 ईश्‍वरको दया नबुझ्‍‌ने
@@ -31,7 +31,7 @@ kina Dhilo gar-dachau
 ishwor-ko dayaa na-bujhne
 saathi-laai bhani-dinchau.
 
----[Verse 3:]---
+---[Verse:3]---
 अघि बढ ख्रीष्टीय यत्‍‌न
 जिउँदो रोटी बाँड्‌नलाई
 येशूकहाँ सबैलाई ल्याऊ
@@ -42,7 +42,7 @@ jiuňdo roTi baaňD-nalaai
 yeshu-kahaaň sabai-laai lyaau
 mukti dinchan sabai-laai.
 
----[Verse 4:]---
+---[Verse:4]---
 अघि बढ खीष्टीय यत्‍‌न,
 बनाऊ आनन्दित सबलाई
 अघि बढ, स्वर्गतिर

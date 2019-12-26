@@ -16,7 +16,7 @@ timi pani stuti gaauň) ~2
 {y}(fataa-fat fataa-fat mili-juli
 kaam garauň fataa-fat) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 कमिलाको देशमा न कोही अगुवा
 कमिलाको देशमा न कोही दास
 न कोही जिम्मेवारी त्यहाँ
@@ -29,7 +29,7 @@ na kohi jimme-waari tyehaaň
 na kohi saano ra Thulo khaas
 fataa-fat fataa-fat fataa-fat
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 एउटा कमिलालाई कसैले भुलाउदा
 म अति व्यस्त छु भन्छ
 विन्ति छ मेरो मलाई नभुलाउ
@@ -53,7 +53,7 @@ ghar-ghar dhaaune awasar chaina fataa-fat
 kuraa orsaane neri maukai chaina fataa-fat
 fataa-fat fataa-fat fataa-fat
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 ओरालोमा पनि त्यत्तिकै फटाफट
 उकालोमा पनि त्यत्तिकै फटाफट
 दु:खमा पनि त्यत्तिकै फटाफट

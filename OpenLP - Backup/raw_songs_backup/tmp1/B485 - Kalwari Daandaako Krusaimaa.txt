@@ -9,7 +9,7 @@ yeshu-le aafno praaN diye
 (timro ra mero paap dhuna,
 coT sahi ragat bagaaye) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 नठान उनी केवल मरे,
 बौरेर फेरि पनि उठे
 (रोक्‍‌न सकेन चिहानले,
@@ -20,7 +20,7 @@ baurera feri pani uThe
 (rokna sakena cihaan-le,
 jit-na sakena mrityu-le) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 मृत्यु र पापको डर छैन,
 विश्‍वास गर येशूमा
 (स्वर्गको बाटो येशू नै हुन्‌,

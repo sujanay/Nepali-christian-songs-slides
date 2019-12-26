@@ -9,7 +9,7 @@ vishwaas-maa rahe taba,
 ma timi-laai jivan-ko
 mukuT nishcai dinechu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 स्वर्गको राज्य नजीक आएको छ
 पाप-मार्गदेखि हृदयलाई फिराऊ
 मनोहर देशमा स्थापित
@@ -31,7 +31,7 @@ prem-purbak hiňDi
 tyes raajye-laai
 ani mukuT-laai paauň.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 ए सानो झुण्ड भयभीत नहोऊ,
 प्रभुको शुभेच्छा छ राज्य दिने
 केवल तिमीले प्रभुलाई मनपर्दो

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू मुक्तिदाता हुन्‌,
 जगत्‌ त्राणकर्ता हुन्‌) २
 आउँछौं उनको चरणमा,
@@ -9,7 +9,7 @@ jagat traaNakartaa hun) ~2
 aauňchauň unko caraNmaa,
 jivan unaimaa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (खालि आशा उनैमा,
 छैन अरु कसैमा) २
 प्रभु दिनुहोस्‌
@@ -20,7 +20,7 @@ chaina aru kasaimaa) ~2
 prabhu dinuhos
 mukti sunnuhos binti.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (दया दु:खितमाथि भो
 उद्धार मेरो, हे प्रभु) २
 प्रभु ख्रीष्टको गुण गाऔं,
@@ -31,7 +31,7 @@ uddhaar mero, he prabhu) ~2
 prabhu khrisTko guNa gaauň,
 unko pachi jaauň.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (धन्य ईश्‍वर कृपालु,
 दीन अनि दयालु) २
 होस्‌ उनैको महिमा

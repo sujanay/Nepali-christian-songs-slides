@@ -9,7 +9,7 @@ bholi kahile na-aaulaa
 aajako din jo haat-maa cha,
 garchu prabhuko prashaňsaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अनुग्रह येशूको
 नदीझैँ बगिरहेको) २
 मेरो निम्ति प्रशस्त
@@ -20,7 +20,7 @@ nadi-jhaiň bagi-raheko) ~2
 mero nimti prashasta
 ananta-samma pugnecha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (प्रेमको धारा येशूको
 सित्तैँमा झरिरहेको) २
 हरदिन, हररात थाहा गर्छु,
@@ -31,7 +31,7 @@ sittaiňmaa jhari-raheko) ~2
 har-din, har-raat thaahaa garchu,
 muTu-bhari prem caDhaauňchu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (कोमल कृपा हजुरको
 झरनासरी बर्सिएको) २
 बुझी पूर्ण हृदयको

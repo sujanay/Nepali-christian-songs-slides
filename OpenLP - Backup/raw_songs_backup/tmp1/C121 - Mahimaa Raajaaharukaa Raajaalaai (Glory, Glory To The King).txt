@@ -5,7 +5,7 @@
 (mahimaa raajaa-har'kaa raajaa-laai,
 mahimaa, ma'imaa, thumaa-laai) ~2x
 
----[Verse 1:]---
+---[Verse:1]---
 सिंहासनमा विराजमान छन्,
 धार्मिकताका परमेश्‍वर
 उनले हामीलाई बचाए,
@@ -16,7 +16,7 @@ dharmiktaa-kaa parmeshwor
 unle haami-laai bacaaye,
 unai-sanga raaj garna, uThauň ...
 
----[Verse 2:]---
+---[Verse:2]---
 धार्मिकताको खोजी गर्न
 दिए उद्धारको पोशाक
 राष्ट्रहरूलाई प्रचार गरौं

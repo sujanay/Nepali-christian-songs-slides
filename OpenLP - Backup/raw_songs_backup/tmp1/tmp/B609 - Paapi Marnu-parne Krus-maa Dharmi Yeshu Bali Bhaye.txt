@@ -27,7 +27,7 @@ dosi sab-laai maafi bhayo) ~2
 {y}paapi marnu-parne krusa-maa dharmi
 yeshu bali bhaye
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (आएथे ख्रीष्ट
 संसारमा जहिले
 बलिदान हुनलाई) २
@@ -56,7 +56,7 @@ yeshu-le sahi-diye
 korraa-ko coT-maa
 bali nai bhai-diye) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (त्यागेथे प्राण
 पहिरेर मुकुट
 शिरमा काँडाको) २

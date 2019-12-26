@@ -5,7 +5,7 @@
 jaijai, jaijai jaijaikaar prabhuko
 (man mero ragatle shuddha bhayo) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (क्रूसैको छेउमा जहाँ रगत बग्यो
 पापैले दबिँदै म गए त्यहाँ) २
 (मन मेरो रगतले शुद्ध भयो) २
@@ -14,7 +14,7 @@ jaijai, jaijai jaijaikaar prabhuko
 paapaile dabiňdai ma gaye tyehaaň) ~2
 (man mero ragatle shuddha bhayo) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (निश्चय दूर भयो सबै पाप हृदयमा
 राज्य गर्छन्‌ येशू आज) २
 (क्रूसको छेउमा पूर्ण प्रताप) २

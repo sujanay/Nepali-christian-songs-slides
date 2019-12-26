@@ -11,7 +11,7 @@ prabhu, tapaaiň-laai ke caRhaauň maile ?
 malaai ta jivan nai dinu-bhayo.
 sri-janaa gari prabhu tapaaiň-le.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मेरो जीवन मर्दै गएको देखी
 प्रभु रुनुभयो) २
 (अविश्‍वासी भई टाढा भाग्दा
@@ -22,7 +22,7 @@ prabhu runu-bhayo) ~2
 (abishwaasi bhai TaaDhaa bhaagdaa
 krus-baaTa malaai pukaarnu-bhayo) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (भुझ्न चाहन्छु, किन मलाई
 यति प्यारो गर्नुभयो ? ) २
 (मेरो जीवनको निम्ति आफै

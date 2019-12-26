@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दु:ख, शोक सबै काटियो हल्लेलूयाह,
 सब लडाइँमा जीत भयो, हल्लेलूयाह
 बिते दिन पछि-पछि छाडौं, हल्लेलूयाह,
@@ -9,7 +9,7 @@ sab laDaaiň-maa jit bhayo, halleluyaah
 bite din pachi-pachi chaaDauň, halleluyaah,
 drisTi aghi ucaalauň, halleluyaah.
 
----[Verse 2:]---
+---[Verse:2]---
 उनको शब्द सुन्दछौं, हल्लेलूयाह,
 आदि-अन्त सर्वत्र, हल्लेलूयाह
 जहाँ उनले लानेछन्‌, हल्लेलूयाह,
@@ -20,7 +20,7 @@ aadi-anta sarvatra, halleluyaah
 jahaaň unle laanechan, halleluyaah,
 jyoti unle dinechan, halleluyaah.
 
----[Verse 3:]---
+---[Verse:3]---
 हाम्रो जीवनको आधार, हल्लेलूयाह,
 ख्रीष्टमा मात्र पाउँदछौं, हल्लेलूयाह
 हाम्रा परममित्रकहाँ, हल्लेलूयाह,

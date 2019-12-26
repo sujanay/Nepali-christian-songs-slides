@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 ईश्‍वरले दिएका रमाहट
 यस पापी संसारमा
 कि आफ्‍‌नो वचनअनुसार दया पाइनेछ
@@ -18,7 +18,7 @@ pratyek din prashasta dayaa paaincha.
 {y}halleluyaah halleluyaah
 halleluyaah yeshu
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अँध्यारो भए पनि रमाउँछु सधैँ
 किनकि ईश्‍वरले
 मलाई छोड्‌दैनन्‌ कहिल्यै
@@ -31,7 +31,7 @@ malaai choD-dainan kahilyei
 yaatraa-maa taklif bhaye
 pani sworga-maa pugnechu nishcai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 म यात्रा सिध्याएपछि
 स्वर्गलोक आउनेछु
 त्यहाँ निरन्तर रमाहट

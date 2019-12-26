@@ -5,7 +5,7 @@
 sunileu mero bhaai ho,
 yeshuji meraa duniyaaň-maa aaye
 
----[Verse 1:]---
+---[Verse:1]---
 (दुनियाँमा आए,
 मुक्ति लिई आए) २
 मानिसलाई आई बचाए,
@@ -16,7 +16,7 @@ mukti lii aaye) ~2
 maanis-laai aai bacaaye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गीय पिताका एक मात्र पुत्र) २
 मानिसका पुत्र भनिए,
 येशूजी मेरा दुनियाँमा आए।
@@ -25,7 +25,7 @@ yeshuji meraa duniyaaň-maa aaye.
 maanis-kaa putra bhaniye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 3:]---
+---[Verse:3]---
 (अन्धालाई आँखा,
 गुँगालाई बोली) २
 बहिरालाई शब्द सुनाए,
@@ -36,7 +36,7 @@ guňgaa-laai boli) ~2
 bahiraa-laai shabda sunaaye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 4:]---
+---[Verse:4]---
 (कोरी, अर्धाङ्गी निको गराए) २
 मुर्दालाई बौराई उठाए,
 येशूजी मेरा दुनियाँमा आए।
@@ -45,7 +45,7 @@ yeshuji meraa duniyaaň-maa aaye.
 murdaa-laai bauraai uThaaye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 5:]---
+---[Verse:5]---
 (हामी सब पापमा
 डुबिरहेका थियौं) २
 अद्‌भुत प्रेम देखाए,
@@ -56,7 +56,7 @@ Dubi-rahekaa thiyauň) ~2
 adbhut prem dekhaaye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 6:]---
+---[Verse:6]---
 (दुनियाँको कारण
 क्रूसैमा चढी) २
 पवित्र रगत बहाए,
@@ -67,7 +67,7 @@ krusai-maa caDhi) ~2
 pavitra ragat bahaaye,
 yeshuji meraa duniyaaň-maa aaye.
 
----[Verse 7:]---
+---[Verse:7]---
 (ख्रीष्ट मरेपछि चिहानमा राखिए) २
 र तेस्रो दिनमा बौरी उठे,
 येशूजी मेरा दुनियाँमा आए।

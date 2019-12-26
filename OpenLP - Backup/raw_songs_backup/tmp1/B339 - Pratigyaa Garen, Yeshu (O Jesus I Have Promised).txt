@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रतिज्ञा गरेँ, येशू,
 म सेवा गर्नेछु,
 मसँग सधैँ बस्‍‌नोस्‌,
@@ -20,7 +20,7 @@ najik hunu-bhaye,
 tapaaiň-ko path biraaunnaň
 paau Doryaaunu-bhaye.
 
----[Verse 2:]---
+---[Verse:2]---
 छेउ मेरो बस्‍‌नोस्‌,
 येशू, सांसारिक मायाले,
 फसाउँछ मलाई सधैँ
@@ -40,7 +40,7 @@ chan shatru caarai-tira
 man-bhitra chan pani, he yeshu,
 aai praaN-laai jogaau-nos paap-dekhi.
 
----[Verse 3:]---
+---[Verse:3]---
 स्वार्थको झगडादेखि
 ईर्ष्याको आँधीमा,
 म स्वर तपाईंको सुनूँ
@@ -62,7 +62,7 @@ saahas waa hapki hos,
 prabhu, boli malaai sunaau-nos,
 he rakchyek praaNai-ko.
 
----[Verse 4:]---
+---[Verse:4]---
 हे येशू, यो प्रतिज्ञा
 चेलालाई दिइयो कि,
 'जहाँ म छु,

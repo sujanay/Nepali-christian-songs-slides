@@ -9,7 +9,7 @@ euTaa nayaaň git gaayera
 aadar garauň hai yeshu raajaa-ko
 swoccha ani siddha man-le
 
----[Verse 1:]---
+---[Verse:1]---
 (स्वर्गलाई त्यागी धर्तीमै आए
 बचाउन हामीलाई
 थुकाइ र कुटाइ चोट है
@@ -20,7 +20,7 @@ bacaauna haami-laai
 thukaai ra kuTaai coT hai
 sahi krusai-maa mare ni) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (मानिसलाई मुक्ति दिनलाई
 येशू है मरे नि
 स्वर्गको साँचो मुक्तिको बाटो

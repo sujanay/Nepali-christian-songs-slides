@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (होसन्‍‌ना, होसन्‍‌ना,
 होसन्‍‌ना येशू राजालाई) २
 
@@ -16,7 +16,7 @@ ra prashaaňsaa caRhaauň,
 haamro prabhu-laai stuti hos
 hosanna yeshu raajaa-laai.
 
----[Verse 2:]---
+---[Verse:2]---
 (महिमा, महिमा,
 महिमा येशू राजालाई) २
 
@@ -34,7 +34,7 @@ ra prashaaňsaa caRhaauň,
 haamro prabhu-laai stuti hos
 mahimaa yeshu raajaa-laai.
 
----[Verse 3:]---
+---[Verse:3]---
 (प्रशंसा, प्रशंसा,
 प्रशंसा येशू राजालाई) २
 

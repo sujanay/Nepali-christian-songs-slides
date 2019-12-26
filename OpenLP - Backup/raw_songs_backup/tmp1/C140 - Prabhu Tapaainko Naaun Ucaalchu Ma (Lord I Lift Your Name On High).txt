@@ -26,7 +26,7 @@ krusa-baaTa cihaan-maa,
 cihaan-baaTa sworga-maa,
 prabhu tapaaiň-kai naauň ucca-maa
 
----[Verse 2:]---
+---[Verse:2]---
 प्रभु तपाईंको नाउँ उचाल्छु म,
 स्तुति गाउन चाहन्छु तपाईंको,
 खुशी छु मेरो जीवनमा आउनुभो,
@@ -37,7 +37,7 @@ Lord I love to sing Your praises
 I'm so glad You're in my life
 I'm so glad You came to save us
 
----[Chorus 2:]---
+---[Chorus:2]---
 स्वर्गबाट धर्तीमा आउनुभो
 बाटो देखाउन, धर्तीबाट क्रूसमा
 मेरो ऋण तीर्न

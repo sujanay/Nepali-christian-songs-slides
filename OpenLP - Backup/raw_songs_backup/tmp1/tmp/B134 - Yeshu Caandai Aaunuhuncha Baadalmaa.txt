@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू चाँडै आउनुहुन्छ बादलमा,
 यहूदीहरू आउँदै छन्‌ त्यस बेला) ३
 (तुरही फुकिजानेछ त्यस बेला) ३
@@ -9,7 +9,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (turahi fukijaanecha tyes belaa) ~3 
 (paapiharu ke garnechan tyes belaa) ~3
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (विश्‍वासी मुर्दा उठ्‌नेछन्‌) ३
 (महिमाको शरीर हुन्छ) ३
 (दु:ख शुरु हुन्छ संसारमा) ३
@@ -20,7 +20,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (dukha shuru huncha sansaar-maa) ~3
 (haawaa-maa maNDali jaanechan) ~3
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (सबै भक्त भेट हुनेछन्‌) ३,
 (स्वर्गीय मुकुट पाउनेछन्‌) ३
 (थुमाको भजन हुनेछ) ३
@@ -31,7 +31,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (thumaa-ko bhajan hunecha) ~3
 (aaňshu sabai puchi-dinechan) ~3
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 (येशूलाई दण्डवत्‌ गर्नेछन्‌) ३
 (जयजयकारको ध्वनि हुन्छ) ३
 (जैतुनमा येशू आउनेछन्‌) ३
@@ -42,7 +42,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (jaitun-maa yeshu aaunechan) ~3
 (yeshu-le raajye garnechan) ~3
 {/y}
----[Verse 5:]---
+---[Verse:5]---
 (आखिर न्याय हुनेछ) ३
 (पापी आगोमा जानेछन्‌) ३
 (तिमी के हुन माग्छौ) ३
@@ -53,7 +53,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (timi ke huna maagchau) ~3
 (pashcaattaap garihaala) ~3
 {/y}
----[Verse 6:]---
+---[Verse:6]---
 (नयाँ स्वर्ग र नयाँ पृथ्वी) ३
 (जसमा बेहुलाबेहुली बस्छन्‌) ३
 (मृत्यु, शोक, कष्ट हुँदैन) ३
@@ -64,7 +64,7 @@ yehudi-haru aauňdai chan tyes belaa) ~3
 (mrityu, shok, kasTa huňdaina) ~3
 (shaitaan feri hune-chaina) ~3
 {/y}
----[Verse 7:]---
+---[Verse:7]---
 (ईश्‍वर सबमा हुनुहुन्छ) ३
 (हल्लेलूयाह सबले भन्छन्‌) ३
 (सधैँ आनन्दित हुनेछन्‌) ३

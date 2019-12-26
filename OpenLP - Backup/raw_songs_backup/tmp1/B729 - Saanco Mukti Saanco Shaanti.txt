@@ -9,7 +9,7 @@ caahan-chan prabhu dina,
 samai huňdai prabhu yeshu-kaahaaň,
 aau na aau caaňDai lina.
 
----[Verse 1:]---
+---[Verse:1]---
 (तिमीलाई बोलाउने अति प्रेमसहित,
 आऊ नम्र भएर प्रभुकाहाँ ) २
 पापको लागि दुःखित हुँदै,
@@ -27,7 +27,7 @@ khub pashcaa-taapi bhai jhuka caraN-maa
 (saaraa dil-le dayaa maaga) ~2
 (paaune-chau paap-ko chyemaa) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (तिमीलाई चाहने प्रभुकाहाँ आई,
 रक्ताम्मे प्रभुलाई हेर क्रूसमा ) २
 तिम्रा पापको दण्ड भोग्दै,
@@ -45,7 +45,7 @@ prabhu chana krus-maa ati piDaa-maa
 (ragat bahyo aňga-aňga-baaTa) ~2
 (dhou paap tyehi krus-maa) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 (सारा पाप तिम्रा पापै भए,
 धार्मिकता पनि घीनलाग्दा छन् ) २
 बाँच्ने उपाय एउटै छैन,
@@ -63,7 +63,7 @@ dharma-kaa pula sabai bhaaňci-nechan
 (aaňkhaa kholi hera krus-maa) ~2
 (uddhaar-kartaa tyehaaň chan) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 (जाँदछौ दुर-दुर सुखको खोजमा,
 पाउँदछौ केवल क्षणिक तृप्ति ) २
 एकान्तमा हृदय रून्छ,

@@ -10,7 +10,7 @@ bholi-bholi bhandai aba dherei na-basauň,
 mahaan aagyaa puraa garna kammar kasauň
 ~ (Repeat Chorus)
 
----[Verse 1:]---
+---[Verse:1]---
 (विद्यार्थी हौं
 हामीहरू युगलाई हाँक्‍‌ने,
 अन्याय र अत्याचार
@@ -32,7 +32,7 @@ kammar kasera,
 lachye haamro puraa hunna
 (yesai basera aahai) ~3
 
----[Verse 2:]---
+---[Verse:2]---
 (विद्यार्थीले विद्यार्थीलाई
 चेला बनाउँदै,
 हाम्रो यही कर्तव्य हो

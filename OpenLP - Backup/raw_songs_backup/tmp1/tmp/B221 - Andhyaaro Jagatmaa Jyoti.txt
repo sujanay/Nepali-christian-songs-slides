@@ -5,7 +5,7 @@
 {y}aňdhyaaro jagat-maa jyoti
 failaai ujjwol prabhu yeshu
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 तिमीले अधर्म पापलाई
 क्रूसमा मेटाइदियौ
 क्रूसको दु:खलाई सहेर
@@ -23,7 +23,7 @@ paapi-laai mukta garaayau
 {y}gaa-i-rahechauň timro sarva-guNgaana,
 samjhi-rahechauň yaada madhuro prem.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 निराश जीवन लिएर
 बितिरहेथ्यौ त्यसै
 शुष्क हृदयको तानमा
@@ -41,7 +41,7 @@ jivit aashaa dilaayau
 {y}gaa-i-rahechauň timro sarva-guNgaana,
 samjhi-rahechauň yaada madhuro prem.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पापमय जीवनलाई त्यागेर
 आत्माको दीप जलाउँछैं
 स्वर्गीय आशिष् लिएर

@@ -9,7 +9,7 @@ halleluyaah bhan-dai,
 bolaauň-dai cha haami-laai,
 pavitra bacan-le) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (हे दाज्यू-भाइ, हे दिदी-बहिनी
 नभुल त्यो घरलाई) २
 जाऔं हामी सबै जय जय गाउँदै,
@@ -20,7 +20,7 @@ na-bhula tyo ghar-laai) ~2
 jaauň haami sabai jai jai gaauň-dai,
 paap-laai tyaagera.
 
----[Verse 2:]---
+---[Verse:2]---
 (रमाहट गर्दै, स्तुति गाउँदै
 अनन्त घरैमा) २
 जहाँ स्वर्गदूतगण जय जय गाउँछन्‌
@@ -31,7 +31,7 @@ ananta gharai-maa) ~2
 jahaaň sworga-dutgaN jai jai gaauňchan
 yeshu-ko chewai-maa.
 
----[Verse 3:]---
+---[Verse:3]---
 (जहाँ न तिर्खा-भोक आदि,
 जहाँ न दिन न रात) २
 बसौंला माथि स्तुति गर्दै

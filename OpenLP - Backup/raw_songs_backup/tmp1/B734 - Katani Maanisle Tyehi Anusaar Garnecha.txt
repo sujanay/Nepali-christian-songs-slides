@@ -7,7 +7,7 @@ kaTani maanis-le tyehi anusaar garne-cha,
 (jun prakaar-le us-le rop-dacha ) ~2
 (dhokaa-maa na-para, parmeshwor-ko ThaTTaa huň-daina) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 प्रभु चाँडै आइरहेछन् ,
 प्रभु चाँडै आइरहेछन् ।
 (हरेक मानिसलाई प्रतिफल दिनलाई ) २
@@ -29,7 +29,7 @@ aago-le tyes-ko dine-cha pramaaN ) ~2
 (suna caaňdi-jhaiň kaam pak-kaa bhaye
 timi-le paaune-chauň inaam ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 अमुल्य वचनका बिउलाई लिई,
 अमुल्य वचनका बिउलाई लिइ।
 (दुःख परिश्रमसाथ आँसुका तराईमा) २
@@ -51,7 +51,7 @@ harsa ullaas-kaa saath farka-nechan ) ~2
 (aatmaa-kaa fal-haru jivan-maa falaauň-dai,
 khrisT-ko sewaa garne-chan) ~2
 
----[Verse 3:]---
+---[Verse:3]---
 तोडा तिमीले पाएका छौ,
 तोडा तिमीले पाएका छौ।
 (एक तोडा पाउनेझैँ लुकाएर तोडालाई,
@@ -73,7 +73,7 @@ mahimit raajye-maa aadar paauň-nechauň ) ~2
 (aatmaa-maa ropne-le jivan-ko kaTani,
 sharir-maa binaash kamaauň-chan ) ~2
 
----[Verse 4:]---
+---[Verse:4]---
 हरेस नखाई असल काम गरे
 हरेस नखाई असल काम गरे ।
 (ठीक समयमा हामी कटनी गर्नेछौं ) २

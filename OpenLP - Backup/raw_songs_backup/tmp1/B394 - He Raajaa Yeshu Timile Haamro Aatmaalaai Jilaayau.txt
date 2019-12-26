@@ -16,7 +16,7 @@ bandhan nisfal tulyaa-yau
 garjane siňha-ko tarsaaune
 boli cup-caap garaayau
 
----[Verse 1:]---
+---[Verse:1]---
 (थुनाका कैदी मानवजाति
 निर्बन्ध तुल्यायौ) २
 रगतको मोल तिरी,
@@ -27,7 +27,7 @@ nir-bandha tulyaa-yau) ~2
 ragat-ko mol tiri,
 kalwari krusai-le, khrisT-ko prem-le.
 
----[Verse 2:]---
+---[Verse:2]---
 मिश्र नै देशको फारोको शासन
 चकनाचूर भइगयो
 (प्रतिज्ञा मुलुक कनानमा

@@ -9,7 +9,7 @@ krus-laai rangaa-yau,
 (aadam dekhi-ko paap-laai timi-le
 krus-maa Tangaa-yau. ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 अनमोल रगत र मृत्युद्वारा,
 व्यवस्था तिमीले पूरा गर्‍यौ
 (हामी पापीलाई आज तिमीले,
@@ -20,7 +20,7 @@ byebas-thaa timi-le puraa garyau
 (haami paapi-laai aaja timi-le,
 prashasta anugraha-maa bharyau) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 आशै थिएन अन्योलमा थियौं,
 थुप्रै दिनहरू व्यर्थैमा जियौं,
 (बगायौ तिमीले रगतको धारा,

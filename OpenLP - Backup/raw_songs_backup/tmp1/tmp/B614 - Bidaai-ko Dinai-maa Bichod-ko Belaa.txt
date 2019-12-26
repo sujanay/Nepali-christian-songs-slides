@@ -7,7 +7,7 @@
 (fuTda-cha man-ko
 thailaa ho nayen-baaTa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कहाँको तिमी कहाँको हामी
 भेट भयो हाम्रो यसरी) २
 सँगै हिँड्यौ सँगै खेल्यौँ
@@ -27,7 +27,7 @@ dukha-haru-maa saath diyau
 (khrisT yeshu-ko
 nyaano angaalo-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (यस्तै रहेछ यहाँको चलन
 मिलनमा हाँसो बिछोडमा आँसु) २
 बिदाइको दिनैमा बिछोडको बेला

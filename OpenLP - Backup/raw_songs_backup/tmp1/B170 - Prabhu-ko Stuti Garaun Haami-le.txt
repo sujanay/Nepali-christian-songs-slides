@@ -5,7 +5,7 @@
 (prabhu-ko stuti garauň haami-le,
 prabhu-ko stuti garauň) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (प्रभुको बढाइ सधैँ होइरहोस्‌) २
 (उनको स्तुति गरौं) २
 हल्लेलूयाह, उनको स्तुति गरौं।
@@ -14,7 +14,7 @@ prabhu-ko stuti garauň) ~2
 (una-ko stuti garauň) ~2
 halleluyaah, una-ko stuti garauň.
 
----[Verse 2:]---
+---[Verse:2]---
 (प्रभुको घरमा भजन होइरहोस्‌) २
 (उनको शक्ति बढाइ) २
 हल्लेलूयाह, उनको शक्ति बढाइ।
@@ -23,7 +23,7 @@ halleluyaah, una-ko stuti garauň.
 (una-ko shakti baDhaai) ~2
 halleluyaah, una-ko shakti baDhaai.
 
----[Verse 3:]---
+---[Verse:3]---
 (सबै काममा कति शक्तिमान्‌) २
 (उनको शक्ति बताऊ) २
 हल्लेलूयाह, उनको शक्ति बताऊ।
@@ -32,7 +32,7 @@ halleluyaah, una-ko shakti baDhaai.
 (una-ko shakti bataau) ~2
 halleluyaah, una-ko shakti bataau.
 
----[Verse 4:]---
+---[Verse:4]---
 (जयको जोडमा फुक तुरही) २
 (वीणा, सारङ्गी बजाऊ) २
 हल्लेलूयाह, वीणा, सारङ्गी बजाऊ।
@@ -41,7 +41,7 @@ halleluyaah, una-ko shakti bataau.
 (biNaa, saarangi bajaau) ~2
 halleluyaah, biNaa, saarangi bajaau.
 
----[Verse 5:]---
+---[Verse:5]---
 (सितार बजाई रागिनी छेड) २
 (डफ र तबला बजाऊ) २
 हल्लेलूयाह, डफ र तबला बजाऊ।
@@ -50,7 +50,7 @@ halleluyaah, biNaa, saarangi bajaau.
 (Daf ra tabalaa bajaau) ~2
 halleluyaah, Daf ra tabalaa bajaau.
 
----[Verse 6:]---
+---[Verse:6]---
 (मुरली, सनई राम्रो बजाऊ) २
 (छिङछिङ झ्याली बजाऊ) २
 हल्लेलूयाह, छिङछिङ झ्याली बजाऊ।
@@ -59,7 +59,7 @@ halleluyaah, Daf ra tabalaa bajaau.
 (chinga-chinga jhyaali bajaau) ~2
 halleluyaah, chinga-chinga jhyaali bajaau.
 
----[Verse 7:]---
+---[Verse:7]---
 (सबै मिली ताली बजाऊ) २
 (प्रभुको स्तुति गरौं) २
 हल्लेलूयाह, प्रभुको स्तुति गरौं।

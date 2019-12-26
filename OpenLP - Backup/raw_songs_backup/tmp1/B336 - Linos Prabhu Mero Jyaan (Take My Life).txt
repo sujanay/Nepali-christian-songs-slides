@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 लिनोस् प्रभु मेरो ज्यान,
 होस् तपाईंलाई बलिदान ।
 लिनोस् हरेक दिन र क्षण
@@ -9,7 +9,7 @@ hos tapaaiň-laai balidaan,
 linos harek din ra chyeN
 sadhaiň stuti-maa bitun.
 
----[Verse 2:]---
+---[Verse:2]---
 लिनोस् मेरा हात, प्रभु,
 लाउनोस् काममा तपाईंको ।
 लिनोस् मेरा पाउ, प्रभु,
@@ -20,7 +20,7 @@ laaunos kaam-maa tapaaiňko,
 linos meraa paau, prabhu,
 aafno path-maa hiňRaauna.
 
----[Verse 3:]---
+---[Verse:3]---
 लिनोस् मेरो स्वर, प्रभु,
 तपाईंको बढ़ाइ गर्छु ।
 लिनोस् मेरा ओठ, प्रभु,
@@ -31,7 +31,7 @@ tapaaiňko baDhaai garchu,
 linos meraa oTh, prabhu,
 hos su-bacan bhareko.
 
----[Verse 4:]---
+---[Verse:4]---
 लिनोस् मेरो धन, प्रभु,
 सब तपाईंलाई बुझाउँछु ।
 लिनोस् बुद्धि, ज्ञान, प्रभु,
@@ -42,7 +42,7 @@ sab tapaaiň-laai bujhaauň-chu,
 linos buddhi, gyaan, prabhu,
 bash-maa lyaa-i tapaaiň-ko.
 
----[Verse 5:]---
+---[Verse:5]---
 लिनोस् इच्छा, हे प्रभु,
 आफ्‍‌नैसित मिलाउनु ।
 लिनोस् मन आफ्‍‌नै ठान्‍‌नोस्
@@ -53,7 +53,7 @@ aafnai-sita milaaunu,
 linos man aafnai Thaannos
 tapaaiň-ko siňhaasan hos.
 
----[Verse 6:]---
+---[Verse:6]---
 लिनोस् मेरो प्रेम, प्रभु,
 चरणमा म खन्याउँछु ।
 लिनोस् तन–मन–धन,

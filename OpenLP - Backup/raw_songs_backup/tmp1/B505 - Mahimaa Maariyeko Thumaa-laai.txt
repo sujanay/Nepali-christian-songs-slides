@@ -7,7 +7,7 @@ mahimaa maari-yeko thumaa-laai
 prashaňsaa prabhu-haru-kaa prabhu-laai
 (jaijai-kaar raajaa-haru-kaa rajaa-laai) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (धन्यवाद, स्तुति, आदर र भक्ति
 मारिएको थुमालाई अति) २
 (इज्जत, मान, वैभव र शक्ति) २
@@ -20,7 +20,7 @@ maari-yeko thumaa-laai ati) ~2
 ati pavitra, pavitra, pavitra,
 ishwor-prati, ishwor-prati.
 
----[Verse 2:]---
+---[Verse:2]---
 (होसन्‍‌ना आमिन, गौरव र गीति
 मारिएको थुमालाई अति) २
 (प्रणाम्, ढोग, दण्डवत् दृष्टि) २

@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (येशू–येशू,
 मेरो जीवनको स्वामी,
 येशू–येशू,
@@ -18,7 +18,7 @@ mero jivan-ko killaa) ~2
 tapaaiň-ko tyo coka-bhitra) ~2
 (taali bajaauň-dai) ~4
 
----[Verse 2:]---
+---[Verse:2]---
 (येशू–येशू,
 मेरो जीवनको राजा,
 येशू–येशू

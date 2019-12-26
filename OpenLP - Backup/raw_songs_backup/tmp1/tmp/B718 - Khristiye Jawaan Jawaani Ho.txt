@@ -9,7 +9,7 @@ yaatraa timro baaňki nai cha) ~2
 (bishwaas-maa paailaa caal-dai jaau,
 safal-taa timro nishcaya cha) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (आउँछन् कति जीवनमा हार,
 तर हार भित्रै छ तिम्रो जीत) २
 (ढाडस तिमी बाँध्दै जाऊ,
@@ -20,7 +20,7 @@ tara haar bhitrai cha timro jit) ~2
 DhaaDas timi baaňdh-dai jaau,
 jaiwanta yeshu saatha-maa chan, saatha-maa chan
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (आउँछन् धेरै उदास खिन्‍नता,
 निभाउनलाई तिम्रो आशा) २
 आत्मामा तिमी बढ्दै जाऊ,

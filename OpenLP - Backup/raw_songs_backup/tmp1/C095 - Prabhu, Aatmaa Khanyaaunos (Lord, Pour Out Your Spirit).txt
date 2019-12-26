@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 प्रभु, आत्मा खन्याउनोस्
 संसारका सब मानिसहरूमा,
 तपाईंका छोराछोरीले
@@ -38,7 +38,7 @@ aba Thulo jagaaune kaam hunecha
 ra ja-jasle yeshu-laai pukaar-chan
 ti sab baaňc-nechan
 
----[Verse 2:]---
+---[Verse:2]---
 प्रभु, आत्मा खन्याउनोस्
 संसारका सब राष्ट्रहरूमा
 तपाईंको महिमा देखेर,

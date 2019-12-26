@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 आछु... छु... छु... भयो नि जाडो,
 स्वर सबैले खोलौं साह्रो
 हुँदैन कसैलाई गाउन गाह्रो,
@@ -9,7 +9,7 @@ swor sabai-le kholauň saahro
 huň-daina kasai-laai gaauna gaahro,
 janme goTh-maa prabhu haamro.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (गरीब गोठाला दर्शनमा आए,
 येशूलाई भेटी औधी रमाए) २
 (पाप क्षमा जीवन पाए) २
@@ -20,7 +20,7 @@ yeshu-laai bheTi audhi ramaaye) ~2
 (paap chyemaa jivan paaye) ~2
 sabai-ko laagi nai mukti-daan lyaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (स्वर्गलाई छोडी जगमा आए,
 रुचाए गरीब गाईको गोठ नै) २
 (दिएनन्‌ कसैले ठाउँ तपाईंलाई) २

@@ -12,7 +12,7 @@ prabhu-le laanu bhayeko) ~2
 
 {y}na-runu hai he aamaa baabaa
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (म त प्रभुको घरमा सुखसँग छु
 प्रभुको मीठो मीठो भजन
 सधैँ गाउँदछु) २
@@ -25,7 +25,7 @@ sadhaiň gaauň-dachu) ~2
 prabhu-ko nyaano angaalo-maa
 aa-maa timrai mam-taa paauň-dachu.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (म छुइनँ भनेर संसारमा लौन
 तिमी हरेस नखाओ
 एक दिन त सबै उनकै

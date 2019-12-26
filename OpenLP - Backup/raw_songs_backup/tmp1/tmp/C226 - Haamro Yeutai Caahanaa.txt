@@ -38,14 +38,14 @@ yeshu-ko prem-maa magna huna
 {y}haamro yeuTai caahanaa
 pavitra dulahi unko huna
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (हाम्रो दुलहा) ४
 अब आउनुहोस्‌
 
 {y}(haamro dula'aa) ~4
 aba aaunu-hos
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (अँगाल्‍‌नुहोस्‌ ) ४
 हाम्रो जीवनलाई
 (अँगाल्‍‌नुहोस्‌ ) ४

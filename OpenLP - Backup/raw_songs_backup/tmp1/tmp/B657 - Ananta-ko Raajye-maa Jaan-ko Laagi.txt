@@ -11,7 +11,7 @@ bhakti-saath jivan jiun-ko laagi
 vishwaas-maa bijai banna-ko laagi
 (praarthanaa-maa laagi rahauň) ~4
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (शैतानले अवश्य बाधा नै ल्याउँछ
 दु:ख र कष्टको हुरी चलाउँछ) २
 कमजोर विश्‍वासको मुटु हल्लाउँछ
@@ -23,7 +23,7 @@ kamjor vishwaas-ko muTu hallaauň-cha
 (tyesai-le ma bhan-chu,
 praarthanaa-maa laagi rahauň) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (गर्जने सिंहझैँ तर्साउन आउँछ
 घमण्ड र स्वार्थ मनमा ल्याइदिन्छ) २
 विश्‍वासको जीवनमा, शंका ल्याइदिन्छ
@@ -35,7 +35,7 @@ vishwaas-ko jivan-maa, shaňkaa lyaai-dincha
 (tyesai-le ma bhan-chu,
 praarthanaa-maa laagi rahauň) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 (लोभ र लालचामा फँसाइ छोड्छ
 संसारको पापमा डुबाइ दिन्छ) २
 विश्‍वासबाट पछि हटाउँछ

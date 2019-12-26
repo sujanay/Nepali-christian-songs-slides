@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 जयजय धन्य येशू
 हाम्रो मुक्तिदाता, सृष्टि सब,
 अचम्मको प्रेम सुनाऊ
@@ -22,7 +22,7 @@ aaňdhamaa boki saanaalaai lyaauňchan ghar
 aau sab siyona DaaňDaamaa basne
 vishwaasi stuti gara yeshuko jaijaikaar.
 
----[Verse 2:]---
+---[Verse:2]---
 जयजय धन्य येशू हुन्‌
 हाम्रा मुक्तिदाता,
 पापको लागि रगत बहाई मरे
@@ -51,7 +51,7 @@ laaja, ghina, inkaar,
 nindaa khaai haamro laagi
 aba jaiwant sworgako raajkumaar.
 
----[Verse 3:]---
+---[Verse:3]---
 जयजय धन्य येशू
 हाम्रा मुक्तिदाता,
 स्वर्गद्वारमा गुन्जायमान

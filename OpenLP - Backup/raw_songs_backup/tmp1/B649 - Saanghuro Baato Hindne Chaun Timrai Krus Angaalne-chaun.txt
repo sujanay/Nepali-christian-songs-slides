@@ -9,7 +9,7 @@ timrai krus angaalne-chauň) ~2
 (timraa paailaa pachyaauň-dai) ~2
 (saaraa kasTa sahan-chauň) ~3
 
----[Verse 1:]---
+---[Verse:1]---
 (गहभरी आँसु भए पनि
 हजारौँ बाधा आए पनी) २
 (तिम्रै प्रेममा रमाउछौँ) ३
@@ -18,7 +18,7 @@ timrai krus angaalne-chauň) ~2
 hajaarauň baadhaa aaye pani) ~2
 (timrai prem-maa ramaau-chauň) ~3
 
----[Verse 2:]---
+---[Verse:2]---
 (तिम्रो वचनको थोक लिएर
 तिम्रै मायाको तृषणा बोकेर) २
 (संसारमा जिउनेछौँ) ३

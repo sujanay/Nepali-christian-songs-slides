@@ -9,7 +9,7 @@ surye au candramaa) ~2
 pavitra dutgaN, senaa ishworkaa ucca
 sthaan-maa gara ... stuti yaahweko
 
----[Verse 1:]---
+---[Verse:1]---
 हे ज्योतिर्मय तारागण सब,
 हे विशाल आकाश
 अनि भूलोकका निर्मल जल
@@ -31,7 +31,7 @@ aaňdhi, megha, bataasa prashaňsaa gara
 falabanta brikchye, pitaa
 ishworko gara ... stuti yaahweko.
 
----[Verse 2:]---
+---[Verse:2]---
 राजा, प्रजा, न्यायाधीश,
 हाकिम, राज्य-राज्यका,
 युवक-युवती, बालक वृद्ध

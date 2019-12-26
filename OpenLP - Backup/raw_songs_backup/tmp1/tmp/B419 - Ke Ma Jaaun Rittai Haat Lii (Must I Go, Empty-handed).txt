@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 के म जाऊँ रित्तै हात लिई,
 यसै भेटूँ प्रभुलाई?
 के म एकै दिनको कामलाई
@@ -20,7 +20,7 @@ yesai bheTuň prabhu-laai ?
 kina yeshu-kahaaň nalyaauň
 yeuTai pani saathi-laai ?
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 डरै छैन मृत्युदेखि
 ख्रीष्ट बचाउनेछन्‌ मलाई
 तर उनकहाँ रित्तै जाँदा
@@ -31,7 +31,7 @@ khrisT bacaau-nechan malaai
 tara un-kahaaň rittai jaaňdaa
 runecha mero ridai.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 त्यो समय जो पापमा काटेँ,
 त्यो फर्किन सके त
 प्रभुलाई त्यो दिने थिएँ
@@ -42,7 +42,7 @@ tyo farkina sake ta
 prabhu-laai tyo dine thiyeň
 hiňD-dai unko ichyaa-maa.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 ख्रीष्टीय जन हो, जाग, उठ,
 बेला हुँदा बल लगाऊ
 आफ्‍‌नो मृत्युभन्दा अघि सकभर

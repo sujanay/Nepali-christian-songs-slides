@@ -9,7 +9,7 @@ ishworiye ragat-ko dhaaraa-laai,
 (paap-kaa daag-haru meTaau-na
 bagi-raheko cha saaraa-laai. ) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (सामर्थ्य छ त्यस धारामा
 पापीका पापहरू धुनलाई) २
 (नधोए पाप त्यस धारामा
@@ -20,7 +20,7 @@ paapi-kaa paap-haru dhuna-laai) ~2
 (na-dhoye paap tyes dhaaraa-maa
 narak-maa parda-cha runa-laai. ) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (आऔं हामी त्यस धारामा
 हाम्रा पापहरू धुनलाई) २
 (आशिष् अनुग्रहको मुहान्

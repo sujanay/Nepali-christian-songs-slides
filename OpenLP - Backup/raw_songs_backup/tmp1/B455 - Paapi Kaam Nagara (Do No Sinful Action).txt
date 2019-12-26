@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 पापी काम नगर,
 नबोल क्रोधी बात,
 ख्रीष्ट हुन्‌ तिम्रा प्रभु,
@@ -9,7 +9,7 @@ na-bola krodhi baat,
 khrisT hun timraa prabhu,
 ti chan timro-saath.
 
----[Verse 2:]---
+---[Verse:2]---
 ख्रीष्ट दयालु प्रेमी,
 ती हुन्‌ शुद्ध र सत्‌,
 बालकैको पनि होस्‌
@@ -20,7 +20,7 @@ ti hun shuddha ra sat,
 baalakai-ko pani hos
 pavitra gat.
 
----[Verse 3:]---
+---[Verse:3]---
 शैतान दुष्ट आत्मा
 अहिले हेर्दै छ,
 गर्छ त्यो परीक्षा
@@ -31,7 +31,7 @@ ahile herdai cha,
 garcha tyo parikchyaa
 sadhaiň gherdai cha.
 
----[Verse 4:]---
+---[Verse:4]---
 त्यसको बात नसुन,
 सुन्‍‌नु पाप नै छ,
 सधैँ भलो गर्नु
@@ -42,7 +42,7 @@ sunnu paap nai cha,
 sadhaiň bhalo garnu
 khrisT-laai pyaaro cha.
 
----[Verse 5:]---
+---[Verse:5]---
 ख्रीष्ट हुन्‌ तिम्रा प्रभु,
 उत्तम पवित्र,
 उनको नानी भलो हुनु

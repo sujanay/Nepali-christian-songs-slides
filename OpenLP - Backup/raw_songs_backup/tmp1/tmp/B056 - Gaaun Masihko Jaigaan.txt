@@ -11,7 +11,7 @@ ra dhanye bhana unko naam,
 (ek sahaaraa masih) ~2
 gaauň...
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 मुक्तिको पथलाई प्रचार गर्दै
 जीवन मसीहले बिताए
 पाप र श्राप मेटाउन
@@ -22,7 +22,7 @@ jivan masihle bitaaye
 paap ra shraap meTaauna
 masih-le krus-maa ragat bagaaye.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 अन्धकार जगको अँध्यारोलाई
 प्रेमी मसीहले हटाए
 प्रेम प्रचार्दै,
@@ -35,7 +35,7 @@ prem pracaardai,
 prem baDhaauňdai irsyaa
 ra dwesa meTaaye.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 पथिकहरूलाई पथ देखाउँदै
 ईश्‍वर नाता जोडाए
 पापको बन्धनमा हामी परेथ्यौं
@@ -46,7 +46,7 @@ ishwor naataa joDaaye
 paapko bandhanmaa haami parethyauň
 pyaaro masih-le chuTaaye.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 अमोल प्रेम जो मसीहमा
 पाउँछौं त्यो छाडी कहाँ जाऔं?
 मुक्ति र शान्ति जो उनमा पाउँछौं

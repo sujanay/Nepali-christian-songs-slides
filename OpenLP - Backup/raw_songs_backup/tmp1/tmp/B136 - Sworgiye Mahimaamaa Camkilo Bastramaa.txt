@@ -9,7 +9,7 @@ camkilo bastra-maa
 (prabhu aaunechan sansaar-maa
 baadal-ko sawaari-maa) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 अन्तको चिन्ह देख्‍‌नेछौ,
 प्रभुको आगमनमा,
 दु:ख, लडाइँ, अनिकाल
@@ -31,7 +31,7 @@ saaraa bishwo-bhar-maa,
 nishcai nai prabhu aaunechan
 turahi-ko sora-maa.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 माताको गर्भबाट नै
 मानिस पापमा जन्मन्छन्‌,
 दुष्ट, छली, पापी हृदय
@@ -53,7 +53,7 @@ hatyaa, byebhicaar,
 kudrisTi, nindaa, dusTataa,
 lobh, Daahaa, kubicaar.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 यस्ता घिनलाग्दा पाप लिई
 स्वर्ग पस्‍‌न सक्तैन,
 दान, पुण्य, प्रार्थना गरेर
@@ -75,7 +75,7 @@ paapiharu bacaauna,
 krusai-maa ragat bagaaye
 ghin-laagdaa paap-laai dhuna.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जीवन मानिसको के छ र
 पलकमा प्राण निस्कन्छ,
 कुटुम्ब, धनसम्पत्ति छोडी

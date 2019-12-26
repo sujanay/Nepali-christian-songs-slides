@@ -7,7 +7,7 @@
 (mukti chaina kasai aru-maa) ~2
 (kewal yeshu maa) ~4
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (कतै अझै हामी
 अनजानै पो छौं कि?
 पापको बोझ बोकी
@@ -25,7 +25,7 @@ jiuň-dai po chauň ki?) ~2
 {y}(yeshu aaye maanis-laai chuT-kaaraa dina,
 bandhan-maa jiuna aba kasai-laai par-daina) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (मानिसलाई हेरी निर्णय नगरौं,
 एक्लै भए पनि येशूलाई अपनाऊ) २
 (जाँदैन है खेर जीवन दुःखै दुःखमा,

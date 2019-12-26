@@ -9,7 +9,7 @@
 aljhaau-ne kuraa faalera
 (tayaar sadhaiň rahan-chu) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 लट्याउने रकमको थुप्रोले
 अल्मल्याउन खोज्छ,
 लोभ र लालचको वस्तुले
@@ -20,7 +20,7 @@ alma-lyaauna khoj-cha,
 lobh ra laalac-ko bastu-le
 tarkaau-ne koshis garcha.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 दर्शाउनु भएको कुरामा
 सधैँ लागिरहन्छु,
 येशूको वाणीमा अडिन चाहन्छु ।
@@ -29,7 +29,7 @@ tarkaau-ne koshis garcha.
 sadhaiň laagi-rahan-chu,
 yeshu-ko baaNi-maa aDin caahan-chu.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 जीवन मुकुट पाउनलाई
 फूर्ति साथ दगुर्छु,
 धोखा दिने तनमनलाई
@@ -40,7 +40,7 @@ furti saath dagur-chu,
 dhokhaa dine tan-man-laai
 piTera adal raakh-chu.
 {/y}
----[Verse 4:]---
+---[Verse:4]---
 जीवन मुकुट पाउनलाई
 फूर्ति साथ दगुर्छु,
 घनिष्ठतामा येशूको झन्‌झान्

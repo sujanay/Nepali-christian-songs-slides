@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 येशूको पछि हिँड्‌नेछु बरु
 दु:खको बाटो होस्‌
 भञ्‍जयाङ-पहाड र मैदानमा
@@ -20,7 +20,7 @@ jahaaň uni jaa-nechan
 jaan-dachu ki yehi baaTo
 jaa-necha yerushalem.
 
----[Verse 2:]---
+---[Verse:2]---
 यसकारण म सोध्‍‌नेछैन,
 प्रभुले कहाँ लानेछन्‌
 म डराउनेछैन कहिल्यै,
@@ -42,7 +42,7 @@ hiňD-nechu namrataa-le
 kaaraN unko siddha ichyaa
 jaati cha mero laagi.
 
----[Verse 3:]---
+---[Verse:3]---
 दुनियाँले मलाई भुल्याए
 मेटिनेवाला चीजैले
 अनि पापमा फसाए
@@ -64,7 +64,7 @@ praaN ra jivan-maa
 un-ko sevaa garna-laai basna
 un-kai ichyaa-maa.
 
----[Verse 4:]---
+---[Verse:4]---
 लिइहाल मेरो इच्छा
 आफ्‍‌नो इच्छामा राख
 जब दौडमा म थाक्‍‌नेछु

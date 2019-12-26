@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 दुवैको बनोस्
 गन्तव्य प्रभु येशू नै,
 दुवैको पूरा होस्
@@ -38,7 +38,7 @@ jai bhanchauň swor ucaali ekai
 {y}yojanaa ho param-prabhu-ko
 yo pavitra bibaaha janma-dhikai,
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 आफ्नै हाडको हाड,
 र मासु आफ्नै,
 उकाली-ओह्रली साथ
@@ -57,7 +57,7 @@ hiňDna chaayaa bhai
 param-prabhu-le nai
 (dulahi sundari, banaai) ~2
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 फुल फुलेको, सुबासना भरेको
 घरको शिर बनून् परमेश्‍वर नै
 फल फलेको, हरियाली छाएको

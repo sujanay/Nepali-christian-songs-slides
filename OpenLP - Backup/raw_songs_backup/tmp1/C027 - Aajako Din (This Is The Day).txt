@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (आजको दिन) २
 (उनले सिर्जेका) २
 रमाउँदै जाऊँ, खुशी मनाऊँ
@@ -20,7 +20,7 @@ ramaauň-dai jaauň, ra khushi manaauň,
 aaja-ko din, aaja-ko din,
 un-le sirjekaa
 
----[Verse 2:]---
+---[Verse:2]---
 हरी इनी, हरी इनी,
 (तुहान् जदिकान् ) २
 (कु बर्सुका) २
@@ -43,7 +43,7 @@ Ku bersuka dan bertemasya
 Hari ini, hari ini
 Tuhan jadikan
 
----[Verse 3:]---
+---[Verse:3]---
 This Is The Day, This Is The Day
 That The Lord Has Made
 That The Lord Has Made

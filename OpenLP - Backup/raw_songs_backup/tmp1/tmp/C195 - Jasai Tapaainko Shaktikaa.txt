@@ -1,4 +1,4 @@
----[Verse 1:]---
+---[Verse:1]---
 (जसै तपाईंको शक्तिको
 घोषणा गर्छौं,
 जसै तपाईंको नाउँको
@@ -20,7 +20,7 @@ bandhan sab fukaau-nuhos,
 andhakaar haTaau-nuhos
 (hosannaa, maaraanathaa) ~4
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (जसै तपाईंमा साह्रै
 खुशी हुन्छौं,
 जसै तपाईंमा

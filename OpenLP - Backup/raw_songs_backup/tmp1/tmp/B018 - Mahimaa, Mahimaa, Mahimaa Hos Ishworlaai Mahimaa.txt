@@ -6,7 +6,7 @@
 ishworlaai mahimaa
 (hos, mahimaa hos) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (मृतक आत्मालाई, आशारहितलाई,
 घृणित, गरीब, शून्य,
 अर्थहीन जीवनलाई) २
@@ -28,7 +28,7 @@ nawin darshan din, nayaaň jivan din
 ishworlaai
 (prashaňsaa hos) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (सत्य अमर प्रेमको,
 सुन्दर उदार प्रेमको,
 असीमित एकमात्र जीवित

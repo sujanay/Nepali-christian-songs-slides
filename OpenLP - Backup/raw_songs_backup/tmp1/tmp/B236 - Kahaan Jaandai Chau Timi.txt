@@ -9,7 +9,7 @@ farkera aau prabhu-maa
 (chaina aba ta samai, biyaaňlo nagari
 prabhu yeshu-laai vishwaas gara) ~2
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 गइरहेछौ तिमी कहाँ,
 थाहा छ के तिमीलाई?
 पुग्छौ कहाँ तिमी,
@@ -27,7 +27,7 @@ kun baaTo-maa jaaňdai chau?
 {y}yeshu-maa aau ahile nai,
 parkhi-rahanechan timilaai.
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 बाँचेको छ के आत्मा,
 विचार गरेका छौ के?
 यसकारण आऊ चाँडै नै,
@@ -45,7 +45,7 @@ aatmaako fikri gari
 {y}parkhi-rahechan yeshu aatmaa
 bacaauna timro.
 {/y}
----[Verse 3:]---
+---[Verse:3]---
 नगरी ढिलो अब,
 समय हुँदै चाँडै आऊ
 उनले स्वर्ग लान चाहन्छन्‌,

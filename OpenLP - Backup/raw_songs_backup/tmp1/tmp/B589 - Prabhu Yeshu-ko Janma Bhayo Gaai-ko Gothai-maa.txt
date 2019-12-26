@@ -20,7 +20,7 @@ taaraa-laai herera
 darshana gari
 caRhaaye bheTi daNDawat garera.
 {/y}
----[Verse 1:]---
+---[Verse:1]---
 (अचम्भित भए गोठालाहरू
 स्वर्गदूतलाई देखेर
 खबर दिन गए सबै नै
@@ -42,7 +42,7 @@ aaunu-bho yeshu sansaar-maa) ~2
 maanab colaa-maa janma linu-bho
 (bethlehem gaawaiň-maa) ~2
 {/y}
----[Verse 2:]---
+---[Verse:2]---
 (हामीलाई पुत्र दिनुभयो
 स्वर्गका पिता परमेश्‍वरले
 पापको बोझ उठाउन

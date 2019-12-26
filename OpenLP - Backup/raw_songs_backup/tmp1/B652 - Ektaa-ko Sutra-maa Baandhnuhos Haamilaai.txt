@@ -16,7 +16,7 @@ prem-ko Dori-le) ~2
 (na-TuTos yo khrisTiye prem haami-maa
 jaba-samma khrisT-ko aagaman hunna) ~2
 
----[Verse 1:]---
+---[Verse:1]---
 (एउटै परमेश्‍वरको सन्तान हौँ हामी
 एउटै ख्रीष्टको रगतले किनिएका हामी) २
 एउटै नाउँमा बप्तिस्मा लिएका
@@ -27,7 +27,7 @@ yeuTai khrisT-ko ragat-le kiniye-kaa haami) ~2
 yeuTai naauň-maa baptismaa liyekaa
 (baaňdh-nuhos haami-laai prem-ko Dori-le) ~2
 
----[Verse 2:]---
+---[Verse:2]---
 (स्वर्गीय राज्यको सन्तान हौँ हामी
 क्रूसको झण्डा संसारमा फैलाउँदै) २
 उच्च पार्ने महिमित नाउँ येशूको
