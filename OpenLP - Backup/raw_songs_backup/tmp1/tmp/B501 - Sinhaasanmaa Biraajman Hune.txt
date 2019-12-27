@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 (सिंहासनमा विराजमान हुने,
 परमेश्‍वरको प्रजा हामी) २
 (आऊ उनलाई पुजौं भक्तिसाथ,
@@ -36,6 +36,24 @@ parmeshwor-ko pujaari haami) ~2
 (aau un-laai pujauň bhakti-saath
 ka'ile choDne-chainan haamro haat.) ~2
 {/y}
+---[Chorus:1]---
+(सिंहासनमा विराजमान हुने,
+परमेश्‍वरको प्रजा हामी) २
+(आऊ उनलाई पुजौं भक्तिसाथ,
+कहिले छोड्नेछैनन् हाम्रो हात) २
+
+{y}(siňhaasana-maa biraaj-maan hune,
+parameshwora-ko prajaa haami) ~2
+(aau un-laai pujauň bhakti-saath,
+ka'ile choDne-chainan haamro haat) ~2
+{/y}
+---[Chorus1a:]---
+सिंहासनमा विराजमान हुने,
+परमेश्‍वरको प्रजा हामी
+
+{y}siňhaasana-maa biraaj-maan hune,
+parameshwora-ko prajaa haami
+{/y}
 ---[Verse:2]---
 (झरी-घाम र छायाँको
 आज गरौं सामना हामी
@@ -55,4 +73,22 @@ swodesha-maa jaane-chauň haami) ~2
 {y}(baadal-paariko uhaaň-ko desha-maa) ~2
 (aau un-laai pujauň bhakti-saath
 ka'ile choDne-chainan haamro haat.) ~2
+{/y}
+---[Chorus:1]---
+(सिंहासनमा विराजमान हुने,
+परमेश्‍वरको प्रजा हामी) २
+(आऊ उनलाई पुजौं भक्तिसाथ,
+कहिले छोड्नेछैनन् हाम्रो हात) २
+
+{y}(siňhaasana-maa biraaj-maan hune,
+parameshwora-ko prajaa haami) ~2
+(aau un-laai pujauň bhakti-saath,
+ka'ile choDne-chainan haamro haat) ~2
+{/y}
+---[Chorus1a:]---
+सिंहासनमा विराजमान हुने,
+परमेश्‍वरको प्रजा हामी
+
+{y}siňhaasana-maa biraaj-maan hune,
+parameshwora-ko prajaa haami
 {/y}

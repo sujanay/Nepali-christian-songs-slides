@@ -1,4 +1,4 @@
----[Verse:]---
+---[Verse:1]---
 (धन्यवाद चढ़ाऔं हृदयदेखि,
 धन्यवाद पवित्र परमेश्‍वरलाई,
 धन्यवाद उहाँले दिनुभो
@@ -9,7 +9,7 @@ dhanyebaad pavitra parmeshwor-laai,
 dhanyebaad uhaaň-le dinubho
 yeshu khrisT aafno putra) ~2
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 भन निर्बलले 'म बलियो छु',
 गरीबले 'म धनी छु'
 कारण उहाँले जे गर्नुभो

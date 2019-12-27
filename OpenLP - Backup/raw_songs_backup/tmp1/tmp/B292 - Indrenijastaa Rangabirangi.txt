@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 इन्द्रेनीजस्ता रङ्गबिरङ्गी
 तिम्रा प्यारा-प्यारा सपनाहरूको
 मुक्तिदाता येशूसँग प्रतिज्ञा बनोस्‌
@@ -54,5 +54,4 @@ bhara tyo samjhi yeshu-maa
 timraa pyaaraa sabai-sabai ichyaa-haru-ko
 mukti-daataa yeshu-saňga pratigyaa banos
 aashisa-ko jivana paai.
-{/y}
 {/y}

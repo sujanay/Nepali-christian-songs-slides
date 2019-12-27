@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:23:58">
+  <properties>
+    <titles>
+      <title>B504 - maile nishcai gareko chu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(मैले निश्‍चय गरेको छु<br/>रमाउन येशूमा<br/>मैले निश्‍चय गरेको छु<br/>विश्‍वास गर्न उनैमा) २<br/><br/><tag name="y">(maile nishcai gareko chu<br/>ramaauna yeshu-maa,<br/>maile nishcai gareko chu<br/>vishwaas garna unai-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(चाहे दाखका बोटमा<br/>कुनै फूल नफुलोस्<br/>चाहे मेरो जीवनमा<br/>कुनै सुधार नहोस्) २<br/><br/><tag name="y">(caahe daakh-ko boT-maa<br/>kunai ful na-fulos<br/>caahe mero jivan-maa<br/>kunai sudhaar na-hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(चाहे हाँस्‍‌न परोस्,<br/>चाहे रुन परोस्<br/>चाहे बाँच्‍‌न परोस्<br/>चाहे मर्न परोस्) २<br/><br/><tag name="y">(caahe haaňs-na paros,<br/>caahe runa paros<br/>caahe baaňc-na paros<br/>caahe marna paros) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(चाहे खाँचो परोस्,<br/>चाहे प्रशस्त होस्,<br/>चाहे मेरो जीवनमा<br/>कुनै सुधार नहोस्) २<br/><br/><tag name="y">(caahe khaaňco paros,<br/>caahe prashasta hos,<br/>caahe mero jivan-maa<br/>kunai sudhaar na-hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(परमप्रभु नै<br/>मेरा सहारा हुन्<br/>परमप्रभु नै<br/>मेरो जीवनको ज्योति हुन्) २<br/><br/><tag name="y">(param-prabhu nai<br/>meraa sahaaraa hun<br/>param-prabhu nai<br/>mero jivan-ko jyoti hun) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

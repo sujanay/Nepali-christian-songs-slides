@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T02:29:37">
+  <properties>
+    <titles>
+      <title>C066 - yogye, ati yogye parmeshwor tapaaiň</title>
+    </titles>
+    <verseOrder>v1 c1 c2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(योग्य, अति योग्य परमेश्‍वर तपाईं,<br/>धन्यवाद प्रशंसा आराधना,<br/>भक्तिका योग्य) २<br/><br/><tag name="y">(yogye, ati yogye parmeshwor tapaaiň,<br/>dhanyebaad prashaňsaa aaraadhnaa,<br/>bhakti-kaa yogye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>गाउँछौँ हल्लेलूयाह,<br/>थुमा सिंहासनमा<br/>आराधना भक्ति चढ़ाउँछौँ,<br/>जनाउँछौँ महिमा,<br/><br/><tag name="y">gaauň-chauň halleluyaah,<br/>thumaa siňhaasan-maa<br/>aaraadhnaa bhakti caRhauň-chauň,<br/>janaauň-chauň mahimaa,<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>हल्लेलूयाह,<br/>महिमा राजालाई<br/>विजयीभन्दा विजयी<br/>तपाईं सबका परमेश्‍वर ।<br/><br/><tag name="y">halleluyaah,<br/>mahimaa rajaa-laai<br/>bijayi-bhandaa bijayi<br/>tapaaiň sab-kaa parmeshwor.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,4 +1,4 @@
----[Verse:]---
+---[Verse:1]---
 (तपाईं प्रभू, सब पृथ्वीमाथि
 प्रभू हुनुहुन्छ
 सबै देवहरूभन्दा
@@ -9,7 +9,7 @@ prabhu hunuhuncha,
 sabai devaharu-bhandaa
 mahaan parmeshwor) ~2x
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 (म उचाल्छु) ३
 तपाईंलाई
 (म उचाल्छु) ३

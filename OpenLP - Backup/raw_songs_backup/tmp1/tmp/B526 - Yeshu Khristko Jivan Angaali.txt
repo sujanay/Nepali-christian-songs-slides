@@ -62,7 +62,7 @@ chuT-kaaraa swotantrataa-ko lahari) ~2
 sansaar-bhari ho, ho
 nepaal-dekhi sansaar-bhari
 {/y}
-~Ending:
+---[Verse:4]---
 हो हो, गाउँ-शहर वरिपरि
 हो हो, मेचीदेखि महाकाली,
 हो हो, नेपालदेखि संसारभरि।

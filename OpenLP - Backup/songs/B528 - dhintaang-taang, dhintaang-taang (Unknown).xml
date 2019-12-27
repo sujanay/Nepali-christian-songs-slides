@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:16:26">
+  <properties>
+    <titles>
+      <title>B528 - dhintaang-taang, dhintaang-taang</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(धिन्ताङ्ग-ताङ्ग, धिन्ताङ्ग-ताङ्ग<br/>मादल बज्यो) २<br/>आ ... हा लौ है, हेर<br/><br/><tag name="y">(dhintaang-taang, dhintaang-taang<br/>maadala bajyo) ~2<br/>aa ... haa lau hai, hera<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>बेथलेहमको गाईको गोठमा<br/>जन्मेको है येशू राजा,<br/>हेर है, हेर लौ, हेर<br/><br/><tag name="y">betha-lahm-ko gaai-ko goTh-maa<br/>jana-meko hai yeshu raajaa,<br/>hera hai, hera lau, hera<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>भविष्यवक्ताले भनेको झैँ<br/>हा हा हा हा<br/>भविष्यवक्ताले भनेको झैँ<br/>शब्द-शब्द पूरा हुन गो<br/><br/><tag name="y">bhabishye-baktaa-le bhaneko jhaiň<br/>haa haa haa haa<br/>bhabishye-baktaa-le bhaneko jhaiň<br/>shabda-shabda puraa huna go<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(मुक्तिदाता आउनु नै भो,<br/>(थुमा नाउँले प्रख्यात भो) २<br/><br/><tag name="y">(mukti-daataa aaunu nai bho) ~2<br/>(thumaa naauň-le prakhyaata bho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>स्वर्गीय दूतले नै तर्साए<br/>हा हा हा हा<br/>स्वर्गीय दूतले नै तर्साए<br/>शान्तमय पारी सबलाई सुनाए<br/><br/><tag name="y">sworgiye duta-le nai tarsaaye<br/>haa haa haa haa<br/>sworgiye duta-le nai tarsaaye<br/>shaanta-mai paari sab-laai sunaaye<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(खबर सत्य र उदेकैको,) २<br/>(सारा संसारलाई नै भो) २<br/><br/><tag name="y">(khavara satye ra udekai-ko) ~2<br/>(saaraa sansaara-laai nai bho) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

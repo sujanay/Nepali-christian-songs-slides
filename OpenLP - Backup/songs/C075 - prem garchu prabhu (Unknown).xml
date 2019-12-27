@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T02:33:51">
+  <properties>
+    <titles>
+      <title>C075 - prem garchu prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रेम गर्छु प्रभु,<br/>म स्वर उचाल्छु,<br/>आराधना गर्न,<br/>मेरो मन रमाओस् ,<br/><br/><tag name="y">prem garchu prabhu,<br/>ma swor ucaal-chu,<br/>aaraadhanaa garna,<br/>mero man ramaaos,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आनन्द लिनोस्,<br/>जे सुन्‍‌नुहुन्छ<br/>त्यही मीठो आवाज होस्<br/>तपाईंको कानमा ।<br/><br/><tag name="y">aananda linos,<br/>je sunnu-huncha<br/>tyehi miTho aawaaj hos<br/>tapaaiň-ko kaan-maa<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

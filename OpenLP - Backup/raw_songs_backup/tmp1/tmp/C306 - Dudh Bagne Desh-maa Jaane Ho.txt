@@ -3,13 +3,11 @@
 मह बग्‍‌ने देशमा
 प्रतिज्ञाको देशमा जाने हो,
 हाम्रो स्वर्गीय देशमा) २
-हु...हु...हु...हा...हा...हा...
 
 {y}(dudh bagne desh-maa jaane ho,
 maha bagne desha-maa
 pratigyaa-ko desh-maa jaane ho,
 haamro sworgiye desha-maa) ~2
-hu...hu...hu...haa...haa...haa...
 {/y}
 ---[Verse:1]---
 (कलवरीको कथा बिर्सी
@@ -33,6 +31,17 @@ jivan dine paani-laai,
 chyemaa maagi aghi baRha
 jivana-ko prabhu-laai.
 {/y}
+---[Chorus:]---
+(दूध बग्‍‌ने देशमा जाने हो,
+मह बग्‍‌ने देशमा
+प्रतिज्ञाको देशमा जाने हो,
+हाम्रो स्वर्गीय देशमा) २
+
+{y}(dudh bagne desh-maa jaane ho,
+maha bagne desha-maa
+pratigyaa-ko desh-maa jaane ho,
+haamro sworgiye desha-maa) ~2
+{/y}
 ---[Verse:2]---
 (बाटो, सत्य, जीवनलाई
 फेरि आउने राजालाई,
@@ -54,4 +63,15 @@ yeshu haamro prabhu-laai) ~2
 kholi-deu yo jivan-laai,
 imaan-daari, aagyaa-kaari
 banaai-deu yo jivan-laai.
+{/y}
+---[Chorus:]---
+(दूध बग्‍‌ने देशमा जाने हो,
+मह बग्‍‌ने देशमा
+प्रतिज्ञाको देशमा जाने हो,
+हाम्रो स्वर्गीय देशमा) २
+
+{y}(dudh bagne desh-maa jaane ho,
+maha bagne desha-maa
+pratigyaa-ko desh-maa jaane ho,
+haamro sworgiye desha-maa) ~2
 {/y}

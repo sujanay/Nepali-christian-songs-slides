@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:54:27">
+  <properties>
+    <titles>
+      <title>B328 - muTu-bhari-bhari, chaati wari-pari</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>मुटुभरि-भरि, छाती वरिपरि<br/>मेरो प्रभुको माया<br/>नाप्‍‌न सक्दैनौं, अपार छ<br/>उनको प्रेमी छत्रछायाँ,<br/><br/><tag name="y">muTu-bhari-bhari, chaati wari-pari<br/>mero prabhu-ko maayaa<br/>naapna sakdainauň, apaar cha<br/>unko premi chatra-chaayaaň,<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>ख्रीष्टकै प्रेममा डुब्छु,<br/>ख्रीष्टकै प्रेममा भुल्छु म सदा-सदा<br/>छुटाउन सक्छ कुन चीजले,<br/>भन कसले गर्छ बाधा<br/><br/><tag name="y">khrisT-kai prem-maa Dubchu,<br/>khrisT-kai prem-maa bhulchu ma sadaa-sadaa<br/>chuTaauna sakcha kun cij-le,<br/>bhana kas-le garcha baadhaa<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>उनको प्रेम आकाशभन्दा अग्लो,<br/>(सागरभन्दा गहिरो, अत्यन्त दामी,<br/>भेदभावरहित, अवर्णनिय) २<br/><br/><tag name="y">un-ko prem aakaash-bhandaa aglo,<br/>(saagar-bhandaa gahiro, atyenta daami,<br/>bhedbhaav-rahit, abarNniye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(सित्तैँमा पाइने कहिल्यै नपुग्‍‌ने) २<br/>कसले दिन्छ त्यस्तो प्रेम<br/>हाम्रै मुक्तिदाता येशू।<br/><br/><tag name="y">(sittaiň-maa paaine kahilyei na-pugne) ~2<br/>kasle dincha tyesto prem<br/>haamrai mukti-daataa yeshu.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जब म हराएको थिएँ,<br/>(सहाराहीन थिएँ यो पापी<br/>जगमा प्रभु आउनुभो,<br/>मेरै नै सामु) २<br/><br/><tag name="y">jaba ma haraayeko thiyeň,<br/>(sahaa-raahin thiyeň yo paapi<br/>jag-maa prabhu aaunubho,<br/>merai nai saamu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(मायालु हातले तान्‍‌नुभो मलाई) २<br/>कसले गर्‍यो त्यस्तो प्रेम<br/>हाम्रै मुक्तिदाता येशू।<br/><br/><tag name="y">(maayaalu haat-le taannu-bho malaai) ~2<br/>kas-le garyo tyesto prem<br/>haamrai mukti-daataa yeshu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 (रगतले रगतले येशूको रगतले) २
 
 {y}(ragat-le ragat-le yeshu-ko ragat-le) ~2
@@ -32,5 +32,4 @@
 (स्वर्गीय ज्योतिको राजमा पस्‍‌नदेऊ) २
 
 {y}(sworgiye jyoti-ko raaj-maa pasna-deu) ~2
-{/y}
 {/y}

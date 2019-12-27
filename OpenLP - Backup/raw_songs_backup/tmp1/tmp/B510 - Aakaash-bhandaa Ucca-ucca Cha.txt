@@ -9,7 +9,7 @@ saagar-bhandaa gahiro-gahiro cha prem
 aasmaan-bhandaa vishaal-vishaal anugrah
 cha, haamro prabhu yeshu-ko.
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 (यसैले गर्छौं प्रशंसा,
 गाउँछौं महिमा उनै येशूको) २
 
@@ -38,6 +38,13 @@ krusai-maa marnu-bho,
 mrityu-laai jitnu-bho,
 haami-laai mukti dina-laai.
 {/y}
+---[Chorus:1]---
+(यसैले गर्छौं प्रशंसा,
+गाउँछौं महिमा उनै येशूको) २
+
+{y}(yesai-le garchauň prashaňsaa,
+gaauň-chauň mahimaa unai yeshu-ko) ~2
+{/y}
 ---[Verse:3]---
 सारा सृष्टिले ढोग्‍‌नेछ,
 सबै घुँडाहरू टेक्‍‌नेछन्‌,
@@ -59,4 +66,11 @@ laaTaa-le pukaar-necha tyo naauň
 bahiro-le sun-necha,
 murdaa biuňta-necha
 unai-laai ma'imaa dina-laai.
+{/y}
+---[Chorus:1]---
+(यसैले गर्छौं प्रशंसा,
+गाउँछौं महिमा उनै येशूको) २
+
+{y}(yesai-le garchauň prashaňsaa,
+gaauň-chauň mahimaa unai yeshu-ko) ~2
 {/y}

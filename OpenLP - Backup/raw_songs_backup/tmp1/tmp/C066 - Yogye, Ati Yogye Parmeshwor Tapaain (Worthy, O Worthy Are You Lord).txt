@@ -1,4 +1,4 @@
----[Verse:]---
+---[Verse:1]---
 (योग्य, अति योग्य परमेश्‍वर तपाईं,
 धन्यवाद प्रशंसा आराधना,
 भक्तिका योग्य) २
@@ -7,7 +7,7 @@
 dhanyebaad prashaňsaa aaraadhnaa,
 bhakti-kaa yogye) ~2
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 गाउँछौँ हल्लेलूयाह,
 थुमा सिंहासनमा
 आराधना भक्ति चढ़ाउँछौँ,
@@ -18,7 +18,7 @@ thumaa siňhaasan-maa
 aaraadhnaa bhakti caRhauň-chauň,
 janaauň-chauň mahimaa,
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 हल्लेलूयाह,
 महिमा राजालाई
 विजयीभन्दा विजयी

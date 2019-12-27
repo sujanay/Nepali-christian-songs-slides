@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:09:27">
+  <properties>
+    <titles>
+      <title>B292 - indreni-jastaa rang-birangi</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>इन्द्रेनीजस्ता रङ्गबिरङ्गी<br/>तिम्रा प्यारा-प्यारा सपनाहरूको<br/>मुक्तिदाता येशूसँग प्रतिज्ञा बनोस्‌<br/>आशिष्‌को जीवन पाइ<br/>इन्द्रेनीजस्ता रङ्गबिरङ्गी<br/><br/><tag name="y">indreni-jastaa rang-birangi<br/>timraa pyaaraa-pyaaraa sapanaa-haru-ko<br/>mukti-daataa yeshu-saňga pratigyaa banos<br/>aashisa-ko jivana paai<br/>indreni-jastaa rang-birangi<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सम्झिहेर जीवन नै उनको दान हो<br/>मूल्यहीन त छैन यो दाम परेको हो) २<br/>बेअर्थ नहोस्‌ जीवनमा<br/>सित्तैँमा पाएको मुक्ति यो,<br/><br/><tag name="y">(samjhi-hera jivan nai unko daana ho<br/>mulye-hin ta chaina yo daam pareko ho) ~2<br/>be-artha na-hos jivana-maa<br/>sittaiň-maa paayeko mukti yo,<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>मौसमझैँ बद्‌ली-बद्‌ली हिँड्‌ने<br/>तिम्रो जिन्दगीका कामनाहरूको<br/>मुक्तिदाता येशूसँग प्रतिज्ञा बनोस्‌<br/>आशिष्‌को जीवन पाइ।<br/><br/><tag name="y">mausam-jhaiň badli-badli hiňDne<br/>timro jindagi-kaa kaamanaa-haru-ko<br/>mukti-daataa yeshu-saňga pratigyaa banos<br/>aashisa-ko jivana paai.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(यस्तै हुन्छ जीवनमा यी घटीहरू<br/>बाधा बनी आउनेछन्‌ ती कमीहरू,) २<br/>डराई नदेऊ जीवनमा,<br/>भर त्यो सम्झी येशूमा<br/><br/><tag name="y">(yestai huncha jivan-maa yi ghaTi-haru<br/>baadhaa bani aaune-chan ti kami-haru, ) ~2<br/>Daraai na-deu jivana-maa,<br/>bhara tyo samjhi yeshu-maa<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>बादलजस्ता हल्का-हल्का,<br/>तिम्रा प्यारा सबै-सबै इच्छाहरूको<br/>मुक्तिदाता येशूसँग प्रतिज्ञा बनोस्‌<br/>आशिष्‌को जीवन पाई।<br/><br/><tag name="y">baadal-jastaa halkaa-halkaa,<br/>timraa pyaaraa sabai-sabai ichyaa-haru-ko<br/>mukti-daataa yeshu-saňga pratigyaa banos<br/>aashisa-ko jivana paai.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

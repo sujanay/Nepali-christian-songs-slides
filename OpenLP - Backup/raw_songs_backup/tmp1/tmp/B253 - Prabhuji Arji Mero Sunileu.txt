@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 प्रभुजी अर्जी मेरो सुनिलेऊ,
 लौ है चढाएँ ।
 प्रभुजी लौ है आज चढाएँ
@@ -9,7 +9,7 @@ lau hai caDhaayeň
 prabhuji lau hai aaja caDhaayeň,
 lau hai caDhaayeň
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 प्रभुजी मनको मैलो धोईदेऊ
 लौ है चढाएँ ।
 

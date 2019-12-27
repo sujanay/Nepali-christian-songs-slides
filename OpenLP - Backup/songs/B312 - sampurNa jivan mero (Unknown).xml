@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:04:03">
+  <properties>
+    <titles>
+      <title>B312 - sampurNa jivan mero</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>सम्पूर्ण जीवन मेरो<br/>प्रभु तपाईंकै हो<br/>(राज गर्नुहोस् सदा<br/>तपाईंकै पूर्ण होस् इच्छा।) २<br/><br/><tag name="y">sampurNa jivan mero<br/>prabhu tapaaiň-kai ho<br/>(raaj garnu-hos sadaa<br/>tapaaiň-kai purNa hos ichyaa.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>महान् प्रभु तपाईको<br/>प्रेम अति गहिरो<br/>सागरभन्दा चौड़ा छ यो<br/>आसमानभन्दा उच्च छ यो;<br/><br/><tag name="y">mahaan prabhu tapaaiň-ko<br/>prem ati gahiro<br/>saagar-bhandaa cauDaa cha yo<br/>aasmaan-bhandaa ucca cha yo<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>निकम्मालाई चुनेर<br/>जीवन दान दिनुभो<br/>(ईच्छा, आशा, उद्देश्य<br/>प्रभु तपाईं नै हो मेरो) २<br/><br/><tag name="y">nikammaa-laai cunera<br/>jivan daan dinubho<br/>(ichyaa, aashaa, uddeshye<br/>prabhu tapaaiň nai ho mero) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दूतगणले गर्थे तपाईंको<br/>स्वर्गमा महिमा<br/>मानिसले गरे उनको<br/>निरादर र निन्दा<br/><br/><tag name="y">dutgaN-le garthen tapaaiň-ko<br/>sworga-maa mahimaa<br/>maanis-le gare una-ko<br/>niraadar ra nindaa<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>स्वर्गमा बस्ने येशू<br/>पिताको दाहिने हात<br/>(मानिसले राखे श्रापित<br/>क्रूसमा दुइ चोरको साथ)२<br/><br/><tag name="y">sworga-maa basne yeshu<br/>pitaa-ko daah'ne haat<br/>(maanis-le raakhe shraapita<br/>krusa-maa dui corko saath) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

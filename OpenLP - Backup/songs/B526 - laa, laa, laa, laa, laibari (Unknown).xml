@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:19:36">
+  <properties>
+    <titles>
+      <title>B526 - laa, laa, laa, laa, laibari</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(ला, ला, ला, ला, लैबरी<br/>लै लै लै [ हो हो] ] ) २<br/>(येशू ख्रीष्टको जीवन अँगाली<br/>शान्ति, सुरक्षा, प्रेमको कहानी) २<br/><br/><tag name="y">(laa, laa, laa, laa, laibari<br/>lai lai lai [ho ho] ) ~2<br/>(yeshu khrisT-ko jivan aňgaali<br/>shaanti, surakchyaa, prem-ko kahaani) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>(अब जाऔं सुनाउँदै) ४<br/>(गाउँ-शहर) २<br/>वरिपरि हो, हो गाउँ-शहर वरिपरि<br/>(ला, ला, ला, ला, लैबरी<br/>लै लै लै [हो हो]। ) २<br/><br/><tag name="y">(aba jaauň sunaauň-dai) ~4<br/>(gaauň-shahar) ~2<br/>waripari ho, ho gaauň-shahar waripari<br/>(laa, laa, laa, laa, laibari<br/>lai lai lai [ho ho]. ) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जिउँदो परमेश्‍वरको प्रेम-कहानी<br/>मुक्ति अनन्त जीवनका खबर दिई) २<br/>(अब जाऔं सुनाउँदै) ४<br/><br/><tag name="y">(jiuňdo parmeshwor-ko prema-kahaani<br/>mukti ananta jivan-kaa khavar dii) ~2<br/>(aba jaauň sunaauň-dai) ~4<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>(मेचीदेखि) २<br/>(महाकाली, हो हो,<br/>मेचीदेखि महाकाली<br/>(ला, ला, ला, ला, लैबरी<br/>लै लै लै [हो हो]। ) २<br/><br/><tag name="y">(meci-dekhi) ~2<br/>mahaakaali, ho ho,<br/>meci-dekhi mahaakaali<br/>(laa, laa, laa, laa, laibari<br/>lai lai lai [ho ho]. ) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(पवित्र आत्माको अलौकिक शक्ति<br/>छुटकारा स्वतन्त्रताको लहरी) २<br/>(अब जाऔं सुनाउँदै) ४<br/><br/><tag name="y">(pavitra aatmaa-ko alaukik shakti<br/>chuT-kaaraa swotantrataa-ko lahari) ~2<br/>(aba jaauň sunaauň-dai) ~4<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>(नेपालदेखि) २<br/>संसारभरि हो, हो<br/>नेपालदेखि संसारभरि<br/><br/><tag name="y">(nepaal-dekhi) ~2<br/>sansaar-bhari ho, ho<br/>nepaal-dekhi sansaar-bhari<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>हो हो, गाउँ-शहर वरिपरि<br/>हो हो, मेचीदेखि महाकाली,<br/>हो हो, नेपालदेखि संसारभरि।<br/><br/><tag name="y">ho ho, gaauň-shahar waripari<br/>ho ho, meci-dekhi mahaakaali,<br/>ho ho, nepaal-dekhi sansaar-bhari.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

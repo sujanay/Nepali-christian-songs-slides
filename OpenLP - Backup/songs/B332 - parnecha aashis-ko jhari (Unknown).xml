@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:47:46">
+  <properties>
+    <titles>
+      <title>B332 - parnecha aashis-ko jhari</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>पर्नेछ आशिष्‌को झरी,<br/>प्रेमको प्रतिज्ञालाई मान<br/>हुन्छन् समय जीउँन दिने<br/>खीष्ट मुक्तिदाताको दान ।<br/><br/><tag name="y">parnecha aashis-ko jhari,<br/>prem-ko pratigyaa-laai maan<br/>hunchan samai jiuňna dine<br/>khrisT mukti-daataa-ko daan<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>आशिष्‌को झरी<br/>आशिष्‌को झरी पठाऊ<br/>दयाको थोपो चुहुन्छ,<br/>आशिष्‌को झरी पठाऊ<br/><br/><tag name="y">aashis-ko jhari<br/>aashis-ko jhari paThaau<br/>dayaa-ko thopo cuhuncha,<br/>aashis-ko jhari paThaau<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>पर्नेछ आशिष्‌को झरी,<br/>जीवनमा होस् शक्ति–बल<br/>सबैमा उत्पन्‍न गराउँछ,<br/>पवित्र आत्माको फल ।<br/><br/><tag name="y">parnecha aashis-ko jhari,<br/>jivan-maa hos shakti-bal<br/>sabai-maa utpann' garaauňcha,<br/>pavitra aatmaa-ko fal<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>पर्नेछ आशिष्‌को झरी,<br/>हामीमा प्रभु पठाऊ<br/>दिएर आत्माको भरपूर,<br/>वचनको तेजले जगाऊ ।<br/><br/><tag name="y">parnecha aashis-ko jhari,<br/>haami-maa prabhu paThaau<br/>diyera aatmaa-ko bharpur,<br/>bacan-ko tej-le jagaau.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>पर्नेछ आशिष्‌को झरी,<br/>होस् आजदेखि शुरू<br/>हामीले आज पाप स्वीकार्छौं,<br/>सुन्‍‌नुहोस् बिन्ती येशू ।<br/><br/><tag name="y">parnecha aashis-ko jhari,<br/>hos aaja-dekhi shuru<br/>haami-le aaja paap swikaar-chauň,<br/>sun-nuhos binti yeshu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

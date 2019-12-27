@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T01:52:25">
+  <properties>
+    <titles>
+      <title>C061 - hosannaa, hosannaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(होसन्‍‌ना, होसन्‍‌ना,<br/>होसन्‍‌ना येशू राजालाई) २<br/><br/><tag name="y">(hosannaa, hosannaa,<br/>hosannaa yeshu raajaa-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>होसन्‍‌ना येशू राजालाई<br/><br/><tag name="y">uhaaň-ko naauň ucaalauň<br/>ra prashaaňsaa caRhaauň,<br/>haamro prabhu-laai stuti hos<br/>hosanna yeshu raajaa-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(महिमा, महिमा,<br/>महिमा येशू राजालाई) २<br/><br/><tag name="y">(mahimaa, mahimaa,<br/>mahimaa yeshu raajaa-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>महिमा येशू राजालाई<br/><br/><tag name="y">uhaaň-ko naauň ucaalauň<br/>ra prashaaňsaa caRhaauň,<br/>haamro prabhu-laai stuti hos<br/>mahimaa yeshu raajaa-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(प्रशंसा, प्रशंसा,<br/>प्रशंसा येशू राजालाई) २<br/><br/><tag name="y">(prashaaňsaa, prashaaňsaa,<br/>prashaaňsaa yeshu raajaa-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>प्रशंसा येशू राजालाई<br/><br/><tag name="y">uhaaň-ko naauň ucaalauň<br/>ra prashaaňsaa caRhaauň,<br/>haamro prabhu-laai stuti hos<br/>prashaaňsaa yeshu raajaa-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>होसन्‍‌ना येशू राजालाई<br/>महिमा येशू राजालाई<br/>प्रशंसा येशू राजालाई<br/><br/><tag name="y">hosannaa yeshu raajaa-laai<br/>mahimaa yeshu raajaa-laai<br/>prashaaňsaa yeshu raajaa-laai.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

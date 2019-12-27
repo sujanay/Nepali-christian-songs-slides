@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T02:31:32">
+  <properties>
+    <titles>
+      <title>C071 - mahimaa garauň aaraadhanaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>महिमा गरौँ,<br/>आराधना येशूलाई होस्<br/>सबै महिमा,<br/>प्रशंसा, आदर<br/><br/><tag name="y">mahimaa garauň,<br/>aaraadhanaa yeshu-laai hos<br/>sabai mahimaa,<br/>prashaňsaa, aadar<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>होस् महिमा<br/>राज्यको अधिकार<br/>सिंहासनदेखि बग्छ हामीतिर<br/>गाऔँ, उनैको गान<br/><br/><tag name="y">hos mahimaa<br/>raajyeko adhikaar<br/>siňhaasan-dheki bagcha haami-tira<br/>gaauň, unaiko gaan<br/></tag><br/>उच्च पारौँ, माथि अग्ल्याऔं<br/>येशूको नाउँलाई<br/>बढाइ गरौँ, महिमित पारौँ,<br/>ख्रीष्ट राजालाई<br/><br/><tag name="y">ucca paarauň, maathi aglyaauň<br/>yeshu-ko naauň-laai<br/>baDhaai garauň, mahimit parauň<br/>khrisT raajaa-laai<br/></tag><br/>महिमा गरौँ, आराधना<br/>येशू मारे, आज महिमित बने,<br/>राजाहरूका राजा ।<br/><br/><tag name="y">mahimaa garauň, aaraadhanaa<br/>yeshu maare, aaja mahimit bane,<br/>raajaa-haru-kaa raajaa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:50:44">
+  <properties>
+    <titles>
+      <title>B331 - anga-pratyenga-kaa maalik</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1 v4 o4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(अङ्ग-प्रत्यङ्गका मालिक<br/>म गर्छु प्रणाम,<br/>धन्य-धन्य सृष्टिकर्ता<br/>अमर छ तिम्रै नाम) २<br/><br/><tag name="y">(anga-pratyenga-kaa maalik<br/>ma garchu praNaam,<br/>dhanye-dhanye srisTi-kartaa<br/>amar cha timrai naam) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तिम्रा सृष्टि यी दुइ हात छन्‌<br/>कति राम्रा,<br/>तिम्रा सृष्टि यी दुइ पाउ छन्‌<br/>कति राम्रा<br/><br/><tag name="y">timraa srisTi yi dui haat chan<br/>kati raamraa,<br/>timraa srisTi yi dui paau chan<br/>kati raamraa<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(यी मेरा हात,<br/>यी मेरा पाउ अङ्ग हुन्‌ तिम्रा,<br/>जे गरूँ म, जहाँ जाऊँ,<br/>म होस्‌ तिम्रै महिमा) २<br/><br/><tag name="y">(yi meraa haat,<br/>yi meraa paau anga hun timraa,<br/>je garuň ma, jahaaň jaauň,<br/>ma hos timrai mahimaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तिम्रा सृष्टि यी दुइ कान छन्‌<br/>कति राम्रा,<br/>तिम्रा सृष्टि यी दुइ ओठ छन्‌<br/>कति प्यारा यी मेरा कान,<br/><br/><tag name="y">timraa srisTi yi dui kaan chan<br/>kati raamraa,<br/>timraa srisTi yi dui oTh chan<br/>kati pyaaraa yi meraa kaan,<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(यी मेरा ओठ अङ्ग हुन्‌ तिम्रा,<br/>जे सुनूँ म, जे बोलूँ म,<br/>होस्‌ तिम्रै महिमा) २<br/><br/><tag name="y">(yi meraa oTh anga hun timraa,<br/>je sunuň ma, je boluň ma,<br/>hos timrai mahimaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>तिम्रा सृष्टि यी दुई आँखा छन्‌<br/>कति राम्रा,<br/>अन्धो हुन्‌ त मनका आँखा छन्‌<br/>ती चनाखा<br/><br/><tag name="y">timraa srisTi yi dui aaňkhaa chan<br/>kati raamraa,<br/>andho hun ta man-kaa aaňkhaa chan<br/>ti canaakhaa<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>(छन्‌ जो मेरा यी दुई आँखा<br/>अङ्ग हुन्‌ तिम्रा,<br/>जहाँ जे जति देखेँ मैले,<br/>होस्‌ तिम्रै महिमा) २<br/><br/><tag name="y">(chan jo meraa yi dui aaňkhaa<br/>anga hun timraa,<br/>jahaaň je jati dekheň maile,<br/>hos timrai mahimaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>ज्ञान र बुद्धि जति मेरा हुन्‌,<br/>यी तिम्रै दान,<br/>अङ्ग-प्रत्यङ्गमा प्यारको<br/>तिम्रो रहेको छ निशान<br/><br/><tag name="y">gyaan ra buddhi jati meraa hun,<br/>yi timrai daan,<br/>anga-pratyenga-maa pyaar-ko<br/>timro raheko cha nishaan<br/></tag></lines>
+    </verse>
+    <verse name="o4">
+      <lines>(श्‍वास-प्रश्‍वासबाट<br/>मेरो निस्कोस्‌ तिम्रै नाउँ,<br/>मेरो यी सर्वाङ्गबाट,<br/>होस्‌ तिम्रै काम) २<br/><br/><tag name="y">(shwaas-prashwaas-baaTa<br/>mero niskos timrai naauň,<br/>mero yi sarvaanga-baaTa,<br/>hos timrai kaam) ~2 <br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

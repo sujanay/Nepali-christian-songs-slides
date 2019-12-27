@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:31:51">
+  <properties>
+    <titles>
+      <title>B502 - herana hera shrisTi-ko sundartaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>हेरन हेर सृष्टिको सुन्दरता,<br/>यसलाई बनाउने प्रभुको महानता<br/>धनी र गरीब दुवै मिलेर,<br/>भन्‍‌न सक्छन्, 'प्रभु धन्यवाद'<br/><br/><tag name="y">herana hera shrisTi-ko sundartaa,<br/>yes-laai banaaune prabhu-ko mahaantaa,<br/>dhani ra garib dubai milera,<br/>bhanna sakchan, 'prabhu dhanyebaad'<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(खेतका आलीहरू,<br/>अन्‍‌न र बालीहरू<br/>बादल वृष्टि र बतासहरू) २<br/><br/><tag name="y">(khetakaa aali-haru,<br/>anna ra baali-haru<br/>baadal vrishTi ra bataasa-haru) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(चरा–चुरुङ्गी उड़्दै,<br/>माथि आकाश छुँदा) २<br/>स्वर्ग नै पुगी दिन्छ मन मेरो ।<br/><br/><tag name="y">(caraa-curungi uRdai,<br/>maathi aakaasha chuňdaa) ~2<br/>sworga nai pugi dincha man mero<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>हेरन हेर सृष्टिको सुन्दरता,<br/>यसलाई बनाउने प्रभुको महानता<br/>धनी र गरीब दुवै मिलेर,<br/>भन्‍‌न सक्छन्, 'प्रभु धन्यवाद'<br/><br/><tag name="y">herana hera shrisTi-ko sundartaa,<br/>yes-laai banaaune prabhu-ko mahaantaa,<br/>dhani ra garib dubai milera,<br/>bhanna sakchan, 'prabhu dhanyebaad'<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(अनौठा बातहरू, जीवजीवातहरू<br/>उज्यालो दिन अनि रातहरू) २<br/>(असंख्य जातिहरू, विभिन्‍‌न रीतहरु) २<br/>उदेकले भरिन्छ यो मन मेरो ।<br/><br/><tag name="y">(anauThaa baata-haru, jiva-jivaata-haru<br/>ujyaalo din ani raata-haru) ~2<br/>(asaňkhye jaati-haru, bibhinna rita-haru) ~2<br/>udek-le bharincha yo man mero<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>गरन गर ईश्‍वरको प्रशंसा<br/>सम्पूर्ण हृदयले उपासना<br/>मान्छे–मान्छेको सबै भिन्‍‌नता<br/>मेटियो हेर उनको आँगनमा ।<br/><br/><tag name="y">garana gara ishwor-ko prashaňsaa<br/>sampurNa ridai-ko upaasanaa<br/>manche-manche-ko sabai bhinnataa<br/>meTiyo hera un-ko aaňgan-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>हेरन हेर सृष्टिको सुन्दरता<br/><br/><tag name="y">herana hera shrisTi-ko sundartaa<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

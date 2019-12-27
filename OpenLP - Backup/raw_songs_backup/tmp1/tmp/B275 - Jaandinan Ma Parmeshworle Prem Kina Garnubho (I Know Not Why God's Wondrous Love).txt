@@ -9,7 +9,7 @@ prem kina garnu-bho
 waa khrisT-le kina bacaaunu-bho
 ayogye praaNa mero.
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 तर कसमाथि विश्‍वास राखेँ
 सो जान्दछु म र निश्चय छु म
 कि उनलाई जे मैले सुम्पेँ,
@@ -63,5 +63,4 @@ tripti waa garibi
 kahaaň yeshu feri aaune-chan
 ki mare-pachi bheTuň-laa
 ki bheTuň-laa aakaash-maa.
-{/y}
 {/y}

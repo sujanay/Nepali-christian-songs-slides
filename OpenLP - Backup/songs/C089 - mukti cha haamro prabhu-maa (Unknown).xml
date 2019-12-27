@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:10:05">
+  <properties>
+    <titles>
+      <title>C089 - mukti cha haamro prabhu-maa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>मुक्ति छ हाम्रो प्रभुमा,<br/>जो सिंहासनमा विराजमान् छन्<br/>उनै थुमालाई<br/><br/><tag name="y">mukti cha haamro prabhu-maa<br/>jo siňhaasan-maa biraajmaan chan<br/>unai thumaa-laai<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>स्तुति, महिमा,<br/>ज्ञान, धन्यवाद,<br/>आदर, शक्ति र बल<br/><br/><tag name="y">stuti, mahimaa,<br/>gyaan, dhanyevaad,<br/>aadar, shakti ra bal<br/></tag></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(येशूलाई होस् सदासर्वदा) ३<br/>आमिन।<br/><br/><tag name="y">(yeshu-laai hos sadaa-sarvadaa) ~3<br/>aamin.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उद्धार पाएकाहरू बलिया हुन्छन्,<br/>एकतामा घोषणा गर्दै<br/>स्तुति, महिमा, ज्ञान, धन्यवाद,<br/>आदर, शक्ति र बल<br/><br/><tag name="y">uddhaar paayekaa-haru baliyaa hunchan,<br/>ekataa-maa ghosaňaa gardai<br/>stuti, mahimaa, gyaan, dhanyevaad,<br/>aadar, shakti ra bal<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(येशूलाई होस् सदासर्वदा) ३<br/>आमिन।<br/><br/><tag name="y">(yeshu-laai hos sadaa-sarvadaa) ~3<br/>aamin.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

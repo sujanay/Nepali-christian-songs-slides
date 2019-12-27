@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 तोडफोड गरी जोड्नुहोस् फेरी
 ख्रीष्ट स्वयं जिउनुहोस्
 (सृष्टि अघिको इच्छा तपाईंको,
@@ -31,6 +31,17 @@ prabhu-laai pahiryaa-yeň
 paap gardai yahaaň baaňcera kaiyauň
 baar krus-maa caDhaayeň.
 {/y}
+---[Chorus:1]---
+तोडफोड गरी जोड्नुहोस् फेरी
+ख्रीष्ट स्वयं जिउनुहोस्
+(सृष्टि अघिको इच्छा तपाईंको,
+हे प्रभु पूर्ण होस् ।) २
+
+{y}toDfoD gari joD-nuhos feri
+khrisT swoyem jiu-nuhos
+(srisTi aghi-ko ichyaa tapaaiň-ko,
+he prabhu purNa hos.) ~2
+{/y}
 ---[Verse:2]---
 (जिउन चाहन्‍नँ हारेको जीवन
 ख्रीष्टरहित भएर) २
@@ -52,4 +63,15 @@ khrisT-bhitra bhayera
 tapaaiň-laai arpan-chu
 mero saTTaa-maa yeshu jiu-nuhos
 yo binai bichaauň-chu.
+{/y}
+---[Chorus:1]---
+तोडफोड गरी जोड्नुहोस् फेरी
+ख्रीष्ट स्वयं जिउनुहोस्
+(सृष्टि अघिको इच्छा तपाईंको,
+हे प्रभु पूर्ण होस् ।) २
+
+{y}toDfoD gari joD-nuhos feri
+khrisT swoyem jiu-nuhos
+(srisTi aghi-ko ichyaa tapaaiň-ko,
+he prabhu purNa hos.) ~2
 {/y}
