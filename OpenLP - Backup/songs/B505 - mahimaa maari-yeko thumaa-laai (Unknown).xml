@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:26:46">
+  <properties>
+    <titles>
+      <title>B505 - mahimaa maari-yeko thumaa-laai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>महिमा मारिएको थुमालाई<br/>प्रशंसा प्रभुहरूका प्रभुलाई<br/>(जयजयकार राजाहरूका राजालाई) २<br/><br/><tag name="y">mahimaa maari-yeko thumaa-laai<br/>prashaňsaa prabhu-haru-kaa prabhu-laai<br/>(jaijai-kaar raajaa-haru-kaa rajaa-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(धन्यवाद, स्तुति, आदर र भक्ति<br/>मारिएको थुमालाई अति) २<br/>(इज्जत, मान, वैभव र शक्ति) २<br/>अति पवित्र, पवित्र, पवित्र,<br/>ईश्‍वरप्रति, ईश्‍वरप्रति<br/><br/><tag name="y">(dhanyebaad, stuti, aadar ra bhakti<br/>maari-yeko thumaa-laai ati) ~2<br/>(ijjata, maan, baibhab ra shakti) ~2<br/>ati pavitra, pavitra, pavitra,<br/>ishwor-prati, ishwor-prati.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(होसन्‍‌ना आमिन, गौरव र गीति<br/>मारिएको थुमालाई अति) २<br/>(प्रणाम्, ढोग, दण्डवत् दृष्टि) २<br/>ल्याउँछौँ विजयी, विजयी, विजयी,<br/>ईश्‍वरप्रति, ईश्‍वरप्रति<br/><br/><tag name="y">(hosannaa aamin, gaurab ra giti<br/>maari-yeko thumaa-laai ati) ~2<br/>(praNaam, dhog, daNDawat drisTi) ~2<br/>lyaauň-chauň bijayi, bijayi, bijayi,<br/>ishwor-prati, ishwor-prati.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

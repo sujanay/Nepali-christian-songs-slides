@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:20:33">
+  <properties>
+    <titles>
+      <title>C144 - tapaaiň-ko muhaar ma-maathi camkaau-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(तपाईंको मुहार ममाथि चम्काउनुहोस्<br/>तपाईंको सुन्दरताले<br/>मेरो जीवन ढाक्नुहोस् ) २<br/>(तपाईंको रूपमा बदली हुनचाहन्छु) २<br/>तपाईंजस्तै मलाई बनाउनोस्<br/><br/><tag name="y">(tapaaiň-ko muhaar ma-maathi camkaau-nuhos<br/>tapaaiň-ko sundartaa-le<br/>mero jivan Dhak-nuhos) ~2<br/>(tapaaiň-ko rup-maa badli huna-caahanchu) ~2<br/>tapaaiň-jastai ma-laai banaau-nos<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:01:28">
+  <properties>
+    <titles>
+      <title>B097 - jaya hos yeshu raajaa-ko</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(जय होस् येशू राजाको,<br/>मुक्तिदाताको,<br/>उद्धारकर्ताको) २<br/><br/><tag name="y">(jaya hos yeshu raajaa-ko,<br/>mukti-daataa-ko,<br/>uddhaar-kartaa-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>उनले हामीलाई प्रेम गरी<br/>क्रूसको सबै दु:ख भोग्‍‌नुभो<br/>हर पापको बन्धनलाई तोड़ी<br/>हामीलाई स्वतन्त्र गर्नुभो ।<br/><br/><tag name="y">unle haami-laai prema gari<br/>krus-ko sabai dukha bhognu-bho<br/>hara paap-ko bandhan-laai toRi<br/>haami-laai swotantra garnu-bho.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>पुरानो जीवन सब भुली<br/>नयाँ जीवन ख्रीष्टमा जिउनेछु,<br/>पिताको हर प्रतिज्ञालाई सम्झी<br/>ख्रीष्टको पाइलो म पछ्याउनेछु ।<br/><br/><tag name="y">purano jivan saba bhuli<br/>nayaaň jivan khrisT-maa jiu-nechu,<br/>pitaa-ko har pratigyaa-laai samjhi<br/>khrisT-ko paailo ma pachyaau-nechu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

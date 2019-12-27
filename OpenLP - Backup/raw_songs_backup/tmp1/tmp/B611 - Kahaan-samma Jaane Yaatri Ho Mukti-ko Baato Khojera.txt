@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 (कहाँसम्म जाने यात्री हो
 मुक्तिको बाटो खोजेर) २
 (दुइ बाटो बनिएको छ) २
@@ -11,7 +11,7 @@ mukti-ko baaTo khojera) ~2
 euTaa baaTo faraa-kilo cha
 baalaama-samma puga-ne
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 अर्को बाटो यस्तो पनि छ
 ख्रीष्ट येशूसम्म पुग्ने
 (कहाँ जाने, कता जाने
@@ -59,5 +59,4 @@ eka uddhaara-kartaa cha
 {y}(sworga-lok-maa unko
 raajye cha) ~2
 yeshu-maa maatra prabesh cha.
-{/y}
 {/y}

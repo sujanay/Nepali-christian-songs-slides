@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:16:58">
+  <properties>
+    <titles>
+      <title>C111 - parmeshwor-ko cokho bedi-maa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(परमेश्‍वरको चोखो बेदिमा<br/>चढाउँछु यो मेरो जीवन) २<br/>(मेरो सारा हृदयले) २<br/>(तपाईंलाई महिमा होस् । ) २<br/><br/><tag name="y">(parmeshwor-ko cokho bedi-maa<br/>caRhauň-chu yo mero jivana) ~2<br/>(mero saaraa ridaya-le) ~2<br/>(tapaaiň-laai mahimaa hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(मेरो परमेश्‍वर, मेरो सहारा,<br/>तपाईंको वचन मेरो ज्योति) २<br/>(अन्धकारमा पनि ज्योति दिने) २<br/>(तपाईंलाई महिमा होस्) २<br/><br/><tag name="y">(mero parmeshwor, mero sahaaraa,<br/>tapaaiň-ko bacan mero jyoti) ~2<br/>(andhakaar-maa pani jyoti dine) ~2<br/>(tapaaiň-laai mahimaa hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(उचाल्छु मेरा यी दुई हात<br/>धन्यवादको भेटी दिनलाई) २<br/>(मेरो सारा हृदयले) २<br/>(तपाईंलाई जयजयकार होस् ।) २<br/><br/><tag name="y">(ucaal-chu meraa yi dui haat<br/>dhanyebaad-ko bheTi dina-laai) ~2<br/>(mero saaraa ridaya-le) ~2<br/>(tapaaiň-laai jaijaikaar hos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मेरो परमेश्‍वर मेरो चट्टान<br/>तपाईंको वचन मेरो बत्ती) २<br/>(अन्धकारमा पनि ज्योति दिने) २<br/>(तपाईंलाई प्रशंसा होस्) २<br/><br/><tag name="y">(mero parmeshwor mero caTTan,<br/>tapaaiň-ko bacan mero batti) ~2<br/>(andhakaar-maa pani jyoti dine) ~2<br/>(tapaaiň-laai prashaňsaa hos) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

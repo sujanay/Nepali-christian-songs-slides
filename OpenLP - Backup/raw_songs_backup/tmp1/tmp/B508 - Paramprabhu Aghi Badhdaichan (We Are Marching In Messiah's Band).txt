@@ -18,7 +18,7 @@ yes desh-maathi dekhi-necha.
 stuti garauň, vija'i bhayekaa chauň,
 kunai haat-hatiyaar kaam laagne-chaina.
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 हामीहरूका सेनापति येशू हुन्,
 हामी उनको पाइला पछ्याउँदछौं
 कोही अघि खडा हुन सक्नेछैन।

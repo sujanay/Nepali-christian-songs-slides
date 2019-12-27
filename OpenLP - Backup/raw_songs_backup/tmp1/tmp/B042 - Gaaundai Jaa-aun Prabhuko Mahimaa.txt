@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 गाउँदै जाऔं प्रभुको महिमा
 उनैको जन्म दिवसमा
 हाँस्दै बढौं उनकै सेवामा
@@ -9,7 +9,7 @@ unai-ko janma diwas-maa
 haaňsdai baDhauň unkai sewaa-maa
 jagaauň-dai naulo bhaawanaa
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 (उनैको जन्म दिवसमा) २
 गाउँदै जाऔं प्रभुको महिमा
 हाँस्दै बढौं उनकै सेवामा

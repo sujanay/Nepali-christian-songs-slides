@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 (पापी मर्नुपर्ने क्रूसमा धर्मी
 येशू बलि भए) २
 मानव हितका
@@ -9,7 +9,7 @@ yeshu bali bhaye) ~2
 maanaba hita-kaa
 laagi un-le sabai dukha piDaa sahe
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 एकजनाको बलिदानले
 सबै जनाको उद्धार भयो
 (रगत बग्यो निर्दोषको
@@ -20,7 +20,7 @@ sabai janaa-ko uddhaar bhayo
 (ragata bagyo nirdosa-ko
 dosi sab-laai maafi bhayo) ~2
 {/y}
----[Chorus1b:]---
+---[Chorus:3]---
 पापी मर्नुपर्ने क्रूसमा धर्मी
 येशू बलि भए
 
@@ -84,5 +84,4 @@ doho-rina na-paa-os
 {y}(paapi-kaa laagi
 dharmi-jan marne
 din feri na-aaos) ~2
-{/y}
 {/y}

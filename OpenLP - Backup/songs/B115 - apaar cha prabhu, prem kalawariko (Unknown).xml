@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:52:26">
+  <properties>
+    <titles>
+      <title>B115 - apaar cha prabhu, prem kalawariko</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>अपार छ प्रभु, प्रेम कलवरीको<br/>वर्णन कसरी गरौं?<br/>धन्यवाद खालि दिन्छु तपाईंलाई,<br/>अरु म के चढाऊँ?<br/><br/><tag name="y">apaar cha prabhu, prem kalawariko<br/>barNan kasri garauň?<br/>dhanyebaad khaali dinchu tapaaiňlaai,<br/>aru ma ke caDhaauň?<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>उद्धार गर्न म एक पापीको,<br/>क्रूस भारी बोक्‍‌नुभो<br/>समर्पण गरी आदर,<br/>प्रशंसा, गिल्ला नै रोज्‍‌नुभो।<br/><br/><tag name="y">uddhaar garna ma ek paapiko,<br/>krus bhaari boknubho<br/>samarpaN gari aadar,<br/>prashaňsaa, gillaa nai rojnubho.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>श्रापित स्थान त्यो कलवरीमा,<br/>कोही थिएन प्रभुको,<br/>तैपनि कत्रो उद्देश्य थियो,<br/>द्वार खोल्‍‌ने मुक्तिको।<br/><br/><tag name="y">shraapit sthaan tyo kalwari-maa,<br/>kohi thiyena prabhuko,<br/>tai-pani katro uddeshye thiyo,<br/>dwaara kholne muktiko.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>पापी पिलातुस अति नै निष्ठुर,<br/>दोष भेट्‌न चाहन्थ्यो,<br/>चोर पनि त्यहाँ प्रभु<br/>तपाईंको निन्दा नै गर्दथ्यो।<br/><br/><tag name="y">paapi pilaatus ati nai nisThur,<br/>dosa bheTna caahanthyo,<br/>cora pani tyahaaň prabhu<br/>tapaaiňko nindaa nai gardathyo.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

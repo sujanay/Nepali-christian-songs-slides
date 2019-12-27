@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:15:28">
+  <properties>
+    <titles>
+      <title>B050 - khacaa-khac bho, bethlehem gaauň</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>खचाखच भो, बेथलेहेम गाउँ,<br/>सरायमा थिएन ख्रीष्टलाई ठाउँ<br/>(आज पनि मानिस व्यस्त<br/>भई गर्दैनन् ख्रीष्टको वास्ता) २<br/><br/><tag name="y">khacaa-khac bho, bethlehem gaauň<br/>saraai-maa thi'e-na khrisT-laai Thaauň<br/>(aaja pani maanis byesta<br/>bhai gar-dainan khrisT-ko waastaa) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(प्रिय पुत्र ईश्‍वरको) २<br/>थोत्रो गोठमा पस्त्रनुभो<br/>(सबैबाट त्यागिएर) २<br/>गरीबभन्दा गरीब भयो।<br/><br/><tag name="y">(priye putra ishwora-ko) ~2x<br/>thotro goTh-maa pasra-nubho<br/>(sabai-baaTa tyaagiyera) ~2x<br/>garib-bhandaa garib bhayo.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(तिम्रो मेरो निम्ति ख्रीष्टले) २<br/>प्रशास्त धन साँचेका छन्<br/>(हाम्रो दु:ख उठाएर) २<br/>अनन्त सुख राखेका छन्।<br/><br/><tag name="y">(timro mero nimti khrisTle) ~2x<br/>prashaasta dhan saaňce-kaa chan<br/>(haamro dukha uThaayera) ~2x<br/>ananta sukh raakhekaa chan.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(अति दीन ख्रीष्ट मृत्युसम्म) २<br/>आज्ञाकारी बन्‍नुभयो<br/>(विश्‍वासीलाई अल्ग्याउनलाई) २<br/>आफै अघि अल्ग्गनुभो।<br/><br/><tag name="y">(ati din khrisT mrityu-samma) ~2x<br/>aagyaa-kaari baanu-bhayo<br/>(vishwaasi-laai algyaauna-laai) ~2x<br/>aafai aghi alga-nubho.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

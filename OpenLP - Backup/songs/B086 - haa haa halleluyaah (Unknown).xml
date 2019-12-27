@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:06:47">
+  <properties>
+    <titles>
+      <title>B086 - haa haa halleluyaah</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(हा हा हल्लेलूयाह,<br/>मिली हामी भजौं,<br/>भजन प्रभुज्यूको) २<br/><br/><tag name="y">(haa haa halleluyaah,<br/>mili haami bhajauň,<br/>bhajana prabhuji-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(उनी राजाहरूका राजा,<br/>उनको चरणमा आऔं आज) २<br/><br/><tag name="y">(uni raajaaharu-kaa raajaa,<br/>unko caraN-maa aauň aaja) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(उनको स्तुति गाऔं,<br/>उनको महिमा गाऔं) २<br/>तन-मनसाथ उनलाई भजौं।<br/><br/><tag name="y">(unko stuti gaauň,<br/>unko mahimaa gaauň) ~2<br/>tana-mana-saath unlaai bhajauň.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशू ख्रीष्ट संसारमा आए,<br/>हाम्रो पापको भार उठाए) २<br/><br/><tag name="y">(yeshu khrisT sansaar-maa aaye,<br/>haamro paapko bhaara uThaaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(उनमा विश्‍वास गरौं,<br/>उनको शरण परौं) २<br/>पाउँछौं मुक्तिदान,<br/>हामी सब आऔं<br/><br/><tag name="y">(un-maa vishwaas garauň,<br/>unko sharaN parauň) ~2<br/>paauňchauň muktidaan,<br/>haami sab aauň<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(जाति-जातिका मानिस आऔं,<br/>प्रभु येशूको गुण गाऔं) २<br/><br/><tag name="y">(jaati-jaati-kaa maanisa aauň,<br/>prabhu yeshu-ko guNa gaauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>(उनले पापी मनमा<br/>भर्छन्‌ शान्ति पूरा) २<br/>उनले पापीलाई दिन्छन्‌ जीवन।<br/><br/><tag name="y">(unle paapi man-maa<br/>bharchan shaanti puraa) ~2<br/>unle paapi-laai dinchan jivan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

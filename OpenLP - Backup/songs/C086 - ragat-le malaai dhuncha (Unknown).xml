@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:02:27">
+  <properties>
+    <titles>
+      <title>C086 - ragat-le malaai dhuncha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>रगतले मलाई धुन्छ,<br/>रगतले जीवन दिन्छ,<br/>रगत नै मेरो साटोमा आयो<br/>उद्धारको बलिदान, मलाई धुन्छ<br/><br/><tag name="y">ragat-le malaai dhuncha,<br/>ragat-le jivan dincha,<br/>ragat nai mero saaTo-maa aayo<br/>uddhaar-ko balidaan, malaai dhuncha<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हिउँभन्दा सेतो<br/>पारेर, पारेर<br/>मेरो येशू,<br/>प्रभुको उत्तम बलिदान ।<br/><br/><tag name="y">hiuň-bhandaa seto<br/>paarera, paarera<br/>mero yeshu,<br/>prabhu-ko uttam balidaan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -20,7 +20,7 @@ ani-kaal, laDaaiň-kaa
 haami hauň ujaaD-sthaan-maa karaaune swor
 prabhu-ko baaTo banaauň.
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 हेर उनी आउँछन्‌ बादलमा
 सूर्यझैँ चम्कँदै तुरहीको आवाजमा
 चर्को गरी कराऊ छुटकाराको वर्ष,
@@ -53,7 +53,7 @@ sansaar-kaa kheta-haru
 haami hauň prabhu-kaa
 khet-kaa khetaalaa bacan ghosaNaa garne.
 {/y}
-~Bridge:
+
 याह्वेझैँ छैन ईश्‍वर ...
 
 {y}yaahwe-jhaiň chaina ishwor ...

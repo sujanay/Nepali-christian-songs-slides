@@ -18,7 +18,7 @@ meraa kamjori-haru
 sabai haT-nechan
 tyo prem-ko shakti-le
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 अँगाल्‍‌नुहोस्
 तपाईंको प्रेमले, घेनुहोस्,
 नजीक ल्याई र
@@ -29,7 +29,7 @@ tapaaiň-ko prem-le, gher-nuhos
 najik lyaai ra
 aafno cheu-maa raakh-nuhos
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 पर्खन्छु म चीलझैँ माथि उड़्‍‌न
 मलाई उड़ाउनुहोह्
 तपाईंको आत्माले

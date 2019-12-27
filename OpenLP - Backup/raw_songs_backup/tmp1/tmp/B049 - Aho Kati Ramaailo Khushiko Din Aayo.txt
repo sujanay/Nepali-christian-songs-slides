@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 अहो कति रमाइलो
 खुशीको दिन आयो
 मुक्तिदाता प्रभुको
@@ -9,7 +9,7 @@ khushi-ko din aayo
 mukti-daataa prabhu-ko
 bethlehem-maa janma bho
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 (छन् जो मेरो हृदयमा
 ख्रीष्ट राजा बसेको) २
 (जय जय बालक राजाको

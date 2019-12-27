@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:54:03">
+  <properties>
+    <titles>
+      <title>B114 - kati acamma-ko pyaar</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>कति अचम्मको प्यार,<br/>ईश्‍वर सृजनाहार<br/>(स्वर्गको सुखलाई त्यागेर आए<br/>पापी बचाउन तयार) २<br/><br/><tag name="y">kati acamma-ko pyaar,<br/>ishwor srijanaa-haar<br/>(sworga-ko sukha-laai tyaagera aaye<br/>paapi bacaauna tayaar) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(नर रूप धारण गरेर उनले<br/>प्रचारे सुसमाचार) २<br/>(पापीको पापको, दु:खीको दु:खको<br/>उठाए उनले भार) २<br/><br/><tag name="y">(nar rupa dhaaraNa garera un-le<br/>pracaare su-samaacaar) ~2<br/>(paapi-ko paap-ko, dukhi-ko dukh-ko<br/>uThaaye unle bhaar) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(आश्‍चर्यकर्म गरेर उनले<br/>देखाए महिमा अपार) २<br/>(यी सबको बदली पाए उनले<br/>क्रूसैको गह्रौं भार) २<br/><br/><tag name="y">(aashcarye-karma garera un-le<br/>dekhaaye ma'imaa apaar) ~2<br/>(yi sab-ko badali paaye un-le<br/>krusai-ko gahrauň bhaar) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(अन्तिम घडीमा गेतसमनीमा चेलागणसँग गए) २<br/>(निरन्तर प्रार्थना गरेर<br/>उनले पसिना बगाए) २<br/><br/><tag name="y">(antima ghaDimaa getsamani-maa<br/>celaa-gaN-saňga gaye) ~2<br/>(nirantar praarthanaa garera<br/>unle pasinaa bagaaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(हुन सके यो कचौरा<br/>मदेखि हटाइदेऊ भनी) २<br/>(तरै पनि तपाईंको<br/>इच्छा पूर्ण हवस्‌ भने) २<br/><br/><tag name="y">(huna sake yo kacauraa<br/>ma-dekhi haTaaideu bhani) ~2<br/>(tarai pani tapaaiňko<br/>ichyaa purNa haus bhane) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(येशू पकडाई बरब्बा छुडाइयो,<br/>कहाँ थियो यो न्याय) २<br/>(वैजनी वस्त्र लगाए<br/>उनलाई क्रूसमा चढाउनलाई) २<br/><br/><tag name="y">(baijani bastra lagaaye<br/>unlaai krusmaa caDhaunlaai) ~2<br/>(yeshu pakaDaai barabbaa chuDaaiyo,<br/>kahaaň thiyo yo nyaaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>(लड्‌दै र पढ्‌दै गलगथा पुगे<br/>रोमीको मार खाई) २<br/>(कष्टित पीडित प्रभुले<br/>आफ्‍‌नो प्राण दिइहाले, हाई) २<br/><br/><tag name="y">(laDdai ra paDhdai galgathaa puge<br/>romiko maar khaai) ~2<br/>(kasTita piDita prabhu-le<br/>aafno praaN diihaale, haai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

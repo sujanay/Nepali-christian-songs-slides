@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 स्तुति होस्, प्रभुको जयजयकार
 स्तुति होस्, प्रभुको जयजयकार
 
@@ -48,5 +48,4 @@ gambhir prem-ko bhaaw-le
 paap-ko rin tiri-sakeň) ~2
 (uddhaar cha tero laagi yahaaň
 kamaayeň jo maile) ~2
-{/y}
 {/y}

@@ -1,4 +1,4 @@
----[Chorus:]---
+---[Chorus:1]---
 तुरहीको चर्को स्वरमा
 प्रधान दूत गर्जन्छन्‌ है
 बादलको सवारीमा
@@ -11,7 +11,7 @@ baadala-ko sawaari-maa
 yeshu ek din aauňchan hai
 (aafni dulahi saath-maa laana-laai) ~2
 {/y}
----[Chorus1a:]---
+---[Chorus:2]---
 तुरहीको चर्को स्वरमा
 प्रधान दूत गर्जन्छन्‌ है
 बादलको सवारीमा
@@ -43,5 +43,4 @@ prabhu-laai bheT-na jaan-chauň hai.
 behaal bhai yahaaň chuT-chan hai) ~2
 tyo din haamro aaňshu prabhu-le puchi
 sadhaiň saath raakh-chan hai.
-{/y}
 {/y}

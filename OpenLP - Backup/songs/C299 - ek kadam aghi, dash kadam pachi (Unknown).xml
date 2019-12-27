@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:51:12">
+  <properties>
+    <titles>
+      <title>C299 - ek kadam aghi, dash kadam pachi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>एक कदम अघि, दश कदम पछि<br/>सर्ने विश्‍वासी होइनौँ है<br/>घुँडमा गई सय कदम अघि<br/>सर्ने विश्‍वासी हौँ हामी।<br/><br/><tag name="y">ek kadam aghi, dash kadam pachi<br/>sarne bishwaasi hoinauň hai<br/>ghuňDa-maa gai sai kadam aghi<br/>sarne bishwaasi hauň haami.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>एक थुकी सुकी, सय थुकी नदी,<br/>हातमा हात मिलाई ल्याउने हो<br/>राज्य येशूकै।<br/><br/><tag name="y">ek thuki suki, sai thuki nadi,<br/>haat-maa haat milaai lyaaune ho<br/>raajye yeshu-kai.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>विश्‍वासी गानौँ, येशूको प्रेममा<br/>एकताको नारा लगाऊँ है<br/>फसल पाकिसक्यो,<br/>दाइँ गर्ने बेला भो<br/>संसारको आँगनैमा।<br/><br/><tag name="y">bishwaasi gaanauň, yeshu-ko prem-maa<br/>ektaa-ko naaraa lagaauň haifasal paaki-sakyo,<br/>daaiň garne belaa bho<br/>sansaar-ko aaňganai-maa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

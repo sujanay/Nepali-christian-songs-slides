@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:46:32">
+  <properties>
+    <titles>
+      <title>B547 - ragat-le, ragat-le, yeshu-ko ragat-le</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>रगतले, रगतले, येशूको रगतले<br/>तिम्रो मनको मैलालाई धुन सक्छ<br/>वचनले, वचनले, येशूको वचनले<br/>तिम्रो हृदयलाई आज छुन सक्छ<br/>उनको नाउँ हो असल गोठालो,<br/><br/><tag name="y">ragat-le, ragat-le, yeshu-ko ragat-le<br/>timro man-ko mailaa-laai dhuna sakcha<br/>bacan-le, bacan-le, yeshu-ko bacan-le<br/>timro ridai-laai aaja chuna sakcha<br/>un-ko naauň ho asal goThaalo,<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>(उनको काम हो<br/>हराएको भेडालाई बचाउने) २<br/>(यति ठूलो मक्तिलाई) २<br/>त्यागेर कसरी बचौँला<br/><br/><tag name="y">(un-ko kaam ho<br/>haraa-yeko bheDaa-laai bacaaune) ~2<br/>(yeti Thulo makti-laai) ~2<br/>tyaagera kasari bacauňlaa<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>त्यो प्रेमले, ठूलो प्रेमले,<br/>प्रभु ख्रीष्टको प्रेमले<br/>तिम्रो मनलाई आज जित्‍न सक्छ।<br/><br/><tag name="y">tyo prem-le, Thulo prem-le,<br/>prabhu khrisTko premle<br/>timro man-laai aaja jitna sakcha.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>वचनले, वचनले, येशूको वचनले<br/>तिम्रो हृदयलाई आज छुन सक्छ<br/>(तिम्रो मनको आवाजलाई सुन,<br/>आत्माभित्र उठेका प्रश्‍नहरू गुन) २<br/><br/><tag name="y">bacan-le, bacan-le, yeshu-ko bacan-le<br/>timro ridai-laai aaja chuna sakcha<br/>(timro man-ko aawaaj-laai suna,<br/>aatmaa-bhitra uThekaa prashna-haru guna) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>(तिम्रो हृदय ढोकाबाहिर) २<br/>बोलाउने प्रभुलाई खोलिदेऊन<br/>त्यो हातले, घायल हातले,<br/>उनको प्रेमी हातले<br/>खाड़लबाट तिमीलाई उठाउन सक्छ<br/><br/><tag name="y">(timro ridai Dhokaa-baahira) ~2<br/>bolaaune prabhu-laai kholi-deun<br/>tyo haat-le, ghaayel haat-le,<br/>un-ko premi haatle<br/>khaaral-baaTa timi-laai uThaauna sakcha<br/></tag></lines>
+    </verse>
+    <verse name="o1d">
+      <lines>वचनले, वचनले, येशूको वचनले<br/>तिम्रो हृदयलाई आज छुन सक्छ<br/><br/><tag name="y">bacan-le, bacan-le, yeshu-ko bacan-le<br/>timro ridai-laai aaja chuna sakcha<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

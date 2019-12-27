@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:46:43">
+  <properties>
+    <titles>
+      <title>B162 - gaau khrisT'ye jhuND</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>गाऊ ख्रीष्टीय झुण्ड,<br/>सर्व मिली, प्रभुको स्तुति<br/><br/><tag name="y">gaau khrisT'ye jhuND,<br/>sarvaa mili, prabhu-ko stuti<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(हृदय वीणाको तार बजाई) २<br/>स्तुति-महिमा देऊ<br/>मुक्तिदातालाई<br/><br/><tag name="y">(ridai biNaa-ko taa-ra bajaai) ~2x<br/>stuti-mahimaa de-u<br/>mukti-daataa-laai<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>आफ्नो सृजनहारलाई<br/>(जयजयकार गरौं,<br/>सोरमा सोर मिलाई) २<br/><br/><tag name="y">aafno srijanhaara-laai<br/>(jaijai-kaar garauň,<br/>swor-maa swor milaai) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(ईषर्या र द्वेषको जाल फाड़ी) २<br/>एकताको सूत्रमा सबैलाई बाँधी<br/>प्रेमको सन्देश बाँडी,<br/>(कठिनाइलाई पर सारी) २<br/><br/><tag name="y">(isryaa ra dwesa-ko jaala faaDi) ~2x<br/>ektaa-ko su-tra-maa sabai-laai baaňdhi<br/>prem-ko sandesha baaňDi<br/>(kaThina-i-laa-i para saari) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(अन्धकार यो जगको ज्योति अनि) २<br/>मिठास दिने नुन बनी<br/>हामी नुन बनी,<br/>(क्रूसलाई अल्ग्याऔं साक्षी बनी) २<br/><br/><tag name="y">(andhakaar yo jaga-ko jyoti ani) ~2x<br/>miThaasa di-ne nuna bani<br/>haami nuna bani<br/>(krusa-laai algyaauň sakchi bani) ~2x<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

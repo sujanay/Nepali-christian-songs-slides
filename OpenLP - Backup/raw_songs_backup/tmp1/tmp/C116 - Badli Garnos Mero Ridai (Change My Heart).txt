@@ -1,4 +1,4 @@
----[Verse:]---
+---[Verse:1]---
 बदली गर्नोस् मेरो हृदय,
 सधैंको लागि साँच्चै
 बदली गर्नोस् मेरो हृदय,
@@ -9,7 +9,7 @@ sadhaiň-ko laagi saaňccai.
 badli garnos mero ridai,
 huna sakuň tapaaiň-jastai
 {/y}
----[Chorus:]---
+---[Chorus:1]---
 तपाईं कुमाले,
 म हुँ माटो
 बनाउनोस् मलाई

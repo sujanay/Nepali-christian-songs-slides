@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:19:30">
+  <properties>
+    <titles>
+      <title>B040 - arddha nishaa-maa li su-sandesha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(अर्द्ध निशामा लिई सुसन्देश,<br/>दीन बनी आयौँ हामी<br/>तिम्रो द्वारमा) २<br/><br/><tag name="y">(arddha nishaa-maa li su-sandesha<br/>dina bani aayauň haami<br/>timro duwaar-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(दुर्दशा यो सब देखी संसारको<br/>पापको भारले मानव मिचेको) २<br/>(जिन्दगीको हाल सुधार्न भनी) २<br/>ईश्‍वर पुत्र जगमा आए संकोच नमानी।<br/><br/><tag name="y">(dur-dashaa yo sab dekhi sansaar-ko<br/>paap-ko bhaara-le maanab miceko) ~2<br/>(jindagi-ko haal sudhaarna bhani) ~2<br/>ishwor putra jag-maa aaye saňkoc na-maani.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(ईश्‍वर र मानावबीचको पर्दा<br/>पापी मानवको पापले गर्दा) २<br/>(तोड़ी मानवलाई लान ईश्‍वरकहाँ) २<br/>आउनुभयो महान् ईश्‍वर दुष्ट संसारमा।<br/><br/><tag name="y">(ishwor ra maanab-bica-ko pardaa<br/>paapi maanab-ko paapa-le gardaa) ~2<br/>(toRi maanab-laai laana ishwor-kahaaň) ~2<br/>aaunu-bhayo mahaan ishwor dusTa sansaar-maa.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(शहर येरुशलेम, गावैँ बेथलेहेम<br/>जन्मे गोठैमा बालक एक नरम) २<br/>(ख्रीष्ट जीवनधार, येशू तारणहार) २<br/>बिश्‍वास ल्याई आउने जति हुन्छन् मृत्युपार।<br/><br/><tag name="y">(shahar yerushalem, gaawaiň bethlehem<br/>janme goThai-maa baalak ek naram) ~2<br/>(khrisT jivan-dhaar, yeshu taaran-haar) ~2<br/>vishwaas lyaai aaune jati hunchan mrityu-paar.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

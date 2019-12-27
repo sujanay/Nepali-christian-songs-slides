@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:39:48">
+  <properties>
+    <titles>
+      <title>B214 - khola-khola Dhokaa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>खोल–खोल ढोका,<br/>खोल्दैनौ किन नि<br/>प्रभु आए तिमीलाई<br/>मुक्तिदान दिनु नि<br/><br/><tag name="y">khola-khola Dhokaa,<br/>khol-dainau kina ni,<br/>prabhu aaye timi-laai<br/>muktidaan dinu ni<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(पश्चात्ताप गर, शुद्ध गर,<br/>आउन सबै ढिलो नगर) २<br/>(प्रभु ख्रीष्टले तारिदिन्छन् विश्‍वास गर,<br/>पापलाई नपर ।) २<br/><br/><tag name="y">(pashc'ttap gara, shuddha gara,<br/>aauna sabai Dhilo na-gara) ~2<br/>(prabhu khrisT-le tari-dinchan vishwaas gara,<br/>paap-laai na-para.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बुद्धिमानी म छु ज्ञानी<br/>भन्छन् सबै संसार) २<br/>(शान्ति दिने, मुक्ति दिने भन्छन्<br/>प्रभु येशू तारणहार ।) २<br/><br/><tag name="y">(buddhi-maani ma chu gyaani<br/>bhanchan sabai sansaara) ~2<br/>(shaanti dine, mukti dine bhanchan<br/>prabhu yeshu taaraN'haar.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मुक्तिदाता आउनुभयो<br/>संसारमा ज्योति बनेर)२<br/>(दाज्यु–भाइ, दिदी–बहिनी<br/>आऊन् सबै विश्‍वास गरेर ।) २<br/><br/><tag name="y">(mukti-daataa aaunu-bhayo<br/>sansaara-maa jyoti banera) ~2<br/>(daaju-bhaai, didi-ba'ini<br/>aauna sabai vishwaas garera.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(क्रूसमाथि चढ़्‍‌नुभयो<br/>हाम्रो प्रभु येशू बिचरा) २<br/>(स्तुति गर्छु, चरणमा पर्छु,<br/>आउँदैछु म पापी अधोर ।) २<br/><br/><tag name="y">(krusa-maathi caDhnu-bhayo<br/>haamro prabhu yeshu bicaraa) ~2<br/>(stuti garchu, caraN-maa parchu,<br/>aauň-daichu ma paapi adhora) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(दाज्यु–भाइ, दिदी–बहिनी,<br/>बस्छौ किन निश्‍चिन्त भएर) २<br/>(बेला छैन, बितिगयो<br/>कति बस्छौ पापै गरेर ।) २<br/><br/><tag name="y">(daaju-bhaa-i, didi-ba'ini,<br/>bas-chau kina nishcint bhayera) ~2<br/>(belaa chaina, biti-gayo<br/>kati baschau paapai garera.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

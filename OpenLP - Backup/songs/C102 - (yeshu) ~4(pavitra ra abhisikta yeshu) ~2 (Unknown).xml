@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:13:10">
+  <properties>
+    <titles>
+      <title>C102 - (yeshu) ~4(pavitra ra abhisikta yeshu) ~2</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(येशू) ४<br/>पवित्र र अभिषिक्त येशू,<br/>(तपाईंको नाउँ महझैँ) २<br/>मेरो जिब्रोलाई,<br/><br/><tag name="y">(yeshu) ~4<br/>(pavitra ra abhisikta yeshu) ~2<br/>tapaaiň-ko naauň maha-jhaiň<br/>mero jibro-laai,<br/></tag><br/>तपाईंको आत्मा पानीझैँ<br/>मेरो आत्मालाई,<br/>तपाईंको वचन दियोझैँ<br/>मेरो पाउलाई।<br/><br/><tag name="y">tapaaiň-ko aatmaa paani-jhaiň<br/>mero aatmaa-laai,<br/>tapaaiň-ko bacan diyo-jhaiň<br/>mero paau-laai.<br/></tag><br/>येशू, (प्रेम गर्छु) २<br/>येशू, येशू,<br/>बौरिएर उचालिएका येशू।<br/><br/><tag name="y">yeshu, (prem garchu) ~2<br/>yeshu, yeshu,<br/>bauri-yera ucaali-yekaa yeshu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

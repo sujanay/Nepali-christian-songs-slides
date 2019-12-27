@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:30:01">
+  <properties>
+    <titles>
+      <title>B512 - prabhu, ma aauňchu</title>
+    </titles>
+    <verseOrder>v1 o1 c1 v2 o2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभु, म आउँछु,<br/>मेरो हृदय परिर्वतन गर्नोस्<br/>तपाईंको त्यो अनुग्रहले,<br/><br/><tag name="y">prabhu, ma aauňchu,<br/>mero ridai parivartan garnos<br/>tapaaiň-ko tyo anugrah-le,<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>प्रभु, जान्दछु<br/>मेरा कमजोरीहरू<br/>सबै हट्‍‌नेछन्<br/>त्यो प्रेमको शक्तिले<br/><br/><tag name="y">prabhu, jaan-dachu<br/>meraa kamjori-haru<br/>sabai haT-nechan<br/>tyo prem-ko shakti-le<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>अँगाल्‍‌नुहोस्<br/>तपाईंको प्रेमले, घेनुहोस्,<br/>नजीक ल्याई र<br/>आफ्‍‌नो छेउमा राख्‍‌नुहोस्‌,<br/><br/><tag name="y">aňgaal-nuhos<br/>tapaaiň-ko prem-le, gher-nuhos<br/>najik lyaai ra<br/>aafno cheu-maa raakh-nuhos<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>पर्खन्छु म चीलझैँ माथि उड़्‍‌न<br/>मलाई उड़ाउनुहोह्<br/>तपाईंको आत्माले<br/>त्यो प्रेमको शक्तिमा<br/><br/><tag name="y">parkhan-chu ma cil-jhaiň maathi uRna<br/>malaai uRaau-nuhos<br/>tapaaiň-ko aatmaa-le<br/>tyo prem-ko shakti-maa<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>प्रभु, खोल्‍‌नोस् आँखा,<br/>देख्‍‌नसकूँ प्रेमको ज्ञान<br/>जसै तपाईं मभित्र<br/>वास गर्नुहुन्छ<br/><br/><tag name="y">prabhu, khol-nos aaňkhaa,<br/>dekhna sakuň prem-ko gyaan<br/>jasai tapaaiň ma-bhitra<br/>baas garnu-huncha<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>नयाँ गर्नोस् हृदय<br/>आफ्‍‌नो योजना अनुसार<br/>हरेक दिन जिउँदो<br/>त्यो प्रेमको शक्तिमा<br/><br/><tag name="y">nayaaň garnos ridai<br/>aafno yojanaa anusaar<br/>harek din jiuňdo<br/>tyo prem-ko shakti-maa<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

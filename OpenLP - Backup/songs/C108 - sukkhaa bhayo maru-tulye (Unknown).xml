@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:15:38">
+  <properties>
+    <titles>
+      <title>C108 - sukkhaa bhayo maru-tulye</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>सुक्खा भयो मरुतुल्य,<br/>के भो जीवन अमूल्य?<br/>कहाँ गयो हरियाली,<br/>बाँझो भयो धर्ती;<br/><br/><tag name="y">sukkhaa bhayo maru-tulye,<br/>ke bho jivan amulye?<br/>kahaaň gayo hari-yaali,<br/>baaňjho bhayo dharti;<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>बर्साऊ प्रभु,<br/>बर्साऊ फेरि आत्मा हामीमाथि<br/>भर प्रभु,<br/>भर फेरि जीवन यो खाली-खाली।<br/><br/><tag name="y">barsaau prabhu,<br/>barsaau feri aatmaa haami-maathi<br/>bhara prabhu,<br/>bhara feri jivan yo khaali-khaali.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>शैतान हाम्रो गर्छ उपहास,<br/>पठाऊ त्यो हुरी-बतास<br/>पाप हाम्रो गर्छौं स्वीकार,<br/>फर्काऊ हाम्रो अधिकार;<br/><br/><tag name="y">shaitaan haamro garcha upahaas,<br/>paThaau tyo huri-bataas<br/>paap haamro garchauň swikaar,<br/>farkaau haamro adhikaar;<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>हँसाऊ, प्रभु हँसाऊ,<br/>फेरि पुछ आँखा हाम्रो।<br/>सजाऊ, प्रभु सजाऊ,<br/>फेरि उजाड जीवन हाम्रो।<br/><br/><tag name="y">haňsaau, prabhu haňsaau,<br/>feri pucha aaňkhaa haamro.<br/>sajaau, prabhu sajaau,<br/>feri ujaaD jivan haamro.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

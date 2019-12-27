@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:39:07">
+  <properties>
+    <titles>
+      <title>B524 - mero antim swaas-sammai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(मेरो अन्तिम स्वाससम्मै<br/>ख्रीष्टको गीत गाई नै रहन्छु<br/>मेरो अन्तिम पाइलासम्मै<br/>उहाँलाई नै पछ्याइरहनेछू) २<br/><br/><tag name="y">(mero antim swaas-sammai<br/>khrishTa-ko git gaai nai rahanchu<br/>mero antim paailaa-sammai<br/>uhaaň-laai nai pachyaai-rahanechu) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(ला ला ला ला ... हु) ४<br/><br/><tag name="y">(laa laa laa laa ... hu) ~4x<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(मेरो अन्तिम दृष्टिसम्मै<br/>ख्रीष्टलाई म सदा हेर्नेछु<br/>मेरो अन्तिम आकांक्षासम्मै<br/>सुसन्देशको बीउ छर्नेछु) २<br/><br/><tag name="y">(mero antim drisTi-sammai<br/>khrisTa-laai ma sadaa hernechu<br/>mero antim aakaaňk-chyaa-sammai<br/>susandesh-ko biu char-nechu) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मेरो अन्तिम स्वाससम्मै<br/>ज्योति छर्दै डाड़ा-पाखा लाग्नेछु<br/>मेरो अन्तिम इच्छासम्मै<br/>उहाँलाई नै सदा चाहनेछु) २<br/><br/><tag name="y">(mero antim swaas-sammai<br/>jyoti chardai DaaRaa-paakhaa laag-nechu<br/>mero antim ichyaa-sammai<br/>uhaaň-laai nai sadaa caaha-nechu) ~2x<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
