@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c684f7a-9d46-46b2-9db2-2bed670f1e6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art).txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B008 - Mahaan Ishwor (How Great Thou Art).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B026 - Lagdacha Malaai Ramaailo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B026 - Lagdacha Malaai Ramaailo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B031 - Shaantamai Raat (Silent Night).txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp/B031 - Shaantamai Raat (Silent Night).txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/.ipynb_checkpoints/nepali_bible-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_abbreviations_final.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bible/bible_cleaned_formatted.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/complete_bible_nnrv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bible/nepali_bible.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bible/nepali_bible.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp1/tmp/B474 - Saaraa Sristiko Maalik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLP - Backup/raw_songs_backup/tmp1/tmp/B474 - Saaraa Sristiko Maalik.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xitami/OpenLP format - JT/B068 - raajaa yeshu aa-ye (Unknown).xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="-442">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -68,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
@@ -104,6 +96,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -133,14 +126,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19196428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5220949" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.20621932" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -171,8 +164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xitami/OpenLP format - JT/B068 - raajaa yeshu aa-ye (Unknown).xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="-442">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
