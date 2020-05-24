@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:48:30">
+  <properties>
+    <titles>
+      <title>C116 - badli garnos mero ridai</title>
+    </titles>
+    <verseOrder>v1 c1 v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>बदली गर्नोस् मेरो हृदय,<br/>सधैंको लागि साँच्चै<br/>बदली गर्नोस् मेरो हृदय,<br/>हुन सकूँ तपाईंजस्तै<br/><br/><tag name="y">badli garnos mero ridai,<br/>sadhaiň-ko laagi saaňccai.<br/>badli garnos mero ridai,<br/>huna sakuň tapaaiň-jastai</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>तपाईं कुमाले,<br/>म हुँ माटो<br/>बनाउनोस् मलाई<br/>तपाईंको भाँड़ो<br/><br/><tag name="y">tapaaiň kumaale,<br/>ma huň maaTo,<br/>banaaunos malaai<br/>tapaaiň-ko bhaaňDo</tag></lines>
+    </verse>
+  </lyrics>
+</song>

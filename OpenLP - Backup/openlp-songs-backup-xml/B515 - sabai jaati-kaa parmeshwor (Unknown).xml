@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:33:01">
+  <properties>
+    <titles>
+      <title>B515 - sabai jaati-kaa parmeshwor</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>सबै जातिका परमेश्‍वर,<br/>सारा पृथ्वी र स्वर्गको मालिक<br/>तपाईंको नाउँ उच्च पार्छौं,<br/>तपाईंको शक्तिको बढाइ गर्छौं।<br/><br/><tag name="y">sabai jaati-kaa parmeshwor,<br/>saaraa prithivi ra sworga-ko maalik<br/>tapaaiň-ko naauň ucca paarchauň,<br/>tapaaiň-ko shakti-ko baDhaai garchauň.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(सारा संसारले येशूलाई देख्‍‌नुपर्छ,<br/>सारा मानिसले येशूलाई पुज्‍‌नुपर्छ) २<br/>कारण तपाईं मात्र राजा र प्रभु,<br/>(एक मात्र परमेश्‍वर) २<br/><br/><tag name="y">(saaraa sansaar-le yeshu-laai dekhnu-parcha,<br/>saaraa maanis-le yeshu-laai pujnu-parcha) ~2<br/>kaaraN tapaaiň maatra raajaa ra prabhu,<br/>(ek maatra parmeshwor) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>सारा जातिले येशूलाई चिन्‍‌नैपर्छ,<br/>(सारा नेपालीले येशूलाई पाउनुपर्छ) २<br/>कारण तपाईं मात्र राजा र प्रभु,<br/>(एक मात्र परमेश्‍वर) २<br/><br/><tag name="y">saaraa jaati-le yeshu-laai cinnai-parcha,<br/>(saaraa nepaali-le yeshu-laai paaunu-parcha) ~2<br/>kaaraN tapaaiň maatra raajaa ra prabhu,<br/>(ek maatra parmeshwor) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

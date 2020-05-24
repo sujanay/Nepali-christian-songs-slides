@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:08:14">
+  <properties>
+    <titles>
+      <title>B081 - yeshu-ko naam chasaaraa sansaar-maa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>येशूको नाम छ<br/>सारा संसारमा<br/>सबैलाई गर्न उद्धार।<br/><br/><tag name="y">yeshu-ko naam cha<br/>saaraa sansaar-maa<br/>sabai-laai garna uddhaar<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(दुनियाँमा आई, क्रूसैमा चढ़ी<br/>देखाए आफ्नो प्यार) २<br/>(आत्मा बचाउनु, शान्ति दिनु<br/>येशू भए बलिदान।) २<br/><br/><tag name="y">(duniyaaň-maa aayi, krusai-maa caDhi<br/>dekhaaye aafno py-aar) ~2<br/>(aatmaa bacaaunu, shanti dinu<br/>yeshu bhaye balidaan) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(स्वर्गको मुनि, मान्छेको बीचमा<br/>कुनै अरू नामै छैन) २<br/>(येशू नाम मात्र, सबै दुनियाँमा<br/>पापीलाई गर्न उद्धार।) २<br/><br/><tag name="y">(sworga-ko muni, maanche-ko bica-maa<br/>kunai aru naamai chaina) ~2<br/>(yeshu naam maatra, sabai duniyaaň-maa<br/>paapi-laai garna uddhaar) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

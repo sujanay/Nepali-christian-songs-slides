@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:57:02">
+  <properties>
+    <titles>
+      <title>B326 - kritagye bhai, shira jhukaa-i</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>कृतज्ञ भई, शिर झुकाई<br/>जीवन चढ़ाउन आएको छु,<br/>अमूल्य भेट अरू के छ र ?<br/>(जीवन मेरै अर्पेको छु) २<br/><br/><tag name="y">kritagye bhai, shira jhukaa-i<br/>jivan caRhaauna aayeko chu,<br/>amulye bheT aru ke cha ra?<br/>(jivan merai arpeko chu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(टाढ़ो जाँदा प्रेमलाई भुली,<br/>घायल हुन्छ मन प्रभुको) २<br/>(हुन्छु नजीक, नजीक तिम्रो नै<br/>सक्तिनँ म जान टाढ़ो) २<br/><br/><tag name="y">(TaaDho jaaňdaa prema-laai bhuli,<br/>ghaayel huncha man prabhu-ko) ~2<br/>(hunchu najik, najik timro nai<br/>sak-dinaň ma jaana TaaDho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(मनलाई खिँच्‍‌ने वैभव जगत्का,<br/>विलास बन्लान् बाधक मेरा) २<br/>(ख्रीष्टको अद्भूत प्रेमैको निम्ति<br/>त्याग्छु यिनलाई मनैबाट) २<br/><br/><tag name="y">(man-laai khiňcne baibhab jagat-kaa,<br/>bilaas banlaan baadhak meraa) ~2<br/>(khrisT-ko adbhut premai-ko nimti<br/>tyaagchu yin-laai manai-baaTa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(प्रेम छ अगाध प्रभु तिम्रो नै,<br/>बयान गर्ने शक्ति छैन) २<br/>(अनन्तकाल सेवा नै गरूँ<br/>यस प्रेमबाट उऋण म हुन्‍‌नँ) २<br/><br/><tag name="y">(prem cha agaadh prabhu timro nai,<br/>bayaan garne shakti chaina) ~2<br/>(ananta-kaal sevaa nai garuň<br/>yes prem-baaTa uriN ma hunnaň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(जगको निम्ति जिउँदिनँ प्रभु<br/>न ता जिउँछु आफ्‍‌नै निम्ति) २<br/>(सक्तिनँ म अर्पण नगरी<br/>छोटो जीवन तिम्रो नै निम्ति) २<br/><br/><tag name="y">(jag-ko nimti jiuň-dinaň prabhu<br/>na taa jiuňchu aafnai nimti) ~2<br/>(sakdinaň ma arpaN na-gari<br/>choTo jivan timro nai nimti) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(दु:खित छु म समयको निम्ति<br/>बितेथ्यो जो रहँदा पापमा) २<br/>(बाँकी जीवन कृतज्ञतामा<br/>अर्पित होस् प्रभुकै सेवामा) २<br/><br/><tag name="y">(dukhit chu ma samai-ko nimti<br/>bite-thyo jo ra'aňdaa paap-maa) ~2<br/>(baaňki jivan krita-gyataa-maa<br/>arpita hos prabhu-kai sevaa-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:31:37">
+  <properties>
+    <titles>
+      <title>B235 - mitra, timi-laai yo khavar cha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>मित्र, तिमीलाई यो खवर छ<br/>चाँड़ै नै प्रभु आउनुहुन्छ<br/>सुसमाचार सुनी राख,<br/>(आफ्‍‌नो आत्मालाई बचाऊ आज) २<br/><br/><tag name="y">mitra, timi-laai yo khavar cha<br/>caaňRai nai prabhu aaunu-huncha<br/>su-samaacaar suni raakha,<br/>(aafno aatmaa-laai bacaau aaja) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(तिमी भन्छौ समय छ मेरो) २<br/>(तर समयचैँ बितिसक्यो) २<br/>(प्रभुलाई ग्रहण गरिहाल) २<br/>(नत्र अन्तमा रुनु पर्ला) २<br/><br/><tag name="y">(timi bhanchau samai cha mero) ~2<br/>(tara samai-caiň biti-sakyo) ~2<br/>(prabhu-laai grahaN gari-haala) ~2<br/>(natra anta-maa runu parlaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(अहिले सुनी भरे नभुल) २<br/>(सुसमाचार यो मनैमा गुन) २<br/>(तिमी आफैलाई जाँचिहाल) २<br/>(आफ्‍‌नो आत्मालाई बचाऊ आज) २<br/><br/><tag name="y">(a'ile suni bhare na-bhula) ~2<br/>(su-samaacaar yo manai-maa guna) ~2<br/>(timi aafai-laai jaaňci-haala) ~2<br/>(aafno aatmaa-laai bacaau aaja) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मित्र, प्रभुमा विश्‍वास गर) २<br/>(आज नै उनमा आघि बढ़) २<br/>(तिम्रो पापलाई धोइदिनुहुन्छ) २<br/>(उनकै सन्तान बनाउनुहुन्छ) २<br/><br/><tag name="y">(mitra, prabhu-maa vishwaas gara) ~2<br/>(aaja nai un-maa aaghi baDha) ~2<br/>(timro paap-laai dhoi-dinu-huncha) ~2<br/>(un-kai santaan banaaunu-huncha) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:16:46">
+  <properties>
+    <titles>
+      <title>B045 - kati ramaahaT-ko din aayo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>कति रमाहतको दिन आयो<br/>यो जगत्‌मा<br/>(हाँस्दै-खेल्दै गाना गाउँदै<br/>प्रभु येशूमा) २<br/><br/><tag name="y">kati ramaahaT-ko din aayo<br/>yo jagata-maa<br/>(haaňsdai-kheldai gaanaa gaauň-dai<br/>prabhu yeshu-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>आऊ वृद्ध जन, आऊ सब जवान,<br/>(स्वरमा स्वर मिलाई गाऊ<br/>प्रभुको जय गान। ) २<br/><br/><tag name="y">aa-u briddha jan, aa-u sab jawaan,<br/>(swormaa swor milaa-i gaau<br/>prabhuko jai gaan. ) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हामी साब थियौँ घोर अन्धकारमा,<br/>(आए प्रभु अवतार लिई<br/>उही बेथलेहेममा । ) २<br/><br/><tag name="y">haami sab thiyo ghor andhakaar-maa<br/>(aaye prabhu awtaar li-i<br/>u'i beth-lehem-maa. ) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>छोड़ अब भाइ दुष्ट शैतानलाई,<br/>(उठ, जाग, स्वागत गर नवजात<br/>प्रभुलाईं। ) २<br/><br/><tag name="y">choRa aba bhaai dusTa shaitaan-laai<br/>(uTha, jaaga, swogaat gara<br/>nawjaat prabhu-laai. ) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

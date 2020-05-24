@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:42:43">
+  <properties>
+    <titles>
+      <title>C243 - jivan-ko nadi bagaau-nosprabhu mero jivan-maa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>जीवनको नदी बगाउनोस्<br/>प्रभु मेरो जीवनमा<br/>मलाई जागृत गराउनोस्<br/>पवित्र आत्मामा ।<br/><br/><tag name="y">jivan-ko nadi bagaau-nos<br/>prabhu mero jivan-maa<br/>malaai jaagrit garaau-nos<br/>pavitra aatmaa-maa<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बद्लिन चाहन्छु,<br/>प्रभु तपाईंको रूपमा) २<br/>पिताको लागि फल फलाउने<br/>जीवन जिउन चाहन्छु ।<br/><br/><tag name="y">(badalina caahan-chu,<br/>prabhu tapaaiň-ko rup-maa) ~2<br/>pitaa-ko laagi fal falaaune<br/>jivan jiuna caahan-chu.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मेरो यो जीवनबाट तपाईंलाई<br/>अग्ल्याउन चाहन्छु ।<br/><br/><tag name="y">mero yo jivan-baaTa tapaaiň-laai<br/>aglyaauna caahan-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

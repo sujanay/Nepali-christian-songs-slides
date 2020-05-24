@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:33:24">
+  <properties>
+    <titles>
+      <title>B026 - laagdacha malaai ramaailo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>लाग्दछ मलाई रमाइलो,<br/>त्यो उज्यालो ताराको<br/>बेथलेहेम गाउँको त्यो सानो गोठ,<br/>येशू जन्मेको सानो डूँड़<br/><br/><tag name="y">laagdacha malaai ramaailo,<br/>tyo ujyaalo taaraa-ko<br/>bethlehem gaauň-ko tyo saano goTh,<br/>yeshu janmeko saano DuňD</tag></lines>
+    </verse>
+    <verse name="v1a">
+      <lines>(अन्धकारको माझमा उज्ज्वल<br/>प्रकाश लिई आए) २<br/>जगलाई उद्धार गराउन<br/>सत्यको जग बसाल्न<br/><br/><tag name="y">(andhakaar-ko maajha-maa ujjwal<br/>prakaash li-i aaye) ~2<br/>jag-laai uddhaar garaauna<br/>satye-ko jag basaalna</tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>निँदवाट जाग, भाइ हो,<br/>मुक्तिको पथमा चल्नलाई,<br/>लाग्दछ मलाई रमाइलो<br/>त्यो उज्यालो ताराको।<br/><br/><tag name="y">niňda-baaTa jag, bhaai ho,<br/>mukti-ko path-maa calna-laai<br/>laagdacha malaai ramaailo<br/>tyo ujyaalo taaraa-ko.</tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>लाग्दछ मलाई रमाइलो,<br/>त्यो उज्यालो ताराको<br/>बेथलेहेम गाउँको त्यो सानो गोठ,<br/>येशू जन्मेको सानो डूँड़<br/><br/><tag name="y">laagdacha malaai ramaailo,<br/>tyo ujyaalo taaraa-ko<br/>bethlehem gaauň-ko tyo saano goTh,<br/>yeshu janmeko saano DuňD</tag></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>(खुशीयाली रात मनाऊँ,<br/>यस धरतीलाई उज्ज्वल गराऊँ) २<br/>स्वर्गदूतले गाउँछन् गीत,<br/>बालक ख्रीष्टको महिमा<br/><br/><tag name="y">(khushiyaali raat manaauň,<br/>yes dharti-laai ujjbal garaauň) ~2<br/>sworga-dut-le gaauňchan git,<br/>baalak khrisT-ko mahimaa</tag></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>हामी पनि गाऊँ है गीत,<br/>बालक ख्रीष्टको चरणमा,<br/>लाग्दछ मलाई रमाइलो<br/>त्यो उज्यालो ताराको।<br/><br/><tag name="y">haami pani gaauň hai git<br/>baalak khrisT-ko caraň-maa,<br/>laagdacha malaai ramaailo<br/>tyo ujyaalo taaraa-ko.</tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>लाग्दछ मलाई रमाइलो,<br/>त्यो उज्यालो ताराको<br/>बेथलेहेम गाउँको त्यो सानो गोठ,<br/>येशू जन्मेको सानो डूँड़<br/><br/><tag name="y">laagdacha malaai ramaailo,<br/>tyo ujyaalo taaraa-ko<br/>bethlehem gaauň-ko tyo saano goTh,<br/>yeshu janmeko saano DuňD</tag></lines>
+    </verse>
+  </lyrics>
+</song>

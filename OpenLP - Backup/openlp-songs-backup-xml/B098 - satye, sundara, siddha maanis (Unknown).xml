@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:40:55">
+  <properties>
+    <titles>
+      <title>B098 - satye, sundara, siddha maanis</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>सत्य, सुन्दर, सिद्ध मानिस<br/>हुनुहुन्छ प्रभु ख्रीष्ट<br/>(उहाँसँग साटेँ मैले<br/>अनन्त-अनन्तलाई चोखो प्रीत) २<br/><br/><tag name="y">satye, sundara, siddha maanis<br/>hunu-huncha prabhu khrisT<br/>(uhaaň-saňga saaTeň maile<br/>ananta-ananta-laai cokho prit) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सिद्ध ईश्‍वर, सिद्ध मानिस,<br/>मेरो जीवन स्वामिलाई) २<br/>(अन्तरातमादेखि श्रद्धा,<br/>भक्ति छ तपाईंलाई।) २<br/><br/><tag name="y">(siddha ishwora, siddha maanis,<br/>mero jivana swaami-laai) ~2<br/>(antar-aatamaa-dekhi shraddhaa,<br/>bhakti cha tapaaiň-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(तपाईं मेरो, म तपाईंको,<br/>अनन्तलाई हाम्रो प्रीत) २<br/>(दु:ख-सुखमा दिलोज्यानले,<br/>रात-दिन गाउँछु ख्रिष्टको गीत।) २<br/><br/><tag name="y">(tapaaiň mero, ma tapaaiň-ko,<br/>ananta-laai haamro prit) ~2<br/>(dukha-sukha-maa dilo-jyaan-le<br/>raat-din gaauňchu khrisT-ko git.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

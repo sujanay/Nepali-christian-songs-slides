@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-10T15:10:58">
+  <properties>
+    <titles>
+      <title>B072 - ridai-ko raajaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>हृदयको राजा,<br/>जय येशू नाउँ,<br/>शान्तिको कुमार<br/>गर्छु प्रनाम्<br/><br/><tag name="y">ridai-ko raajaa,<br/>jai yeshu naauň,<br/>shaanti-ko kumaar<br/>garchu pranaam,<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>दश हजारौंमा<br/>तपाईं सुन्दर,<br/>सुगन्धित तेलझैँ मघुरो नाउँ,<br/>गर्छु प्रनाम्<br/><br/><tag name="y">dasha h'jaarauň-maa<br/>tapaaiň sundar<br/>suganghit tel-jhaiň maghuro naa-uň,<br/>garchu pranaam.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(लाखौंमा मिठो<br/>छ येशू नाउँ,<br/>चम्किलो अनुहार सूर्य समान) २<br/><br/><tag name="y">(laakhauň-maa mitho<br/>cha yeshu naauň,<br/>camkilo anuhaar surye samaan) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>अवर्णनीय छ तपाईंको प्रेम,<br/>म अधर्मीले चाखेँ त्यो प्रेम<br/>... गर्छु प्रनाम्।<br/><br/><tag name="y">awarNniya cha tapaaiň-ko prem,<br/>ma adharmi-le caakheň tyo prem<br/>... garchu pranaam.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बोल्नुभो प्रभु तपाईं,<br/>भएँ मगन,<br/>अभिलाषी भई आएँ चरण) २<br/><br/><tag name="y">(bol-nubho prabhu tapaaiň,<br/>bhayeň magan,<br/>abhilaasi bhai aayeň caraN) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>हर्षित हुँदै प्रभु<br/>गर्छु प्रणाम,<br/>म अयोग्यले पाएँ जीवनदान<br/>... गर्छु प्रनाम्।<br/><br/><tag name="y">harsit huňdai prabhu<br/>garchu praNaam,<br/>ma ayogye-le paayeň jivandaan.<br/>... garchu pranaam.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मलाई बचाउनुभो दिएर प्राण,<br/>बुझाइदिनुहोस्, प्रभु<br/>स्वर्गीय प्रेम) २<br/><br/><tag name="y">(ma-laai bacaau-nubho diyera praaN,<br/>bujhaai-dinuhos, prabhu<br/>sworgiye prem) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="o1d">
+      <lines>भेटीको रूपमा<br/>सम्पूर्ण जीवन चढाउँछु,<br/>हे प्रभु गर्नुहोस् ग्रहण<br/>... गर्छु प्रनाम्।<br/><br/><tag name="y">bheTiko rup-maa<br/>sampurNa jivan caDhaauň-chu,<br/>he prabhu garnuhos grahaN<br/>... garchu pranaam.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

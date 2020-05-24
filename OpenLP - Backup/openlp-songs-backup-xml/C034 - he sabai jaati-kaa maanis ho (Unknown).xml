@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:32:08">
+  <properties>
+    <titles>
+      <title>C034 - he sabai jaati-kaa maanis ho</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>हे सबै जातिका मानिस हो,<br/>हल्लेलूयाह<br/>हे, सबै जन हो,<br/>उहाँको तारीफ गर,<br/><br/><tag name="y">he sabai jaati-kaa maanis ho,<br/>ha-lleluyaah<br/>he, sabai jana ho,<br/>uhaaň-ko taarif gara,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>किनभने हामीप्रति<br/>उहाँको करुणा अपार छ<br/>(र याह्वेको सत्यता<br/>सधैंको निम्ति रहन्छ) २<br/><br/><tag name="y">kina-bhane haami-prati<br/>uhaaň-ko karuNaa apaar cha<br/>(ra yahwe-ko satyetaa<br/>sadhaiň-ko nimti rahancha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(हल्लेलूयाह, हल्लेलूयाह, हल्लेलूयाह,<br/>आमिन हल्लेलूयाह) २<br/>र याह्वेको सत्यता<br/>सधैंको निम्ति रहन्छ<br/><br/><tag name="y">(halleluyaah, halleluyaah, halleluyaah<br/>aamin halleluyaah) ~2<br/>ra yahwe-ko satyetaa<br/>sadhaiň-ko nimti rahancha<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

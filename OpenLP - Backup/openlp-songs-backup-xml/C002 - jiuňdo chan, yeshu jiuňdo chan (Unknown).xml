@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:00:42">
+  <properties>
+    <titles>
+      <title>C002 - jiuňdo chan, yeshu jiuňdo chan</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>जिउँदो छन्, येशू जिउँदो छन्,<br/>मेरो मनमा येशू जिउँदो छन्<br/>सङ्कटमा मेरो सहारा हुन्,<br/>येशू सधैं जिउँदो छन्।<br/><br/><tag name="y">jiuňdo chan, yeshu jiuňdo chan,<br/>mero man-maa yeshu jiuňdo chan<br/>sangkaT-maa mero sahaaraa hun,<br/>yeshu sadhaiň jiuňdo chan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

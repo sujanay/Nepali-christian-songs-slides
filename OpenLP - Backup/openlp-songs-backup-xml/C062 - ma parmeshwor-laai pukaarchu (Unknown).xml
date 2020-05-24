@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T01:53:52">
+  <properties>
+    <titles>
+      <title>C062 - ma parmeshwor-laai pukaarchu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>म परमेश्‍वरलाई पुकार्छु<br/>स्तुतिको योग्य उनी<br/>म मेरो शत्रुबाट बच्‍‌नेछु ।<br/><br/><tag name="y">ma parmeshwor-laai pukaarchu<br/>stutiko yogye uni<br/>ma mero shatru-baaTa bacnechu.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(परमेश्‍वर जिउँछन्,<br/>धन्य होस्, मेरो चट्टान<br/>मेरा मुक्तिदाता उच्च गरिऊन् ) २<br/><br/><tag name="y">(parmeshwor jiuňchan,<br/>dhanye hos, mero caTTan<br/>meraa mukti-daataa ucca gariun.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

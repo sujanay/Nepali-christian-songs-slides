@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:58:37">
+  <properties>
+    <titles>
+      <title>B103 - jivan-ko swomi prabhu-laai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>जीवनको स्वामी प्रभुलाई<br/>महिमा होस् सधैँ<br/>म जब भुल्छु तपाईंलाई,<br/>कलवरीमा डोर्‍याऊ ।<br/><br/><tag name="y">jivan-ko swomi prabhu-laai<br/>mahimaa hos sadhaiň<br/>ma jaba bhul-chu tapaaiň-laai,<br/>kalvari-maa Doryaau.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>भुल्छु जब गलगथाको<br/>कष्टका प्रार्थना तपाईंको<br/>भुल्छु जब प्रेम तपाईंको<br/>कलवरीमा डोर्‍याऊ ।<br/><br/><tag name="y">bhul-chu jaba galgathaa-ko<br/>kasT-kaa praarth'naa tapaaiň-ko<br/>bhul-chu jaba prem tapaaiň-ko,<br/>kalvari-maa Doryaau.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>देखाऊ मलाई चिहान उनको<br/>दूतगणले घेरेको<br/>जहाँ यस कठोर हृदय लिई<br/>गर्छु अर्पण उनलाई ।<br/><br/><tag name="y">dekaau ma-laai cihaan unko<br/>dutgaN-le ghereko<br/>jahaaň yes kaThor ridai lii<br/>garchu arpaN un-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मरियमले चिहानमा दान लिई<br/>तपाईंलाई खोजेथी<br/>हृदयको दान लिई म पनि<br/>खोज्‍‌न सकूँ अनि ।<br/><br/><tag name="y">mariyem-le cihaan-maa daan lii<br/>tapaaiň-laai khojethi<br/>ridai-ko daan lii ma pani<br/>khojna sakuň ani.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>छु प्रभु बोक्‍‌नलाई तयार<br/>आफ्‍‌नो त्यो क्रूसको भार<br/>गर्नेछु जीवन दू:ख पार<br/>शाक्ति देऊ तारणहार ।<br/><br/><tag name="y">chu prabhu bok-nalaai tayaar<br/>aafno tyo krus-ko bhaar<br/>gar-nechu jivan dukha paar<br/>shaakti deu taaraNahaar.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

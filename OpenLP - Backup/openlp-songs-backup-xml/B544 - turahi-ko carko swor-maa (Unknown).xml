@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:43:41">
+  <properties>
+    <titles>
+      <title>B544 - turahi-ko carko swor-maa</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>तुरहीको चर्को स्वरमा<br/>प्रधान दूत गर्जन्छन्‌ है<br/>बादलको सवारीमा<br/>येशू एक दिन आउँछन्‌ है<br/>(आफ्‍‌नी दुलही साथमा लानलाई) २<br/><br/><tag name="y">turahi-ko carko swor-maa<br/>pradhaan duta garjan-chan hai<br/>baadala-ko sawaari-maa<br/>yeshu ek din aauňchan hai<br/>(aafni dulahi saath-maa laana-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>तुरहीको चर्को स्वरमा<br/>प्रधान दूत गर्जन्छन्‌ है<br/>बादलको सवारीमा<br/>येशू एक दिन आउँछन्‌ है<br/><br/><tag name="y">turahi-ko carko swor-maa<br/>pradhaan duta garjan-chan hai<br/>baadala-ko sawaari-maa<br/>yeshu ek din aauňchan hai<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(चिहानभित्र सुतेकाहरू<br/>महिमित शरीरमा उठ्‌छन्‌ है) २<br/>हामी सबै दुलही बनी<br/>प्रभुलाई भेट्‌न जान्छौं है।<br/><br/><tag name="y">(cihaan-bhitra sutekaa-haru<br/>mahimit sharir-maa uTh-chan hai) ~2<br/>haami sabai dulahi bani<br/>prabhu-laai bheT-na jaan-chauň hai.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(त्यस दिन सबै साथी-सङ्गी<br/>बेहाल भई यहाँ छुट्‌छन्‌ है) २<br/>त्यो दिन हाम्रो आँशु प्रभुले पुछी<br/>सधैँ साथ राख्छन्‌ है।<br/><br/><tag name="y">(tyes din sabai saathi-sangi<br/>behaal bhai yahaaň chuT-chan hai) ~2<br/>tyo din haamro aaňshu prabhu-le puchi<br/>sadhaiň saath raakh-chan hai.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

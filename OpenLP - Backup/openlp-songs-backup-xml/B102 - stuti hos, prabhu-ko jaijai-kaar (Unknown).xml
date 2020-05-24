@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:00:04">
+  <properties>
+    <titles>
+      <title>B102 - stuti hos, prabhu-ko jaijai-kaar</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>स्तुति होस्, प्रभुको जयजयकार<br/>स्तुति होस्, प्रभुको जयजयकार<br/><br/><tag name="y">stuti hos, prabhu-ko jaijai-kaar<br/>stuti hos, prabhu-ko jaijai-kaar<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>भुल्‍‌ने छैन म, त्यो दृश्य<br/>प्रभु येशूको,<br/>कलवरी भनिने ठाउँमा<br/>उनी टाँगिएका<br/><br/><tag name="y">bhulne chaina ma, tyo drishye<br/>prabhu yeshu-ko,<br/>kalvari banine Thaauň-maa<br/>uni Taaňgiyekaa<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(हात–पाउ र शरीर उनको<br/>चोटै–चोटले पूर्ण थियो) २<br/>(मैले जानेँ, ती सबै कारण<br/>मेरो अधर्म हो) २<br/><br/><tag name="y">(haat-paa-u ra sharira unko<br/>coTai-coTle purNa th'yo) ~2<br/>(maile jaaneň, ti saba-i kaaraN<br/>mero adharma ho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>भुल्‍‌ने छैन म, त्यो वचन<br/>भनेको ख्रीष्टले,<br/>कलबरी भनिने ठाउँमा<br/>गम्भीर प्रेमको भावले<br/><br/><tag name="y">bhulne chaina ma, tyo bacan<br/>bhaneko khrisT-le,<br/>kalvari banine Thaauň-maa<br/>gambhir prem-ko bhaaw-le<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(पुत्र तेरो अधर्म सबै<br/>पापको ऋण तिरिसकेँ) २<br/>(उद्धार छ तेरो लागि यहाँ<br/>कमाएँ जो मैले) २<br/><br/><tag name="y">(putra te-ro adharma sabai<br/>paap-ko rin tiri-sakeň) ~2<br/>(uddhaar cha tero laagi yahaaň<br/>kamaayeň jo maile) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

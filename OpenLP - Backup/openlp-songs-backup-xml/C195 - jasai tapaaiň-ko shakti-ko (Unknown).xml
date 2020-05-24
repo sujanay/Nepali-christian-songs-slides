@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:27:49">
+  <properties>
+    <titles>
+      <title>C195 - jasai tapaaiň-ko shakti-ko</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जसै तपाईंको शक्तिको<br/>घोषणा गर्छौं,<br/>जसै तपाईंको नाउँको<br/>प्रशंसा गर्छौं) २<br/><br/><tag name="y">(jasai tapaaiň-ko shakti-ko<br/>ghosaNaa gar-chauň,<br/>jasai tapaaiň-ko naauň-ko<br/>prashaňsaa gar-chauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>टुटेको हृदय जोड्‌नुहोस्‌,<br/>बन्धन सब फुकाउनुहोस्‌,<br/>अन्धकार हटाउनुहोस्‌<br/>(होसन्‍‌ना, मारानथा) ४<br/><br/><tag name="y">TuTe-ko ridai joD-nuhos,<br/>bandhan sab fukaau-nuhos,<br/>andhakaar haTaau-nuhos<br/>(hosannaa, maaraanathaa) ~4<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जसै तपाईंमा साह्रै<br/>खुशी हुन्छौं,<br/>जसै तपाईंमा<br/>हृदय रमाउँदछ) २<br/><br/><tag name="y">(jasai tapaaiň-maa<br/>saahrai khushi hunchauň,<br/>jasai tapaaiň-maa<br/>ridai ramaauň-dacha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>हर्षको तेल खन्याउनुहोस्‌,<br/>धार्मिकता पहिर्‍याउनुहोस्‌,<br/>अभिषेक पठाउनुहोस्‌<br/>(होसन्‍‌ना, मारानथा) ४<br/><br/><tag name="y">harsa-ko tel khanyaau-nuhos,<br/>dharmiktaa pa'iryaau-nuhos,<br/>abhisek paThaau-nuhos<br/>(hosannaa, maaraanathaa) ~4<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>आउनुहोस्‌ हे येशू,<br/>आउनुहोस्‌ हे येशू।<br/><br/><tag name="y">aau-nuhos he yeshu,<br/>aau-nuhos he yeshu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

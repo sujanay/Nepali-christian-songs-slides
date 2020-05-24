@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-04-12T16:32:54">
+  <properties>
+    <titles>
+      <title>Hilsong - Man of sorrows</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v2 v4 v5 v4 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>दुःखित मानिस ईश्वर को थुमा<br/>आफ्नैले धोका दिए<br/>मानिसको पाप र ईश्वरको क्रोध<br/>येशूले बोकी दिए<br/><br/><tag name="y">Man of sorrows Lamb of God<br/>By His own betrayed<br/>The sin of man and wrath of God<br/>Has been on Jesus laid</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>शान्तमय भई सहे आरोप्<br/>सहे कुटाई बेईज्जत्<br/>पिताको इच्छा अगि झुके<br/>काँडाको मुकुट लिए<br/><br/><tag name="y">Silent as He stood accused<br/>Beaten mocked and scorned<br/>Bowing to the Father's will<br/>He took a crown of thorns<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हो त्यो श्रापित क्रुस , मेरो उद्दार्<br/>जहा तिम्रो प्रेम  पोखिन्छ<br/>आत्मा मेरो भन्छ, हल्लेलुयाह<br/>आदर भक्ति तपाइलाई<br/><br/><tag name="y">Oh that rugged cross<br/>My salvation<br/>Where Your love poured out over me<br/>Now my soul cries out Hallelujah<br/>Praise and honour unto Thee<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>पिताले पठाये पुत्रलाइ<br/>हाम्रो उद्दार किन्न<br/>उनी सगँ मिलाप गरि<br/>उनैले लाई क्रुसमा टाङ्न<br/><br/><tag name="y">Sent of heaven God's own Son<br/>To purchase and redeem<br/>And reconcile the very ones<br/>Who nailed Him to that tree<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>पापको रिण चुक्ता भो<br/>सबै पुरा तिरियो<br/>येशूको अमूल्य बगेको रगतले<br/><br/><tag name="y">Now my debt is paid<br/>It is paid in full<br/>By the precious blood<br/>That my Jesus spilled<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>अब पाप को दोष<br/>ममा जड छैन<br/>जसले मुक्ति दिन्छन्<br/>स्वन्तन्त्र पारिदिन्छन<br/><br/><tag name="y">Now the curse of sin<br/>Has no hold on me<br/>Whom the Son sets free<br/>Oh is free indeed<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>हेर चट्टान हटिगो<br/>रित्तो चिहान देखियो<br/>हल्लेलुयाह महिमा होस्<br/>उनी बौरी उठे<br/><br/><tag name="y">See the stone is rolled away<br/>Behold the empty tomb<br/>Hallelujah God be praised<br/>He's risen from the grave<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-15T17:43:27">
+  <properties>
+    <titles>
+      <title>B178 - prabhu yeshu haamro saath-maa hou,jivan-ko baaTo-maa Doryaau</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभु येशू हाम्रो साथमा होऊ,<br/>जीवनको बाटोमा डोर्‍याऊ<br/>हामीलाई आफूमा मिलाऊ,<br/>प्रभु येशू हाम्रो साथमा होऊ।<br/><br/><tag name="y">prabhu yeshu haamro saath-maa hou,<br/>jivan-ko baaTo-maa Doryaau<br/>haami-laai aafu-maa milaau,<br/>prabhu yeshu haamro saath-maa hou.<br/></tag></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु ख्रीष्टको चरणमा<br/>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु येशू हाम्रो साथमा होऊ<br/><br/><tag name="y">jaba-samma bheTdainauň haami<br/>prabhu khrisT-ko caraN-maa<br/>jaba-samma bheTdainauň haami<br/>prabhu yeshu haamro saath-maa hou<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>प्रभु येशू हाम्रो साथमा होऊ,<br/>दु:ख र विपतदेखि बचाऊ<br/>आत्मिक भोजन हामीलाई देऊ,<br/>प्रभु येशू हाम्रो साथमा होऊ।<br/><br/><tag name="y">prabhu yeshu haamro saath-maa hou,<br/>dukha ra bipat-dekhi bacaau<br/>aatmik bhojana haami-laai deu,<br/>prabhu yeshu haamro saath-maa hou.<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु ख्रीष्टको चरणमा<br/>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु येशू हाम्रो साथमा होऊ<br/><br/><tag name="y">jaba-samma bheTdainauň haami<br/>prabhu khrisT-ko caraN-maa<br/>jaba-samma bheTdainauň haami<br/>prabhu yeshu haamro saath-maa hou<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>प्रभु येशू हाम्रो साथमा होऊ,<br/>जोखिम जीवनमा जब आउँछ<br/>ख्रीष्टको प्रेमी हात समाउँछौं,<br/>प्रभु येशू हाम्रो साथमा होऊ।<br/><br/><tag name="y">prabhu yeshu haamro saath-maa hou,<br/>jokhim jivan-maa jaba aauňcha<br/>khrisT-ko premi haat samaauňchauň,<br/>prabhu yeshu haamro saath-maa hou.<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु ख्रीष्टको चरणमा<br/>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु येशू हाम्रो साथमा होऊ<br/><br/><tag name="y">jaba-samma bheTdainauň haami<br/>prabhu khrisT-ko caraN-maa<br/>jaba-samma bheTdainauň haami<br/>prabhu yeshu haamro saath-maa hou<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>प्रभु येशू हाम्रो साथमा होऊ,<br/>उच्च राख प्रेमको झण्डा<br/>मृत्युको बाढले तर्साउँदा,<br/>प्रभु येशू हाम्रो साथमा होऊ।<br/><br/><tag name="y">prabhu yeshu haamro saath-maa hou,<br/>ucca raakha prem-ko jhaNDaa<br/>mrityu-ko baaDh-le tarsaauňdaa,<br/>prabhu yeshu haamro saath-maa hou.<br/></tag></lines>
+    </verse>
+    <verse name="c1d">
+      <lines>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु ख्रीष्टको चरणमा<br/>जबसम्म भेट्‌दैनौं हामी<br/>प्रभु येशू हाम्रो साथमा होऊ<br/><br/><tag name="y">jaba-samma bheTdainauň haami<br/>prabhu khrisT-ko caraN-maa<br/>jaba-samma bheTdainauň haami<br/>prabhu yeshu haamro saath-maa hou<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:48:22">
+  <properties>
+    <titles>
+      <title>B140 - aghi baDha, khrisTiye jawaan ho</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>अघि बढ, ख्रीष्टीय जवान हो<br/>समयलाई नपर्ख भाइ हो<br/>(हाम्रो दुलहा आउँदै छन्‌) २<br/><br/><tag name="y">aghi baDha, khrisTiye jawaan ho<br/>samai-laai naparkha bhaai ho<br/>(haamro dulahaa aauňdai chan) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>अन्तिम चिन्ह देखिँदै छ,<br/>(भविष्यवाणी पूरा हुँदै छ) २<br/>(सांसारिक जीवनलाई त्यागी आऊ<br/>प्रभुमा नयाँ भई) २<br/><br/><tag name="y">(antim cinha dekhiňdai cha,<br/>bhabisye-baaNi puraa huňdai cha) ~2<br/>(saansaarik jivan-laai tyaagi aau<br/>prabhu-maa nayaaň bhai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जीवन प्रभुमा अर्पण गरी<br/>सम्पूर्ण वचन पालन गरी) २<br/>(प्रभुको यो क्रूस उठाई<br/>अघि बढ उनमा भई) २<br/><br/><tag name="y">(jivan prabhu-maa arpaN gari<br/>sampurNa bacan paalan gari) ~2<br/>(prabhuko yo krus uThaai<br/>aghi baDha unmaa bhai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(जयवन्त जीवन बिताउँदै जाऊ<br/>प्रभुको काममा व्यस्त भई) २<br/>(उनमा सदा आशा राख्दै बढ अझ थकित नभई) २<br/><br/><tag name="y">(jaiwant jivan bitaauňdai jaau<br/>prabhu-ko kaam-maa byesta bhai) ~2<br/>(unmaa sadaa aashaa raakhdai baDha<br/>ajha thakita na-bhai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-19T04:16:38">
+  <properties>
+    <titles>
+      <title>B623 - param-prabhu mero goThaalo hun</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(परमप्रभु मेरो गोठालो हुन्) २<br/>(मलाई केहीको) २<br/>खाँचो छैन।<br/><br/><tag name="y">(param-prabhu mero goThaalo hun) ~2<br/>(malaai kehi-ko) ~2<br/>khaaňco chaina.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(उहाँले मेरो पाइलाहरूलाई<br/>चिप्लन दिन हुन्‍न)२<br/>(सुख-चैनको पानी छेउ<br/>डोर्‍याउनुहुन्छ)२<br/><br/><tag name="y">(uhaaň-le mero paailaa-haru-laai<br/>ciplana dina hunna) ~2<br/>(sukh-cain-ko paani cheu<br/>Doryaaunu-huncha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(उहाँले मेरो शिरलाई<br/>तेलले अभिषेक गर्नुहुन्छ,)२<br/>(मेरो कचौरा<br/>भरिएर पोखिरहन्छ।)२<br/><br/><tag name="y">(uhaaň-le mero shira-laai<br/>tel-le abhisek garnu-huncha,) ~2<br/>(mero kacauraa<br/>bhariyera pokhi-rahancha.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

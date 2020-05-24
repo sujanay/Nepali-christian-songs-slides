@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:56:58">
+  <properties>
+    <titles>
+      <title>B108 - nepaali paapi man-laai pakhaali</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(नेपाली पापी मनलाई पखाली,<br/>येशूको छेउमा जाऔं) २<br/><br/><tag name="y">(nepaali paapi man-laai pakhaali,<br/>yeshu-ko cheu-maa jaauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(पिलातुसले येशूज्यूलाई<br/>कोर्रा लगाइदिए) २<br/>क्रूस बोक्‍‌न कुरेनी भाइले<br/>(येशूलाई सघाइदिए) २<br/><br/><tag name="y">(pilaatus-le yeshuji-laai<br/>korraa lagaai-diye) ~2<br/>krus bokna kureni bhaai-le<br/>(yeshu-laai saghaai-diye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(सबै मिली येशूज्यूलाई<br/>काँटी ठोकिदिए) २<br/>सबै हाम्रो पापको भारी<br/>(येशूले बोकिलिए) २<br/><br/><tag name="y">(sabai mili yeshuji-laai<br/>kaaňTi Thoki-diye) ~2<br/>sabai haamro paapa-ko bhaari<br/>(yeshu-le boki-liye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(क्रूसद्वारा बग्यो ठूलो<br/>रगतको धारा) २<br/>पापी सबै प्रवेश गर्ने<br/>(यही मुक्तिको द्वार) २<br/><br/><tag name="y">(krus-dwaaraa bagyo Thulo<br/>ragat-ko dhaaraa) ~2<br/>paapi sabai prabesha garne<br/>(yehi mukti-ko dwaara) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(गलगथाको पहाडैमा<br/>बलिदान भए) २<br/>प्यारो प्रभु येशूज्यूले<br/>(प्राणदान गरिदिए) 2<br/><br/><tag name="y">(galgathaa-ko pahaaDai-maa<br/>balidaan bhaye) ~2<br/>pyaaro prabhu yeshuji-le<br/>(praaNdaan gari-diye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(शुक्रवारको तेस्रो पहर<br/>येशूले प्राण त्यागे) २<br/>मृत्यु नीदमा परेको प्रभु<br/>(तेस्रो दिनमा जागे) २<br/><br/><tag name="y">(shukrabaar-ko tesro pahar<br/>yeshu-le praaN tyaage) ~2<br/>mrityu nid-maa pareko prabhu<br/>(tesro din-maa jaage) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

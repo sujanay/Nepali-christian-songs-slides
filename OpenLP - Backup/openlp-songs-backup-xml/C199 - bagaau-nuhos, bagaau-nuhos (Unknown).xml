@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:32:51">
+  <properties>
+    <titles>
+      <title>C199 - bagaau-nuhos, bagaau-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>बगाउनुहोस्, बगाउनुहोस्,<br/>नदी जीवनको, प्रभु<br/>(तपाईंको सिंहासनदेखि<br/>मेरो जीवनमा फेरि) २<br/>(प्रभु, बगाउनोस् ममा) २<br/><br/><tag name="y">bagaau-nuhos, bagaau-nuhos,<br/>nadi jivan-ko, prabhu<br/>(tapaaiň-ko siňhaasan-dekhi<br/>mero jivan-maa feri) ~2<br/>(prabhu, bagaau-nos ma-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>अँगाल्‍‌नुहोस्, अँगाल्‍‌नुहोस्,<br/>आत्मा हामीमाथि<br/>(प्रतिज्ञा पूरा गर्नुहोस्<br/>मेरो जीवनमा तपाईंको) २<br/>(दर्शन दिनुहोस् मलाई) २<br/><br/><tag name="y">aňgaal-nuhos, aňgaal-nuhos,<br/>aatmaa haami-maathi<br/>(pratigyaa puraa garnuhos<br/>mero jivan-maa tapaaiň-ko) ~2<br/>(darshaan dinuhos ma-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>बर्साउनुहोस्, बर्साउनुहोस्,<br/>नदी जीवनको, प्रभु<br/>(तपाईंको सिंहासनदेखि<br/>मेरो जीवनमा फेरि) २<br/>(प्रभु, बर्साउनोस् ममा) २<br/><br/><tag name="y">barsaau-nuhos, barsaau-nuhos,<br/>nadi jivan-ko, prabhu<br/>(tapaaiň-ko siňhaasan-dekhi<br/>mero jivan-maa feri) ~2<br/>(prabhu, barsaau-nos ma-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>ख‍न्याउनुहोस्, ख‍न्याउनुहोस्,<br/>आत्मा हामीमाथि<br/>(प्रतिज्ञा पूरा गर्नुहोस्<br/>मेरो जीवनमा तपाईंको) २<br/>(दर्शन दिनुहोस् मलाई) २<br/><br/><tag name="y">khanyaau-nuhos, khanyaau-nuhos<br/>aatmaa haami-maathi<br/>(pratigyaa puraa garnuhos<br/>mero jivan-maa tapaaiň-ko) ~2<br/>(darshaan dinuhos ma-laai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

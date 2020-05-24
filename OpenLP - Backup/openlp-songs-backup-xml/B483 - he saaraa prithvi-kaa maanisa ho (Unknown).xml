@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-19T04:12:12">
+  <properties>
+    <titles>
+      <title>B483 - he saaraa prithvi-kaa maanisa ho</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>हे सारा पृथ्वीका मानिस हो,<br/>परमप्रभुको जयजयकार मनाऔँ<br/>आनन्दसाथ उनको सेवा गर,<br/>(भजन गाएर उनको सामुन्‍‌ने आओ) २<br/><br/><tag name="y">he saaraa prithvi-kaa maanisa ho,<br/>param-prabhu-ko jaijai-kaar manaauň<br/>aananda-saath un-ko sewaa gara,<br/>(bhajan gaayera un-ko saamun-ne aao) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(परमप्रभु नै परमेश्‍वर हुन्,<br/>उहाँले हामीलाई बनाउनुभयो) २<br/>(हामी उहाँका प्रजा अनि<br/>उहाँका खर्कका भेड़ाहरू हौँ) २<br/><br/><tag name="y">(param-prabhu nai parmeshwor hun,<br/>uhaaň-le haami-laai banaaunu-bhayo) ~2<br/>(haami uhaaň-kaa prajaa ani<br/>uhaaň-kaa kharka-kaa bheRaa-haru hauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(धन्यवादसाथ र प्रशंसा गर्दै<br/>उहाँको ढोका र चोकभित्र पस)२<br/>(उहाँलाई धन्यवाद चढ़ाऔँ,<br/>उहाँको नाउँलाई धन्यको भनौं)२<br/><br/><tag name="y">(dhanyebaad-saath ra prashaňsaa gardai<br/>uhaaň-ko Dhokaa ra cok-bhitra pasa) ~2<br/>(uhaaň-laai dhanyebaad caRhaauň,<br/>uhaaň-ko naauň-laai dhanye-ko bhanauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(परमप्रभु भलो हुनुहुन्छ,<br/>उहाँको कृपा सधैँभरि छ) २<br/>(अनि उहाँको सत्यता<br/>पुस्तौँसम्म स्थिर रहन्छ) २<br/><br/><tag name="y">(param-prabhu bhalo hunu-huncha,<br/>uhaaň-ko kripaa sadhaiň-bhari cha) ~2<br/>(ani uhaaň-ko satye-taa<br/>pustauň-samma sthir rahancha) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-17T15:47:22">
+  <properties>
+    <titles>
+      <title>B083 - yeshu bardaan-ko mul-dhaaraa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशू वरदानको मूल-धारा,<br/>गरूँ योग्य प्रशंसा<br/>दया-खोला लगातार<br/>बगिरहेछ ममा<br/><br/><tag name="y">yeshu bardaan-ko mul-dhaaraa,<br/>garuň yogye prashaňsaa<br/>dayaa-kholaa lagaataar<br/>bagi-rahecha ma-maa<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>स्तुति गर्न दिनुहोस्‌ मलाई<br/>स्वर्गदूतले गरेझैँ<br/>प्रभु ख्रीष्टको प्रेम र भलाइ छ<br/>अगाध अपार सधैँ।<br/><br/><tag name="y">stuti garna dinuhos malaai<br/>sworga-dut-le gare-jhaiň<br/>prabhu khrisT-ko prem ra bhalaai cha<br/>agaadha apaar sadhaiň.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>यतिन्जेल मेरो उद्धारक<br/>तपाईं हुनुभो, आफै<br/>राखी 'एवेन्‌एजर' स्मारक<br/>अगि बढ्‌छु स्वर्गमै<br/><br/><tag name="y">yetinjel mero uddhaarak<br/>tapaaiň hunubho, aafai<br/>raakhi 'yewen-yejar' smaarak<br/>agi baDhchu sworga-mai<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>बगाल छोड्‌ने भेडाजस्तो<br/>मलाई खोजे येशूले<br/>नाशदेखि बचाउन<br/>आफ्‍‌नो अमोल रगत बहाए।<br/><br/><tag name="y">bagaal choDne bheDaa-jasto<br/>malaai khoje yeshule<br/>naash-dekhi bacaauna<br/>aafno amol ragat bahaaye.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>ईश्‍वरको अनुग्रह हेरी ऋणी<br/>आफूलाई ठान्छु<br/>त्यो अनुग्रह साङ्गलोसरी बाँधोस्‌<br/>चञ्‍चल मन मेरो<br/><br/><tag name="y">ishwor-ko anugrah heri riNi<br/>aafu-laai Thaan-chu<br/>tyo anugraha saangalo-sari baaňdhos<br/>cancal man mero<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>आफ्‍‌नै सुरमा जान खोज्‍‌ने मन छ मेरो,<br/>छैन स्थिर लिनोस्‌ मन,<br/>हे लिनोस्‌ प्रभु,<br/>स्वर्गको लागि राख्‍‌नोस्‌ दृढ।<br/><br/><tag name="y">aafnai sur-maa jaana khojne man cha mero,<br/>chaina sthir linos man,<br/>he linos prabhu,<br/>sworga-ko laagi raakhnos driDha.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

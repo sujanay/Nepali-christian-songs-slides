@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T19:25:51">
+  <properties>
+    <titles>
+      <title>C336 - prabhu bhalo chan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(प्रभु भलो छन् ) ३<br/>कति भलो छन् ।<br/><br/><tag name="y">(prabhu bhalo chan ) ~3<br/>kati bhalo chan .</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशू आउँनुभो) २<br/>स्वर्ग छोडेर, प्रभु आउनुभो ।<br/><br/><tag name="y">(yeshu aauňnu-bho) ~2<br/>sworga choDera, prabhu aaunu-bho .</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(क्रूसमा मर्नुभो) २<br/>मलाई बचाउन प्रभु मर्नुभो ।<br/><br/><tag name="y">(krus-maa marnu-bho) ~2<br/>malaai bacaauna prabhu marnu-bho .</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(बौरी उठ्नुभो) २<br/>धर्मी ठहराउन, प्रभु उठ्नुभो ।<br/><br/><tag name="y">(bauri uThnu-bho) ~2<br/>dharmi Thaha-raauna, prabhu uThnu-bho .</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(स्वर्ग जानुभो) २<br/>तयार पार्न ठाउँ, प्रभु जानुभो ।<br/><br/><tag name="y">(sworga jaanu-bho) ~2<br/>tayaar paarna Thaauň, prabhu jaanu-bho .</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(फेरि आउँदैछन् ) २<br/>मलाई लैजान, प्रभु आउँदैछन् ।<br/><br/><tag name="y">(feri aauň-daichan) ~2<br/>malaai lai-jaana, prabhu aauňdai-chan .</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(स्तुति महिमा) २<br/>सदा सर्वदा,<br/>उनकै स्तुति महिमा ।<br/><br/><tag name="y">(stuti mahimaa) ~2<br/>sadaa sarbadaa,<br/>unkai stuti mahimaa.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

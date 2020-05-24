@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:30:03">
+  <properties>
+    <titles>
+      <title>B237 - lau, suna saathi, satye-ko baaNi</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>लौ, सुन साथी, सत्यको वाणी,<br/>यो तिम्रै लागि हो,<br/>गरीब–धनी सबैको लागि,<br/>जीवनको पानी हो,<br/><br/><tag name="y">lau, suna saathi, satye-ko baaNi,<br/>yo timrai laagi ho,<br/>gariba-dhani sabai-ko laagi,<br/>jivan-ko paani ho,<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>ईश्‍वरको पुत्र, आएथे धरती,<br/>कोहीले चिनेन<br/>पापीलाई मुक्तिदान दिन मरे,<br/>यो कुरा बुझ लौ<br/><br/><tag name="y">ishwor-ko putra, aayethe dharti<br/>kohi-le cinena<br/>paapi-laai mukti-daan dina mare,<br/>yo kuraa bujha lau.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(माया र मोह बाँचुञ्‍जेलसम्म,<br/>संसारमा दुई दिनको, ) २<br/>(धर्म र कर्म, सबै र्व्यथ छन्,<br/>यो तिमी बुझ लौ) २<br/><br/><tag name="y">(maayaa ra moha baaň-cunjel-samma,<br/>saňsaar-maa dui din-ko, ) ~2<br/>(dharma ra karma, sabai byertha chan,<br/>yo timi bujha lau) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>शिरमा मुकुट काँड़ाको लाई,<br/>झुण्डिए क्रूसमा<br/>(पापीलाई मुक्तिदान दिन मरे,<br/>यो कुरा बुझ लौ ।) २<br/><br/><tag name="y">shira-maa mukuT kaaňRaa-ko laa-i,<br/>jhuN-Diye krusa-maa<br/>(paapi-laai mukti-daan dina mare,<br/>yo kuraa bujha lau.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बाँच्‍‌नलाई मान्छे सधैँ नै खोज्छ,<br/>जीवनको सहारा, ) २<br/>(पापको वशमा डुबेको मान्छे,<br/>एउटै छ किनारा) २<br/><br/><tag name="y">(baaňc-nalaai maanche sadhaiň nai khoj-cha<br/>jivan-ko sahaaraa, ) ~2<br/>(paapa-ko basha-maa dube-ko maanche,<br/>euTai cha kinaa-raa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>बाटो र सत्य, जीवन छ है<br/>ख्रीष्ट येशू प्रभुमा<br/>विश्‍वास गरी, हे मेरा साथी,<br/>जीवन लेऊ उनैमा ।<br/><br/><tag name="y">baaTo ra satye, jivana cha hai<br/>khrisT yeshu prabhu-maa<br/>vishwaasa gari, he meraa saathi,<br/>jivan leu unai-maa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

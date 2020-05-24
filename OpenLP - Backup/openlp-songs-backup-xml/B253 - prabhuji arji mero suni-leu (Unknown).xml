@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:19:37">
+  <properties>
+    <titles>
+      <title>B253 - prabhuji arji mero suni-leu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>प्रभुजी अर्जी मेरो सुनिलेऊ,<br/>लौ है चढाएँ ।<br/>प्रभुजी लौ है आज चढाएँ<br/>लौ है चढाएँ ।<br/><br/><tag name="y">prabhuji arji mero suni-leu,<br/>lau hai caDhaayeň<br/>prabhuji lau hai aaja caDhaayeň,<br/>lau hai caDhaayeň<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>प्रभुजी मनको मैलो धोईदेऊ<br/>लौ है चढाएँ ।<br/><br/><tag name="y">prabhuji mana-ko mailo dho-i-deu,<br/>lau hai caDhaayeň<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(संसारै छ पापैले भरेको) २<br/>धनको लोभमा सबै परेको<br/>(लौन विन्ती आज मैले चढाएँ) २<br/><br/><tag name="y">(saňsaarai cha paapai-le bhareko) ~2<br/>dhan-ko lobh-maa sabai pareko<br/>(launa binti aaja maile caDhaayeň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(संसाररूपी समुद्र चौड़ा छ) २<br/>जीवनरूपी नाउ पुरानो छ<br/>(लौन मेरो नाउलाई पार लगाइदेऊ) २<br/><br/><tag name="y">(saňsaar-rupi samundra cauRaa cha) ~2<br/>jivan rupi naa-u puraano cha<br/>(launa mero naau-laai paara lagaai-deu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(राता सेता फूलै फूलेका) २<br/>माया जालमा दुनियाँ भुलेका<br/>(लौन जगको माया<br/>जाललाई फुकाईदेऊ)२<br/><br/><tag name="y">(raataa setaa fulai fulekaa) ~2<br/>maayaa jaal-maa duniyaaň bhulekaa<br/>(launa jag-ko maayaa<br/>jaal-laai fukaai-deu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(डाँड़ापारि घामै डुबिगो) २<br/>चारै दिशा घोर अन्धकार भो<br/>(लौन अन्धकारमा<br/>मलाई ज्योति देऊ) २<br/><br/><tag name="y">(DaaňRaa-paari ghaamai Dubigo) ~2<br/>caarai dishaa ghor andhakaara bho<br/>(launa andhakaar-maa<br/>malaai jyoti deu) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

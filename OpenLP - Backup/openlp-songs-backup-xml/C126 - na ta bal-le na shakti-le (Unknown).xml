@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:06:17">
+  <properties>
+    <titles>
+      <title>C126 - na ta bal-le na shakti-le</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(न त बालले न शक्तिले,<br/>प्रभु भन्छन्, मेरो आत्माले) २<br/>(यो पहाड हाटिजानेछ) ३<br/>प्रभु भन्छन्, मेरो आत्माले।<br/><br/><tag name="y">(na ta bal-le na shakti-le<br/>prabhu bhanchan, mero aatmaa-le) ~2<br/>(yo pahaaR haaTi-jaanecha) ~3<br/>prabhu bhanchan, mero aatmaa-le.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(न त बालले न शक्तिले,<br/>प्रभु भन्छन्, मेरो आत्माले) २<br/>(यो आँधी थामिनेछ) ३<br/>प्रभु भन्छन्, मेरो आत्माले।<br/><br/><tag name="y">(na ta bal-le na shakti-le<br/>prabhu bhanchan, mero aatmaa-le) ~2<br/>(yo aaňdhi thaami-necha) ~3<br/>prabhu bhanchan, mero aatmaa-le<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(न त बालले न शक्तिले,<br/>प्रभु भन्छन्, मेरो आत्माले) २<br/>(यो जुवा भाँचिनेछ) ३<br/>प्रभु भन्छन्, मेरो आत्माले।<br/><br/><tag name="y">(na ta bal-le na shakti-le<br/>prabhu bhanchan, mero aatmaa-le) ~2<br/>(yo juwaa bhaaňci-necha) ~3<br/>prabhu bhanchan, mero aatmaa-le<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

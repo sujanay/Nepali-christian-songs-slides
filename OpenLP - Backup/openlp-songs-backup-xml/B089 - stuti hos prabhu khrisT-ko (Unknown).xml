@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:04:52">
+  <properties>
+    <titles>
+      <title>B089 - stuti hos prabhu khrisT-ko</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>स्तुति होस्‌ प्रभु ख्रीष्टको,<br/>आदर र प्रशंसा<br/>(महिमा उनैको,<br/>होस्‌ सदा-सर्वदा) २<br/><br/><tag name="y">stuti hos prabhu khrisT-ko,<br/>aadar ra prashaňsaa<br/>(mahimaa unai-ko,<br/>hos sadaa-sarvadaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(फर्केर हेर्छु विगत दिनहरू,<br/>वर्तमान नियाल्छु) २<br/>(आशिष्‌को झरी जीवनैभरि) २<br/>बर्सेको थाहा गर्छु<br/><br/><tag name="y">(farkera herchu bigat din-haru,<br/>barta-maan niyaal-chu) ~2<br/>(aashis-ko jhari jivanai-bhari) ~2<br/>barseko thaahaa garchu<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(औधी रमाउँदै पूर्ण हृदयले,<br/>ख्रीष्टको बढाइ गर्छु) २<br/><br/><tag name="y">(audhi ramaauň-dai purNa ridai-le,<br/>khrisT-ko baDhaai garchu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(अत्यन्त प्रेमी, अति सामर्थी,<br/>ख्रीष्ट मेरा छन्‌ साथी) २<br/>(मेरो अविश्‍वास औ हारमा पनि) २<br/>येशू छन्‌ विश्‍वासी<br/><br/><tag name="y">(atyenta premi, ati saamarthi,<br/>khrisT meraa chan saathi) ~2<br/>(mero avishwaas au haar-maa pani) ~2<br/>yeshu chan vishwaasi<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(यसकारण भन्छु,<br/>जय हल्लेलूयाह,<br/>धन्यवाद चढाउँछु) २<br/><br/><tag name="y">(yes-kaaraN bhanchu,<br/>jai halleluyaah,<br/>dhanyebaad caDhaauň-chu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(निराशमा आशा, दु:खमा शान्ति,<br/>असहायका सहारा) २<br/>(राजाहरूका पनि ख्रीष्ट राजा) २<br/>मेरा मुक्तिदाता<br/><br/><tag name="y">(niraash-maa aashaa, dukha-maa shaanti,<br/>asahaai-kaa sahaaraa) ~2<br/>(raajaa-haru-kaa pani khrisT raajaa) ~2<br/>meraa mukti-daataa<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>(जय प्रभु येशू,<br/>जय मुक्तिदाता,<br/>जयजय हल्लेलूयाह) २<br/><br/><tag name="y">(jai prabhu yeshu,<br/>jai mukti-daataa,<br/>jai-jai halleluyaah) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

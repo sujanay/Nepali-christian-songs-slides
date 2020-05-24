@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:45:32">
+  <properties>
+    <titles>
+      <title>C288 - tapaaiň-ko kholaa bagdai-cha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाईंको खोला बग्दैछ<br/>म त्यहाँबाट पिउनेछु<br/>मुडुली मृग आए झैँ<br/>म उफ्रँदै आउनेछु<br/>तपाईंको प्रेमले म नयाँ हुँनेछु।<br/><br/><tag name="y">tapaaiň-ko kholaa bagdai-cha<br/>ma tyehaaň-baaTa piune-chu<br/>muDuli mriga aaye jhaiň<br/>ma ufraňdai aaune-chu<br/>tapaaiň-ko prema-le ma nayaaň huňne-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

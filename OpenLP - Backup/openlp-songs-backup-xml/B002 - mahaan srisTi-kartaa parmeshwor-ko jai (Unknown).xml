@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T21:55:48">
+  <properties>
+    <titles>
+      <title>B002 - mahaan srisTi-kartaa parmeshwor-ko jai</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>महान्‌ सृष्टिकर्ता परमेश्‍वरको जय,<br/>संसारलाई प्रेम गरी ख्रीष्ट पुत्र दिए<br/>जो प्राण आफ्‍‌नो त्यागी बने तारणहार<br/>र सबैको लागि खोले स्वर्गद्वार।<br/><br/><tag name="y">mahaan srisTi-kartaa parmeshwor-ko jai,<br/>sansaar-laai prem gari khrisT putra diye<br/>jo praaN aafno tyaagi bane taaraNahaar<br/>ra sabai-ko laagi khole sworga-dwaara.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(स्तुति गाऊ) २<br/>उनको वचन सुनाऊ,<br/>(स्तुति गाऊ) २<br/>सबै मिली रमाऊ<br/><br/><tag name="y">(stuti gaau) ~2<br/>un-ko bacan sunaau,<br/>(stuti gaau) ~2<br/>sabai mili ramaau<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>येशू पुत्रद्वारा<br/>पिताकहाँ आऊ<br/>र ईश्‍वरको जयजयकार<br/>स्तुति चढाऊ।<br/><br/><tag name="y">yeshu putra-dwaaraa<br/>pitaa-kahaaň aau<br/>ra ishwor-ko jaijai-kaar<br/>stuti caDhaau.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हो रगतले किनेको पूरा उद्धार<br/>विश्‍वासीहरूलाई ईश्‍वरको करार,<br/>जो सबभन्दा तुच्छ त्यो विश्‍वास गरे<br/>त्यसलाई क्षमा गर्छन्‌ झट्टै येशूले।<br/><br/><tag name="y">ho ragat-le kine-ko puraa uddhaar<br/>vishwaasi-haru-laai ishwor-ko karaar,<br/>jo sab-bhandaa tuccha tyo vishwaas gare<br/>tyes-laai chyemaa garchan jhaT-Tai yeshu-le.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>दिए महान्‌ शिक्षा, गरे महान्‌ काम,<br/>महान्‌ छ नि येशूमा हर्ष इनाम,<br/>तै यसभन्दा बढ्‌ता छ आनन्द अपार,<br/>हामी जब हेरौंला ख्रीष्टको मुहार।<br/><br/><tag name="y">diye mahaan shikchyaa, gare mahaan kaam,<br/>mahaan cha ni yeshu-maa harsa inaam,<br/>tai yes-bhandaa baDh-taa cha aanand apaar,<br/>haami jaba herauň-laa khrisT-ko muhaar.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-10T19:11:51">
+  <properties>
+    <titles>
+      <title>C056 - prabhu yeshu khrisT-ko anugraha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(प्रभु येशू ख्रीष्टको अनुग्रह,<br/>परमेश्‍वर पिताको प्रेम) २<br/>पवित्र आत्माको सङ्गति<br/>हामीसँग सधैँ भइरहोस्‌।<br/><br/><tag name="y">(prabhu yeshu khrisT-ko anugraha,<br/>parmeshwor pitaa-ko prem) ~2<br/>pavitra aatmaa-ko sangati<br/>haami-saňga sadhaiň bhai-rahos.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

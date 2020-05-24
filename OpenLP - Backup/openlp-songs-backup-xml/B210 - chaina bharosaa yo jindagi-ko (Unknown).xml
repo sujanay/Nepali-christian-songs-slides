@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:41:48">
+  <properties>
+    <titles>
+      <title>B210 - chaina bharosaa yo jindagi-ko</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(छैन भरोसा यो जिन्दगीको) २<br/>(गरौं भजन अब येशूजीको) २<br/><br/><tag name="y">(chaina bharosaa yo jindagi-ko) ~2<br/>(garauň bhajan aba yeshu-ji-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(बालककाल बित्यो खेलैमा खेली) २<br/>(जवानी बित्यो प्रेमैमा भुली) २<br/>(वृद्धकाल बित्दै छ जञ्‍जालमा डुबी) २<br/>(गरौं भजन अब येशूजीको) २<br/><br/><tag name="y">(baalak-kaal bityo khelai-maa kheli) ~2<br/>(jawaani bityo premai-maa bhuli) ~2<br/>(briddha-kaal bitdai cha janjaal-maa Dubi) ~2<br/>(garauň bhajan aba yeshu-ji-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जञ्‍जालमा डुबिरहन्छौ कति) २<br/>(चेत गरी अब सुधार गति) २<br/>(छैन बेला भाइ अब अति) २<br/>(गरौं भजन अब येशूजीको) २<br/><br/><tag name="y">(janjaal-maa Dubi-rahanchau kati) ~2<br/>(cet gari aba sudhaara gati) ~2<br/>(chaina belaa bhaai aba ati) ~2<br/>(garauň bhajan aba yeshu-ji-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(पाप र सन्ताप बढ्‌दछन्‌ जति) २<br/>(हुनेछन्‌ नष्ट जीवन उति) २<br/>(फर्काऊ मन अब येशूपट्टि) २<br/>(गरौं भजन अब येशूजीको) २<br/><br/><tag name="y">(paap ra santaapa baDh-dachan jati) ~2<br/>(hunechan nasTa jivana uti) ~2<br/>(farkaau man aba yeshu-paTTi) ~2<br/>(garauň bhajan aba yeshu-ji-ko) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

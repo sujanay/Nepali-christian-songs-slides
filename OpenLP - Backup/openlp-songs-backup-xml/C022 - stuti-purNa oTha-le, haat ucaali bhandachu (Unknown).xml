@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:15:37">
+  <properties>
+    <titles>
+      <title>C022 - stuti-purNa oTha-le, haat ucaali bhandachu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>स्तुतिपूर्ण ओठले, हात उचाली भन्दछु,<br/>प्रभु म तपाईंलाई<br/>(धन्यको भन्दछु)३<br/>प्रभु म तपाईंलाई धन्यको भन्दछु ।<br/><br/><tag name="y">stuti-purNa oTha-le, haat ucaali bhandachu,<br/>prabhu ma tapaaiň-laai<br/>(dhanye-ko bhandachu) ~3<br/>prabhu ma tapaaiň-laai dhanye-ko bhandachu<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

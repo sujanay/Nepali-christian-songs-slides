@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:11:30">
+  <properties>
+    <titles>
+      <title>C100 - mero jivan tapaaiň-maa cha</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>मेरो जीवन तपाईंमा छ,<br/>मेरो बल तपाईंमा छ<br/>मेरो आशा तपाईंमा छ,<br/>तपाईंमा, तपाईंमा<br/><br/><tag name="y">mero jivan tapaaiň-maa cha,<br/>mero bal tapaaiň-maa cha<br/>mero aashaa tapaaiň-maa cha,<br/>tapaaiň-maa, tapaaiň-maa<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>स्तुति गर्छु सारा जीवनले,<br/>स्तुति गर्छु मेरो सारा बलले,<br/>सारा जीवनले, मेरो सारा बलले<br/>मेरो सबै आशा छ तपाईंमा ।<br/><br/><tag name="y">stuti garchu saaraa jivan-le,<br/>stuti garchu mero saaraa bal-le,<br/>saaraa jivan-le, mero saraa bal-le<br/>mero sabai aashaa cha tapaaiň-maa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

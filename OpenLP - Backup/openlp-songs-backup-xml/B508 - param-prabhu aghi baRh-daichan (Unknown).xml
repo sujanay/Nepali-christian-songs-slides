@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:23:13">
+  <properties>
+    <titles>
+      <title>B508 - param-prabhu aghi baRh-daichan</title>
+    </titles>
+    <verseOrder>v1 o1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>परमप्रभु अघि बढ्दैछन्,<br/>उनको सेना सदा बलियो छ,<br/>उनको महिमा<br/>यस देशमाथि देखिनेछ,<br/><br/><tag name="y">param-prabhu aghi baRh-daichan,<br/>un-ko senaa sadaa baliyo cha,<br/>un-ko mahimaa<br/>yes desh-maathi dekhi-necha.<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>स्वर उचाल्दै जयको गान गाऔं<br/>स्तुति गरौं, विजयी भएका छौं,<br/>कुनै हातहतियार काम लाग्नेछैन।<br/><br/><tag name="y">swor ucaal-dai jai-ko gaana gaauň<br/>stuti garauň, vija'i bhayekaa chauň,<br/>kunai haat-hatiyaar kaam laagne-chaina.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>हामीहरूका सेनापति येशू हुन्,<br/>हामी उनको पाइला पछ्याउँदछौं<br/>कोही अघि खडा हुन सक्नेछैन।<br/><br/><tag name="y">haami-haru-kaa senaa-pati yeshu hun,<br/>haami un-ko paailaa pachyaauň-dachauň<br/>kohi aghi khaDaa huna sakne-chaina.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हामी मसीही सेना हौं<br/>जयको साँचो उनको हातमा छ,<br/>प्रतिज्ञाको देश लिन अघि बढौं।<br/><br/><tag name="y">haami masihi senaa hauň<br/>jai-ko saaňco un-ko haat-maa cha,<br/>pratigyaa-ko desh lina aghi baDhauň.<br/>~(repeat)<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

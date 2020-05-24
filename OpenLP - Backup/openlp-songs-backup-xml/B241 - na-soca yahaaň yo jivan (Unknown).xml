@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:27:41">
+  <properties>
+    <titles>
+      <title>B241 - na-soca yahaaň yo jivan</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>नसोच यहाँ यो जीवन<br/>हाँसेर मात्रै बाँचेको<br/>सोचन मनमा आफैलाई<br/>कतिको आत्मा बाँचेको<br/><br/><tag name="y">na-soca yahaaň yo jivan<br/>haaňsera maatrai baaň-ceko<br/>socana man-maa aafai-laai<br/>kati-ko aatma baaň-ceko<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>निर्णय आज नै गरि देऊ,<br/>भोलि त अबेर भइजाला<br/>नभए एक दिन यो जीवन<br/>(रोइ रोइ यहाँ रहिजाला) २<br/><br/><tag name="y">nirnai aaja nai gari deu;<br/>bholi ta aber bhai-jaa-laa<br/>na-bhaye eka din yo jivan<br/>(roi roi yahaaň ra'i-jaa-laa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>लुकाइ राख्छौ तिम्रो पाप,<br/>बोकेर कहाँ लान्छौ र ?<br/>बिसाउन बरु तुरुन्तै,<br/>(लिएर कहाँ जान्छौ र ?) २<br/><br/><tag name="y">lukaai raakh-chau timro paap,<br/>bhokera kahaaň laanchau ra?<br/>bisauna baru turuntai;<br/>(liyera kahaaň jaanchau ra ?) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>गोरेटो सानो सुरिलो<br/>कलवरी डाँडा पुग्‍‌नलाई<br/>नमान संकोच यो मनमा<br/>(ईश्‍वरको सामु झुक्‍‌नलाई) २<br/><br/><tag name="y">goreTo saano surilo<br/>kalvari DaaňRaa pugna-laai<br/>na-maana saňkoc yo man-maa<br/>(ishwor-ko saamu jhukna-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>रगतको थोपा आलो छ<br/>गलगथाको बाटोमा<br/>प्रभूले बोके दैनिय क्रुस,<br/>(हाम्रो पापको साटोमा) २<br/><br/><tag name="y">ragat-ko thopaa aalo cha<br/>galgathaa-ko baaTo-maa<br/>prabhu-le boke dainiye krus,<br/>(haamro paapa-ko saaTo-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>बलिदान यहाँ जीवनको<br/>कष्ट र पीर मुटुमा<br/>सहेको छ है उनैले<br/>(तिम्रो र मेरो निम्तिमा) २<br/><br/><tag name="y">balidaan yahaaň jivan-ko<br/>kashTa ra pira muTu-maa<br/>saheko cha hai unai-le<br/>(timro ra mero nimti-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

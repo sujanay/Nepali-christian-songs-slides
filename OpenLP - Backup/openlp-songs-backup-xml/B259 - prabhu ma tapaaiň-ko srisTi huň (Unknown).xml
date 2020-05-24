@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:17:50">
+  <properties>
+    <titles>
+      <title>B259 - prabhu ma tapaaiň-ko srisTi huň</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>प्रभु म तपाईंको सृष्टि हुँ,<br/>तपाईंबिना म रित्तो छु<br/>पलपलको मेरो जीवनमा<br/>साथ मलाई दिनुहोस् ।<br/><br/><tag name="y">prabhu ma tapaaiň-ko srisTi huň<br/>tapaaiň-binaa ma ritto chu<br/>palpal-ko mero jivan-maa<br/>saath ma-laai dinuhos.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(संसार छ सारा आफ्नै धुनमा<br/>मदहोश पापैको जञ्‍जालमा) २<br/>(बचाउनुहोस् मलाई यदि<br/>संसारको छु भने ।) २<br/><br/><tag name="y">(sansaar cha saaraa aafnai dhun-maa<br/>madhosha papai-ko janjaala-maa) ~2<br/>(bacaau-nuhos ma-laai yedi<br/>sansaar-ko chu bhane.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(स्वर्गलाई त्यागी आउनुभो प्रभु<br/>कलवरी क्रूसैमा प्राण दिनलाई) २<br/>(बचाउनुहोस् मलाई यदि<br/>पापी नै छु भने ।) २<br/><br/><tag name="y">(sworga-laai tyaagi aau-nubho prabhu<br/>kalvari krusai-maa praaN dina-laai) ~2<br/>(bacaau-nuhos ma-laai yedi<br/>paapi nai chu bhane.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

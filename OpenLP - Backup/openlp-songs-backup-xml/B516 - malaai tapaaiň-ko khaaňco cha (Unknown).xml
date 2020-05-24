@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:34:25">
+  <properties>
+    <titles>
+      <title>B516 - malaai tapaaiň-ko khaaňco cha</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>मलाई तपाईंको खाँचो छ,<br/>हात प्रेमको बढाउनोस्‌<br/>सिंहासनबाट आउनुहोस्‌,<br/>नदी प्रेमको बहाउनोस्‌‌, हे येशू<br/><br/><tag name="y">malaai tapaaiň-ko khaaňco cha,<br/>haat prema-ko baRhaau-nos<br/>siňhaasan-baaTa aau-nuhos,<br/>nadi prema-ko bahaau-nos, he yeshu<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>मलाई तपाईंको खाँचो छ,<br/>हात प्रेमको बढाउनोस्‌<br/>सिंहासनबाट आउनुहोस्‌,<br/>हे येशू<br/><br/><tag name="y">malaai tapaaiň-ko khaaňco cha,<br/>haat prema-ko baRhaau-nos<br/>siňhaasan-baaTa aau-nuhos,<br/>he yeshu<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तपाईंको उपस्थितिमा डोर्‍याउनोस्‌,<br/>मेरो हृदय, आत्मा छुनुहोस्‌<br/>नयाँ आशा, भरोसा,<br/>नयाँ चङ्गाइ र मुक्ति दिनुहोस्‌।<br/><br/><tag name="y">tapaaiň-ko upasthiti-maa Doryaau-nos,<br/>mero ridai, aatmaa chu-nuhos<br/>nayaaň aashaa, bharosaa,<br/>nayaaň cangaai ra mukti dinu-hos.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंको स्वतन्त्रताभित्र लानुहोस्‌,<br/>मेरो हृदय, आत्मा फुकाउनुहोस्‌<br/>नयाँ आनन्द र खुशी,<br/>नयाँ उचाइ र शक्ति भर्नुहोस्‌।<br/><br/><tag name="y">tapaaiň-ko swot'n-trataa-bhitra laa-nuhos,<br/>mero ridai, aatmaa fukaau-nuhos<br/>nayaaň aanand ra khushi,<br/>nayaaň ucaai ra shakti bhar-nuhos.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

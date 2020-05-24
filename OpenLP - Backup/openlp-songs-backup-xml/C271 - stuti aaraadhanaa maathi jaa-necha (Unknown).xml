@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-24T16:22:51">
+  <properties>
+    <titles>
+      <title>C271 - stuti aaraadhanaa maathi jaa-necha</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(स्तुति आराधना माथि जानेछ,<br/>आशिष् लिएर तल आउनेछ) २<br/>(प्रभु हाम्रो कति महान्,<br/>हेर हामीलाई गर्छन् प्यार) २<br/><br/><tag name="y">(stuti aaraadhanaa maathi jaa-necha<br/>aashisa liyera tala aau-necha) ~2<br/>(prabhu haamro kati mahaan,<br/>hera haami-laai garchan pyaar) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>हल्लेलु, हल्लेलूयाह,<br/>हल्लेलु, हल्लेलूयाह<br/><br/><tag name="y">ha-lle-lu, hallelu-yaah,<br/>ha-lle-lu, hallelu-yaah<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(प्रार्थना-विन्ती माथि जानेछ,<br/>उत्तर लिएर तल आउनेछ) २<br/>(प्रभु हाम्रो कति महान्,<br/>हेर हामीलाई गर्छन् प्यार) २<br/><br/><tag name="y">(praathanaa-binti maathi jaa-necha,<br/>uttar liyera tala aaunecha) ~2<br/>(prabhu haamro kati mahaan,<br/>hera haami-laai garchan pyaar) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

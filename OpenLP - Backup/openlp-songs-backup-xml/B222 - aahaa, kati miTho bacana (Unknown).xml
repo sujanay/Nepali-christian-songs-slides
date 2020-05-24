@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-28T22:17:18">
+  <properties>
+    <titles>
+      <title>B222 - aahaa, kati miTho bacana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>आहा, कति मीठो वचन,<br/>प्रभुले दिएको रचना<br/>आहा, कति मीठो वचन,<br/>प्रभुले दिएको रचना<br/><br/><tag name="y">aahaa, kati miTho bacana,<br/>prabhu-le diyeko racanaa<br/>aahaa, kati miTho bacana,<br/>prabhu-le diyeko racanaa</tag><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जब म वचन पढ्दछु<br/>झन् ठूलो इच्छा बढ्दछ<br/>जब म वचन सुन्दछु<br/>तब मन खुशीले भर्दछ ।<br/><br/><tag name="y">jaba ma bacana paRh-dachu<br/>jhana Thulo ichyaa baRh-dacha<br/>jaba ma bacana sun-dachu<br/>taba mana khushi-le bhar-dacha.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जब म पापले भरियथेँ<br/>तब अन्धकारले छोपीयथेँ<br/>प्रभुले मलाई बोलाउनुभो<br/>'अनि खुशीको खबर सुनाउनुभो'<br/><br/><tag name="y">jaba ma paapa-le bhari-yetheň<br/>taba andhakaara-le chopi-yetheň<br/>prabhu-le ma-laai bolaau-nubho<br/>'ani khushi-ko khabar sunaau-nubho'<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>म, तिमी हामी सबै पापी थियौँ<br/>अनि साँचो प्रभुलाई चिन्दैनथ्यौँ<br/>प्रभु आए आफै स्वर्ग छोड़ेर,<br/>हाम्रोलागि उज्यालो ज्योति बालेर ।<br/><br/><tag name="y">ma, timi haami sabai paapi th'yauň<br/>ani saaňco prabhu-laai cin-daina-thyauň<br/>prabhu aaye aafai sworga choRera<br/>haamro-laagi ujyaalo jyoti baalera.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>क्रूसमा प्रभु मर्नुभयो,<br/>हाम्रो पापको भार उठाउनुभयो<br/>मृत्युबाट प्रभु बौरी उठ्‍‌नुभो<br/>र हामीलाई स्वर्गको ढोका खोल्‍‌नुभो<br/><br/><tag name="y">krusa-maa prabhu marnu-bhayo,<br/>haamro paap-ko bhaara uThaaunu-bhayo<br/>mrityu-baaTa prabhu bauri uTh-nubho<br/>ra haami-laai sworga-ko dhokaa khol-nubho<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>आऊ दाज्यू–भाइ, दिदी–बहिनी,<br/>प्रभुको मीठो वचन पढ्‍‌न<br/>आफ्‍‌ना पापलाई हटाई<br/>साँचो प्रभु येशूमा विश्‍वास गरन ।<br/><br/><tag name="y">aa-u daaju-bhaa-i didi-bahini,<br/>prabhu-ko miTho bacan paRhana<br/>aafnaa paapa-laai haTaa-i<br/>saaňco prabhu yeshu-maa vishwaas garana.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

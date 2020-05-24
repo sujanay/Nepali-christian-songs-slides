@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:33:12">
+  <properties>
+    <titles>
+      <title>B223 - su-samaacaar aaja yo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>सुसमाचार आज यो,<br/>(हे मित्र तिम्रो लागि हो) २<br/><br/><tag name="y">(su-samaacaar aaja yo,<br/>he mitra timro laagi ho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>सुनन साथी, के मीठो वाणी<br/>(भनेको येशूले) २<br/>आउन सबै थाकेको प्राणी<br/>(संसारमा पापैले) २<br/><br/><tag name="y">sunana saathi, ke miTho baaNi<br/>(bhaneko yeshu-le) ~2<br/>aauna sabai thaakeko praaNi<br/>(sansaar-maa paapai-le) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>छैन अर्को स्वर्ग जाने<br/>(बाटो येशू मसीहसिवाय) २<br/>कारण उनैले प्राण क्रूसमा त्यागे<br/>(पाप बन्धन तोड्‌नलाई) २<br/><br/><tag name="y">chaina arko sworga jaane<br/>(baaTo yeshu masih-siwaai) ~2<br/>kaaraN unaile praaN krusmaa tyaage<br/>(paap bandhan toDna-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>आउन साथी, निशानी राख<br/>(प्रभुको क्रूसैलाई) २<br/>छोडिदेऊ माया, छोडिदेऊ फिक्री<br/>(स्वर्गलोक जानलाई) २<br/><br/><tag name="y">aauna saathi, nishaani raakha<br/>(prabhu-ko krusai-laai) ~2<br/>choDi-deu maayaa, choDi-deu fikri<br/>(sworga-lok jaana-laai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

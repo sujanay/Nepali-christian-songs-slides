@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:26:29">
+  <properties>
+    <titles>
+      <title>B503 - krusa-ko cheu-maa raakh-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>क्रूसको छेउमा राख्‍‌नुहोस्,<br/>जहाँ मुक्तिको धारा छ<br/>जहाँपापको प्रायश्‍चित छ,<br/>जहाँ पीड़ाको अन्त छ<br/>क्रूसको छेउमा राख्‍‌नुहोस् ...<br/><br/><tag name="y">krusa-ko cheu-maa raakh-nuhos,<br/>jahaaň mukti-ko dhaaraa cha<br/>jahaaň-paapa-ko praayash-cit cha,<br/>jahaaň piRaa-ko anta cha<br/>krusa-ko cheu-maa raakh-nuhos<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(तपाईंको धन्य मान्‍‌नेछु,<br/>सदा म धन्य मान्‍‌नेछु,<br/>तपाईंको आगमनसम्म<br/>सदा म धन्य मान्‍‌नेछु) २<br/><br/><tag name="y">(tapaaiň-ko dhanye maan-nechu,<br/>sadaa ma dhanye maan-nechu,<br/>tapaaiň-ko aagaman-samma<br/>sadaa ma dhanye maan-nechu) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>क्रूसको छेउमा जब हुनेछु<br/>कृपा प्रभु मलाई गर्नुहोस्<br/>पाप मेरो क्षमा दिई<br/>स्वर्गीय राज्य दिनुहोस्<br/>क्रूसको छेउमा राख्‍‌नुहोस्<br/><br/><tag name="y">krusa-ko cheu-maa jaba hunechu<br/>kripaa prabhu malaai garnuhos<br/>paapa mero chyemaa di-i<br/>sworgiya raajye dinuhos<br/>krusa-ko cheu-maa rakh-nuhos<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

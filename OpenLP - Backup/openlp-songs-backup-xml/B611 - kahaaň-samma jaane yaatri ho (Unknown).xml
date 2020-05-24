@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:56:28">
+  <properties>
+    <titles>
+      <title>B611 - kahaaň-samma jaane yaatri ho</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(कहाँसम्म जाने यात्री हो<br/>मुक्तिको बाटो खोजेर) २<br/>(दुइ बाटो बनिएको छ) २<br/>एउटा बाटो फराकिलो छ<br/>बालामसम्म पुग्ने<br/><br/><tag name="y">(kahaaň-samma jaane yaatri ho<br/>mukti-ko baaTo khojera) ~2<br/>(dui baaTo bani-yeko cha) ~2<br/>euTaa baaTo faraa-kilo cha<br/>baalaama-samma puga-ne<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>अर्को बाटो यस्तो पनि छ<br/>ख्रीष्ट येशूसम्म पुग्ने<br/>(कहाँ जाने, कता जाने<br/>निर्णय गर हो) २<br/><br/><tag name="y">arko baaTo yesto pani cha<br/>khrisT yeshu-samma puga-ne<br/>(kahaaň jaane, kataa jaane<br/>nirNaya gara ho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>मृत्युको डरले आजीवन भरी<br/>दासत्वमा फँसेकाहरूलाई<br/>डाँडा-काँडा देउराली भन्ज्याङ्ग<br/>वर पिपलमा अल्झेकाहरूलाई<br/><br/><tag name="y">mrityu-ko Dar-le aa-jivan bhari<br/>daasa-twa-maa faňsekaa-haru-laai<br/>DaaňRaa-kaaňRaa deuraali bhanjyaang<br/>bar pipal-maa al-jhekaa-haru-laai<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(आकाश छिचोलेर जाने येशूले) २<br/>छुटकारा तिमीलाई दिनेछ।<br/><br/><tag name="y">(aakaash chico-lera jaane yeshu-le) ~2<br/>chuT-kaaraa timi-laai dine-cha.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>विरहमा जल्ने मानवलाई<br/>हरपल सताउने गर्दछ<br/>धरतीलोकमा बिन्ती सुन्‍ने<br/>एक उद्धारकर्ता छ<br/><br/><tag name="y">biraha-maa jalne maanaba-laai<br/>har-pal sataau-ne garda-cha<br/>dharti-lok-maa binti sunne<br/>eka uddhaara-kartaa cha<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(स्वर्गलोकमा उनको<br/>राज्य छ) २<br/>येशूमा मात्र प्रवेश छ।<br/><br/><tag name="y">(sworga-lok-maa unko<br/>raajye cha) ~2<br/>yeshu-maa maatra prabesh cha.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

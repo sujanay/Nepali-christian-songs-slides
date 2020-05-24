@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-15T17:36:01">
+  <properties>
+    <titles>
+      <title>B415 - prabhu-ko darshan,yeshu-ko darshan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(नेपाल देशले डाकिरहेछ,<br/>आऊ बचाऊ हामीलाई) २<br/>(आत्मा मर्दै छन्‌) २<br/>हेर हजारौं पापको सागरमा।<br/><br/><tag name="y">(nepaal desh-le Daaki-rahecha,<br/>aau bacaau haami-laai) ~2<br/>(aatmaa mardai chan) ~2<br/>hera hajaarauň paap-ko saagar-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(क्रूसमा आफ्‍‌नो प्राण प्रभुले<br/>जगत्‌को लागि दिए) २<br/>(प्रेमलाई हेर) २<br/>नेपालको लागि उनको हृदयमा।<br/><br/><tag name="y">(krus-maa aafno praaN prabhu-le<br/>jagat-ko laagi diye) ~2<br/>(prem-laai hera) ~2<br/>nepaal-ko laagi unko ridai-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(निद्रा त्यागी जाग उठ,<br/>हे नवजवान हो) २<br/>(अहिले नै गर) २<br/>प्रभुको सेवा रहल जीवनमा।<br/><br/><tag name="y">(nidraa tyaagi jaaga uTha,<br/>he nawa-jawaan ho) ~2<br/>(ahile nai gara) ~2<br/>prabhu-ko sewaa rahala jivan-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1d">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(अन्धकार छायो चारै दिशामा,<br/>रात आइपुग्यो) २<br/>(जे गर्नुपर्छ) २<br/>अहिले नै गर दिनको ज्योतिमा।<br/><br/><tag name="y">(andhakaar chaayo caarai dishaa-maa,<br/>raat aai-pugyo) ~2<br/>(je garnu-parcha) ~2<br/>ahile nai gara din-ko jyoti-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1e">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(येशूको लागि आत्मा बचाउनु<br/>तिमी छिट्टै आऊ) २<br/>(अन्‍‌न छ पाकेको) २<br/>सब जम्मा गर येशूको भण्डारमा।<br/><br/><tag name="y">(yeshu-ko laagi aatmaa bacaaunu<br/>timi chiTTai aau) ~2<br/>(anna cha paakeko) ~2<br/>sab jammaa gara yeshu-ko bhanDaar-maa.<br/></tag></lines>
+    </verse>
+    <verse name="c1f">
+      <lines>(प्रभुको दर्शन,<br/>येशूको दर्शन<br/>पाएर भाइ लाग सेवामा) २<br/><br/><tag name="y">(prabhu-ko darshan,<br/>yeshu-ko darshan<br/>paayera bhaai laaga sewaa-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-26T05:52:22">
+  <properties>
+    <titles>
+      <title>B158 - yaahove-ko laagi jai jai garauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>याहोवेको लागि जय जय गरौँ,<br/>आन्दसाथ  उनको सेवा गरौँ,<br/>गाउँदै-गाउँदै उनको सामु आओ,<br/>याहोवे ईश्‍वर भनी जानौँ ।<br/><br/><tag name="y">yaahove-ko laagi jai jai garauň,<br/>aanand-saath unko sevaa garauň,<br/>gaauňdai-gaauňdai un-ko saamu aao,<br/>yaa'ove ishwor bhani jaanaauň.<br/></tag></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।<br/><br/><tag name="y">uni haamro srijanahaar,<br/>uni haamro taaraNahaar<br/>uni haamro paalanhaar,<br/>sunchan unle haamro pukaar.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उनको खर्कका हामी भेड़ा हौँ,<br/>धन्यवाद गर्दै ढोकाभित्र पसौँ,<br/>स्तुति गर्दै आँगनमा पसौँ,<br/>धन्य भनौँ, उनको नामलाई ।<br/><br/><tag name="y">unko kharkaa haami bheRaa hauň,<br/>dhanyevaad gardai Dhokaa-bhitra pasauň,<br/>stuti gardai aaňgan-maa pasauň,<br/>dhanye bhanauň, unko naam-laai.<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।<br/><br/><tag name="y">uni haamro srijanahaar,<br/>uni haamro taaraNahaar<br/>uni haamro paalanhaar,<br/>sunchan unle haamro pukaar.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>याहोवे महान् प्रभु भलो छन्,<br/>उनको करुणा सदा रहन्छ,<br/>उनको सत्यता पुस्ता-पुस्तामा<br/>अमर यो रहनेछ ।<br/><br/><tag name="y">yaahove mahaan prabhu bhalo chan,<br/>unko karuNaa sadaa rahan-cha,<br/>unko satye' pustaa-pustaa-maa<br/>amar yo rahanecha.<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।<br/><br/><tag name="y">uni haamro srijanahaar,<br/>uni haamro taaraNahaar<br/>uni haamro paalanhaar,<br/>sunchan unle haamro pukaar.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

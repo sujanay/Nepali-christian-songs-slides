@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:13:56">
+  <properties>
+    <titles>
+      <title>C027 - aaja-ko din</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(आजको दिन) २<br/>(उनले सिर्जेका) २<br/>रमाउँदै जाऊँ, खुशी मनाऊँ<br/>(र आनन्द गरौँ) २<br/><br/><tag name="y">(aaja-ko din) ~2<br/>(unle sirjekaa) ~2<br/>ramaauň-dai jaauň, khushi manaauň<br/>(ra aanand garauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>आजको दिन उनले सिर्जेका,<br/>रमाउँदै जाऊँ, र खुशी मनाऊँ<br/>आजको दिन, आजको दिन,<br/>उनले सिर्जेका<br/><br/><tag name="y">aaja-ko din unle sirjekaa<br/>ramaauň-dai jaauň, ra khushi manaauň,<br/>aaja-ko din, aaja-ko din,<br/>un-le sirjekaa<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

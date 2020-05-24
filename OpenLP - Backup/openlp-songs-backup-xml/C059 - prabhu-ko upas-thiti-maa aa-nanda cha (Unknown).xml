@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:45:34">
+  <properties>
+    <titles>
+      <title>C059 - prabhu-ko upas-thiti-maa aa-nanda cha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभुको उपस्थितिमा आनन्द छ,<br/>गाऔं हल्लेलूयाह, आमिन<br/>प्रभुको उपस्थितिमा आनन्द छ,<br/>गाऔं हल्लेलूयाह, आमिन।<br/><br/><tag name="y">prabhu-ko upas-thiti-maa aa-nanda cha,<br/>gaauň halleluyaah, aamin<br/>prabhu-ko upas-thiti-maa aa-nanda cha,<br/>gaauň halleluyaah, aamin<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>नाचौं, खुशी मनाऔं,<br/>आनन्दसाथ प्रभुको अघि नाचौं<br/>नाचौं, खुशी मनाऔं,<br/>प्रभुको अघि नाचौं।<br/><br/><tag name="y">naacauň, khushi manaauň,<br/>aananda-saath prabhu-ko aghi naacauň<br/>naacauň, khushi manaauň,<br/>prabhu-ko aghi naacauň<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

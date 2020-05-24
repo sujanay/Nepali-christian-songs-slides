@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:41:57">
+  <properties>
+    <titles>
+      <title>B099 - mahaan prabhu ati ucca-maa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>महान् प्रभु अति उच्चमा<br/>दूतगणले गर्छन् महिमा<br/>हे प्रभु तपाईंको मण्डली<br/>आराधना गर्छौं तपाईंलाई<br/><br/><tag name="y">mahaan prabhu ati ucca-maa<br/>dutgaN-le gara-chan mahimaa<br/>he prabhu tapaaiň-ko maNDali<br/>aaradhnaa gara-chauň tapaaiň-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(प्रेमको ठूलो रहस्यलाई,<br/>महिमा गौरबको त्यागलाई) २<br/>(सम्झन्छु क्रूसको दु:खलाई,<br/>अर्पन्छु सर्वाङ्ग तपाईंलाई) २<br/><br/><tag name="y">(prema-ko Thulo ra-ha-sye-laai,<br/>mahimaa gaurab-ko tyaaga-laai) ~2<br/>(samjhanchu krus-ko dukha-laai,<br/>arpanchu sar-vaanga tapaaiň-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(आउनुभो प्रभु हाम्रो माझमा,<br/>जड़ियको मन मन्दिरमा) २<br/>(भरपूर छु, भरिइरहन्छु,<br/>झन् नजीक हुन चाहन्छु) २<br/><br/><tag name="y">(aau-nubho prabhu haamro maajha-maa,<br/>jaRiyeko man mandira-maa) ~2<br/>(bhara-pur chu bha-ri-i-rahanchu,<br/>jhan najik huna caahanchu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(महिमा, आदर र धन्यवाद<br/>सर्वदा गर्दछु दण्डवत्) २<br/>(तपाईंको गम्भीर प्रेमको<br/>सागरमा डुबेँ प्रभु म) २<br/><br/><tag name="y">(mahimaa, aadar ra dhanyevaad<br/>sarvadaa gardachu danDawat) ~2<br/>(tapaaiň-ko gambhir prema-ko<br/>saagar-maa Dubeň prabhu ma) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

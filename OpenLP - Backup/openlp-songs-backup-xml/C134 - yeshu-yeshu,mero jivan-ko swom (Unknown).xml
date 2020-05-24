@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:02:26">
+  <properties>
+    <titles>
+      <title>C134 - yeshu-yeshu,mero jivan-ko swom</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(येशू–येशू,<br/>मेरो जीवनको स्वामी,<br/>येशू–येशू,<br/>मेरो जीवनको किल्ला) २<br/><br/><tag name="y">(yeshu-yeshu,<br/>mero jivan-ko swomi,<br/>yeshu-yeshu,<br/>mero jivan-ko killaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>(धन्यवादको भेटी लिई आउँदछु,<br/>तपाईंको त्यो चोकभित्र) २<br/>(ताली बजाउँदै) ४<br/><br/><tag name="y">(dhanyebaad-ko bheTi li aauňda-chu,<br/>tapaaiň-ko tyo coka-bhitra) ~2<br/>(taali bajaauň-dai) ~4<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशू–येशू,<br/>मेरो जीवनको राजा,<br/>येशू–येशू<br/>ख्रीष्ट मेरो मुक्तिदाता) २<br/><br/><tag name="y">(yeshu-yeshu,<br/>mero jivan-ko raajaa,<br/>yeshu-yeshu<br/>khrisT mero mukti-daataa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>(हल्लेलूयाह गाउँदै म आउँदछु,<br/>अनुग्रहको सिंहासनअघि) २<br/>(पवित्र हात उचाल्दै) ४<br/><br/><tag name="y">(halleluyaah gaauňdai ma aauňda-chu,<br/>anugrah-ko siňhaasan-aghi) ~2<br/>(pavitra haat ucaal-dai) ~4<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

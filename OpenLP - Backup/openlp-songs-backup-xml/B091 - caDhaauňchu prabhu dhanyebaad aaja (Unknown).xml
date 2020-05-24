@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:02:52">
+  <properties>
+    <titles>
+      <title>B091 - caDhaauňchu prabhu dhanyebaad aaja</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>चढाउँछु प्रभु धन्यवाद आज<br/>क्रूसको त्यो प्रेमको निम्ति<br/>(थुकाइ र कुटाइ सहनुभो जति<br/>ती सब थिए मेरै निम्ति) २<br/><br/><tag name="y">caDhaauňchu prabhu dhanyebaad aaja<br/>krusko tyo prem-ko nimti<br/>(thukaai ra kuTaai sah'nu-bho jati<br/>ti sab thie merai nimti) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(काँडे मुकुट पहिरी शिरमा,<br/>हातपाउलाई जडी क्रूसमा) २<br/>(हुनुभो बलि मेरो नै निम्ति<br/>निर्दोष पाठोको रूपमा) २<br/><br/><tag name="y">(kaaňDe mukuT pahiri shir-maa<br/>haat-paau-laai jaDi krus-maa) ~2<br/>(hunubho bali mero nai nimti<br/>nirdos paaTho-ko rup-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(पीडा तपाईंलाई, शान्ति मलाई,<br/>क्रूस तपाईंको, मुकुट मेरो) २<br/>(मृत्यु तपाईंलाई, जीवन मलाई,<br/>प्रेम मलाई किन यस्तो ?) २<br/><br/><tag name="y">(piDaa tapaaiň-laai, shaanti malaai,<br/>krus tapaaiň-ko, mukuT mero) ~2<br/>(mrityu tapaaiň-laai, jivan malaai,<br/>prem malaai kina yesto?) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(देख्छु महिमित स्वर्ग मेरो,<br/>तर होइन कमाइ मेरो) २<br/>(हर्षाश्रु झार्दै, प्रशंसा गर्छु,<br/>यो त हो दान तपाईंको) २<br/><br/><tag name="y">(dekhchu mahimit sworga mero,<br/>tara hoina kamaai mero) ~2<br/>(harsaash-ru jhaardai, prashaňsaa garchu,<br/>yo ta ho daan tapaaiň-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(घृणित पापलाई गर्छु घृणा,<br/>कारण यही हो लाने क्रूसमा) २<br/>(सजाउँछु सिंहासन प्रभु हृदयमा,<br/>रहनुहोस् प्रभु यसमा) २<br/><br/><tag name="y">(ghriNit paap-laai garchu ghriNaa,<br/>kaaraN yehi ho laane krus-maa) ~2<br/>(sajaauň-chu siňhaasan prabhu ridai-maa,<br/>ra'anu-hos prabhu yes-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

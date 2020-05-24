@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:33:49">
+  <properties>
+    <titles>
+      <title>C036 - samai-maa, un-ko samai-maa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>समयमा, उनको समयमा,<br/>सब थोक सुन्दर बन्छन्<br/>उनको समयमा,<br/><br/><tag name="y">samai-maa, un-ko samai-maa<br/>sab thok sundar banchan<br/>un-ko samai-maa<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>मार्ग मलाई देखाउनोस्<br/>दिन–दिन सिकउनुहोस् सदा हिँड़्‍‌नलाई<br/>तपाईंको समयमा<br/><br/><tag name="y">maarga malaai dekhaau-nos<br/>dina-din sikau-nuhos sada hiňRna-laai<br/>tapaaiň-ko samai-maa<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>समयमा, तपाईंको समयमा,<br/>सब थोक सुन्दर छन्<br/>तपाईंको समयमा,<br/><br/><tag name="y">samai-maa, tapaaiň-ko samai-maa<br/>sab thok sundar chan<br/>tapaaiň-ko samai-maa<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>जीवन मेरा सुम्पन्छु,<br/>स्तुति सदा गाउनेछु<br/>ग्रहणयोग्य होस् तपाईंको समयमा<br/><br/><tag name="y">jivan mero sumpan-chu,<br/>stuti sadaa gaau-nechu<br/>grahaN-yogye hos tapaaiň-ko samai-maa<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

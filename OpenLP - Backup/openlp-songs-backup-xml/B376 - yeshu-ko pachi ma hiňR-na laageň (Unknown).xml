@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-12T18:48:15">
+  <properties>
+    <titles>
+      <title>B376 - yeshu-ko pachi ma hiňR-na laageň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशूको पछि म हिँड़्‍‌न लागेँ<br/>दुनियाँलाई त्यागी क्रूस नै बोकी ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २<br/><br/><tag name="y">yeshu-ko pachi ma hiňR-na laageň<br/>duniyaaň-laai tyaagi krusa nai boki<br/>yeshu-ko pachi ma hiňRna laageň<br/>(farkaň-dinaň, farkaň-dinaň.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आमाले मलाई, बुवाले मलाई,<br/>सबैले मलाई, त्यागे तापनि ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २<br/><br/><tag name="y">aamaa-le malaai, buwaa-le malaai,<br/>sabai-le malaai, tyaagei taapani<br/>yeshu-ko pachi ma hiňRna laageň<br/>(farkaň dinaň, farkaň dinaň.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>माटोको मेरो क्षणभङ्घुर शरीर<br/>माटोमा फेरि नमिलेसम्म ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २<br/><br/><tag name="y">maaTo-ko mero chyeN-bhaňgur sharir,<br/>maaTo-ma feri namile-samma.<br/>yeshu-ko pachi ma hiňRna laageň<br/>(farkaň dinaň, farkaň dinaň.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

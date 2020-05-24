@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:39:05">
+  <properties>
+    <titles>
+      <title>B375 - yaahove mero goThaalo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>याहोवे मेरो गोठालो,<br/>मलाई केही घटी हुँदैन<br/>उनले हरियो खर्कमा<br/>मलाई चराउनेछन्<br/><br/><tag name="y">yaahove mero goThaalo,<br/>ma-laai kehi ghaTi huň-daina<br/>unle hariyo kharka-maa<br/>ma-laai caraau-nechan.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>सुख–चैनको पानीनिर<br/>सदैव डोर्‍यउनेछन्<br/>मेरो यो तुच्छ प्राणलाई<br/>नयाँ तुल्याउनेछन् ।<br/><br/><tag name="y">sukh-cain-ko paani-nira<br/>sadaiva Do-ryaa-nechan<br/>mero yo tuccha praaNa-laai<br/>nayaaň tulyaaune-chan.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आफ्‍‌नै नाउँको कारण<br/>जहीँ गए तापनि<br/>धर्मको सुमार्गमा<br/>मलाई अगुवाइ गर्नेछन् ।<br/><br/><tag name="y">aafnai naauň-ko kaaraN<br/>jahiň gaye taapani<br/>dharma-ko su-marga-maa<br/>ma-laai agu'aai garne-chan.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अँ मृत्युको छायाँमा<br/>हिँड़्‍‌नु परे तापनि<br/>रक्षा गर्छन् जहीँ जाऔँ,<br/>तब किन डराऔँ ।<br/><br/><tag name="y">aň mrityu-ko chaayaaň-maa<br/>hiňRnu pare taapani<br/>rakchyaa garchan jahiň jaauň,<br/>taba kina daraauň<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>सबै शत्रुको सन्मुख<br/>भोज तयार पार्नुहुन्छ<br/>तेलले अभिषेक गरे<br/>कचौरा पोखिन्छ ।<br/><br/><tag name="y">sabai shatru-ko sanmukh<br/>bhoj tayaar paarnu-huncha<br/>tel-le abhisek gare<br/>kacauraa pokhin-cha.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>निश्चय भलाइ र कृपा<br/>जीवनभरि रहन्छ<br/>याहोवेको स्वर्गलोकमा<br/>सदैव वास गर्नेछु ।<br/><br/><tag name="y">nishcai bhalaai ra kripaa<br/>jivan-bhari rahancha<br/>yaa'ove-ko sworga-loka-maa<br/>sadaiva baas garne-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

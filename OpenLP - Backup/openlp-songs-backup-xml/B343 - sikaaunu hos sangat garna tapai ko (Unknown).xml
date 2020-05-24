@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-04-05T15:11:03">
+  <properties>
+    <titles>
+      <title>B343 - sikaaunu hos sangat garna tapai ko</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>सिकाउनोस् सङ्गत गर्न तपाईंको<br/>दिन व दिन, हे मेरो नाथ<br/>गराउनोस् शान्त हलचल हृदयको<br/>याद गर्न तपाईंको साथ<br/><br/><tag name="y">sikaau-nos sangat garna tapaaiň-ko<br/>din wa din, he mero naath<br/>garaau-nos shaanta halcal ridai-ko<br/>yaad garna tapaaiň-ko saath<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बोल्नुहोस् तब तयार म हुन्छु) २<br/>सुन्‍न त्यो मृदु आवाज<br/>(गर्नुहोस् गोहार मसीही जीवन<br/>बिताउन बिनालाज) २<br/><br/><tag name="y">(bolnuhos taba tayaar ma hunchu) ~2x<br/>sunna tyo mridu aawaaj<br/>(gar-nuhos gohaar masihi jivan<br/>bitaauna binaalaaj) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>चाहन्छु प्रभु, हिँड्न बाटोमा<br/>तपाईंको दिन-प्रतिदिन<br/>स्वार्थकै कारण याद मलाई हुन्छ,<br/>छु अति शक्तिहीन<br/><br/><tag name="y">caahan-chu prabhu, hiňRna baato-maa<br/>tapaaiň-ko din-prati-din<br/>swaartha-kai kaaraN yaad ma-laai huncha,<br/>chu ati shakti-hin<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(सिकाउनोस् प्रभु, गर्नु है सेवा) २<br/>नबनी अपस्वार्थी<br/>(बढाइ होस् आज प्रभु येशूको,<br/>बनूँ म नि:स्वार्थी) २<br/><br/><tag name="y">(sikaaunos prabhu, garnu hai sevaa) ~2x<br/>na-bani apswaarthi<br/>(baRhaai hos aaja prabhu yeshu-ko,<br/>banuň ma niswaarthi) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>निश्‍वयता प्रभु, आज मलाई छ<br/>भएको छु मृत्यु पार<br/>पवित्र आत्मा र प्रतिज्ञाका भएँ<br/>म भागीदार<br/><br/><tag name="y">nishcai-taa prabhu, aaja malaai cha<br/>bhayeko chu mrityu paar<br/>pavitra aatmaa ra pratigyaa-kaa bhayeň<br/>ma bhaagidaar<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(ल्याउनुहोस् प्रभु, तोडी देह मेरो) २<br/>तपाईंको सिद्धता<br/>(केवल प्रकाश होस् ज्योति तपाईंको<br/>मेरो यस जीवनमा) २<br/><br/><tag name="y">(lyaaunu-hos prabhu, toDhi deha mero) ~2x<br/>tapaaiň-ko siddhataa<br/>(kewal prakaash hos jyoti tapaaiň-ko<br/>mero yes jivan-maa) ~2x<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

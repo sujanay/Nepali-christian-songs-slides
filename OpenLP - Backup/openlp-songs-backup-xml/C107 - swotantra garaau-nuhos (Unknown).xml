@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:07:14">
+  <properties>
+    <titles>
+      <title>C107 - swotantra garaau-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(स्वतन्त्र गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २<br/><br/><tag name="y">(swotantra garaau-nuhos<br/>pavitra aatmaa haami-laai) ~2<br/>gaauna git aaraadh-naa-ko yeshu-laai<br/>(aaraadh-naa garna ridai-le<br/>prem garna shakti-le) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(पवित्र गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २<br/><br/><tag name="y">(pavitra garaau-nuhos<br/>pavitra aatmaa haami-laai) ~2<br/>gaauna git aaraadh-naa-ko yeshu-laai<br/>(aaraadh-naa garna ridai-le<br/>prem garna shakti-le) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(एउटै मन गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २<br/><br/><tag name="y">(yeuTai man garaau-nuhos<br/>pavitra aatmaa haami-laai) ~2<br/>gaauna git aaraadh-naa-ko yeshu-laai<br/>(aaraadh-naa garna ridai-le<br/>prem garna shakti-le) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(अभिषेक गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २<br/><br/><tag name="y">(abhisek garaau-nuhos<br/>pavitra aatmaa haami-laai) ~2<br/>gaauna git aaraadh-naa-ko yeshu-laai<br/>(aaraadh-naa garna ridai-le<br/>prem garna shakti-le) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

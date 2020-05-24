@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:04:57">
+  <properties>
+    <titles>
+      <title>C005 - yeshu naauň-ko jai hos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(येशू नाउँको जय होस्) २<br/>मेरो चट्टान, मेरो किल्ला<br/>मलाई छुड़ाउँने मेरो भरोसा,<br/>येशू नाउँको जयजयकार होस्<br/><br/><tag name="y">(yeshu naauň-ko jai hos) ~2<br/>mero caTTaan, mero killaa<br/>malaai chuRaauňne mero bharosaa,<br/>yeshu naauň-ko jaijaikaar hos.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

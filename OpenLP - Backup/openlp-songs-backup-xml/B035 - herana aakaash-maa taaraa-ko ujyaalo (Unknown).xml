@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T19:44:04">
+  <properties>
+    <titles>
+      <title>B035 - herana aakaash-maa taaraa-ko ujyaalo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>हेरन आकाशमा ताराको उज्यालो<br/>(नवजात प्रभुको दर्शन गर्न<br/>नगर बियाँलो) २<br/><br/><tag name="y">herana aakaash-maa taaraa-ko ujyaalo<br/>(naujaat prabhu-ko darshana garna<br/>na-gara biyaaň-lo) ~2</tag></lines>
+    </verse>
+    <verse name="v1a">
+      <lines>(ईश्‍वरको वचन पूरो गर्नलाई<br/>आए प्रभु जगमा) २<br/>मानवको सबै दु:ख<br/>बुझ्नलाई पस्रिए डूँड़ैमा<br/><br/><tag name="y">(ishwor-ko bacan puro garna-laai<br/>aaye prabhu jaga-maa) ~2<br/>maanab-ko sabai dukha<br/>bujhna-laai pasriye DuňRai-maa</tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>(गोठालाहरू छक्क परे जब) २<br/>देखे स्वर्गदूतलाई<br/>(ढाड़स पाई रमाई गए<br/>खबर दिनलाई) २<br/><br/><tag name="y">(goThaalaa-haru chakka pare jab) ~2<br/>dekhe sworga-dut-laai<br/>(DhaaRasa paa-i ramaa-i gaye<br/>khabara dina-laai) ~2</tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>हेरन आकाशमा ताराको उज्यालो<br/>(नवजात प्रभुको दर्शन गर्न<br/>नगर बियाँलो) २<br/><br/><tag name="y">herana aakaash-maa taaraa-ko ujyaalo<br/>(naujaat prabhu-ko darshana garna<br/>na-gara biyaaň-lo) ~2</tag></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>(तारालाई आफ्नो लक्ष बनाई<br/>बढ़े ज्योतिषीगण) २<br/>(भेटी चढ़ाए दर्शन पाई<br/>गराए आनन्दित मन) २<br/><br/><tag name="y">(taaraa-laai aafno lakchye banaa-i<br/>baRhe jyoti-sigaN) ~2<br/>(bheTi caDhaaye darshana paa-i<br/>garaaye aanandit man) ~2</tag></lines>
+    </verse>
+    <verse name="v2b">
+      <lines>(पापी जनको तारणहार) २<br/>मानिसको रूपमा<br/>(ख्याल नराखी डाँड़ा-काँड़ा<br/>बढ़ौं सबै प्रभुमा) २<br/><br/><tag name="y">(paapi jana-ko taarana-haara) ~2<br/>maanis-ko rupa-maa<br/>(khyaala na-raakhi DaaňRaa-kaaňRaa<br/>baRhauň sabai prabhu-maa) ~2</tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>हेरन आकाशमा ताराको उज्यालो<br/>(नवजात प्रभुको दर्शन गर्न<br/>नगर बियाँलो) २<br/><br/><tag name="y">herana aakaash-maa taaraa-ko ujyaalo<br/>(naujaat prabhu-ko darshana garna<br/>na-gara biyaaň-lo) ~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

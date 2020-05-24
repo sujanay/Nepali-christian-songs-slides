@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:52:08">
+  <properties>
+    <titles>
+      <title>B329 - aauň-dachu tapaaiň-ko caraNa-maa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>आउँदछु तपाईंको चरणमा,<br/>पर्दछु तपाईंको शरणमा,<br/>पापको बोझ छ जीवनमा,<br/>हटाई बस्नुहोस् हृदयमा<br/><br/><tag name="y">aauň-dachu tapaaiň-ko caraNa-maa,<br/>par-dachu tapaaiň-ko sharaNa-maa,<br/>paapa-ko bojha cha jivana-maa,<br/>haTaai basnu-hos ridai-maa<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सिकाउनुहोस् मलाई<br/>प्यार गर्न तपाईंलाई) २<br/>(प्रभु मलाई तपाईंले<br/>प्यार गर्नुभो पहिले) २<br/><br/><tag name="y">(sikaaunu-hos malaai<br/>pyaar garna tapaaiň-laai) ~2<br/>(prabhu malaai tapaaiň-le<br/>pyaar garnu-bho pahile) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(समाती मेरो हात<br/>राख्‍नुहोस् मलाई साथ) २<br/>(जीवनको ज्योति दिई<br/>चम्काउनुहोस् मलाई) २<br/><br/><tag name="y">(samaati mero haat<br/>raakhnu-hos malaai saath) ~2<br/>(jivan-ko jyoti dii<br/>camkaaunu-hos malaai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

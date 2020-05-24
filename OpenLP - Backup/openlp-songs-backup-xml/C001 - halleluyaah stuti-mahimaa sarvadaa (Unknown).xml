@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:51:23">
+  <properties>
+    <titles>
+      <title>C001 - halleluyaah stuti-mahimaa sarvadaa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(हल्लेलूयाह स्तुति-महिमा सर्वदा<br/>येशू प्रभुलाई दिन्छौँ) २<br/>हा ... (हल्लेलूयाह) ३<br/>हा ... (हल्लेलूयाह) ३<br/><br/><tag name="y">(halleluyaah stuti-mahimaa sarvadaa<br/>yeshu prabhu-laai dinchauň) ~2<br/>haa ... (halleluyaah) ~3<br/>haa ... (halleluyaah) ~3<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(क्रूसको बलिदानमा<br/>रगत बहाउनुभयो) २<br/>(पापलाई हटाई शुद्ध गराई<br/>हामीलाई बचाउनुभो) २<br/><br/><tag name="y">(krusa-ko balidaan-maa<br/>ragat bahaaunu-bhayo) ~2<br/>(paap-laai haTaa-i shuddha garaa-i<br/>haami-laai bacaau-nubho) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(उहाँको पुर्नरुत्थानमा<br/>अनन्त विजय लिई आउनुभयो) २<br/>(आज तिमी–हामीलाई यही<br/>विजय दिनलाई येशूजी आउनुभो) २<br/><br/><tag name="y">(uhaaň-ko purna-rutthaan-maa<br/>ananta vijai li-i aaunu-bhayo) ~2<br/>(aaja timi-haami-laai yehi<br/>vijai dina-laai yeshu-ji aaunu-bhayo) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

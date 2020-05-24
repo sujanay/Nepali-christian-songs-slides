@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T05:51:51">
+  <properties>
+    <titles>
+      <title>B609 - paapi marnu-parne krusa-maa dharmi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(पापी मर्नुपर्ने क्रूसमा धर्मी<br/>येशू बलि भए) २<br/>मानव हितका<br/>लागि उनले सबै दु:ख पीडा सहे<br/><br/><tag name="y">(paapi marnu-parne krusa-maa dharmi<br/>yeshu bali bhaye) ~2<br/>maanaba hita-kaa<br/>laagi un-le sabai dukha piDaa sahe<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>एकजनाको बलिदानले<br/>सबै जनाको उद्धार भयो<br/>(रगत बग्यो निर्दोषको<br/>दोषी सबलाई माफी भयो) २<br/><br/><tag name="y">ek-janaa-ko balidaan-le<br/>sabai janaa-ko uddhaar bhayo<br/>(ragata bagyo nirdosa-ko<br/>dosi sab-laai maafi bhayo) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c3">
+      <lines>पापी मर्नुपर्ने क्रूसमा धर्मी<br/>येशू बलि भए<br/><br/><tag name="y">paapi marnu-parne krusa-maa dharmi<br/>yeshu bali bhaye<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(आएथे ख्रीष्ट<br/>संसारमा जहिले<br/>बलिदान हुनलाई) २<br/><br/><tag name="y">(aaye-the khrisTa<br/>sansaar-maa jahile<br/>balidaana huna-laai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>मर्नु है पर्‍यो क्रूसमा उनी<br/>पाप सबैको धुनलाई<br/>क्रूसको पीदा संसारको घृणा<br/>येशूले सहिदिए<br/><br/><tag name="y">marnu hai paryo krusa-maa uni<br/>paap sabai-ko dhuna-laai<br/>krusa-ko pidaa sansaar-ko ghriNaa<br/>yeshu-le sahi-diye<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>(पापीको खोटमा<br/>कोर्राको चोटमा<br/>बलि नै भइदिए) २<br/><br/><tag name="y">(paapi-ko khoT-maa<br/>korraa-ko coT-maa<br/>bali nai bhai-diye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(त्यागेथे प्राण<br/>पहिरेर मुकुट<br/>शिरमा काँडाको) २<br/><br/><tag name="y">(tyaage-the praaNa<br/>pahi-rera mukuT<br/>shira-maa kaaňRaa-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2a">
+      <lines>कसरी चुकाऔँ प्रभुको ऋण<br/>कलवरी त्यो डाँडाको<br/>क्रूसको कथा क्रूसको व्यथा<br/>दोहोरिन नपाओस्<br/><br/><tag name="y">kasari cukaauň prabhu-ko riNa<br/>kalvari tyo DaaňRaa-ko<br/>krusa-ko kathaa krusa-ko byethaa<br/>doho-rina na-paa-os<br/></tag></lines>
+    </verse>
+    <verse name="o2b">
+      <lines>(पापीका लागि<br/>धर्मीजन मर्ने<br/>दिन फेरि नआओस्) २<br/><br/><tag name="y">(paapi-kaa laagi<br/>dharmi-jan marne<br/>din feri na-aaos) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

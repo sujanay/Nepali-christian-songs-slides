@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-22T16:56:31">
+  <properties>
+    <titles>
+      <title>B340 - yeshu-laai ma sab thok dinchu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशूलाई म सब थोक दिन्छु,<br/>सबै थोक अर्पण गर्छु,<br/>प्रतिदिन तपाईंको साथमा<br/>प्रेम र विश्‍वासमा बढ्छु।<br/><br/><tag name="y">yeshu-laai ma sab thok dinchu,<br/>sabai thok arpaN garchu,<br/>prati-din tapaaiň-ko saath-maa<br/>prem ra vishwaas-maa baDhchu.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>सब थोक दिन्छु म<br/>सब थोक दिन्छु म<br/>मुक्तिदाता तपाईंलाई<br/>सब थोक दिन्छु म<br/><br/><tag name="y">sab thok dinchu ma,<br/>sab thok dinchu ma,<br/>mukti-daataa tapaaiň-laai<br/>sab thok dinchu ma,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशूलाई म सब थोक दिन्छु,<br/>दण्डवत् गर्छु तपाईंलाई<br/>सांसारिक इच्छा म छोड्छु,<br/>तपाईं लिनुहोस् मलाई।<br/><br/><tag name="y">yeshu-laai ma sab thok dinchu,<br/>daNDawat garchu tapaaiň-laai<br/>saaňsaarik icchaa ma choDchu,<br/>tapaaiň linuhos malaai.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशूलाई म सब थोक दिन्छु,<br/>आफ्नै बनाउनोस् मलाई<br/>पवित्रात्मा हवस् सक्षी<br/>ख्रीष्ट हुन् मेरा, म ख्रीष्टकै।<br/><br/><tag name="y">yeshu-laai ma sab thok dinchu,<br/>aafnai banaaunos malaai<br/>pavitraatmaa haus sakchi<br/>khrisT hun meraa, ma khrisT-kai.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशूलाई म सब थोक दिन्छु,<br/>मेरो जीवन लिनुहोस्<br/>प्रेम र शक्ति ममा भर्नोस्,<br/>आशिषले भरपूर गर्नोस्।<br/><br/><tag name="y">yeshu-laai ma sab thok dinchu,<br/>mero jivan linu-hos<br/>prem ra shakti ma-maa bharnos,<br/>aashis-le bharpur garnos.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशूलाई म सब थोक दिन्छु,<br/>पवित्रात्मा याद गर्छु<br/>पूरा मुक्तिमा खुशी छु,<br/>उनको नाउँको जय गाउँछु।<br/><br/><tag name="y">yeshu-laai ma sab thok dinchu,<br/>pavitraatmaa yaad garchu<br/>puraa mukti-maa khushi chu,<br/>unko naauňko jai gaauňchu<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

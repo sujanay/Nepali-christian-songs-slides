@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:03:24">
+  <properties>
+    <titles>
+      <title>C087 - ma-maa shuddha ridai sri-janos, prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>ममा शुद्घ हृदय सृजनोस्, प्रभू<br/>सत्य आत्मा पुनर्जीवित पार्नोस्<br/>ममा शुद्घ हृदय सृजनोस्, प्रभू<br/>सत्य आत्मा पुनर्जीवित पार्नोस्<br/><br/><tag name="y">ma-maa shuddha ridai sri-janos, prabhu<br/>satye aatmaa punar-jivit paar-nos<br/>ma-maa shuddha ridai sri-janos, prabhu<br/>satye aatmaa punar-jivit paar-nos<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>मलाई तपाईंको सामुन्‍‌नेबाट<br/>ननीकाल्‍‌नुहोस<br/>पवित्र आत्मा मबाट नलैजानोस्<br/><br/><tag name="y">ma-laai tapaaiň-ko saam'nne-baaTa<br/>na-nikaal-nuhos,<br/>pavitra aatmaa ma-baaTa na-laijaa-nos<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मुक्तिको उमङ्ग मलाई फेरि दिनुहोस्<br/>सत्य आत्मा पुनर्जीवित पार्नोस्<br/>सत्य आत्मा पुनर्जीवित पार्नोस्<br/><br/><tag name="y">mukti-ko umaňga ma-laai feri dinuhos<br/>satye aatmaa punar-jivit paarnos<br/>satye aatmaa punar-jivit paarnos<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:31:13">
+  <properties>
+    <titles>
+      <title>C197 - jasai timro aaraadhnaa garchu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जसै तिम्रो आराधना गर्छु,<br/>तिम्रो महिमित मुहारलाई हेर्छु) २<br/>तिम्रो उपस्थितिभित्र जब पस्छु,<br/>तिम्रो प्रेमको अनुभव गर्छु,<br/><br/><tag name="y">(jasai timro aaraadhnaa garchu,<br/>timro mahimit muhaar-laai herchu) ~2<br/>timro upasthiti-bhitra jaba paschu,<br/>timro prem-ko anubhab garchu,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>लागेका चोट र घात हृदयका<br/>निको हुन्छन्‌,<br/>(आत्मा र शरीरको रोग<br/>निको हुन्छ) २<br/><br/><tag name="y">laagekaa coT ra ghaat ridai-kaa<br/>niko hunchan,<br/>(aatmaa ra sharir-ko rog<br/>niko huncha) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

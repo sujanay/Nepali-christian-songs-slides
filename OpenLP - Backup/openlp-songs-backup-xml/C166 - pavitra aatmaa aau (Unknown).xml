@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:22:37">
+  <properties>
+    <titles>
+      <title>C166 - pavitra aatmaa aau</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(पवित्र आत्मा आऊ) २<br/>(मलाई लैजाऊ येशूको चरणमा<br/>पवित्र आत्मा आऊ) २<br/><br/><tag name="y">(pavitra aatmaa aau) ~2<br/>(malaai lai-jaau yeshu-ko caraNa-maa<br/>pavitra aatmaa aau) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(शिर झुकाउँदै दण्डवत् गर्दै,<br/>आउँछु तपाईंको चरणमा) २<br/>(केवल तिम्रैलागि, येशू तिम्रैलागि) ३<br/>म हात उचाल्दछु<br/><br/><tag name="y">(shir jhukaauň-dai daNDawat gardai,<br/>aauňchu tapaaiň-ko caraN-maa) ~2<br/>(kewal timrai-laagi, yeshu timrai-laagi) ~3<br/>ma haat ucaal-dachu<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(शिर झुकाउँदै दण्डवत् गर्दै,<br/>आउँछु तपाईंको चरणमा) २<br/>(केवल तिम्रैअघि, येशू तिम्रैअघि) ३<br/>म शिर झुकाउदछु<br/><br/><tag name="y">(shir jhukaauň-dai daNDawat gardai,<br/>aauňchu tapaaiň-ko caraN-maa) ~2<br/>(kewal timrai-aghi, yeshu timrai-aghi) ~3<br/>ma shir jhukaau-dachu<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

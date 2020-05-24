@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-04-26T17:11:04">
+  <properties>
+    <titles>
+      <title>new song - Rajan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाईंलाई प्रेम गर्छु प्रभु x3<br/>कहिले डराउने छैन </lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंको पाइला पक्षउछु प्रभु <br/>कहिले डराउने छैन <br/>अर्पित हुन्छु तपाईंको चरनमा <br/>कहिले डराउने छैन </lines>
+    </verse>
+  </lyrics>
+</song>

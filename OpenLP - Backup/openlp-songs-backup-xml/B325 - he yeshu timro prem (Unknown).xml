@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:00:13">
+  <properties>
+    <titles>
+      <title>B325 - he yeshu timro prem</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(हे येशू तिम्रो प्रेम,<br/>कति महान् छ,<br/>आकाशको तारा, पर्वत समुद्र,<br/>सबैभन्दा महान् छ) २<br/><br/><tag name="y">(he yeshu timro prem,<br/>kati mahaana cha,<br/>aakaash-ko taaraa, parbat samundra,<br/>sabai-bhandaa mahaan cha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>अगम्य आनन्दले हृदय भरपूर छ,<br/>प्रभुको कार्य नै धेरै महान् छ<br/>हरेक साँझ, हरेक बिहान<br/>(स्तुतिको योग्य छ) २<br/><br/><tag name="y">agamye aanand-le ridaya bharpur cha,<br/>prabhu-ko kaarya nai dherei mahaana cha<br/>hareka saaňjha, harek bihaana<br/>(stuti-ko yogye cha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>सङ्कटको समयमा जीवन निराश हुन्छ,<br/>हे ईश्‍वर पुकार्छु दया मलाई दर्शाऊ<br/>बोलाउनभन्दा पहिला नै भन्छन्,<br/>(म तिम्रोसाथ छु) २<br/><br/><tag name="y">sangkaT-ko samai-maa jivan niraash huncha,<br/>he ishwor pukaarchu dayaa malaai darshaau<br/>bolaauna-bhandaa pa'ile nai bhanchan,<br/>(ma timro-saath chu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अन्धकार घाटीमा मलाई हिँड्नुछ,<br/>मृत्यु र जोखिमको धेरै नै यात्रा छ<br/>गोठालो भई प्रभु डोर्‍याउनुहुन्छ<br/>(अनन्त साथी भई) २<br/><br/><tag name="y">andhakaar ghaaTi-maa malaai hiňR-nucha<br/>mrityu ra jokhim-ko dherei nai yaatraa cha<br/>goThaalo bhai prabhu Doryaaunu-huncha<br/>(ananta saathi bhai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>घटी र कमीको मलाई केही डर छैन,<br/>हरियो चउरमा मलाई निर्धक्क छ<br/>भोजन-जलले तृप्‍त म हुन्छु,<br/>(ख्रीष्ट मेरोसाथ छन्) २<br/><br/><tag name="y">ghaTi ra kamiko malaai ke'i Dar chaina,<br/>hariyo ca-ur-maa malaai nir-dhakka cha<br/>bhojana-jal-le tripta ma hunchu<br/>(khrisT mero-saatha chan) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>ईश्‍वरको भवनमा स्तुति सधैँ गर्छु,<br/>समपूर्ण हृदयले उनलाई सधैँ भज्छु,<br/>स्तुति-प्रशंसाको योग्य ईश्‍वर<br/>(हल्लेलूयाह आमिन) २<br/><br/><tag name="y">ishwor-ko bhaban-maa stuti sadhaiň garchu,<br/>sampurNa ridaile un-laai sadhaiň bhaj-chu,<br/>stuti-prashaňsaa-ko yogye ishwor<br/>(halleluyaah aamin) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>हे येशू तिम्रो प्रेम ...<br/><br/><tag name="y">he yeshu timro prem<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

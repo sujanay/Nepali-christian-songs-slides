@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T01:55:21">
+  <properties>
+    <titles>
+      <title>C063 - dhanye hos prabhu yeshu-ko naauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>धन्य होस् प्रभु येशूको नाउँ,<br/>उनी छन् प्रशंसा भक्तिका योग्य,<br/>यसैले उचालौँ एक साथ हाम्रा हात<br/><br/><tag name="y">dhanye hos prabhu yeshu-ko naauň,<br/>uni chan prashaňsaa bhakti-kaa yogye,<br/>yesaile ucaalauň ek saath haamraa haat<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>गाउँदै, धन्य होस् त्यो नाउँ<br/>धन्य होस् त्यो नाउँ<br/>धन्य होस् प्रभु येशूको नाउँ ।<br/><br/><tag name="y">gaauňdai dhanye hos tyo naauň,<br/>dhanye hos tyo naauň<br/>dhanye hos prabhu yeshu-ko naauň<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

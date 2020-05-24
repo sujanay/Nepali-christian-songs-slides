@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:24:13">
+  <properties>
+    <titles>
+      <title>B242 - la-u daaju sunana</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(लौ दाज्यू सुनन,<br/>लौ बहिनी सुनन) २<br/>येशूको वचन, ओ<br/>येशूको वचन ।<br/><br/><tag name="y">(la-u daaju sunana,<br/>la-u ba'ini sunana) ~2<br/>yeshuko bacana, o<br/>yeshuko bacana.<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(मनैमा गुनन,<br/>बुझिराख हृदयमा) २<br/>चिनिराख येशूलाई, ओ<br/>चिनिराख येशूलाई ।<br/><br/><tag name="y">(ma-nai-maa gunana,<br/>bujhi-raakha ridai-maa) ~2<br/>cini-raakha yeshu-laai, o<br/>cini-raakha yeshu-laai.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(कलवरी डाँड़ामा<br/>त्यो एउटै क्रूसैमा) २<br/><br/><tag name="y">(kalvari DaaňRaa-maa<br/>tyo euTai krusai-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>मुक्तिदाता येशूको<br/>त्यो शुद्ध रगतमा<br/>त्यो मुक्ति तिम्रैलागि हो, ओ<br/>त्यो मुक्ति तिम्रैलागि हो ।<br/><br/><tag name="y">mukti-daataa yeshu-ko<br/>tyo shuddha ragat-maa<br/>tyo mukti timrai-laagi ho, o<br/>tyo mukti timrai-laagi ho.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जीवन हाम्रो छोटो छ है,<br/>लामो जीवन येशूमा) २<br/><br/><tag name="y">(jivana haamro choTo cha hai,<br/>laamo jivan yeshu-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>बुझिराख आज नै,<br/>नत्र भोलि समय छैन<br/>हाम्रो येशू आउनै लागेछन् , ओ<br/>हाम्रो येशू आउनै लागेछन् ।<br/><br/><tag name="y">bhujhi-raakha aaja nai,<br/>natra bholi samai chaina<br/>haamro yeshu aaunai laagechan, o<br/>haamro yeshu aaunai laagechan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

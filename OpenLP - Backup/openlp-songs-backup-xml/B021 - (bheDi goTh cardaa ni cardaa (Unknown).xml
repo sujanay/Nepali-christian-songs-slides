@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T22:28:42">
+  <properties>
+    <titles>
+      <title>B021 - (bheDi goTh cardaa ni cardaa</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(भेडी गोठ चर्दा नि चर्दा<br/>रात परिगयो) २<br/>(लौ अब ल्याए गोठैमा<br/>गोठालाहरूले) २<br/><br/><tag name="y">(bheDi goTh cardaa ni cardaa<br/>raat pari-gayo) ~2<br/>(lau aba lyaaye goThai-maa<br/>goThaalaa-haru-le) ~2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(आगोका वरि नि परि<br/>गोठाला बसे) २<br/>(आफ्ना नि आफ्ना खोरैमा<br/>भेडी है सबै पसे) २<br/><br/><tag name="y">(aago-kaa wari ni pari<br/>goThaalaa base) ~2<br/>(aafnaa ni aafnaa khorai-maa<br/>bheDi he sabai pase) ~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सबै ठाउँ अँध्यारो हुँदा<br/>उज्यालो भयो) २<br/>(यो ज्योति केको भन्दै नि<br/>गोठाला सबै उठे) २<br/><br/><tag name="y">(sabai Thauň aaňdhyaaro huňdaa<br/>ujyaalo bhayo) ~2<br/>(yo jyoti ke-ko bhandai ni<br/>goThaalaa sabai uThe) ~2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(स्वर्गदूत छेउमा देखी<br/>डरले सब कामे) २<br/>('नडराऊ, सुन सुसमाचार'<br/>भनी है दूतले थामे) २<br/><br/><tag name="y">(sworga-dut cheu-maa dekhi<br/>Dara-le sab kaame) ~2<br/>('na-Daraau, suna su-samaacaar'<br/>bhani he dut-le thaame) ~2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(गाईको गोठैमा सुन<br/>बेथलेहेम गाउँमा) २<br/>(तारणहार प्रभु जन्मिए<br/>गई हेर त्यो ठाउँमा) २<br/><br/><tag name="y">(gaa-i-ko goThai-maa suna<br/>bethlehem gaauň-maa) ~2<br/>(taaraNahaar prabhu jan-miye<br/>gai hera tyo Thaauň-maa) ~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

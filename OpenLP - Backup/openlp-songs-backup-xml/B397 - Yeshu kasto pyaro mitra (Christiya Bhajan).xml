@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T03:37:30">
+  <properties>
+    <titles>
+      <title>B397 - Yeshu kasto pyaro mitra</title>
+    </titles>
+    <authors>
+      <author>Christiya Bhajan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1a">
+      <lines>येशू कस्तो प्यारो मित्र<br/>पापको भार उठाउनुभो<br/>दु:ख-सुख ईश्‍वरकहाँ ल्याओं<br/>हामीलाई वरदान कत्रो?<br/><br/><tag name="y">yeshu kasto pyaaro mitra<br/>paap-ko bhaar uThaau-nubho<br/>dukha-sukha ishwor-ka'aaň lyaaoň<br/>haami-laai bardaan katro?</tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines> कति शान्ति-सुख गुमाउँछौं,<br/>कति दु:ख छ व्यर्थैमा?<br/>कारण ईश्‍वरकहाँ हामी<br/>सब ल्याउँदैनौं प्रार्थनामा।<br/><br/><tag name="y">kati shaanti-sukh gumaauň-chauň,<br/>kati dukh cha byerthai-maa?<br/>kaaraN ishwor-kahaaň haami<br/>sab lyaauň-dainauň praarthanaa-maa.</tag></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>चारैतिरबाट आउँछ<br/>सङ्कट, क्लेश र परीक्षा<br/>लौ, हरेस खानुपर्दैन<br/>ख्रीष्टलाई भनौं प्रार्थनामा,<br/><br/><tag name="y">caarai-tira-baaTa aauňcha<br/>sangkat, klesh ra parikchyaa<br/>lau, hares khaanu-pardaina<br/>khrisT-laai bhanauň praarth'naa-maa,</tag></lines>
+    </verse>
+    <verse name="v2b">
+      <lines> हाम्रो सबै दु:खका भागी,<br/>यस्तो मित्र कहाँ पाऔंला?<br/>हरकमजोरी येशू बुझ्छन्‌,<br/>ख्रीष्टलाई भनौं प्रार्थनामा।<br/><br/><tag name="y">haamro sabai dukh-kaa bhaagi,<br/>yesto mitra ka'aaň paauňlaa?<br/>har-kamjori yeshu bujh-chan,<br/>khrisT-laai bhanauň praarth'naa-maa.</tag></lines>
+    </verse>
+    <verse name="v3a">
+      <lines>हामी छौं कि निर्बल, दु:खित,<br/>चिन्ता, बोझले लादिएका?<br/>हाम्रो आश्रय खालि येशू<br/>ख्रीष्टलाई भनौं प्रार्थनामा,<br/><br/><tag name="y">haami chauň ki nirbal, dukhit,<br/>cintaa, bojh-le laad'yekaa?<br/>haamro aashrai khaali yeshu<br/>khrisT-laai bhanauň praarth'naa-maa.</tag></lines>
+    </verse>
+    <verse name="v3b">
+      <lines> साथीले के गर्छन्‌ हेला?<br/>ख्रीष्टलाई भनौं प्रार्थनामा<br/>उनले रक्षा गर्छन्‌ हाम्रो,<br/>उनमा पाउँछौं सान्त्वना।<br/><br/><tag name="y">saathi-le ke garchan helaa?<br/>khrisT-laai bhanauň praarth'naa-maa.<br/>un-le rakchyaa garchan haamro,<br/>un-maa paauň-chauň saantwonaa.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

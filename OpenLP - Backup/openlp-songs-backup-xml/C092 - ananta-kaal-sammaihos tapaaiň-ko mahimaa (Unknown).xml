@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T06:07:12">
+  <properties>
+    <titles>
+      <title>C092 - ananta-kaal-sammaihos tapaaiň-ko mahimaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(अनन्तकालसम्मै<br/>होस्‌ तपाईंको महिमा) ४<br/>हे ईश्‍वर, हे पिता,<br/>हे पुत्र येशू ख्रीष्ट,<br/><br/><tag name="y">(ananta-kaal-sammai<br/>hos tapaaiň-ko mahimaa) ~4<br/>he ishwor, he pitaa,<br/>he putra yeshu khrisT,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हे आत्मा पवित्र<br/>युगानयुग होस्‌,<br/>महिमा तपाईंको।<br/><br/><tag name="y">he aatmaa pavitra<br/>yugaana-yuga hos,<br/>mahimaa tapaaiň-ko.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

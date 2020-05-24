@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:37:11">
+  <properties>
+    <titles>
+      <title>C041 - dhanyebaadi bhai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>धन्यवादी भई<br/>उहाँको ढोकाभित्र पस्‍‌नेछु<br/>आँगनभित्र प्रशंसासाथ,<br/><br/><tag name="y">dhanyebaadi bhai<br/>uhaaňko Dhokaa-bhitra pasnechu,<br/>aaňgan-bhitra prashansaa-saath,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>भन्‍‌नेछु यो त्यही दिन जो,<br/>प्रभुले बनाउनुभो,<br/>खुशी छु उहाँले खुशी पार्नुभो,<br/><br/><tag name="y">bhan-nechu yo tyehi din jo,<br/>prabhu-le banaau-nubho<br/>khushi chu uhaaň-le khushi paar-nubho<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(खुशी पार्नुभो,<br/>खुशी पार्नुभो<br/>खुशी छु उहाँले<br/>खुशी पार्नुभो) २<br/><br/><tag name="y">(khushi paarnu-bho,<br/>khushi paarnu-bho,<br/>khushi chu uhaaň-le<br/>khushi paarnu-bho) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

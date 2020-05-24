@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-26T23:19:37">
+  <properties>
+    <titles>
+      <title>C024 - dhanyebaad yeshu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(धन्यवाद येशू) ३<br/>मेरो मनदेखि [हल्लेलूयाह]<br/>(धन्यवाद येशू) ३<br/>मेरो मनदेखि<br/><br/><tag name="y">(dhanyebaad yeshu) ~3<br/>mero man-dekhi [halleluyaah]<br/>(dhanyebaad yeshu) ~3<br/>mero man-dekhi<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(स्तुति होस् प्रभु) ३<br/>मेरो मनदेखि [हल्लेलूयाह]<br/>(स्तुति होस् प्रभु) ३<br/>मेरो मनदेखि<br/><br/><tag name="y">(stuti hos prabhu) ~3<br/>mero man-dekhi [halleluyaah]<br/>(stuti hos prabhu) ~3<br/>mero man-dekhi<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(हल्लेलूयाह येशू) ३<br/>मेरो मनदेखि [हल्लेलूयाह]<br/>(हल्लेलूयाह येशू) ३<br/>मेरो मनदेखि<br/><br/><tag name="y">(halleluyaah yeshu) ~3<br/>mero man-dekhi [halleluyaah]<br/>(halleluyaah yeshu) ~3<br/>mero man-dekhi<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(प्रशंसा होस् प्रभु) ३<br/>मेरो मनदेखि [हल्लेलूयाह]<br/>(प्रशंसा होस् प्रभु) ३<br/>मेरो मनदेखि<br/><br/><tag name="y">(prashaňsaa hos prabhu) ~3<br/>mero man-dekhi [halleluyaah]<br/>(prashaňsaa hos prabhu) ~3<br/>mero man-dekhi<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(जयजयकार होस् प्रभु) ३<br/>मेरो मनदेखि [हल्लेलूयाह]<br/>(जयजयकार होस् प्रभु) ३<br/>मेरो मनदेखि<br/><br/><tag name="y">(jai-jaikaar hos prabhu) ~3<br/>mero man-dekhi [halleluyaah]<br/>(jai-jaikaar hos prabhu) ~3<br/>mero man-dekhi<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

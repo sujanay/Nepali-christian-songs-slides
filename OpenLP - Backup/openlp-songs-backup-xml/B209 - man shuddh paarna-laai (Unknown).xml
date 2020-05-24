@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-27T04:43:20">
+  <properties>
+    <titles>
+      <title>B209 - man shuddh paarna-laai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>मन शुद्ध पार्नलाई<br/>येशूकहाँ गयौ के,<br/>ख्रीष्टको रगतले शुद्ध भयौ के?<br/>पूरा भरोसा येशूमा राख्छौ के,<br/>ख्रीष्टको रगतले शुद्ध भयौ के?<br/><br/><tag name="y">man shuddh paarna-laai<br/>yeshu-ka'aaň gayau ke,<br/>khrisT-ko ragat-le shuddh bhayau ke?<br/>puraa bharosaa yeshu-maa raakh-chau ke,<br/>khrisT-ko ragat-le shuddh bhayau ke?<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>तिमी शुद्ध भयौ के<br/>त्राणकर्ता येशूको रगतले?<br/>तिम्रो मन साँच्चै निष्कलङ्क भयो के<br/>येशूको त्यो अमोल रगतले ?<br/><br/><tag name="y">timi shuddh bhayau ke<br/>traaN-kartaa yeshu-ko ragat-le?<br/>timro man saaňccai niska-langk bhayo ke<br/>yeshu-ko tyo amol ragat-le ?<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दिनहुँ तिमी येशू साथ-साथ हिँड्‌छौ के<br/>उनको रगतले शुद्ध भयौ के?<br/>येशूको आनन्द तिमीले पायौ के<br/>ख्रीष्टको रगतले शुद्ध भएर?<br/><br/><tag name="y">dinhuň timi yeshu saath-saath hiňD-chau ke<br/>unko ragat-le shuddh bhayau ke?<br/>yeshu-ko aanand timi-le paayau ke<br/>khrisT-ko ragat-le shuddh bhayera?<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>ख्रीष्ट आउँदा तिम्रो लुगा साफ होला के<br/>ख्रीष्टको रगतले साफ र उज्ज्वल?<br/>तिमी स्वर्ग जानलाई तयार छौ के<br/>ख्रीष्टको रगतले शुद्ध भएर?<br/><br/><tag name="y">khrisT aauňdaa timro lugaa saaf holaa ke<br/>khrisT-ko ragat-le saaf ra ujjwal?<br/>timi sworga jaana-laai tayaar chau ke<br/>khrisT-ko ragat-le shuddh bhayera?<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>पापको दाग लागेको वस्त्र फुकाइदेऊ<br/>ख्रीष्टको रगतले शुद्ध हुन आऊ<br/>पापी मन चोख्याउने धारा बग्दै छ<br/>ख्रीष्टको रगतले शुद्ध होइजाऊ।<br/><br/><tag name="y">paap-ko daag laageko bastra fukaai-deu<br/>khrisT-ko ragat-le shuddh huna aau<br/>paapi man cokhyaaune dhaaraa bagdai cha<br/>khrisT-ko ragat-le shuddh hoi-jaau.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
