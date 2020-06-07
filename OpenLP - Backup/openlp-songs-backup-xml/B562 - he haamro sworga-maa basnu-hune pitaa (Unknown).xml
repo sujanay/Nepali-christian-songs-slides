@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-05-24T18:08:26">
+  <properties>
+    <titles>
+      <title>B562 - he haamro sworga-maa basnu-hune pitaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>हे हाम्रो स्वर्गमा बस्नुहुने पिता,<br/>तपाईंको नाउँ पवित्र गरिओस्,<br/>तपाईंको राज्य आओस्।<br/><br/><tag name="y">he haamro sworga-maa basnu-hune pitaa,<br/>tapaaiň-ko naauň pavitra gari-os,<br/>tapaaiň-ko raajye aa-os.<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>तपाईंको इच्छा स्वर्गमा झैँ<br/>यस पृथ्वीमा पूरा होस्।<br/>यस पृथ्वीमा पूरा होस्।<br/><br/><tag name="y">tapaaiň-ko ichyaa sworga-maa jhaiň<br/>yes prithivi-maa puraa hos.<br/>yes prithivi-maa puraa hos.<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>हाम्रो दिनभरिको रोटी<br/>आज हामीलाई दिनुहोस्<br/>अनि हाम्रा अपराध<br/>क्षमा गर्नुहोस्।<br/><br/><tag name="y">haamro din-bhari-ko roTi<br/>aaja haami-laai dinuhos<br/>ani haamraa aparaadh<br/>chyemaa garnu-hos.<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>जसरी हामीले पनि<br/>आफ्ना अपराधीहरूलाई<br/>क्षमा गरेका छौँ।<br/><br/><tag name="y">jasari haami-le pani<br/>aafnaa aparaadhi-haru-laai<br/>chyemaa gare-kaa chauň.<br/></tag></lines>
+    </verse>
+    <verse name="o1d">
+      <lines>हामीलाई परीक्षामा नल्याउनुहोस्<br/>तर दुष्टबाट बचाउनुहोस्।<br/>किनभने राज्य र पराक्रम र महिमा<br/>सदासर्वदा तपाईंकै हुन्।<br/><br/><tag name="y">haami-laai parikchyaa-maa na-lyaaunu-hos<br/>tara dusTa-baaTa bacaaunu-hos.<br/>kina-bhane raajye ra paraakram ra mahimaa<br/>sadaa-sarvadaa tapaaiň-kai hun.<br/></tag></lines>
+    </verse>
+    <verse name="o1e">
+      <lines>आमिन् आमिन् आमिन्<br/>आमिन् ।<br/><br/><tag name="y">aamin aamin aamin<br/>aamin.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

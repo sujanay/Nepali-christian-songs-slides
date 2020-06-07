@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-06-07T15:42:56">
+  <properties>
+    <titles>
+      <title>B599 - acamma-ko anugrah-le</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>अचम्मको अनुग्रहले<br/>बाँच्यो तुच्छ प्राण मेरो<br/>हराएको थिएँ अब पाइएको छु<br/>अन्धो देख्‍ने भएँ।<br/><br/><tag name="y">acamma-ko anugrah-le<br/>baaňcyo tuccha praaN mero<br/>haraa-yeko thiyeň aba pai-yeko chu<br/>andho dekhne bhayeň.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>अनुग्रहले ईश्‍वरको भय<br/>अनुग्रहले शान्ति<br/>कस्तो अमूल्य स्वाद अनुग्रहको<br/>जब विश्‍वास गरें।<br/><br/><tag name="y">anugrah-le ishwor-ko bhaye<br/>anugrah-le shaanti<br/>kasto amulye swaad anugrah-ko<br/>jaba vishwaas gareň.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अनेकौँ जोखिम परीक्षा<br/>भएर आइपुगेँ<br/>यहाँसम्म ल्याउने त्यो अनुग्रहले<br/>पुग्नेछु स्वर्ग मै।<br/><br/><tag name="y">anekauň jokhim parikchyaa<br/>bhayera aai-pugeň<br/>yahaaň-samma lyaaune tyo anugrah-le<br/>pugne-chu sworga mai.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>प्रभुको वाचा भलाईको<br/>यो मेरो भरोसा<br/>उहाँ नै मेरो सूर्य र ढाल<br/>प्राण मेरो रहुन्जेल।<br/><br/><tag name="y">prabhu-ko baacaa bhalaai-ko<br/>yo mero bharosaa<br/>uhaaň nai mero surye ra Dhaal<br/>praaN mero rahun-jel.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>हजुारौँ वर्ष स्वर्गमा<br/>सूर्यझैँ चम्कन्छऔँ चम्क<br/>यो अनुग्रहको प्रशंसा गाउँदै<br/>युग युगौँ रहन्छौँ।<br/><br/><tag name="y">hajaarauň barsa sworga-maa<br/>surye-jhaiň camkan-chauň<br/>yo anugraha-ko prashaňsaa gaauňdai<br/>yug yugauň rahan-chauň.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
