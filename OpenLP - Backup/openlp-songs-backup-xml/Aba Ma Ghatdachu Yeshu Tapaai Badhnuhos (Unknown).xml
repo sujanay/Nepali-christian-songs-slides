@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-08T17:30:26">
+  <properties>
+    <titles>
+      <title>Aba Ma Ghatdachu Yeshu Tapaai Badhnuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(अब म घट्दछु<br/>येशू तपाईं बढ्नुहोस्<br/>मेरो शिर झुकाउँदछु<br/>येशू तपाईं उचालिनुहोस्) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(दिन त केही छैन<br/>येशू मेरोमा<br/>दिन त यहि सक्छु<br/>आराधना...) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(आराधना... आराधना...<br/>आराधना... येशू) २</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(दिन त केही छैन<br/>येशू मेरोमा<br/>दिन त यहि सक्छु<br/>आराधना...) २</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(आराधना... आराधना...<br/>आराधना... येशू) ४</lines>
+    </verse>
+  </lyrics>
+</song>
