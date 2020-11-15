@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B315 - niraash-ko aaňdhi-maa jaba Dubchu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>निराशको आँधीमा जब डुब्छु,<br/>लङ्गर बनी साथ देऊ, प्रभु,<br/>अनुग्रहमा मलाई हिँडाऊ,<br/>अनुग्रहमा मलाई डोर्‍याऊ<br/><br/><tag name="y">niraash-ko aaňdhi-maa jaba Dubchu,<br/>langar bani saath deu, prabhu,<br/>anugraha-maa malaai hiňDaau,<br/>anugraha-maa malaai Doryaau<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(उर्लंदो आँधी सामना गर्दा<br/>त्रस्त चेला सब हताश भए) २<br/>अनुग्रहमा बाँचेको चेला हुँ,<br/>हताश होऊँला सम्हालिदेऊ, प्रभु।<br/><br/><tag name="y">(urlaňdo aaňdhi saamanaa gardaa<br/>trasta celaa sab hataash bhaye) ~2<br/>anugraha-maa baaňceko celaa huň,<br/>hataash houňlaa samhaali-deu, prabhu.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(विश्‍वासको आधारमा बाँचेको छु,<br/>विश्‍वासको लडाइँ लड्‌न सिकाऊ) २<br/>विश्‍वासलाई सिद्ध बनाउने प्रभु,<br/>मेरो विश्‍वासलाई सिद्ध बनाऊ।<br/><br/><tag name="y">(vishwaas-ko aadhaar-maa baaňceko chu,<br/>vishwaas-ko laDaaiň laDna sikaau) ~2<br/>vishwaas-laai siddha banaaune prabhu,<br/>mero vishwaas-laai siddha banaau.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(परदेशी छु म यस संसारमा,<br/>सहारा मेरो यहाँ कोही छैन) २<br/>तिमी नै मेरो सहारा बनी डोर्‍याइदेऊ<br/>दिन-दिन आत्मिक पथमा।<br/><br/><tag name="y">(pardeshi chu ma yes sansaarmaa,<br/>sahaaraa mero yahaaň kohi chaina) ~2<br/>timi nai mero sahaaraa bani Doryaai-deu<br/>din-din aatmik path-maa.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(बाँचिरहेछु म अन्तिम दिनमा,<br/>साथ देऊ मलाई पल-पलमा) २<br/>साथ तिम्रो पाए यस यात्रामा<br/>निश्चय दौड पूरा गर्नेछु म।<br/><br/><tag name="y">(baaňci-rahechu ma antim din-maa,<br/>saath deu malaai pal-pal-maa) ~2<br/>saath timro paaye yes yaatraa-maa<br/>nishcai dauD puraa gar-nechu ma.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

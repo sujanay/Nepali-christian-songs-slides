@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-15T06:13:07">
+  <properties>
+    <titles>
+      <title>(Nepali Only) Rokindina Garna Tapailai Aaradhana</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Samir Diyali</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>रोकिँदिन गर्न तपाईंलाई आराधना<br/>म रोकिँदिन गर्न तपाइँलाई आराधना<br/>(आराधना, आराधना, आराधना<br/>येशूलाई) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>म रोकिँदिन गर्न तपाईंलाई आराधना<br/>म रोकिँदिन गर्न तपाइँलाई आराधना<br/>(आराधना, आराधना, आराधना<br/>येशूलाई) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(कसरी म चुप बस्छु येशू तपाईंको<br/>अनुग्रहलाई देखि<br/>कसरी पछि हट्छु म येशू तपाईंको<br/>बलिदानलाई सम्झि) २</lines>
+    </verse>
+  </lyrics>
+</song>

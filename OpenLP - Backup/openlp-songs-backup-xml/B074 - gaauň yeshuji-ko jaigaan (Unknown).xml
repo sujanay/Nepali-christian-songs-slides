@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B074 - gaauň yeshuji-ko jaigaan</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>गाऔँ येशूजीको जयगान्,<br/>गाऔँ येशूजीको शुभनाम<br/><br/><tag name="y">gaauň yeshuji-ko jaigaan,<br/>gaauň yeshuji-ko shubha-naam<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>यरूशलेम शहरको,<br/>बेथलेहेम गावैँमा<br/><br/><tag name="y">yerushalem shaharko,<br/>bethlehem gaawaiň-maa<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(आज जन्म्यो बालक,<br/>जसको येशू नाम) २<br/>(शान्तिको राजा,<br/>येशूलाई प्रणाम्) २<br/><br/><tag name="y">(aaja jan-myo baalaka,<br/>jasko yeshu naam) ~2x<br/>(shaantiko raajaa,<br/>yeshu-laai praNaam) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>इम्मानुएलले जन्म लियो,<br/>हाम्रो भव भो उज्यालो<br/><br/><tag name="y">immaanuel-le janma liyo,<br/>haamro bhawa bho ujyaalo<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(पापको विनाश भयो,<br/>सत्यले जित्यो) २<br/>(सत्यको राजा,<br/>येशूलाई प्रणाम्) २<br/><br/><tag name="y">(paapko binaash bhayo,<br/>satye-le jityo) ~2x<br/>(satyeko raajaa,<br/>yeshu-laai praNaam) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मसीह येशू, अवतार भयो,<br/>घृणा, हेला टाढ़ो भयो<br/><br/><tag name="y">masih yeshu, awtaar bhayo,<br/>ghriNa, helaa TaDho bhayo<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>(प्रेम जन्म्यो, प्रेम बढ़्यो,<br/>प्रेम बढ़दै गो) २<br/>(प्रेमिलो राजा,<br/>येशूलाई प्रणाम्) २<br/><br/><tag name="y">(prema janmyo, prema baDhyo,<br/>prema baDhai go) ~2x<br/>(premilo raajaa,<br/>yeshu-laai praNaam) ~2x<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

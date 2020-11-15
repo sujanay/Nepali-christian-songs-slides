@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B042 - gaauňdai jaauň prabhu-ko mahimaa</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>गाउँदै जाऔं प्रभुको महिमा<br/>उनैको जन्म दिवसमा<br/>हाँस्दै बढौं उनकै सेवामा<br/>जगाउँदै नौलो भावना<br/><br/><tag name="y">gaauňdai jaauň prabhu-ko mahimaa<br/>unai-ko janma diwas-maa<br/>haaňsdai baDhauň unkai sewaa-maa<br/>jagaauň-dai naulo bhaawanaa<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(उनैको जन्म दिवसमा) २<br/>गाउँदै जाऔं प्रभुको महिमा<br/>हाँस्दै बढौं उनकै सेवामा<br/><br/><tag name="y">(unai-ko janma diwas-maa) ~2<br/>gaauňdai jaauň prabhu-ko mahimaa<br/>haaňsdai baDhauň unkai sewaa-maa<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(खुशीको यो सुसमाचार,<br/>फैलाऔं है दिशै चार) २<br/>आउनुभयो प्रभु संसारमा,<br/>निम्त्याऔं है उनलाई हृदयमा।<br/><br/><tag name="y">(khushi-ko yo su-samaacaar,<br/>failaauň hai dishai caara) ~2<br/>aaunu-bhayo prabhu sansaar-maa,<br/>nimtyaauň hai unlaai ridai-maa.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(स्वर्गराजको वैभवलाई त्यागेर,<br/>आए मानिस रूप लिएर) २<br/>आउनुभयो प्रभु संसारमा,<br/>निम्त्याऔं है उनलाई हृदयमा।<br/><br/><tag name="y">(sworga-raaj-ko baibhav-laai tyaagera,<br/>aaye maanis rupa liyera) ~2<br/>aaunu-bhayo prabhu sansaar-maa,<br/>nimtyaa-auň hai unlaai ridai-maa.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(पापीको विन्ती सुन्‍नलाई,<br/>स्वर्गको ढोका खोल्नलाई) २<br/>आउनुभयो प्रभु संसारमा,<br/>निम्त्याऔं है उनलाई हृदयमा।<br/><br/><tag name="y">(paapi-ko binti sunna-laai,<br/>sworga-ko Dhokaa kholna-laai) ~2<br/>aaunu-bhayo prabhu sansaar-maa,<br/>nimtyaa-auň hai unlaai ridai-maa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

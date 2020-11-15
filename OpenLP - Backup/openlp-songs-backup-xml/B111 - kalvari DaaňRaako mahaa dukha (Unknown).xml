@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B111 - kalvari DaaňRaako mahaa dukha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>कलवरी डाँड़ाको महा दु:ख<br/>सहनुपर्‍यो प्रभुले<br/>मजस्तो पापीलाई बचाउनु<br/>क्रूसैमा प्राण दिए<br/><br/><tag name="y">kalvari DaaňRaako mahaa dukha<br/>sahanu-paryo prabhule<br/>ma-jasto paapi-laai bacaaunu<br/>krusai-maa praaN diye.<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(कतिको निन्दा, कतिको थुक,<br/>कतिको भनाइ सहेर) २<br/>त्यो गह्रौँ क्रूस बोकेर<br/>गलगथा पुर्‍याए ।<br/><br/><tag name="y">(katiko nindaa, katiko thuk,<br/>katiko bhanaai sahera) ~2x<br/>tyo gahrauň krus bokera<br/>galgathaa puryaaye.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(सिपाहीहरू मिलेर येशूलाई<br/>क्रूसमा चढ़ाए) २<br/>उनैका वस्त्र फुकाई<br/>चिठ्ठा लगाए ।<br/><br/><tag name="y">(sipahi-haru milera yeshu-laai<br/>krus-maa caDhaaye) ~2x<br/>unaikaa bastra pukaai<br/>ciThThaa lagaaye.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(हातैमा काँटी, पावैमा<br/>काँटी ठोके दुश्मनहरूले) २<br/>कोखामा भाला<br/>हानेको सहे प्रभु येशूले ।<br/><br/><tag name="y">(hatai-maa kaaňTi, pawai-maa<br/>kaaňTi Thoke dushman-haru-le) ~2x<br/>kokhaa-maa bhaalaa<br/>haaneko sahe prabhu yeshule.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(जब क्रूसमा चढ़ाए,<br/>येशूकी माता मरियम) २<br/>रुँदै–रुँदै आइपुगिन्<br/>येशूको छेवैमा ।<br/><br/><tag name="y">(jaba krus-maa caDhaaye,<br/>yeshuki maataa mariye-maa) ~2x<br/>ruňdai-ruňdai aaipugin<br/>yeshuko chewai-maa.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(हे दाज्यू–भाइ, हे दिदी–बहिनी,<br/>पश्चात्ताप गरौँ हामीले) २<br/>दिनेछन् हामीलाई<br/>मुक्ति प्रभु येशूले ।<br/><br/><tag name="y">(he daju-bhaai, he didi-bahini,<br/>pashcaattaap garauň haamile) ~2x<br/>dinechan haamilaai<br/>mukti prabhu yeshule.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

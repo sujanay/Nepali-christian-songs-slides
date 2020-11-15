@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B338 - ma tapaaiň-ko huň, kati pyaar malaai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>म तपाईंको हुँ, कति प्यार मलाई<br/>प्रभु ख्रीष्ट दर्शाउनुभो<br/>तर विश्‍वासद्वारा तपाईंको छेउ<br/>आउने तृष्णा गर्दछु।<br/><br/><tag name="y">ma tapaaiň-ko huň, kati pyaar malaai<br/>prabhu khrisT darshaaunu-bho<br/>tara bishwaas-dwaaraa tapaaiň-ko cheu<br/>aaune trisNaa gar-dachu.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>मलाई नजीक, नजीक हे प्रभु<br/>ल्याउनोस्‌ आफ्‍‌नो क्रूसको छेउ<br/>मलाई नजीक, नजीक, नजीक, हे प्रभु<br/>आफ्‍‌नो घायल शरीरको छेउ<br/><br/><tag name="y">malaai najik, najik he prabhu<br/>lyaaunos aafno krus-ko cheu<br/>malaai najik, najik, najik, he prabhu<br/>aafno ghayel sharir-ko cheu<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>ईश्‍वरको अनुग्रहको शक्तिले<br/>म प्रभुको काम गरूँ<br/>इच्छा मेरो तपाईंकोमा मिलाई<br/>ईश्‍वरमा आशा राखूँ।<br/><br/><tag name="y">ishwor-ko anugrah-ko shakti-le<br/>ma prabhu-ko kaam garuň<br/>ichyaa mero tapaaiň-ko-maa milaai<br/>ishwor-maa aashaa raakhuň.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>जब प्रार्थनामा मित्रसँग झैँ<br/>तपाईंसँग बोल्छु म<br/>तब आउँदा तपाईंको सम्मुखमा<br/>मलाई कति आनन्द छ।<br/><br/><tag name="y">jaba praarth'naa-maa mitra-saňga jhaiň<br/>tapaaiň-saňga bolchu ma<br/>taba aauňdaa tapaaiň-ko sammukh-maa<br/>malaai kati aananda cha.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>म नमरुञ्‍जेल प्रेमको अनुभव<br/>गर्न सक्तिनँ पूरा<br/>म नबसुञ्‍जेल ख्रीष्टको सङ्गतमा<br/>मेरो मेट्‌दैन तृष्णा।<br/><br/><tag name="y">ma na-marunjel prem-ko anubhab<br/>garna sakdinaň puraa<br/>ma na-basunjel khrisT-ko sangat-maa<br/>mero meT-daina trisNaa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

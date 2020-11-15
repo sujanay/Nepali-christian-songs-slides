@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B304 - jivan aňdhyaaro-maa jaba aauňcha dukha</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>जीवन अँध्यारोमा जब आउँछ दु:ख,<br/>जब हरेस खान्छौं र हराउँछ सुख<br/>तब आशिष् गन, येशूलाई हेर,<br/>आशिष् गन्दा-गन्दै, लौ त कति धेर।<br/><br/><tag name="y">jivan aňdhyaaro-maa jaba aauňcha dukha,<br/>jaba hares khaanchauň ra haraauňcha sukha<br/>taba aashis gana, yeshulaai hera,<br/>aashis gandaa-gandai, lau ta kati dhera.<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>आशिष् गन, गन एकै-एक,<br/>आशिष् गन, हेर छन्‌ अनेक<br/>आशिष्‌ गन, छक्क पर्नेछौ,<br/>प्रभुले तिमीलाई कति दिनुभो<br/><br/><tag name="y">aashis gana, gana ekai-ek,<br/>aashis gana, hera chan anek<br/>aashis gana, chakka parnechau,<br/>prabhu-le timi-laai kati dinubho<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>फिक्री, शोकको भारी तिमी बोक्छौ कि<br/>आउने दिनको लागि बाँचौं कसरी<br/>बाइबल पढ्‌दाखेरि तिमी बुझ्‍‌नेछौ,<br/>हाम्रा प्रेमी पिताबाट सब पाउँछौं।<br/><br/><tag name="y">fikri, shok-ko bhaari timi bokchau ki<br/>aaune din-ko laagi baaňcauň kasari<br/>baaibal paDhdaa-kheri timi bujhnechau,<br/>haamraa premi pitaa-baaTa sab paauňchauň.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>धनसम्पत्ति हेर्दा थुप्रै अर्कैको,<br/>तर सम्झौं हाम्रो धन छ स्वर्गको,<br/>यस संसारको धनले शान्ति मिल्दैन,<br/>तर येशू डाक्छन्‌ जहाँ पीर छैन।<br/><br/><tag name="y">dhan-sampatti herdaa thuprai arkai-ko,<br/>tara samjhauň haamro dhan cha sworga-ko,<br/>yes sansaar-ko dhan-le shaanti mildaina,<br/>tara yeshu Daakchan jahaaň pira chaina.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>दिन-दिन लडाइँ हुन्छ, छँदा संसारमा<br/>शैतान जित्‍‌न खोज्छ हामीलाई सदा<br/>येशू छेउमा बस्दा शक्ति दिनेछन्‌,<br/>स्वर्ग नपुगेसम्म आशिष् गन्दै गन।<br/><br/><tag name="y">din-din laDaaiň huncha, chaňdaa sansaar-maa<br/>shaitaan jitna khojcha haami-laai sadaa<br/>yeshu cheu-maa basdaa shakti dinechan,<br/>sworga na-puge-samma aashis gandai gan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

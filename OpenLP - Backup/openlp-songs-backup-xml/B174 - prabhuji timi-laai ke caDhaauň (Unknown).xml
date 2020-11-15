@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B174 - prabhuji timi-laai ke caDhaauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>प्रभुजी तिमीलाई के चढ़ाऊँ,<br/>यो मेरो सब जीवन तिम्रै हो,<br/>(धन्यवाद तिमीलाई छ सदा,<br/>स्तुति लेऊ मबाट सर्वदा) २<br/><br/><tag name="y">prabhuji timi-laai ke caDhaauň<br/>yo mero sab jivan timrai ho,<br/>(dhanyebaad timi-laai cha sadaa,<br/>stuti leu ma-baaTa sarvadaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तिम्रो प्रेम उदेकको जो ममा प्रकट भो<br/>म अधर्मी पापीको, अधर्म क्षमा भो<br/>बढ़ाइ होस् प्रभु येशूको ।<br/><br/><tag name="y">timro prem udek-ko jo ma-maa prakaT bho<br/>ma adharmi paapi-ko, adharma chyemaa bho<br/>baDhaai hos prabhu yeshu-ko.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशू ख्रीष्ट राज गर्नु हरेकको हृदयमा<br/>चाहन्छन् डोर्‍याउन जीवनको बाटोमा<br/>छिटो आऊ प्रभु येशूकहाँ ।<br/><br/><tag name="y">yeshu khrisT raaj garna harek-ko ridai-maa<br/>caahan-chan Doryaauna jivan-ko baaTo-maa<br/>chiTo aau prabhu yeshu-kahaaň.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

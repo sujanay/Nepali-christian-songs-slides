@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B218 - jagata saňsaar ke'i pani chaina</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जगत् संसार केही पनि छैन<br/>सुन दाज्यू–भाइ) २<br/>(विश्‍वास गरौ हामी सबले<br/>मुक्ति पाउनलाई) २<br/><br/><tag name="y">(jagata saňsaar ke'i pani chaina<br/>suna daaju-bhaai) ~2<br/>(vishwaasa garauň haami sable<br/>mukti paau-nalaai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(ख्रीष्ट येशू छन् ) ३<br/>तयार मुक्ति दिनलाइ<br/>(ख्रीष्ट येशू छन् ) ३<br/>तयार मुक्ति दिनलाइ<br/><br/><tag name="y">(khrisT yeshu chan) ~3<br/>tayaar mukti dinalaai<br/>(khrisT yeshu chan) ~3<br/>tayaar mukti dinalaai<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(लोभै गर्छौं, लालच गर्छौं<br/>संसारको थोकलाई) २<br/>(यी सबै थोक केही पनि होइन<br/>साथमा जानलाई) २<br/><br/><tag name="y">(lobhai garchauň, laalaca garchauň<br/>saňsaar-ko thok-laai) ~2<br/>(yi sabai thok ke'i pani hoina<br/>saath-maa jaa-nalaai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(आऊ सबै विश्‍वास गरौँ<br/>मुक्ति पाउनलाई) २<br/>(येशूबाहेक अरू छैन,<br/>छैन केही उपाय) २<br/><br/><tag name="y">(aa-u sabai vishwaas garauň<br/>mukti paau-nalaai) ~2<br/>(yeshu-baahek aru chaina,<br/>chaina ke'i upai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(आऊ सबै दाज्यू–भाइ हो,<br/>सुन मन लगाई) २<br/>(ख्रीष्ट येशू तारणहारको<br/>निम्तो छ सबलाई) २<br/><br/><tag name="y">(aa-u sabai daaju-bhaai ho,<br/>suna man lagaai) ~2<br/>(khrisT yeshu taaraNahaar-ko<br/>nimto cha sab-laai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

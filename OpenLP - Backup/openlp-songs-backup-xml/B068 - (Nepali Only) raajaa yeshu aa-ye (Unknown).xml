@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-15T06:02:12">
+  <properties>
+    <titles>
+      <title>B068 - (Nepali Only) raajaa yeshu aa-ye</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(राजा येशू आए,<br/>हल्लेलूयाह आए) २<br/>(शैतानलाई जित्‍नको लागि<br/>राजा येशू आए) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(पापको क्षमा पाई<br/>हुन्छु म आनन्दित) २<br/>(मानलाई शुद्ध पार्नलाई<br/>राजा येशू आए) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(यस संसारमा पाप र दु:ख<br/>हुन्छन् धेरै-धेरै) २<br/>(सत्य शान्ति दिनलाई<br/>राजा येशू आए) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(येशू महाराजा,<br/>महाप्रभु येशू) २<br/>(हल्लेलूयाह सबले भन<br/>राजा येशू आए) २</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B038 - duniyaaň ramaau ra grahaN gara</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>दुनियाँ रमाऊ र ग्रहण गर<br/>ख्रीष्ट प्रभु राजालाई,<br/>हर मनमा होस्, उहाँलाई घर<br/><br/><tag name="y">duniyaaň ramaau ra grahaN gara<br/>khrisT prabhu raajaa-laai,<br/>har man-maa hos, uhaaňlaai ghar<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>संसार गरोस् बढ़ाइ<br/>संसार गरोस् बढ़ाइ<br/>संसार, संसार, गरोस् बढ़ाइ<br/><br/><tag name="y">sansaar garos baRhaai<br/>sansaar garos baRhaai<br/>sansaar, sansaar, garos baRhaai<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दुनियाँको ज्योति उनै हुन्,<br/>पाप क्षमा दिनेछन्<br/>उनले हाम्रा सबै दु:ख दूर गर्नछन्<br/><br/><tag name="y">duniyaaň-ko jyoti unai hun,<br/>paap chyemaa dinechan<br/>unle haamro sabai dukha dura garnechan<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>र आशिष् दिनेछन्<br/>र आशिष् दिनेछन्<br/>र आशिष्, र आशिष्, दिनेछन्<br/><br/><tag name="y">ra aashis dinechan<br/>ra aashis dinechan<br/>ra aashis, ra aashis, dinechan<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>खुशी मनाऊ, ख्रीष्ट राजा हुन्<br/>साब जन र सबै प्रण<br/>समुद्र र पहाड़<br/>र खोला र मैदान<br/><br/><tag name="y">khushi manaau, khrisT raajaa hun<br/>saab jan ra sabai praN<br/>samundra ra pahaaR<br/>ra kholaa ra maidaan<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>गाऊ स्तुतिको गीतगान<br/>गाऊ स्तुतिको गीतगान<br/>गाऊ स्तुति, गाऊ स्तुतिको गीतगान<br/><br/><tag name="y">gaau stutiko gitgaan<br/>gaau stutiko gitgaan<br/>gaau stuti, gaau stutiko gitgaan<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>जनले विश्‍वास र दयाले<br/>राज्यलाई फैलाउँदछन्<br/>आफ्नो दृढ़ सत्य विभवका बाटोले<br/><br/><tag name="y">jan-le vishwaas ra dayaale<br/>raajye-laai failaauňdachan<br/>aafno driDha satye bibhabkaa baaTole<br/></tag></lines>
+    </verse>
+    <verse name="o4">
+      <lines>अमोल प्रेम गर्दछ<br/>अमोल प्रेम गर्दछ<br/>अमोल, अमोल प्रेम गर्दछन्<br/><br/><tag name="y">aamol prem gardacha<br/>aamol prem gardacha<br/>aamol, aamol prem gardachan<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

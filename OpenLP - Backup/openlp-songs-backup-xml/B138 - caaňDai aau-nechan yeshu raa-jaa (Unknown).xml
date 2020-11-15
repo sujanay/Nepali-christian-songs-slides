@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B138 - caaňDai aau-nechan yeshu raa-jaa</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(चाँडै आनेछन् येशू राजा) २<br/>स्वर्गीय दूतगण साथमा लिई,<br/>बादलको सवारीमा आउनेछन्<br/><br/><tag name="y">(caaňDai aau-nechan yeshu raa-jaa) ~2<br/>swor-giya dutgaN saa-tha-maa li,<br/>baadala-ko sawaari-maa aau-nechan<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>हल्लेलूयाह हल्लेलूयाह<br/>हल्लेलूयाह हल्लेलूयाह<br/>मेरो येशू राजा<br/>फेरि आउनेछन्<br/><br/><tag name="y">halleluyaah, hallelu-yaah<br/>halleluyaah, hallelu-yaah<br/>mero yeshu raajaa<br/>feri aau-nechan<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>साना-साना मोती साबलाई बेची<br/>असल मोतीलाई किनेजस्तो<br/>विश्‍वास गर्ने हरेक सबलाई<br/>स्वर्गीय राज्य पनि हुन्छ यस्तो।<br/><br/><tag name="y">saanaa-saanaa moti sab-laai beci<br/>asal moti-laa-i ki-ne-jasto<br/>vishwaas garne harek saba-laai<br/>swor-giya raaj' pani hun-cha yesto.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>लुकिएको गाड़्धनलाई भेटी<br/>आफ्नो सारा भूमि बेचेजस्तो<br/>किन्‍नेलाई त्यो बहुमूल्य भुमि<br/>स्वर्गीय राज्य पनि हुन्छ यस्तो।<br/><br/><tag name="y">lukiyeko gaaR-dhanlaa-i bheTi<br/>aafno saaraa bhumi be-ce-jasto<br/>kinne-laa-i tyo bahu-mulye bhumi<br/>swor-giya raaj' pani hun-cha yesto.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
