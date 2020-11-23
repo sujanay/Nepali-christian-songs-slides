@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C293 - malaai tapaaiň-ko muhaardekhaau-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(मलाई तपाईंको मुहार<br/>देखाउनुहोस्) २<br/>(येशू तपाईंको मुहार<br/>मलाई देखाउनुहोस्) २<br/><br/><tag name="y">(malaai tapaaiň-ko muhaar<br/>dekhaau-nuhos) ~2<br/>(yeshu tapaaiň-ko muhaar<br/>malaai dekhaau-nuhos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(तपाईंको सुन्दरतालाई हेर्न) २<br/>(तपाईंको मुहारलाई सधैं नियाल्न) २<br/>(येशू तपाईंको मुहार<br/>ममा चम्काउनुहोस्।) २<br/><br/><tag name="y">(tapaaiň-ko sundartaa-laai herna) ~2<br/>(tapaaiň-ko muhaar-laai sadhaiň niyaalna) ~2<br/>(yeshu tapaaiň-ko muhaar<br/>ma-maa camkaau-nuhos.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

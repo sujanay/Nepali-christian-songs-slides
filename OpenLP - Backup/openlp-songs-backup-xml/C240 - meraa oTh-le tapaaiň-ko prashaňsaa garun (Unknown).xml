@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C240 - meraa oTh-le tapaaiň-ko prashaňsaa garun</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>मेरा ओठले तपाईंको प्रशंसा गरून्‌,<br/>कारण तपाईंले आफ्‍‌ना नियमहरू<br/>मलाई सिकाउनुहुन्छ,<br/><br/><tag name="y">meraa oTh-le tapaaiň-ko prashaňsaa garun,<br/>kaaraN tapaaiň-le aafnaa niyem-haru<br/>malaai sikaaunu-huncha,<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>मेरा जिब्रोले तपाईंको भजन गाऊन्‌,<br/>कारण तपाईंका आज्ञाहरू धार्मिक छन्‌।<br/><br/><tag name="y">meraa jibro-le tapaaiň-ko bhajan gaaun,<br/>kaaraN tapaaiň-kaa aagyaa-haru dharmik chan.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

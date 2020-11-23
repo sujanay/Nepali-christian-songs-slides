@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C291 - pavitra tapaaiň, mero nimti</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>पवित्र तपाईं, मेरो निम्ति<br/>कलवरी क्रूसमा जानुभो<br/>पवित्र तपाईं, मेरो निम्ति<br/>दु:ख सहनुभो<br/><br/><tag name="y">pavitra tapaaiň, mero nimti<br/>kalwari krus-maa jaanu-bho<br/>pavitra tapaaiň, mero nimti<br/>dukha sahanu-bho<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>के चढाऊँ प्रभु,<br/>यो क्षुद्र जीवनबाट ?<br/>के चढाऊँ प्रभु,<br/>यो तुच्छ जीवनबाट ?<br/><br/><tag name="y">ke caRhaauň prabhu,<br/>yo chyudra jivan-baaTa ?<br/>ke caRhaauň prabhu,<br/>yo tuccha jivan-baaTa ?<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सुन र चाँदी छैन,<br/>छ एउटा चूर्ण यो हृदय) २<br/>कृतज्ञताले भरेर पोखिन्छ<br/>तपाईंको पाउमा।<br/><br/><tag name="y">(sun ra caaňdi chaina,<br/>cha euTaa curNa yo ridai) ~2<br/>krita-gyataa-le bharera pokhin-cha<br/>tapaaiň-ko paau-maa.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

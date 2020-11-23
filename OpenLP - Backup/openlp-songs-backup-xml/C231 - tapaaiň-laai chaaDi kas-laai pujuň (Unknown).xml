@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C231 - tapaaiň-laai chaaDi kas-laai pujuň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाईंलाई छाडी कसलाई पुजूँ,<br/>कसको सेवा गरूँ,<br/>तपाईं मेरो परमेश्‍वर।<br/><br/><tag name="y">tapaaiň-laai chaaDi kas-laai pujuň,<br/>kas-ko sevaa garuň,<br/>tapaaiň mero parmeshwor.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंलाई छाडी कसलाई भजूँ,<br/>कसको उपासना गरूँ,<br/>तपाईं मेरो ठूलो इनाम,<br/><br/><tag name="y">tapaaiň-laai chaaDi kas-laai bhajuň,<br/>kas-ko upaasanaa garuň,<br/>tapaaiň mero Thulo inaam,<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>स्वर्गमा तपाईंबिना<br/>मेरो कोही छैन।<br/>पृथ्वीमा मैले चाहेको<br/>तपाईं मात्र हुनुहुन्छ।<br/><br/><tag name="y">sworga-maa tapaaiň-binaa<br/>mero kohi chaina.<br/>prithivi-maa maile caaheko<br/>tapaaiň maatra hunu-huncha.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

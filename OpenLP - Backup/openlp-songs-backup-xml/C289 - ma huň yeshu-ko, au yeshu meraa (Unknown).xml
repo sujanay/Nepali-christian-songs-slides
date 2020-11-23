@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C289 - ma huň yeshu-ko, au yeshu meraa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>म हुँ येशूको, औ येशू मेरा<br/>(संसारमा अरू केहीको चाहिँदैन) २<br/><br/><tag name="y">ma huň yeshu-ko, au yeshu meraa<br/>(sansaar-maa aru kehi-ko caahiň-daina) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(उहाँको काखमा लुटु र पुटु<br/>गरेर बिसाउँछु) २<br/>(जीवनको पानी पिएर यसै<br/>तृष्णा मेटाउँछु) २<br/><br/><tag name="y">(uhaaň-ko kaakh-maa luTu ra puTu<br/>garera bisaauň-chu) ~2<br/>(jivan-ko paani piyera yesai<br/>trisaNaa meTaauň-chu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशूको गीत प्रेमको भाका<br/>गाएर सनाउँछु) २<br/>(फरिया र चोली लाएकै दुलही<br/>म उनकी हुनेछु।) २<br/><br/><tag name="y">(yeshu-ko gita prema-ko bhaakaa<br/>gaayera sanaauň-chu) ~2<br/>(fariyaa ra coli laayekai dulahi<br/>ma unki hune-chu.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
