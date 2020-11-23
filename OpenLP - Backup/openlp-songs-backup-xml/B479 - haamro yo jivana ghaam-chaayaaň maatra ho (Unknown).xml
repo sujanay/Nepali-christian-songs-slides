@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B479 - haamro yo jivana ghaam-chaayaaň maatra ho</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>हाम्रो यो जीवन घाम-छायाँ मात्र हो,<br/>हाम्रो यो जीवन बगेको खोला हो,<br/>फर्केर आउँदैन बितेको जीवन यो,<br/>रोएर फिर्दैन गएको यौवन यो<br/><br/><tag name="y">haamro yo jivana ghaam-chaayaaň maatra ho,<br/>haamro yo jivana bageko kholaa ho,<br/>farkera aauň-daina biteko jivana yo,<br/>royera fir-daina gayeko yauwana yo<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>मिलेर-जुलेर सबैले<br/>जयजयकार मनाऔं<br/>हाँसेर गाएर सबैले<br/>प्रभुको वचन सुनाऔँ।<br/><br/><tag name="y">milera-julera sabai-le<br/>jai-jai-kaara manaauň<br/>haaňsera gaayera sabai-le<br/>prabhu-ko bacan sunaauň<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आजलाई अनि भोलिलाई<br/>स्वर्गको मार्ग बनाऔं<br/>सम्झाउँदै-बुझाउँदै अरूलाई<br/>प्रभुको वचन सुनाऔं।<br/><br/><tag name="y">aaja-laai ani bholi-laai<br/>sworga-ko maarga banaauň<br/>samjhaauň-dai-bujhaauň-dai aru-laai<br/>prabhu-ko bacan sunaauň.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

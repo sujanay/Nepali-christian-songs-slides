@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B501 - siňhaasana-maa biraaj-maan hune</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>(सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी) २<br/>(आऊ उनलाई पुजौं भक्तिसाथ,<br/>कहिले छोड्नेछैनन् हाम्रो हात) २<br/><br/><tag name="y">(siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami) ~2<br/>(aau un-laai pujauň bhakti-saath,<br/>ka'ile choDne-chainan haamro haat) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी<br/><br/><tag name="y">siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(उहाँको रगतले धोई<br/>पखालेको पवित्र जाति<br/>आदर, प्रशंसायोगय<br/>परमेश्‍वरको पूजारी हामी) २<br/><br/><tag name="y">(uhaaň-ko ragat-le dhoi<br/>pakhaa-leko pavitra jaati<br/>aadar, prashaňsaa-yogye<br/>parmeshwor-ko pujaari haami) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>(सनातनदेखि, सनातनसम्म) २<br/>(आऊ उनलाई पुजौं भक्तिसाथ<br/>कहिले छोड्नेछैनन् हाम्रो हात।) २<br/><br/><tag name="y">(sanaatan-dekhi, sanaatan-samma.) ~2<br/>(aau un-laai pujauň bhakti-saath<br/>ka'ile choDne-chainan haamro haat.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी) २<br/>(आऊ उनलाई पुजौं भक्तिसाथ,<br/>कहिले छोड्नेछैनन् हाम्रो हात) २<br/><br/><tag name="y">(siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami) ~2<br/>(aau un-laai pujauň bhakti-saath,<br/>ka'ile choDne-chainan haamro haat) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1c">
+      <lines>सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी<br/><br/><tag name="y">siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(झरी-घाम र छायाँको<br/>आज गरौं सामना हामी<br/>सबै नयाँ भएका<br/>स्वदेशमा जानेछौं हामी,) २<br/><br/><tag name="y">(jhaari-ghaama ra chaayaaň-ko<br/>aaja garauň saamnaa haami<br/>sabai nayaaň bhayekaa<br/>swodesha-maa jaane-chauň haami) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1d">
+      <lines>(बादलपारिको उहाँको देशमा) २<br/>(आऊ उनलाई पुजौं भक्तिसाथ<br/>कहिले छोड्नेछैनन् हाम्रो हात।) २<br/><br/><tag name="y">(baadal-paariko uhaaň-ko desha-maa) ~2<br/>(aau un-laai pujauň bhakti-saath<br/>ka'ile choDne-chainan haamro haat.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>(सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी) २<br/>(आऊ उनलाई पुजौं भक्तिसाथ,<br/>कहिले छोड्नेछैनन् हाम्रो हात) २<br/><br/><tag name="y">(siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami) ~2<br/>(aau un-laai pujauň bhakti-saath,<br/>ka'ile choDne-chainan haamro haat) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1e">
+      <lines>सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी<br/><br/><tag name="y">siňhaasana-maa biraaj-maan hune,<br/>parameshwora-ko prajaa haami<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

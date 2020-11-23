@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B359 - ma huň euTaa ritto bhaaňDo</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>म हुँ एउटा रित्तो भाँड़ो,<br/>फुस्रो माटोले बनेको,<br/>कुटीपिटी, काटीछाँटी,<br/><br/><tag name="y">ma huň euTaa ritto bhaaňDo,<br/>fusro maaTo-le baneko,<br/>kuTi-piTi, kaaTichaaň-Ti,<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>तपाईंको इच्छा अनुसारको<br/>(भाँड़ो मलाई बनाउँनुहोस्।) २<br/><br/><tag name="y">tapaaiň-ko icchaa a-nusaar-ko<br/>(bhaaňDo malaai banaauň-nuhos) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(म छु मैलो कटकटेको,<br/>सरवाङ्ग मेरो धुनुहोस्,) २<br/>(तपाईंको गुणले भरेर,<br/>बल्दो साक्षी बनाउनुहोस् ।) २<br/><br/><tag name="y">(ma chu mailo kaTaka-Teko,<br/>sarvanga mero dhu-nuhos,) ~2<br/>(tapaaiň-ko guN-le bha-rera,<br/>baldo sakchi banaau-nuhos.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(पवित्रात्मा पलपलमा<br/>मलाई नम्र तुल्याउनुहोस् ।) २<br/>(कदम-कदममा डोर्‍याउँदै,<br/>प्रार्थनाको जीवन दिनुहोस् ।) २<br/><br/><tag name="y">(pavitra-aatmaa pala-pala-maa<br/>malaai namra tulyaau-nuhos) ~2<br/>(kadam-kadam-maa Do-ryaauňdai,<br/>praarth'naa-ko jivana di-nuhos.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(येशू तपाईंको भाँड़ो हुँ,<br/>अति थकित र कमजोर छु,) २<br/>(तपाईंको सामर्थी हातले,<br/>समातेर चलाउनुहोस् ।) २<br/><br/><tag name="y">(yeshu tapaaiň-ko bhaaňDo huň,<br/>a-ti thakit ra kam-jor chu,) ~2<br/>(tapaaiň-ko samarthi haa-ta-le,<br/>samaa-tera calaau-nuhos.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

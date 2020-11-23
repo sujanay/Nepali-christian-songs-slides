@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B506 - shikhar-haru hiuň-le Dhaake-jhaiň</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>शिखरहरू हिउँले ढाकेझैँ,<br/>यो भूमिलाई वचनले ढाक्‍‌नैपर्छ<br/>(किनारहरू बालुवाले ढाकेझैँ,) २<br/>(यो पुस्तालाई येशू चिनाउनैपर्छ) २<br/><br/><tag name="y">shikhar-haru hiuň-le Dhaake-jhaiň,<br/>yo bhumi-laai bacan-le Dhaaknai-parcha<br/>(kinaar-haru baaluwaa-le Dhaake-jhaiň,) ~2<br/>(yo pustaa-laai yeshu cinaaunai-parcha) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(निराश छन्‌ पहाडमा<br/>साइँला-माइलाहरू,<br/>अशान्त छन्‌ तराईमा<br/>सानी-ठूलीहरू) २<br/><br/><tag name="y">(niraasha chan pahaaR-maa<br/>saaiňlaa-maailaa-haru,<br/>ashaanta chan taraai-maa<br/>saani-Thuli-haru) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>चौबाटोमा सबै जना<br/>बाटो खोजिरहेछन्‌<br/>(येशू नपाई मान्छेहरू<br/>मृत्यु पर्खिरहेछन्‌) २<br/><br/><tag name="y">cau-baaTo-maa sabai janaa<br/>baaTo khoji-rahechan<br/>(yeshu na-paai maanche-haru<br/>mrityu parkhi-rahechan) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(रोएका छन्‌ शहरमा<br/>घरघरानाहरू,<br/>भुलेका छन्‌ पापैमा<br/>हाम्रा मानिसहरू) २<br/><br/><tag name="y">(royekaa chan shahar-maa<br/>ghar-gharaanaa-haru,<br/>bhulekaa chan paapai-maa<br/>haamraa maanis-haru) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>दोधारमा सबै जना<br/>अलमलिरहेका छन्‌,<br/>(येशू नपाई मान्छेहरू<br/>मृत्यु पर्खिरहेछन्‌) २<br/><br/><tag name="y">dodhaar-maa sabai janaa<br/>almali-rahekaa chan,<br/>(yeshu na-paai maanche-haru<br/>mrityu parkhi-rahechan) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

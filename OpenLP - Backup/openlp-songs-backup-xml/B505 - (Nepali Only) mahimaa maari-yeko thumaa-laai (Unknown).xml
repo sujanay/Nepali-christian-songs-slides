@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-22T20:14:40">
+  <properties>
+    <titles>
+      <title>B505 - (Nepali Only) mahimaa maari-yeko thumaa-laai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>महिमा मारिएको थुमालाई<br/>प्रशंसा प्रभुहरूका प्रभुलाई<br/>(जयजयकार राजाहरूका राजालाई) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(धन्यवाद, स्तुति, आदर र भक्ति<br/>मारिएको थुमालाई अति) २<br/>(इज्जत, मान, वैभव र शक्ति) २<br/>अति पवित्र, पवित्र, पवित्र,<br/>ईश्‍वरप्रति, ईश्‍वरप्रति</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(होसन्‍‌ना आमिन, गौरव र गीति<br/>मारिएको थुमालाई अति) २<br/>(प्रणाम्, ढोग, दण्डवत् दृष्टि) २<br/>ल्याउँछौँ विजयी, विजयी, विजयी,<br/>ईश्‍वरप्रति, ईश्‍वरप्रति</lines>
+    </verse>
+  </lyrics>
+</song>

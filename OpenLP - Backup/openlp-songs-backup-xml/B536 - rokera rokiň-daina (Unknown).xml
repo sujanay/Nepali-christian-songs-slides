@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B536 - rokera rokiň-daina</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>रोकेर रोकिँदैन,<br/>नदीको प्रवाहलाई,<br/>छेकेर छेकिँदैन<br/>हावाको गतिलाई<br/><br/><tag name="y">rokera rokiň-daina,<br/>nadi-ko prabaaha-laai,<br/>chekera chekiň-daina<br/>haawaa-ko gati-laai<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>थुनेर थुनिँदैन<br/>सूर्यको प्रकाशलाई<br/>(यस्तै छ, यस्तै नै हो) २<br/>(प्रभुको राज्य, प्रभुको काम) २<br/><br/><tag name="y">thunera thuniň-daina<br/>surye-ko prakaasha-laai<br/>(yestai cha, yestai nai ho) ~2<br/>(prabhu-ko raajye, prabhu-ko kaam) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>रोमी शासकले रोक्‍‌न खोजे,<br/>यहूदी जातिले छेक्‍‌न खोजे<br/>(सा रे सा सा रे सा सा नि ध प<br/>सा रे ग रे ग म नि सा रे सा)<br/><br/><tag name="y">romi shaasak-le roka-na khoje,<br/>ye'udi jaati-le cheka-na khoje<br/>(saa re saa saa re saa saa ni dha pa<br/>saa re ga re ga ma ni saa re saa)<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(न सके रोक्‍‌न, न सके छेक्‍‌न) २<br/>फैलिनुपर्थ्यो, फैलिँदै आयो<br/>(प्रभुको राज्य, प्रभुको काम) २<br/><br/><tag name="y">(na sake roka-na, na sake cheka-na) ~2<br/>fai-linu-parthyo, fai-liňdai aayo<br/>(prabhu-ko raajye, prabhu-ko kaam) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>खोल्‍‌नुपर्छ आवाजहरू,<br/>तोड्‌नुपर्छ बन्धनहरू<br/>सा रे सा सा रे सा सा नि ध प<br/>सा रे ग रे ग म नि सा रे सा<br/><br/><tag name="y">kholnu-parcha aawaaj-haru,<br/>toDnu-parcha bandhan-haru<br/>(saa re saa saa re saa saa ni dha pa<br/>saa re ga re ga ma ni saa re saa)<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(भैसक्यो बेला नगरौं ढिला) २<br/>फैलिनुपर्थ्यो, फैलिँदै आयो<br/>प्रभुको राज्य, प्रभुको काम<br/><br/><tag name="y">(bhai-sakyo belaa na-garauň Dhilaa) ~2<br/>fai-linu-parthyo, fai-liňdai aayo<br/>(prabhu-ko raajye, prabhu-ko kaam) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

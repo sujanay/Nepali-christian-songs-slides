@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-22T20:15:08">
+  <properties>
+    <titles>
+      <title>B475 - (Nepali Only) Bishwaas gari prabhu ko charan ma aau</title>
+    </titles>
+    <verseOrder>c1 o1 v1 c1 o1 v2 c1 o1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>विश्‍वास गरी प्रभुको<br/>चरणमा आऊ<br/>आफ्‍‌ना भूललाई स्वीकारी<br/>उनैमा क्षमा पाउन,</lines>
+    </verse>
+    <verse name="o1">
+      <lines>उनी आए संसारमा बचाउन<br/>हामी सबैलाई<br/>केवल उनमा छ मुक्ति,<br/>उनी हुन्‌ साँचो गोठाला</lines>
+    </verse>
+    <verse name="v1">
+      <lines>कलवरी डाँडामा येशूलाई<br/>झुन्डिएको आज हेरिदेऊ<br/>(केवल तिम्रै निम्ति मात्र उनैले<br/>आफ्‍‌नो प्राणसम्म दिनुभो) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>उनको प्रेमी बोलावट सुनिदेऊ,<br/>आफ्‍‌नो हृदय उहाँलाई खोलिदेऊ<br/>(उनी आउनुहुनेछन्‌ तिमीभित्र<br/>दिनलाई अनन्त जीवन) २</lines>
+    </verse>
+  </lyrics>
+</song>

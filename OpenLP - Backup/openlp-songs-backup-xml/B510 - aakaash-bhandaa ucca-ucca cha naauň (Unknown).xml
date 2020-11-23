@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B510 - aakaash-bhandaa ucca-ucca cha naauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>आकाशभन्दा उच्च-उच्च छ नाउँ,<br/>सागरभन्दा गहिरो-गहिरो छ प्रेम<br/>आसमानभन्दा विशाल-विशाल अनुग्रह<br/>छ, हाम्रो प्रभु येशूको।<br/><br/><tag name="y">aakaash-bhandaa ucca-ucca cha naauň,<br/>saagar-bhandaa gahiro-gahiro cha prem<br/>aasmaan-bhandaa vishaal-vishaal anugrah<br/>cha, haamro prabhu yeshu-ko.<br/></tag></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsaa,<br/>gaauň-chauň mahimaa unai yeshu-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>वाक्यले व्यक्त नहुने,<br/>भन्‍‌नलाई शब्द नपुग्‍‌ने प्रेम,<br/>आदिदेखि अहिलेसम्म<br/>समयले साक्षी दिएको प्रेम,<br/><br/><tag name="y">baakye-le byekta na-hune,<br/>bhanna-laai shabda na-pugne prem,<br/>aadi-dekhi ahile-samma<br/>samai-le sakchi diyeko prem,<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>स्वर्ग छोडी आउनुभो<br/>क्रूसैमा मर्नुभो,<br/>मृत्युलाई जित्‍‌नुभो,<br/>हामीलाई मुक्ति दिनलाई।<br/><br/><tag name="y">sworga choDi aaunu-bho<br/>krusai-maa marnu-bho,<br/>mrityu-laai jitnu-bho,<br/>haami-laai mukti dina-laai.<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsaa,<br/>gaauň-chauň mahimaa unai yeshu-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>सारा सृष्टिले ढोग्‍‌नेछ,<br/>सबै घुँडाहरू टेक्‍‌नेछन्‌,<br/>निर्बल बलियो हुनेछ,<br/>लाटाले पुकार्नेछ त्यो नाउँ<br/><br/><tag name="y">saaraa srisTi-le dhog-necha,<br/>sabai ghuňRaa-haru Tek-nechan,<br/>nirbal baliyo hu-necha,<br/>laaTaa-le pukaar-necha tyo naauň<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>अन्धाले देख्‍‌नेछ,<br/>बहिरोले सुन्‍‌नेछ,<br/>मुर्दा बिउँतनेछ<br/>उनैलाई महिमा दिनलाई।<br/><br/><tag name="y">andhaa-le dekh-necha,<br/>bahiro-le sun-necha,<br/>murdaa biuňta-necha<br/>unai-laai ma'imaa dina-laai.<br/></tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २<br/><br/><tag name="y">(yesai-le garchauň prashaňsaa,<br/>gaauň-chauň mahimaa unai yeshu-ko) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

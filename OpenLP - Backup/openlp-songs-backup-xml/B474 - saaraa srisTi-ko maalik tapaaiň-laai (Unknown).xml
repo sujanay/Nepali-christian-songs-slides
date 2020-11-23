@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B474 - saaraa srisTi-ko maalik tapaaiň-laai</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>सारा सृष्टिको मालिक तपाईंलाई,<br/>सारा सृष्टिको रक्षक तपाईंलाई,<br/>हाम्रो हृदय समेतले आदर-प्रणाम,<br/>सदैव होस्‌ तपाईंको गुण गान<br/><br/><tag name="y">saaraa srisTi-ko maalik tapaaiň-laai,<br/>saaraa srisTi-ko rakchyek tapaaiň-laai,<br/>haamro ridai sameta-le aadar-praNaam,<br/>sadaiba hos tapaaiň-ko guNa gaan<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(ह ह ह हल्लेलूयाह) ७<br/>आमिन्<br/><br/><tag name="y">(ha ha ha halleluyaah) ~7<br/>aamin<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सब संसार टलेर जानेछ,<br/>टल्‍‌नेछैन तपाईंको वचन<br/>बितेर जानेछ यो जीवन,<br/>तर विश्‍वासी मर्दैन कहिले) २<br/><br/><tag name="y">(saba sansaar Talera jaane-cha,<br/>Talne-chaina tapaaiň-ko bacana<br/>bitera jaane-cha yo jivana,<br/>tara vishwaasi mar-daina ka'ile) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(नयाँ संसार र स्वर्ग हुनेछ,<br/>विश्‍वास गर्ने सबैको निम्ति<br/>प्रशंसा, आदर हुनेछ त्यहाँ,<br/>हाम्रा परमप्रेमी पितालाई) २<br/><br/><tag name="y">(nayaaň sansaar ra sworga hune-cha,<br/>vishwaas garne sabai-ko nimti<br/>prashaňsaa, aadar hunecha tyahaaň,<br/>haamraa param-premi pitaa-laai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

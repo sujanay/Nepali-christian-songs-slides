@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:12">
+  <properties>
+    <titles>
+      <title>B480 - haaňs-khela gardai bhani-deu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1a">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/>संसार सबैलाई<br/>धरतीको बोझ उठाइलाने<br/>जन्मिए मुक्तिदाता<br/><br/><tag name="y">haaňs-khela gardai bhani-deu<br/>saňsaara sabai-laai<br/>dharti-ko bhojha uThaai-laane<br/>jan-miye mukti-daataa</tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(मानिसको चोला लिएर<br/>गरीब गोठैमा) २<br/><br/><tag name="y">(maanis-ko colaa liyera<br/>garib goThai-maa) ~2</tag></lines>
+    </verse>
+    <verse name="c1c">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/><br/><tag name="y">haaňs-khela gardai bhani-deu</tag></lines>
+    </verse>
+    <verse name="v1a">
+      <lines>(गोठालाहरूलाई पहिले<br/>दर्शन पठाए पिताले) २<br/>दूतगण आई भन्‍नलागे<br/>साँझको बेलामा<br/><br/><tag name="y">(goThaalaa-haru-laai pahile<br/>darshan paThaa-ye pitaa-le) ~2<br/>dutgaNa aa-i bhanna-laage<br/>saaňjha-ko belaa-maa</tag></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>तारणहार प्रभु जन्मिए आज<br/>दाऊदको शहरमा<br/>गई हेर तिम्रो प्रभुलाई<br/>पहिले नजरमा<br/><br/><tag name="y">taara-Nahaar prabhu jan-miye aaja<br/>daa-ud-ko shahar-maa<br/>gai hera timro prabhu-laai<br/>pahile najar-maa</tag></lines>
+    </verse>
+    <verse name="c1d">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/>संसार सबैलाई<br/>धरतीको बोझ उठाइलाने<br/>जन्मिए मुक्तिदाता<br/><br/><tag name="y">haaňs-khela gardai bhani-deu<br/>saňsaara sabai-laai<br/>dharti-ko bhojha uThaai-laane<br/>jan-miye mukti-daataa</tag></lines>
+    </verse>
+    <verse name="c1e">
+      <lines>(मानिसको चोला लिएर<br/>गरीब गोठैमा) २<br/><br/><tag name="y">(maanis-ko colaa liyera<br/>garib goThai-maa) ~2</tag></lines>
+    </verse>
+    <verse name="c1f">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/><br/><tag name="y">haaňs-khela gardai bhani-deu</tag></lines>
+    </verse>
+    <verse name="v2a">
+      <lines>(पूर्वका ज्ञानी ज्योतिषी<br/>आकाश हेरेर बात गर्थे) २<br/>साँझको नौलो तारा देखी<br/>हर्षले रमाए<br/><br/><tag name="y">(purba-kaa gyaani jyotisi<br/>aakaash herera baat garthe) ~2<br/>sanjha-ko naulo taaraa dekhi</tag><br/>harsa-le ramaaye</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>राजाहरूका राजा<br/>जन्मेको पत्ता लगाए<br/>परमपितालाई मन खोली<br/>धन्यवाद चढाए<br/><br/><tag name="y">raajaa-haru-kaa raajaa<br/>jan-meko pattaa lagaaye<br/>param-pitaa-laai man kholi<br/>dhanyebaad caRhaaye</tag></lines>
+    </verse>
+    <verse name="c1g">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/>संसार सबैलाई<br/>धरतीको बोझ उठाइलाने<br/>जन्मिए मुक्तिदाता<br/><br/><tag name="y">haaňs-khela gardai bhani-deu<br/>saňsaara sabai-laai<br/>dharti-ko bhojha uThaai-laane<br/>jan-miye mukti-daataa</tag></lines>
+    </verse>
+    <verse name="c1h">
+      <lines>(मानिसको चोला लिएर<br/>गरीब गोठैमा) २<br/><br/><tag name="y">(maanis-ko colaa liyera<br/>garib goThai-maa) ~2</tag></lines>
+    </verse>
+    <verse name="c1i">
+      <lines>हाँस-खेल गर्दै भनिदेऊ<br/><br/><tag name="y">haaňs-khela gardai bhani-deu</tag></lines>
+    </verse>
+  </lyrics>
+</song>
