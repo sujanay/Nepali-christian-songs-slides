@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C085 - aauň haami aaraadhnaa garauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">आऔं हामी आराधना गरौं,<br/>सृष्टिकर्ताकै सामु घुँडा टेकौं<br/>आऔं हामी दण्डवत्‌ गरौं,<br/>सृष्टिकर्ताकै सामु घुँडा टेकौं<br/><br/><tag name="y">aauň haami aaraadhnaa garauň,<br/>srisTi-kartaa-kai saamu ghuňDaa Tekauň<br/>aauň haami daNDawat garauň,<br/>srisTi-kartaa-kai saamu ghuňDaa Tekauň<br/></tag></lines>
+      <lines>उहाँ नै हाम्रा परमेश्‍वर हुन्‌<br/>र हामी उहाँको खर्कका प्रजा<br/>र उहाँका हातका भेडा हौं<br/>र उहाँका हातका भेडा हौं।<br/><br/><tag name="y">uhaaň nai haamraa parmeshwor hun<br/>ra haami uhaaň-ko kharka-kaa prajaa<br/>ra uhaaň-kaa haatkaa bheDaa hauň<br/>ra uhaaň-kaa haatkaa bheDaa hauň.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

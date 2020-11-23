@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C096 - yi din hun eliyaa-ko jhaiň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>यी दिन हुन्‌ एलियाको झैँ<br/>वचन प्रचार गर्ने<br/>यी दिन हुन्‌ प्रभुको दास मोशाको झैँ<br/>धार्मिकता स्थापित गर्ने,<br/><br/><tag name="y">yi din hun eliyaa-ko jhaiň<br/>bacan pracaara garne<br/>yi din hun prabhu-ko daas moshaa-ko jhaiň<br/>dharmik-taa sthaapit garne,<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>यस्तै यी दिन हुन्‌ ठूलो परीक्षा,<br/>अनिकाल, लडाइँका<br/>हामी हौं उजाड-स्थानमा कराउने स्वर<br/>प्रभुको बाटो बनाऔं।<br/><br/><tag name="y">yestai yi din hun Thulo parikchyaa,<br/>ani-kaal, laDaaiň-kaa<br/>haami hauň ujaaD-sthaan-maa karaaune swor<br/>prabhu-ko baaTo banaauň.<br/></tag></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>हेर उनी आउँछन्‌ बादलमा<br/>सूर्यझैँ चम्कँदै तुरहीको आवाजमा<br/>चर्को गरी कराऊ छुटकाराको वर्ष,<br/>सियोनबाट अझै आउँछ उद्धार।<br/><br/><tag name="y">hera uni aauň-chan baadal-maa<br/>surye-jhaiň camkaň-dai turahi-ko aawaaj-maa<br/>carko gari karaau chuTkaaraa-ko barsa,<br/>siyon-baaTa ajhai aauňcha uddhaar.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>यी दिन हुन्‌ इजकिएलका झैँ,<br/>सुक्खा हड्डी शरीर बन्‍‌ने,<br/>यी दिन हुन्‌ प्रभुको दास दाऊदको झैँ,<br/>प्रशंसा गर्ने, मन्दिर बन्‍‌ने<br/><br/><tag name="y">yi din hun ijakiyel-kaa jhaiň,<br/>sukkhaa haDDi sharir banne,<br/>yi din hun prabhu-ko daas daud-ko jhaiň,<br/>prashaňsaa garne, mandir banne<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>अनि यी दिन हुन्‌ कटनीका<br/>संसारका खेतहरू<br/>हामी हौं प्रभुका<br/>खेतका खेताला वचन घोषणा गर्ने।<br/><br/><tag name="y">ani yi din hun kaTani-kaa<br/>sansaar-kaa kheta-haru<br/>haami hauň prabhu-kaa<br/>khet-kaa khetaalaa bacan ghosaNaa garne.<br/></tag></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>हेर उनी आउँछन्‌ बादलमा<br/>सूर्यझैँ चम्कँदै तुरहीको आवाजमा<br/>चर्को गरी कराऊ छुटकाराको वर्ष,<br/>सियोनबाट अझै आउँछ उद्धार।<br/><br/><tag name="y">hera uni aauň-chan baadal-maa<br/>surye-jhaiň camkaň-dai turahi-ko aawaaj-maa<br/>carko gari karaau chuTkaaraa-ko barsa,<br/>siyon-baaTa ajhai aauňcha uddhaar.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

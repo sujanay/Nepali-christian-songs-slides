@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C031 - la jaauň hai siyon-samma</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(ल जाऊँ है सियोनसम्म) ३<br/>येशूको नगरमा<br/>हो ! (जय हल्लेलूयाह) ३<br/>आनन्द मनाऊँ ।<br/><br/><tag name="y">(la jaauň hai siyon-samma) ~3<br/>yeshuko nagar-maa<br/>ho ! (jai halleluyaah) ~3<br/>aanand manaauň<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(सियोनको राजा येशू) ३<br/>राज गर्दै जाऊँ<br/>हो ! (जय हल्लेलूयाह) ३<br/>आनन्द मनाऊँ ।<br/><br/><tag name="y">(siyon-ko raajaa yeshu) ~3<br/>raaj gardai jaauň<br/>ho ! (jai halleluyaah) ~3<br/>aanand manaauň<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(प्रेमी छन् सियोनमा) ३<br/>प्रेम गर्दै जाऊँ<br/>हो ! (जय हल्लेलूयाह) ३<br/>आनन्द मनाऊँ ।<br/><br/><tag name="y">(premi chan siyon-maa) ~3<br/>prem gardai jaauň<br/>ho ! (jai halleluyaah) ~3<br/>aanand manaauň<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(नाच्दै जाऊँ सियोनमा)३<br/>प्रेमी येशूकहाँ<br/>हो ! (जय हल्लेलूयाह)३<br/>आनन्द मनाऊँ ।<br/><br/><tag name="y">(naacdai jaauň siyon-maa) ~3<br/>premi yeshu-ka'aaň<br/>ho ! (jai halleluyaah) ~3<br/>aanand manaauň<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

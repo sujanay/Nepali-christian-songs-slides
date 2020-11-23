@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-15T06:04:51">
+  <properties>
+    <titles>
+      <title>C037 - (Nepali Only) uni nai hun prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>उनी नै हुन् प्रभु<br/>मृत्युबाट बौरने,<br/>उनी प्रभु</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>हरेक घुँडा टेक्‍‌नेछ,<br/>हर जिब्रोले भन्‍‌नेछ<br/>येशू ख्रीष्ट नै हुन् प्रभु ।</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तिमीं नै हौ प्रभु<br/>मृत्युबाट बौरने,<br/>तिमी प्रभु</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>मेरा घुँडा टेक्‍‌नेछन्,<br/>र जिब्रोले भन्‍‌नेछ<br/>येशू ख्रीष्ट नै हुन् प्रभु ।</lines>
+    </verse>
+  </lyrics>
+</song>

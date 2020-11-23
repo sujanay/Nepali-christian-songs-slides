@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C079 - dhanyebaad caDhaauň ridai dekhi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(धन्यवाद चढ़ाऔं हृदयदेखि,<br/>धन्यवाद पवित्र परमेश्‍वरलाई,<br/>धन्यवाद उहाँले दिनुभो<br/>येशू ख्रीष्ट आफ्‍‌नो पुत्र) २<br/><br/><tag name="y">(dhanyebaad caDhaauň ridai dekhi,<br/>dhanyebaad pavitra parmeshwor-laai,<br/>dhanyebaad uhaaň-le dinubho<br/>yeshu khrisT aafno putra) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>भन निर्बलले 'म बलियो छु',<br/>गरीबले 'म धनी छु'<br/>कारण उहाँले जे गर्नुभो<br/>हाम्रोलागि<br/><br/><tag name="y">bhana nirbal-le 'ma baliyo chu',<br/>garib-le 'ma dhani chu'<br/>kaaraN uhaaň-le je gar-nubho<br/>haamro-laagi<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>भन निर्बलले 'म बलियो छु',<br/>गरीबले 'म धनी छु'<br/>कारण उहाँले जे गर्नुभो<br/>हाम्रोलागि, धन्यवाद<br/><br/><tag name="y">bhana nirbal-le 'ma baliyo chu',<br/>garib-le 'ma dhani chu'<br/>kaaraN uhaaň-le je gar-nubho<br/>haamro-laagi, dhanyebaad<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

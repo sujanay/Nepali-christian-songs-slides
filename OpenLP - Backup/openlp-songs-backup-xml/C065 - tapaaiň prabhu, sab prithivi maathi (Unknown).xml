@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C065 - tapaaiň prabhu, sab prithivi maathi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(तपाईं प्रभू, सब पृथ्वीमाथि<br/>प्रभू हुनुहुन्छ<br/>सबै देवहरूभन्दा<br/>महान् परमेश्‍वर) २<br/><br/><tag name="y">(tapaaiň prabhu, sab prithivi maathi<br/>prabhu hunuhuncha,<br/>sabai devaharu-bhandaa<br/>mahaan parmeshwor) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(म उचाल्छु) ३<br/>तपाईंलाई<br/>(म उचाल्छु) ३<br/>तपाईंलाई<br/><br/><tag name="y">(ma ucaalchu) ~3<br/>tapaaiň-laai<br/>(ma ucaalchu) ~3<br/>tapaaiň-laai<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(स्तुति गर्छु) ३<br/>तपाईंलाई<br/>(स्तुति गर्छु) ३<br/>तपाईंलाई<br/><br/><tag name="y">(stuti garchu) ~3<br/>tapaaiň-laai<br/>(stuti garchu) ~3<br/>tapaaiň-laai<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

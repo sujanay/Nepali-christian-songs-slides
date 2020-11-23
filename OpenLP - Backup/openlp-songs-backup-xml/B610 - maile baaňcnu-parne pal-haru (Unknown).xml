@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>B610 - maile baaňcnu-parne pal-haru</title>
+    </titles>
+    <verseOrder>c1 c2 v1 o1 c1 c2 v2 o2 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(मैले बाँच्नुपर्ने पलहरू<br/>मैले हाँस्नुपर्ने क्षणहरू) २<br/>येशू समर्पण छ<br/>तिम्रै चरणमा<br/><br/><tag name="y">(maile baaňcnu-parne pal-haru<br/>maile haaňsnu-parne chyeN-haru) ~2<br/>yeshu samarpaN cha<br/>timrai caraNa-maa<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(यसैले म हाँसी दिन्छु<br/>म बाँचिदिन्छु) २<br/>(येशू तपाईंकै अङ्गालोमा) २<br/><br/><tag name="y">(yesai-le ma haaňsi dinchu<br/>ma baaňci-dinchu) ~2<br/>(yeshu tapaaiň-kai angaalo-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(अमर होइन यो जीवन<br/>मर्नु नै छ एक दिन) २<br/>(तर बाँच्ने रहरहरू<br/>धेरै नै छन्) २<br/><br/><tag name="y">(amar hoina yo jivana<br/>marnu nai cha eka dina) ~2<br/>(tara baaňc-ne rahar-haru<br/>dherei nai chan) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>(यसैले म हाँसी दिन्छु<br/>म बाँचिदिन्छु) २<br/>(येशू तपाईंकै अङ्गालोमा) २<br/>ला ला ला ....<br/><br/><tag name="y">(yesai-le ma haaňsi dinchu<br/>ma baaňci-dinchu) ~2<br/>(yeshu tapaaiň-kai angaalo-maa) ~2<br/>laa laa laa ....<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(संघर्ष हो यो जीवन<br/>आँसु र रोदनहरूसँग) २<br/>(तर ख्रीष्टमा पाउँछौ<br/>निश्‍चय नै विजय) २<br/><br/><tag name="y">(saňgharsa ho yo jivana<br/>aaňsu ra rodan-haru-sanga) ~2<br/>(tara khrisT-maa paauň-chau<br/>nishcai nai bijai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>(यसैले म हाँसी दिन्छु<br/>म बाँचिदिन्छु) २<br/>(येशू तपाईंकै अङ्गालोमा) २<br/><br/><tag name="y">(yesai-le ma haaňsi dinchu<br/>ma baaňci-dinchu) ~2<br/>(yeshu tapaaiň-kai angaalo-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

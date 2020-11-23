@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C029 - khushi-khushi maanaauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(खुशी–खुशी मानाऔँ,<br/>खुशी–खुशी मानाऔँ) २<br/>(भन–भन, प्रभु येशू ख्रीष्टको जय) २<br/><br/><tag name="y">(khushi-khushi maanaauň,<br/>khushi-khushi maanaauň) ~2<br/>(bhana-bhana, prabhu yeshu khrisT-ko jai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(मेरोलागि आए, मेरोलागि जिए) २<br/>(मेरोलागि येशूले दु:ख उठाए) २<br/>(मेरोलागि मारिएथे,<br/>मेरोलागि गाडिएथे) २<br/><br/><tag name="y">(mero-laagi aaye, mero-laagi jiye) ~2<br/>(mero-laagi yeshu-le dukha uThaaye) ~2<br/>(mero-laagi maariye-the,<br/>mero-laagi gaaDiye-the) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मेरोलागि बौरी उठे,<br/>मेरो हुन् येशू) २<br/>म येशूको हुँ,<br/>हामी येशूका हौँ<br/><br/><tag name="y">(mero-laagi bauri uThe,<br/>mero hun yeshu) ~2<br/>ma yeshu-ko huň,<br/>haami yeshu-kaa hauň<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(खुशी–खुशी मानाऔँ,<br/>खुशी–खुशी मानाऔँ) २<br/>(भन–भन, प्रभु येशू ख्रष्टको जय) २<br/><br/><tag name="y">(khushi-khushi maanaauň,<br/>khushi-khushi maanaauň) ~2<br/>(bhana-bhana, prabhu yeshu khrisT-ko jai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

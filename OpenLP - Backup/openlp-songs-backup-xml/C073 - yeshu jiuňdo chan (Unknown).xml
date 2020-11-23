@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C073 - yeshu jiuňdo chan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(येशू जिउँदो छन्‌,<br/>हाम्रो माझ खडा छन्‌) २<br/>(र यसैले आराधना गरौं,<br/>प्रशंसा जयजयकार उहाँलाई चढाऔं) २<br/><br/><tag name="y">(yeshu jiuňdo chan,<br/>haamro majha khaRaa chan) ~2<br/>(ra yesaile aaraadhanaa garauň,<br/>prashaňsaa jaijai-kaar uhaaň-laai caRhaauň) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

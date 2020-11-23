@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-08T23:13:01">
+  <properties>
+    <titles>
+      <title>C061 - (Nepali Only) hosannaa, hosannaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(होसन्‍‌ना, होसन्‍‌ना,<br/>होसन्‍‌ना येशू राजालाई) २</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>होसन्‍‌ना येशू राजालाई</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(महिमा, महिमा,<br/>महिमा येशू राजालाई) २</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>महिमा येशू राजालाई</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(प्रशंसा, प्रशंसा,<br/>प्रशंसा येशू राजालाई) २</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>उहाँको नाउँ उचालौं<br/>र प्रशंसा चढ़ाऔं,<br/>हाम्रो प्रभुलाई स्तुति होस्,<br/>प्रशंसा येशू राजालाई</lines>
+    </verse>
+    <verse name="v4">
+      <lines>होसन्‍‌ना येशू राजालाई<br/>महिमा येशू राजालाई<br/>प्रशंसा येशू राजालाई</lines>
+    </verse>
+  </lyrics>
+</song>

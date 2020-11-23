@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C042 - uhaaň-le ma-laai satye-naash-ko khaaDal</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>उहाँले मलाई सत्यनाशको खाडल र<br/>दलदले हिलोबाट तानेर निकाल्‍‌नुभयो,<br/>उहाँले मेरा खुट्टाहरूलाई<br/>चट्टानमाथि बसाल्‍‌नुभयो,<br/><br/><tag name="y">uhaaň-le ma-laai satye-naash-ko khaaDal ra<br/>dalda-le hilo-baaTa taanera nikaalnu-bhayo,<br/>uhaaň-le meraa khuTTaa-haru-laai<br/>caTTaan-maathi basaalnu-bhayo,<br/></tag><br/>उहाँले एउटा नयाँ गीत<br/>मेरो मुखमा हालिदिनुभो,<br/>(हाम्रो परमेश्‍वरको स्तुति) ४<br/><br/><tag name="y">uhaaň-le euTaa nayaaň gita<br/>mero mukha-maa haali-dinu-bho,<br/>(haamro parmeshwor-ko stuti) ~4<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

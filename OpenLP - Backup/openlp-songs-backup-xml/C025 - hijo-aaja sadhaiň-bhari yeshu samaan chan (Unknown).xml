@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+  <properties>
+    <titles>
+      <title>C025 - hijo-aaja sadhaiň-bhari yeshu samaan chan</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>हिजोआज सधैँभरि येशू समान छन्<br/>हामी फेर्छौं,<br/>उनी मात्र कहिले फेर्दैनन्,<br/><br/><tag name="y">hijo-aaja sadhaiň-bhari yeshu samaan chan<br/>haami ferchauň,<br/>uni maatra ka'ile fer-dainan<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(उनको नामको जय) २<br/>हामी फेर्छौं,<br/>उनी मात्र कहिले फेर्दैनन् ।<br/><br/><tag name="y">(unko naam-ko jai) ~2<br/>haami ferchauň,<br/>uni maatra ka'ile fer-dainan<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
