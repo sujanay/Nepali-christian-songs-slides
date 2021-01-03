@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-03T17:14:18">
+  <properties>
+    <titles>
+      <title>C193 - Nepali + English Big Font - srisTi-ko uttam srisTi-maa</title>
+    </titles>
+    <verseOrder>v11 v12 v13</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v11">
+      <lines>सृष्टिको उत्तम सृष्टिमा,<br/>मानव तपाईंले बनाउनुभो,<br/><br/><tag name="y">srisTi-ko uttam srisTi-maa,<br/>maanab tapaaiň-le banaau-nubho,<br/></tag></lines>
+    </verse>
+    <verse name="v12">
+      <lines>आफ्‍‌नै स्वरूपमा सृजिएर,<br/>आफ्‍‌नै रगत बगाएर,<br/><br/><tag name="y">aafnai sworup-maa sriji-yera,<br/>aafnai ragat bagaa-yera,<br/></tag></lines>
+    </verse>
+    <verse name="v13">
+      <lines>(हामीलाई बचाउनुभो) २<br/>(धन्यवाद ... धन्यवाद) ४<br/><br/><tag name="y">(haami-laai bacaau-nubho) ~2<br/>(dhanyebaad ... dhanyebaad) ~4<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
