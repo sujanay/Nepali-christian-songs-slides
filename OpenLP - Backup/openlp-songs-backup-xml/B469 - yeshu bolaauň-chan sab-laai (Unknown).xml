@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-10T17:37:59">
+  <properties>
+    <titles>
+      <title>B469 - yeshu bolaauň-chan sab-laai</title>
+    </titles>
+    <verseOrder>c11 c12 v11 v12 c11 c12 v21 v22 c11 c12</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c11">
+      <lines>(येशू बोलाउँछन्‌ सबलाई) २<br/>प्रेमसाथ बोलाउँछन्‌,<br/><br/><tag name="y">(yeshu bolaauň-chan sab-laai) ~2<br/>prem-saath bolaauň-chan,<br/></tag></lines>
+    </verse>
+    <verse name="c12">
+      <lines>अँगालोमा उनको,<br/>येशू बोलाउँछन्‌ सबलाई<br/><br/><tag name="y"><br/>aňgaalo-maa unko,<br/>yeshu bolaauň-chan sab-laai<br/></tag></lines>
+    </verse>
+    <verse name="v11">
+      <lines>(हृदय तिम्रो हताश भए,<br/>शक्ति छ तिम्रोलागि) २<br/><br/><tag name="y">(ridai timro hataash bhaye,<br/>shakti cha timro-laagi) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v12">
+      <lines>(मुक्ति र ज्योति तिम्रैलागि<br/>येशूकहाँ लिन आऊ आज) २<br/><br/><tag name="y"><br/>(mukti ra jyoti timrai-laagi<br/>yeshu-kahaaň lina aau aaja) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v21">
+      <lines>(सब रोगलाई निको पार्ने<br/>शक्ति छ उनीकहाँ) २<br/><br/><tag name="y">(sab rog-laai niko paarne<br/>shakti cha uni-kahaaň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v22">
+      <lines>(तत्पर छन्‌ तिम्रो मुक्तिदाता<br/>प्यार गर्न सधैँ तिमीलाई) २<br/><br/><tag name="y"><br/>(tatpar chan timro mukti-daataa<br/>pyaar garna sadhaiň timi-laai) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

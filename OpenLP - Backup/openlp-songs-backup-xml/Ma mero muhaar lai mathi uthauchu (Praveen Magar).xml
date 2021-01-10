@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-10T18:18:31">
+  <properties>
+    <titles>
+      <title>Ma mero muhaar lai mathi uthauchu</title>
+    </titles>
+    <verseOrder>v11 v12 c11 c12 v21 v22 c11 c12 v31 v32 c11 c12</verseOrder>
+    <authors>
+      <author>Praveen Magar</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v11">
+      <lines>(म मेरो मुहारलाई माथि उठाउँछु<br/>जहाँ तपाईंको उपस्थिति छ<br/><br/><tag name="y"><br/>(ma mero muhaar-laai maathi uThaauň-chu<br/>jahaaň tapaaiň-ko upasthiti cha<br/></tag></lines>
+    </verse>
+    <verse name="v12">
+      <lines>म मेरो हातलाई माथि उठाउँछु<br/>जहाँ तपाईंको उपस्थिति छ) २<br/><br/><tag name="y"><br/>ma mero haat-laai maathi uThaauň-chu<br/>jahaaň tapaaiň-ko upasthiti cha) 2<br/></tag></lines>
+    </verse>
+    <verse name="c11">
+      <lines>(अनि कराउँदै म गाउँछु हे परमेश्‍वर<br/>तपाईंलाई प्रशंसा<br/><br/><tag name="y"><br/>(ani karaauň-dai ma gaauň-chu he parmeshwor<br/>tapaaiň-laai prashaňsaa<br/></tag></lines>
+    </verse>
+    <verse name="c12">
+      <lines>अनि कराउँदै म गाउँछु हे परमेश्‍वर<br/>तपाईंलाई महिमा) २<br/><br/><tag name="y"><br/>ani karaauň-dai ma gaauň-chu he parmeshwor<br/>tapaaiň-laai mahimaa) 2<br/></tag></lines>
+    </verse>
+    <verse name="v21">
+      <lines>(हे परमेश्‍वर तपाईंको<br/>ढोका अघि उभिन्छु म<br/><br/><tag name="y"><br/>(he parmeshwor tapaaiň-ko<br/>Dhokaa aghi ubhin-chu ma<br/></tag></lines>
+    </verse>
+    <verse name="v22">
+      <lines>तपाईंले मेरो आवाज<br/>जब सम्म सुन्‍नुहुन्‍न) २<br/><br/><tag name="y"><br/>tapaaiň-le mero aawaaj<br/>jaba samma sunnu-hunna) 2<br/></tag></lines>
+    </verse>
+    <verse name="v31">
+      <lines>(म मेरो प्रार्थना माथि उठाउँछु<br/>जहाँ तपाईंको उपस्थिति छ<br/><br/><tag name="y"><br/>(ma mero praarthnaa maathi uThaauň-chu<br/>jahaaň tapaaiň-ko upasthiti cha<br/></tag></lines>
+    </verse>
+    <verse name="v32">
+      <lines>म मेरो विश्‍वासलाई माथि उठाउँछु<br/>जहाँ तपाईंको उपस्थिति छ) २<br/><br/><tag name="y"><br/>ma mero bishwaas-laai maathi uThaauň-chu<br/>jahaaň tapaaiň-ko upasthiti cha) 2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
