@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-17T16:43:45">
+  <properties>
+    <titles>
+      <title>B291 - (Nepali Only) ban-paakhaa gunjaai-deu hai</title>
+    </titles>
+    <verseOrder>c1 v1 o1 o2 c1 v2 o3 o4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>वन-पाखा गुञ्‍जाइदेऊ है<br/>मुक्तिको एउटा गीतले<br/>(सत्यको सन्देश भनिदेऊ<br/>गीतको भाकाले) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(पापको श्राप मेट्नलाई<br/>येशूजी आउनुभो,<br/>मान्छेलाई नयाँ रूप दिन<br/>रगत बहाउनुभयो) २</lines>
+    </verse>
+    <verse name="o1">
+      <lines>स्वर्गको ढोका खोलेछ<br/>उनैको कृपाले<br/>माया गरेर पापीहरूलाई<br/>उनैले बचाए,</lines>
+    </verse>
+    <verse name="o2">
+      <lines>बताइदेऊ सबैलाई,<br/>बुझाइदेऊ सबैलाई,<br/>सम्झाइदेऊ सबैलाई,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हारको जीवन छैन<br/>यहाँ अन्धेरी जगत्‌मा,<br/>बेमोल छैन मान्छे सब<br/>धरतीको आँगनमा) २</lines>
+    </verse>
+    <verse name="o3">
+      <lines>खोज्नेहरूलाई जीवन छ<br/>कलवरी पाखामा<br/>के नै पो थियो,<br/>मान्छेको मोल आफ्नै आँखामा</lines>
+    </verse>
+    <verse name="o4">
+      <lines>बताइदेऊ सबैलाई,<br/>बुझाइदेऊ सबैलाई,<br/>सम्झाइदेऊ सबैलाई,</lines>
+    </verse>
+  </lyrics>
+</song>

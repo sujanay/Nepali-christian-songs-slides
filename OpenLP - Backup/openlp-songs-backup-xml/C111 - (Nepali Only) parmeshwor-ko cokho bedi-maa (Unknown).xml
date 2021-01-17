@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-17T16:45:05">
+  <properties>
+    <titles>
+      <title>C111 - (Nepali Only) parmeshwor-ko cokho bedi-maa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(परमेश्‍वरको चोखो बेदिमा<br/>चढाउँछु यो मेरो जीवन) २<br/>(मेरो सारा हृदयले) २<br/>(तपाईंलाई महिमा होस् । ) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(मेरो परमेश्‍वर, मेरो सहारा,<br/>तपाईंको वचन मेरो ज्योति) २<br/>(अन्धकारमा पनि ज्योति दिने) २<br/>(तपाईंलाई महिमा होस्) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(उचाल्छु मेरा यी दुई हात<br/>धन्यवादको भेटी दिनलाई) २<br/>(मेरो सारा हृदयले) २<br/>(तपाईंलाई जयजयकार होस् ।) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मेरो परमेश्‍वर मेरो चट्टान<br/>तपाईंको वचन मेरो बत्ती) २<br/>(अन्धकारमा पनि ज्योति दिने) २<br/>(तपाईंलाई प्रशंसा होस्) २</lines>
+    </verse>
+  </lyrics>
+</song>

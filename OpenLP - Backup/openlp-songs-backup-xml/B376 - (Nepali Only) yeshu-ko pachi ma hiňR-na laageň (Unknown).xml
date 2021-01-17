@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-17T17:19:34">
+  <properties>
+    <titles>
+      <title>B376 - (Nepali Only) yeshu-ko pachi ma hiňR-na laageň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशूको पछि म हिँड़्‍‌न लागेँ<br/>दुनियाँलाई त्यागी क्रूस नै बोकी ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>आमाले मलाई, बुवाले मलाई,<br/>सबैले मलाई, त्यागे तापनि ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>माटोको मेरो क्षणभङ्घुर शरीर<br/>माटोमा फेरि नमिलेसम्म ।<br/>येशूको पछि म हिँड़्‍‌न लागेँ<br/>(फर्कंदिनँ, फर्कंदिनँ ।) २</lines>
+    </verse>
+  </lyrics>
+</song>
