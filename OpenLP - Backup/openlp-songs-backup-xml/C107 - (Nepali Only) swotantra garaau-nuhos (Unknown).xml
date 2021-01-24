@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-24T04:14:33">
+  <properties>
+    <titles>
+      <title>C107 - (Nepali Only) swotantra garaau-nuhos</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(स्वतन्त्र गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(पवित्र गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(एउटै मन गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(अभिषेक गराउनुहोस्<br/>पवित्र आत्मा हामीलाई) २<br/>गाउन गीत आराधनाको येशूलाई<br/>(आराधना गर्न हृदयले<br/>प्रेम गर्न शक्तिले) २</lines>
+    </verse>
+  </lyrics>
+</song>

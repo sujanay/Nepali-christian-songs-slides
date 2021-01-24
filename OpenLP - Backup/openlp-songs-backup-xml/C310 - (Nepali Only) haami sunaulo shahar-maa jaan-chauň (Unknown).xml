@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-24T04:11:08">
+  <properties>
+    <titles>
+      <title>C310 - (Nepali Only) haami sunaulo shahar-maa jaan-chauň</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(हामी सुनौलो शहरमा जान्छौँ<br/>हामी ईश्‍वरको साथमा हिँड्छौँ) २<br/>(हो हो हो हो हो हो<br/>हा हा हा हा हा) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(अब्राहामका सन्तान हामी<br/>ईश्‍वरले सृष्टि गर्नुभयो) २<br/>(अचम्म छ है<br/>मेरा प्रिय ईश्‍वरको प्रेम।) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशू राजाले दिएका ज्ञान<br/>गराउन हामीले उनैको ध्यान) २<br/>(डरलाग्दो छ है,<br/>हे मेरा प्रीय, पापी संसार।) २</lines>
+    </verse>
+  </lyrics>
+</song>

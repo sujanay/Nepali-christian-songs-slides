@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-24T04:15:38">
+  <properties>
+    <titles>
+      <title>C240 - (Nepali Only) meraa oTh-le tapaaiň-ko prashaňsaa garun</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>मेरा ओठले तपाईंको प्रशंसा गरून्‌,<br/>कारण तपाईंले आफ्‍‌ना नियमहरू<br/>मलाई सिकाउनुहुन्छ,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मेरा जिब्रोले तपाईंको भजन गाऊन्‌,<br/>कारण तपाईंका आज्ञाहरू धार्मिक छन्‌।</lines>
+    </verse>
+  </lyrics>
+</song>

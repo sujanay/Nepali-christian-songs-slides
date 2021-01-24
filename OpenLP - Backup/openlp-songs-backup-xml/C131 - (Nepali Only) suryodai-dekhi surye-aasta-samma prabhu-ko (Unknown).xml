@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-24T04:12:15">
+  <properties>
+    <titles>
+      <title>C131 - (Nepali Only) suryodai-dekhi surye-aasta-samma prabhu-ko</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>सूर्योदयदेखि सूर्यास्तसम्म प्रभुको,<br/>प्रशंसा हुनुपर्छ<br/>सूर्योदयदेखि सूर्यास्तसम्म प्रभुको,<br/>प्रशंसा हुनुपर्छ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>प्रशंसा गर उनको सबै सेवकहरू हो<br/>उनको नाउँको प्रशंसा,<br/>उनको नाउँ धन्यको होस्<br/>अहिलेदेखि सदासर्वदा</lines>
+    </verse>
+  </lyrics>
+</song>
