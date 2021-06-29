@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-08T20:03:04">
+  <properties>
+    <titles>
+      <title>C064 - yogye, tapaaiň yogye, sab-kaa raajaa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>योग्य, तपाईं योग्य, सबका राजा,<br/>सबका प्रभु, तपाईं योग्य,<br/>योग्य, तपाईं योग्य, सबका राजा,<br/>सबका प्रभु, गर्छु प्रणाम्<br/><br/><tag name="y">yogye, tapaaiň yogye, sab-kaa raajaa,<br/>sab-kaa prabhu, tapaaiň yogye,<br/>yogye, tapaaiň yogye, sab-kaa raajaa,<br/>sab-kaa prabhu, garchu praNaam<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>पवित्र, तपाईं पवित्र, सबका राजा,<br/>सबका प्रभु, तपाईं पवित्र,<br/>पवित्र, तपाईं पवित्र, सबका राजा,<br/>सबका प्रभु, गर्छु प्रणाम्<br/><br/><tag name="y">pavitra, tapaaiň pavitra, sab-kaa raajaa,<br/>sab-kaa prabhu, tapaaiň pavitra,<br/>pavitra, tapaaiň pavitra, sab-kaa raajaa,<br/>sab-kaa prabhu, garchu praNaam<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशू, तपाईं येशू, सबका राजा,<br/>सबका प्रभु, तपाईं येशू,<br/>येशू, तपाईं येशू, सबका राजा,<br/>सबका प्रभु, गर्छु प्रणाम्<br/><br/><tag name="y">yeshu, tapaaiň yeshu, sab-kaa raajaa,<br/>sab-kaa prabhu, tapaaiň yeshu,<br/>yeshu, tapaaiň yeshu, sab-kaa raajaa,<br/>sab-kaa prabhu, garchu praNaam<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

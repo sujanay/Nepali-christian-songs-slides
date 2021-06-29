@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-22T20:10:01">
+  <properties>
+    <titles>
+      <title>B158 -  (Nepali Only) yaahove-ko laagi jai jai garauň</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>याहोवेको लागि जय जय गरौँ,<br/>आन्दसाथ  उनको सेवा गरौँ,<br/>गाउँदै-गाउँदै उनको सामु आओ,<br/>याहोवे ईश्‍वर भनी जानौँ ।</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।</lines>
+    </verse>
+    <verse name="v2">
+      <lines>उनको खर्कका हामी भेड़ा हौँ,<br/>धन्यवाद गर्दै ढोकाभित्र पसौँ,<br/>स्तुति गर्दै आँगनमा पसौँ,<br/>धन्य भनौँ, उनको नामलाई ।</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।</lines>
+    </verse>
+    <verse name="v3">
+      <lines>याहोवे महान् प्रभु भलो छन्,<br/>उनको करुणा सदा रहन्छ,<br/>उनको सत्यता पुस्ता-पुस्तामा<br/>अमर यो रहनेछ ।</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>उनी हाम्रो सृजनहार,<br/>उनी हाम्रो तारणहार,<br/>उनी हाम्रो पालनहार,<br/>सुन्छन् उनले हाम्रो पुकार ।</lines>
+    </verse>
+  </lyrics>
+</song>
