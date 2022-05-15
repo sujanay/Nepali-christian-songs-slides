@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:26:26">
+  <properties>
+    <titles>
+      <title>Mahimaa Hos Yeshuko - Ko Hun - Adrian Dewan</title>
+    </titles>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>को हुन् स्वर्ग छोडी संसारमा आउनुहुने<br/>को हुन् पापीहरूलाई टिठ्याउनुहुने<br/>को हुन् क्रूसमा आफ्नो प्राण दिनुहुने<br/>को हुन्?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>को हुन् मृत्युबाट बौरी उठ्नुहुने<br/>को हुन् महिमामा स्वर्ग जानुहुने<br/>को हुन् फेरी बादलमा आउनुहुने<br/>को हुन् ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मण्डली भन्छ एउटै स्वरमा) २<br/>(वहाँ येशू मुक्तिदाता हाम्रो) २<br/>[(महिमा होस्) ३<br/>येशूको] २</lines>
+    </verse>
+    <verse name="v4">
+      <lines>को हुन् पापरहित जीवन जीउनुहुने<br/>को हुन् शैतानको शिरलाई कुल्चनुहुने<br/>को हुन् पराक्रमी युद्ध जीत्नुहुने<br/>को हुन् ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>को हुन् पानीलाई दाखमद्ध बनाउनुहुने<br/>को हुन् छालहरूमाथि हिँड्नुहुने<br/>को हुन् अनन्त जीवन दिनुहुने<br/>को हुन् ?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(मण्डली भन्छ एउटै स्वरमा) २<br/>(वहाँ येशू मुक्तिदाता हाम्रो) २<br/>[(महिमा होस्) ३<br/>येशूको] २</lines>
+    </verse>
+  </lyrics>
+</song>

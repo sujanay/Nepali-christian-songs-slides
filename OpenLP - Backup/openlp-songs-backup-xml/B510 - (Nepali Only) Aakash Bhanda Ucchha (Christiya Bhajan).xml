@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-21T20:02:11">
+  <properties>
+    <titles>
+      <title>B510 - (Nepali Only) Aakash Bhanda Ucchha</title>
+      <title>आकाशभन्दा उच्च-उच्च</title>
+    </titles>
+    <authors>
+      <author>Christiya Bhajan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>आकाशभन्दा उच्च-उच्च छ नाउँ,<br/>सागरभन्दा गहिरो-गहिरो छ प्रेम</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>आसमानभन्दा विशाल-विशाल अनुग्रह<br/>छ, हाम्रो प्रभु येशूको।</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>वाक्यले व्यक्त नहुने,<br/>भन्‍‌नलाई शब्द नपुग्‍‌ने प्रेम,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>आदिदेखि अहिलेसम्म<br/>समयले साक्षी दिएको प्रेम,</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>स्वर्ग छोडी आउनुभो<br/>क्रूसैमा मर्नुभो,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>मृत्युलाई जित्‍‌नुभो,<br/>हामीलाई मुक्ति दिनलाई।</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>सारा सृष्टिले ढोग्‍‌नेछ,<br/>सबै घुँडाहरू टेक्‍‌नेछन्‌,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>निर्बल बलियो हुनेछ,<br/>लाटाले पुकार्नेछ त्यो नाउँ</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>अन्धाले देख्‍‌नेछ,<br/>बहिरोले सुन्‍‌नेछ,</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>मुर्दा बिउँतनेछ<br/>उनैलाई महिमा दिनलाई।</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>(यसैले गर्छौं प्रशंसा,<br/>गाउँछौं महिमा उनै येशूको) २</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-05-23T19:10:53">
+  <properties>
+    <titles>
+      <title>B387 - aaja-bholi-bhare bhandai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(आज–भोलि–भरै भन्दै<br/>जीवन यहाँ अस्ताउँछ) २<br/>(ख्रीष्टलाई माया गर्ने मान्छे<br/>मृत्युपारि उदाउँछ) २<br/><br/><tag name="y">(aaja-bholi-bhare bhandai<br/>jivana yahaaň 'staauňcha) ~2x<br/>(khrisT-laai maayaa garne maanche<br/>mrityu-paari udaauňcha) ~2x<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>मेरो हृदयका मूर्तिहरूलाई<br/>ख्रीष्ट हटाइबक्सियोस्<br/>ख्रीष्ट मेरो राजा,<br/>मालिक यहाँ राज गरिबक्सियोस्,<br/><br/><tag name="y">mero ridai-kaa murti-haru-laai<br/>khrisT haTaai-baksiyos<br/>khrisT mero raajaa,<br/>maalika yaahaaň raaj gari-baksiyos<br/></tag></lines>
+    </verse>
+    <verse name="o1a">
+      <lines>विगत दिनहरू र्व्यथै गुमाएँ,<br/>र्वतमान चढ़ाउँछु<br/>येशूको प्रेमको कथा सबलाई<br/>गीतबाट सुनाउँछु ।<br/><br/><tag name="y">bigat din-haru byerthai gumaayeň,<br/>bartamaan caDhaauňchu<br/>yeshuko premko kathaa sab-laai<br/>git-baaTa sunaauňchu.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>विश्‍वमा सधैँ म बस्‍‌ने होइनँ,<br/>बटुवा मात्र हुँ,<br/>यो बाटो फेरि म हिँड़्‍‌ने छैन<br/>एक र्तीथ–यात्री हुँ,<br/><br/><tag name="y">bishwo-maa sadhaiň ma basne hoinaň,<br/>baTuwaa maatra huň,<br/>yo baaTo feri ma hiňRne chaina<br/>ek tirtha-yatri huň,<br/></tag></lines>
+    </verse>
+    <verse name="o1b">
+      <lines>विजयी ख्रीष्टको शक्तिले सबै<br/>र्कतव्य सुल्झाउँछु<br/>सम्पूर्ण कार्य शेष भएपछि<br/>म स्वदेश फिर्नेछु ।<br/><br/><tag name="y">bijayi khrisTko shakti-le sabai<br/>kartabya suljaauň-chu,<br/>sampurNa kaarye shes bhaye-pachi<br/>ma swodesh firne-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

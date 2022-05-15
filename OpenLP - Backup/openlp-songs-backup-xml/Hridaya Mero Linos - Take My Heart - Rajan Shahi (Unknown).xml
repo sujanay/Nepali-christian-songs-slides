@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-20T15:39:39">
+  <properties>
+    <titles>
+      <title>Hridaya Mero Linos - Take My Heart - Rajan Shahi</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ह्दय मेरो लिनोस – ३<br/>बोल्नोस जे सत्य छ</lines>
+    </verse>
+    <verse name="v1">
+      <lines>हराएको थिए भेट्टाउनु भो <br/>प्रेम पूर्ण छु, शुद्घ छु<br/>जीवन ममा जीउद छ<br/>निको छु, स्वतन्त्र छु</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाई शत्ति हुनुहुन्छ<br/>तपाई जीवन सनातनको<br/>तपाई असल सधै शिद्घ<br/>तपाई ज्योति प्रकाश दिने</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तपाई सब थोक हुनुहुन्छ<br/>तपाई प्रेम हुनुहुन्छ<br/>तपाई आशा तपाई अनुग्रह<br/>तपाई सधै मेरो स्वर्श</lines>
+    </verse>
+  </lyrics>
+</song>

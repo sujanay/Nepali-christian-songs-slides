@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-19T23:18:52">
+  <properties>
+    <titles>
+      <title>Prema ko din yo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रेम को दिन यो , खुशीको दिन यो <br/>रमाउने  गाउने दिन यो ( येशुको जन्म दिन यो )</lines>
+    </verse>
+    <verse name="v2">
+      <lines>अशान्ति मा बाच्ने लाई पनि , शान्ति अंगाल्ने दिन यो <br/>बिछोडीएका लाई पनि । प्रेममा बाध्ने दिन यो </lines>
+    </verse>
+    <verse name="v3">
+      <lines>निरासामा बाच्नेलाई पनि , आशाको नया दिन यो <br/>लडाई लड्ने लाई पनि, प्रेम मिलाप को दिन यो</lines>
+    </verse>
+  </lyrics>
+</song>

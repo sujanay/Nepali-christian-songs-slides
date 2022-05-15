@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-10-18T22:30:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-12-20T20:08:39">
   <properties>
     <titles>
       <title>C046 - parbat-haru-tira ma aafno</title>
@@ -9,20 +9,12 @@
       <author>Unknown</author>
     </authors>
   </properties>
-  <format>
-    <tags application="OpenLP">
-      <tag name="y">
-        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
-        <close>&lt;/span&gt;</close>
-      </tag>
-    </tags>
-  </format>
   <lyrics>
     <verse name="v1">
-      <lines>पर्वतहरूतिर म आफ्‍‌नो<br/>आँखा उठाउँछु,<br/>मलाई गोहार कहाँबाट आउँछ?<br/><br/><tag name="y">parbat-haru-tira ma aafno<br/>aaňkhaa uThaauň-chu,<br/>ma-laai gohaar kahaaň-baaTa aauňcha?<br/></tag></lines>
+      <lines>पर्वतहरूतिर म आफ्‍‌नो<br/>आँखा उठाउँछु,<br/>मलाई गोहार कहाँबाट आउँछ?</lines>
     </verse>
     <verse name="v2">
-      <lines>मलाई गोहार<br/>परमप्रभुबाट नै आउँछ,<br/>जसले स्वर्ग र पृथ्वी सृजनुभो।<br/><br/><tag name="y">ma-laai gohaar<br/>param-prabhu-baaTa nai aauňcha,<br/>jasa-le sworga ra prithivi srijanu-bho.<br/></tag></lines>
+      <lines>मलाई गोहार<br/>परमप्रभुबाट नै आउँछ,<br/>जसले स्वर्ग र पृथ्वी सृजनुभो।</lines>
     </verse>
   </lyrics>
 </song>

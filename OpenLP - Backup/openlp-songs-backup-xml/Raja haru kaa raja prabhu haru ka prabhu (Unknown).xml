@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-14T17:45:55">
+  <properties>
+    <titles>
+      <title>Raja haru kaa raja prabhu haru ka prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>राजाहरूका राजा, प्रभुहरूका प्रभु <br/>सबै देउहरू भन्दा माहान येशू</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंको कृपामा तपाईंको सुन्दरतामा<br/> तपाईंको सत्यतामा म रमाउँछु</lines>
+    </verse>
+    <verse name="v3">
+      <lines>मेरो ओठले सदा मेरो हृदयले <br/>सदा तपाईंको स्तुति गाउनेछु, उहाँको ।</lines>
+    </verse>
+  </lyrics>
+</song>

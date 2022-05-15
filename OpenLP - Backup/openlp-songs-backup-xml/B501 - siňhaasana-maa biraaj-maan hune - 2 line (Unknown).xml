@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-14T16:50:36">
+  <properties>
+    <titles>
+      <title>B501 - siňhaasana-maa biraaj-maan hune - 2 line</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 v2 v3 v4 c1 c2 c1 v5 v6 v7 v8 c1 c2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(सिंहासनमा विराजमान हुने,<br/>परमेश्‍वरको प्रजा हामी) २<br/><br/><tag name="y">(siňhaasana-maa birajman hune,<br/>parameshwora-ko praja hami) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(आऊ उनलाई पुजौं भक्तिसाथ,<br/>कहिले छोड्नेछैनन् हाम्रो हात) २<br/><br/><tag name="y">(aau un-laai pujauň bhakti-saath,<br/>ka'ile choDne-chainan haamro haat)~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>उहाँको रगतले धोई<br/>पखालेको पवित्र जाति<br/><br/><tag name="y">uhaaňko ragatle dhoi<br/>pakhaa-leko pavitra jaati<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आदर, प्रशंसायोगय<br/>परमेश्‍वरको पूजारी हामी<br/><br/><tag name="y">aadar, prashaňsaa-yogye<br/>parmeshwor-ko pujaari haami<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सनातनदेखि, सनातनसम्म) २<br/><br/><tag name="y">(sanaatan-dekhi, sanaatan-samma.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(आऊ उनलाई पुजौं भक्तिसाथ<br/>कहिले छोड्नेछैनन् हाम्रो हात।) २<br/><br/><tag name="y">(aau un-laai pujauň bhakti-saath<br/>ka'ile choDne-chainan haamro haat.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>झरी-घाम र छायाँको<br/>आज गरौं सामना हामी<br/><br/><tag name="y">jhaari-ghaama ra chaayaaň-ko<br/>aaja garauň saamnaa haami<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>सबै नयाँ भएका<br/>स्वदेशमा जानेछौं हामी<br/><br/><tag name="y">sabai nayaaň bhayekaa<br/>swodesha-maa jaane-chauň haami<br/></tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(बादलपारिको उहाँको देशमा) २<br/><br/><tag name="y">(baadal-paariko uhako desha-ma) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>(आऊ उनलाई पुजौं भक्तिसाथ<br/>कहिले छोड्नेछैनन् हाम्रो हात।) २<br/><br/><tag name="y">(aau un-laai pujauň bhakti-saath<br/>ka'ile choDne-chainan haamro haat.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

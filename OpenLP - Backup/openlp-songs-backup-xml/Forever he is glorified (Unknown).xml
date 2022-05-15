@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-05-02T18:57:13">
+  <properties>
+    <titles>
+      <title>Forever he is glorified</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>सधै येशू महिमित छन्<br/>सधै येशू उचालिन्छन<br/><br/><tag name="y">Forever, he is glorified<br/>Forever, he is lifted high</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>सदाकोलाई बौरनुभो<br/>जिबित छन उनि<br/>जिबित छन येशू <br/><br/><tag name="y">Forever, He is risen<br/>He is alive<br/>He is alive</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>गाउछौ हल्लेलुया<br/>थुमाको बिजय छ<br/><tag name="y">We sing hallelujah<br/>The lamb has overcome</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>धन्य भन प्रभुलाई मेरो प्राण<br/>आराधना पबित्र गाऊ कहिले नगायझै  <br/><br/><tag name="y">Bless the Lord oh my soul<br/>Oh my soul<br/>Worship His Holy name<br/>Sing like never before</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>मेरो प्राण, आराधना पबित्र<br/><tag name="y">Oh my soul<br/>I’ll worship Your Holy name</tag></lines>
+    </verse>
+  </lyrics>
+</song>

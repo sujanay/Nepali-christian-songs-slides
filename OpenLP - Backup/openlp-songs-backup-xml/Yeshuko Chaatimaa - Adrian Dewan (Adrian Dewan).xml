@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-10T16:24:45">
+  <properties>
+    <titles>
+      <title>Yeshuko Chaatimaa - Adrian Dewan</title>
+    </titles>
+    <verseOrder>v11 v12 v21 v22 c11 c12 v31 v32 c11 c12 c11</verseOrder>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11">
+      <lines>(येशूको छातीमा ढुकढुकिने<br/>येशूको आँखैमा बसिरहने) २<br/><br/>(yeshu-ko chaati-maa Dhuk-Dhukine<br/>yeshu-ko aaňkhai-maa basi-rahane) 2</lines>
+    </verse>
+    <verse name="v12">
+      <lines>(प्राणभन्दा प्यारो छ आफ्नो<br/>रगतले किनेको साइनो<br/>माया यो क्रूसको कहिले नमेटिने) २<br/><br/>(praaN-bhandaa pyaaro cha aafno<br/>ragat-le kineko saaino<br/>maayaa yo krus-ko kahile na-meTine) 2</lines>
+    </verse>
+    <verse name="v21">
+      <lines>(मण्डली हामी हौं ख्रीष्ट येशूको<br/>दुलही हामी हौं ख्रीष्ट प्रभुको) २<br/><br/>(maNDali haami hauň khrisT yeshu-ko<br/>dulahi haami hauň khrisT prabhu-ko) 2</lines>
+    </verse>
+    <verse name="v22">
+      <lines>(सम्बन्ध गहिरिएको मन मुटु खिलिएको<br/>प्रेमले उनको कहिले नटुट्ने यो) २<br/><br/>(sambandha gahiri-yeko manmuTu khili-yeko<br/>prema-le unko kahile na-TuTne yo) 2</lines>
+    </verse>
+    <verse name="c11">
+      <lines>ए नी ल है, ए नी ल है<br/>भयौं भेला फेरी आज, नी ल है<br/>आए येशू हाम्रो माझ ...<br/>ye ni la hai, ye ni la hai<br/>bhayauň bhelaa feri aaja, ni la hai<br/>aaye yeshu haamro majha...</lines>
+    </verse>
+    <verse name="c12">
+      <lines>ए नी ल है, ए नी ल है<br/>गायौं गीत प्रेमको आज, नी ल है<br/>दिलको राजा येशू राजा ...<br/>ye ni la hai, ye ni la hai<br/>gaayauň gita prem-ko aaja, ni la hai<br/>dil-ko raajaa yeshu raajaa...</lines>
+    </verse>
+    <verse name="v31">
+      <lines>(शरीर हामी हौं ख्रीष्ट येशूको,<br/>शिर हुनुहुन्छ वहाँ हाम्रो) २<br/><br/>(sharira haami hauň khrisT yeshu-ko,<br/>shira hunu-huncha wahaaň haamro) 2</lines>
+    </verse>
+    <verse name="v32">
+      <lines>(आपसमा गाँसिएको, जीवनले भरिएको<br/>प्रभावले यसको संसारै ढाकिने भो) २<br/><br/>(aapas-maa gaaňsi-yeko, jivan-le bhari-yeko<br/>prabhaau-le yes-ko sansaarai Dhaakine bho) 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-08-01T14:11:27">
+  <properties>
+    <titles>
+      <title>Your Grace is enough</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Your faithfulness, oh God<br/>You wrestle with the sinner's heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You lead us by still waters and to mercy<br/>And nothing can keep us apart</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So remember Your people<br/>Remember Your children<br/>Remember Your promise, oh God</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your grace is enough<br/>Your grace is enough<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Great is Your love and justice, God<br/>You use the weak to lead the strong</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You lead us in the song of Your salvation<br/>And all Your people sing along</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So remember Your people<br/>Remember Your children<br/>Remember Your promise, oh God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Your grace is enough<br/>Your grace is enough<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yeah, Your grace is enough<br/>Your grace is enough<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v9">
+      <lines>So remember Your people<br/>Remember Your children<br/>Remember Your promise, oh God</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Your grace is enough<br/>Your grace is enough<br/>Your grace is enough for me<br/>Yeah, Your grace is enough</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Heaven reaching down to us<br/>Your grace is enough for me</lines>
+    </verse>
+    <verse name="v12">
+      <lines>God, I see Your grace is enough<br/>I'm covered in Your love<br/>Your grace is enough for me, for me</lines>
+    </verse>
+  </lyrics>
+</song>

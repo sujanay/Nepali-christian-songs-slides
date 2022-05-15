@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-14T16:49:19">
+  <properties>
+    <titles>
+      <title>B068 - raajaa yeshu aa-ye,halleluyaah aaye - 2 line</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2 v5 v6 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(राजा येशू आए,<br/>हल्लेलूयाह आए) २<br/><br/><tag name="y">(raajaa yeshu aa-ye,<br/>halleluyaah aaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(शैतानलाई जित्‍नको लागि<br/>राजा येशू आए) २<br/><br/><tag name="y">(shaitaan-laai jitna-ko laagi<br/>raajaa yeshu aaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(पापको क्षमा पाई<br/>हुन्छु म आनन्दित) २<br/><br/><tag name="y">(paap-ko chyemaa paa-i<br/>hunchu ma aanandit) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(मानलाई शुद्ध पार्नलाई<br/>राजा येशू आए) २<br/><br/><tag name="y">(manlai shuddha parna-lai<br/>raajaa yeshu aaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(यस संसारमा पाप र दु:ख<br/>हुन्छन् धेरै-धेरै) २<br/><br/><tag name="y">(yes sansarma paap ra dukha<br/>hunchan dherai-dherai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(सत्य शान्ति दिनलाई<br/>राजा येशू आए) २<br/><br/><tag name="y">(satye shaanti dina-laai<br/>raajaa yeshu aaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(येशू महाराजा,<br/>महाप्रभु येशू) २<br/><br/><tag name="y">(yeshu mahaa-raajaa,<br/>mahaa-prabhu yeshu) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(हल्लेलूयाह सबले भन<br/>राजा येशू आए) २<br/><br/><tag name="y">(halleluyaah sab-le bhana<br/>raajaa yeshu aaye) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

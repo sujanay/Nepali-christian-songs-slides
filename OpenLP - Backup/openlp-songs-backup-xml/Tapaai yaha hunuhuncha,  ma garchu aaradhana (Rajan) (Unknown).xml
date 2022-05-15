@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-06T17:04:46">
+  <properties>
+    <titles>
+      <title>Tapaai yaha hunuhuncha,  ma garchu aaradhana (Rajan)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाईं यहाँ हुनुहुन्छ, म गर्छु आराधना<br/>तपाईं यहाँ काम गर्नुहुन्छ, म गर्छु आराधना</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईं बाटो बनाउने, आश्चय गर्ने, बाचा निभाउने, अन्न्धकारमा ज्योति<br/>प्रभु तपाईं हुनुहुन्छ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तपाईं यहाँ, हृदय छुनुहुन्छ, म गर्छु आराधना<br/>तपाईं यहाँ, निको पार्नु हुन्छ, म गर्छु आराधना</lines>
+    </verse>
+    <verse name="v4">
+      <lines>तपाईं यहाँ, जिवन मोड्नु हुन्छ, म गर्छु आराधना<br/>तपाईं यहाँ, हृदय जोड्नु हुन्छ, म गर्छु आराधना</lines>
+    </verse>
+    <verse name="v5">
+      <lines>मैले नदेख्दा काम गर्नुहुन्छ,थाहै नगर्दा काम गर्नुहुन्छ ।<br/>कहिले रोकिनुहुन्न</lines>
+    </verse>
+  </lyrics>
+</song>

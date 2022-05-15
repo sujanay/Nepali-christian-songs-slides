@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-11-29T03:19:02">
+  <properties>
+    <titles>
+      <title>C030 - (Nepali Only) tapaaiň-ko dayaa jivan-bhandaa shresTh</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(तपाईंको दया जीवनभन्दा श्रेष्ठ) २<br/>धन्यको भन्छु, स्तुति म गर्छु,<br/>तपाईंको दया जीवनभन्दा श्रेष्ठ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हात उचाल्दछु तपाईको नाउँमा) २<br/>धन्यको भन्छु, स्तुति म गर्छु,<br/>तपाईंको दया जीवनभन्दा श्रेष्ठ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सेवा गर्छु प्रभु, सारा हृदयले) २<br/>धन्यको भन्छु, स्तुति म गर्छु,<br/>तपाईंको दया जीवनभन्दा श्रेष्ठ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(प्रेम गर्छु प्रभु, सारा हृदयले) २<br/>धन्यको भन्छु, स्तुति म गर्छु,<br/>तपाईंको दया जीवनभन्दा श्रेष्ठ</lines>
+    </verse>
+  </lyrics>
+</song>

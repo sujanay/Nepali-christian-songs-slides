@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T16:37:04">
+  <properties>
+    <titles>
+      <title>B401 - baDhdai-baDhdai jaau</title>
+    </titles>
+    <verseOrder>c1 v1 o1 c1 v2 o2 c1 v3 o3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(बढ़्दै-बढ़्दै जाऔं पछि नहटौँ,<br/>क्रूसको झण्डा काँधमा लिई,<br/>अघि बढ़्दै जाऔं) २<br/><br/><tag name="y">(baDhdai-baDhdai jaauň pachi na-haTauň,<br/>krus-ko jhaNDaa kaaňdh-maa lii,<br/>aghi baDhdai jaauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सेना हामी ख्रीष्टका हौँ, युद्ध गर्दै जाऔँ,<br/>कनान देशको राहमा सब कदम बढ़ाऔँ,) २<br/><br/><tag name="y">(senaa haami khrisT-kaa hauň,<br/>yuddha gardai jaauň,<br/>kanaan desh-ko raaha-maa<br/>sab kadam baDhaauň,) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>कदम बढ़ाउँदै जाऔँ, वैरीलाई हराऔँ,<br/>(कनान देशमा हामी सब<br/>जयवन्तको गीत गाऔँ ।) २<br/><br/><tag name="y">kadam baDhaauň-dai jaauň,<br/>bairi-laai haraauň,<br/>(kanaan desh-maa haami sab<br/>jaiwant-ko git gaauň.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(कप्‍तान हाम्रो सेनाको ख्रीष्ट आफै हुन्<br/>तलवार हाम्रो आत्माको झिलम धर्मको) २<br/><br/><tag name="y">(kaptaan haamro senaa-ko<br/>khrisT aafai hun<br/>talwaar haamro aatmaa-ko<br/>jhilam dharma-ko) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o2">
+      <lines>सहायता उ गर्छ जीवन संग्राममा<br/>(दैनिक जीवनको हाम्रो कदम कदममा ।) २<br/><br/><tag name="y">sah'yetaa u garcha<br/>jivan saňgraam-maa<br/>(dainik jivan-ko haamro<br/>kadam kadam-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(वैरी धेरै भए हामी तै हरेस नखऔँ<br/>जयवन्त शक्ति पाउनलाई ख्रीष्ट शरणमा जाऔँ) २<br/><br/><tag name="y">(bairi dherei bhaye haami<br/>tai hares na-khaauň<br/>jaiwant shakti paauna-laai<br/>khrisT sharaN-maa jaauň) ~2<br/></tag></lines>
+    </verse>
+    <verse name="o3">
+      <lines>शत्रुलाई हराऔँ, झण्डा फरफराऔँ,<br/>(हृदय हाम्रो नवीन जोशले भराउँदै जाऔँ ।) २<br/><br/><tag name="y">shatru-laai haraauň,<br/>jhaNDaa farfaraauň<br/>(ridai haamro nawin josh-le<br/>bharaauň-dai jaauň.) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

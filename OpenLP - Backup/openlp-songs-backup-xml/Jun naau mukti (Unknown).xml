@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-05-16T02:57:11">
+  <properties>
+    <titles>
+      <title>Jun naau mukti</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>जुन नाउँमा  मुक्ति, जुन नाउ मा छ शक्ति<br/>जुन नाउँमा शान्ति, दिन्छन उनले चगाँई </lines>
+    </verse>
+    <verse name="v2">
+      <lines>जुन नाउँमा छ जिन्दगी, येशू हो त्यो नाउँ <br/>जुन नाउँमा छ छुट्कारा, येशू हो त्यो नाउँ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशू तपाईंको नाउँ , सबै भन्दा उच्च छ</lines>
+    </verse>
+  </lyrics>
+</song>

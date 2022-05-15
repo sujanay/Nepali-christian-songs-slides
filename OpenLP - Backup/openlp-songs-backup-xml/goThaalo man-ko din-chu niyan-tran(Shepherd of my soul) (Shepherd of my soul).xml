@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-10T16:30:24">
+  <properties>
+    <titles>
+      <title>goThaalo man-ko din-chu niyan-tran(Shepherd of my soul)</title>
+    </titles>
+    <verseOrder>v11 v12 c11 c12</verseOrder>
+    <authors>
+      <author>Shepherd of my soul</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v11">
+      <lines>गोठालो मनको दिन्छु नियन्त्रण<br/>जहाँ डोर्‍याउँछौ म पछ्याउँछु<br/><br/>goThaalo man-ko din-chu niyan-tran<br/>jahaaň doryaauň-chau ma pachyaauň-chu</lines>
+    </verse>
+    <verse name="v12">
+      <lines>निर्णय गर्छु उनको स्वर सुन्छु<br/>जहाँ हिँडाउँछौ म हिँड्नेछु<br/><br/>nirNaya gar-chu unko swor sun-chu<br/>jahaaň hiňRaauň-chau ma hiňR-ne-chu</lines>
+    </verse>
+    <verse name="c11">
+      <lines>चाहे हरियो खर्कमा, या शान्त मुहानमा<br/>गोठालो मनको मेरो साथ<br/><br/>caahe hariyo kharka-maa, yaa shanta muhanma<br/>goThaalo man-ko mero saath</lines>
+    </verse>
+    <verse name="c12">
+      <lines>चाहे महान् पर्वत् होस्, या गहिरो खाडल होस्<br/>गोठालो मनको मेरो साथ<br/><br/>caahe mahaan parbat hos, yaa gahiro khaDal hos<br/>goThaalo man-ko mero saath</lines>
+    </verse>
+  </lyrics>
+</song>

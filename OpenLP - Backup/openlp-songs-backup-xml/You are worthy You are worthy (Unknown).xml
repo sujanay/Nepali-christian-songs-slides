@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-04T15:21:28">
+  <properties>
+    <titles>
+      <title>You are worthy You are worthy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And You are worthy, You are worthy<br/>King of kings, Lord of lords<br/>You are worthy<br/>Worthy, You are worthy<br/>King of kings, Lord of lords<br/>I worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy You are holy<br/>King of kings, Lord of lords<br/>You are holy<br/>Holy, You are holy<br/>King of kings, Lord of lords<br/>I worship You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, You are Jesus<br/>Jesus, You are Jesus<br/>King of kings<br/>King of kings, Lord of lords<br/>You are Jesus<br/>Jesus, You are Jesus<br/>King of kings, Lord of lords<br/>I worship You</lines>
+    </verse>
+  </lyrics>
+</song>

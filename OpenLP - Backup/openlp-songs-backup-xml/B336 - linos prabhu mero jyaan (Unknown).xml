@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-25T17:11:57">
+  <properties>
+    <titles>
+      <title>B336 - linos prabhu mero jyaan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>लिनोस् प्रभु मेरो ज्यान,<br/>होस् तपाईंलाई बलिदान ।<br/>लिनोस् हरेक दिन र क्षण<br/>सधैँ स्तुतिमा बितून् ।<br/><br/><tag name="y">linos prabhu mero jyaan,<br/>hos tapaaiň-laai balidaan,<br/>linos harek din ra chyeN<br/>sadhaiň stuti-maa bitun.<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>लिनोस् मेरा हात, प्रभु,<br/>लाउनोस् काममा तपाईंको ।<br/>लिनोस् मेरा पाउ, प्रभु,<br/>आफ्‍‌नो पथमा हिँड़ाउन ।<br/><br/><tag name="y">linos meraa haat, prabhu,<br/>laaunos kaam-maa tapaaiňko,<br/>linos meraa paau, prabhu,<br/>aafno path-maa hiňRaauna.<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>लिनोस् मेरो स्वर, प्रभु,<br/>तपाईंको बढ़ाइ गर्छु ।<br/>लिनोस् मेरा ओठ, प्रभु,<br/>होस् सुवचन भरेको ।<br/><br/><tag name="y">linos mero swor, prabhu,<br/>tapaaiňko baDhaai garchu,<br/>linos meraa oTh, prabhu,<br/>hos su-bacan bhareko.<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>लिनोस् मेरो धन, प्रभु,<br/>सब तपाईंलाई बुझाउँछु ।<br/>लिनोस् बुद्धि, ज्ञान, प्रभु,<br/>वशमा ल्याई तपाईंको ।<br/><br/><tag name="y">linos mero dhan, prabhu,<br/>sab tapaaiň-laai bujhaauň-chu,<br/>linos buddhi, gyaan, prabhu,<br/>bash-maa lyaa-i tapaaiň-ko.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>लिनोस् इच्छा, हे प्रभु,<br/>आफ्‍‌नैसित मिलाउनु ।<br/>लिनोस् मन आफ्‍‌नै ठान्‍‌नोस्<br/>तपाईंको सिंहासन होस् ।<br/><br/><tag name="y">linos iccha, he prabhu,<br/>aafnai-sita milaaunu,<br/>linos man aafnai Thaannos<br/>tapaaiň-ko siňhaasan hos.<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>लिनोस् मेरो प्रेम, प्रभु,<br/>चरणमा म खन्याउँछु ।<br/>लिनोस् तन–मन–धन,<br/>ख्रीष्टकै लागि जिउनेछु ।<br/><br/><tag name="y">linos mero prem, prabhu,<br/>caraN-maa ma khanyaauň-chu,<br/>linos tan-man-dhan,<br/>khrisT-kai laagi jiunechu<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

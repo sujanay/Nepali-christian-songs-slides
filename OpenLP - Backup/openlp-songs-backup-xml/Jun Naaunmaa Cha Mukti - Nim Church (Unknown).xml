@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-24T11:12:42">
+  <properties>
+    <titles>
+      <title>Jun Naaunmaa Cha Mukti - Nim Church</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जुन नाउँमा छ मुक्ति<br/>जुन नाउँमा छ शक्ति<br/>जुन नाउँमा छ शान्ति<br/>दिन्छन् उनले चङ्गाई) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>जुन नाउँमा छ जिन्दगी<br/>येशू हो त्यो नाउँ<br/>जुन नाउँमा छ छुटकारा<br/>येशू हो त्यो नाउँ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशू तपाईंको नाउँ<br/>सबै भन्दा उच्च छ<br/>येशू तपाईंको नाउँ<br/>सबै भन्दा उच्च छ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(बिरामीबाट गरिबीबाट<br/>श्रापबाट छुटाउँछ<br/>जुन नाउँले अन्धोलाई<br/>देख्न सक्ने गराउँछ) २</lines>
+    </verse>
+  </lyrics>
+</song>

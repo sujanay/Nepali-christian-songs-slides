@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-12T18:03:45">
+  <properties>
+    <titles>
+      <title>Tapaiko cheu ma - Adrain Dewan</title>
+    </titles>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाईंको छेउमा, तपाईंको छेउमा,<br/>तपाईंको नजिक, अँगालोभित्र राख्‍नोस् मलाई<br/><tag name="y">tapaaiň-ko cheu-maa, tapaaiň-ko cheu-maa,<br/>tapaaiň-ko najik, angaalo-bhitra raakh-nos malaai<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>बुवाले जस्तै, मित्रले जस्तै,<br/>तपाईंको नजिक, अँगालोभित्र, राख्‍नोस् मलाई<br/><tag name="y">buwaa-le jastai, mitra-le jastai,<br/>tapaaiň-ko najik, angaalo-bhitra, raakh-nos malaai</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अरु कतै पनि, मिल्दैन विश्राम,<br/>यो आत्माले तपाईंमा नै विश्राम पाउँछ<br/><tag name="y">aru katai pani, mil-daina bishraam,<br/>yo aatmaa-le tapaaiň-maa nai bishraam paauň-cha</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>अरु कतै पनि मेट्दैन तृष्णा,<br/>यो मेरो प्राण तपाईंमा नै तृप्त हुन्छ,<br/><tag name="y">aru katai pani meT-daina trisaNaa,<br/>yo mero praaN tapaaiň-maa nai tripta huncha,</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>यसैले छेउमा, तपाईंको छेउमा,<br/>तपाईंको नजिक, अँगालोभित्र, राख्‍नोस् मलाई<br/><tag name="y">yesai-le cheu-maa, tapaaiň-ko cheu-maa,<br/>tapaaiň-ko najik, angaalo-bhitra, raakh-nos malaai</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>बुवाले जस्तै, मित्रले जस्तै,<br/>तपाईंको नजिक, अँगालोभित्र, राख्‍नोस् मलाई<br/><tag name="y">buwaa-le jastai, mitra-le jastai,<br/>tapaaiň-ko najik, angaalo-bhitra, raakh-nos malaai</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>अरु कतै पनि, हुँदैन चोट निको,<br/>येशू तपाईंमा नै हृदय निको हुन्छ,<br/><tag name="y">aru katai pani, huň-daina coT niko,<br/>yeshu tapaaiň-maa nai ridai niko huncha,</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>अरु कतै पनि, मिल्दैन सन्तुष्टि<br/>येशू तपाईंमा आत्मा सन्तुष्ट हुन्छ<br/><tag name="y">aru katai pani, mil-daina santusTi<br/>yeshu tapaaiň-maa aatmaa santusTa huncha</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>यसैले छेउमा, तपाईंको छेउमा,<br/>तपाईंको नजिक, अँगालोभित्र, राख्‍नोस् मलाई<br/><tag name="y">yesai-le cheu-maa, tapaaiň-ko cheu-maa,<br/>tapaaiň-ko najik, angaalo-bhitra, raakh-nos malaai</tag></lines>
+    </verse>
+    <verse name="v10">
+      <lines>बुवाले जस्तै, मित्रले जस्तै,<br/>तपाईंको नजिक, अँगालोभित्र, राख्‍नोस् मलाई<br/><tag name="y">buwaa-le jastai, mitra-le jastai,<br/>tapaaiň-ko najik, angaalo-bhitra, raakh-nos malaai</tag></lines>
+    </verse>
+  </lyrics>
+</song>

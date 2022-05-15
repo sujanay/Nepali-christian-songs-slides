@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-07T17:44:10">
+  <properties>
+    <titles>
+      <title>swargama tapai bina mero kohi chaina</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>स्वर्गमा तपाईं विना मेरो कोही छैन <br/>पृथ्वीमा मैले चाहेको तपाईंमात्र हो</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंलाई छाडी कसलाई पुजौ <br/>कस्को सेवा गरूँ तपाईं मेरो पर</lines>
+    </verse>
+    <verse name="v3">
+      <lines>पर्मेसोर तपाईंलाई छाडी कस्लाइ <br/>भजू कस्को उपासना गरू तपाईं मेरो<br/>ठूलो इनाम ।</lines>
+    </verse>
+  </lyrics>
+</song>

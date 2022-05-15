@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-03T17:48:36">
+  <properties>
+    <titles>
+      <title>mero jiwan tapai maa cha</title>
+    </titles>
+    <verseOrder>v1 v2 v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(मेरो जीवन तपाईंमा छ, मेरो बल तपाईंमा छ<br/>मेरो आशा तपाईंमा छ, तपाईंमा तपाईंमा) (२)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>स्तुति गर्छु मेरो सारा जीवनले, <br/>स्तुति गर्छु मेरो सारा बलले<br/>मेरो सारा जीवनले, मेरो सारा बलले, <br/>मेरो सबै आशा छ, तपाईंमा</lines>
+    </verse>
+  </lyrics>
+</song>

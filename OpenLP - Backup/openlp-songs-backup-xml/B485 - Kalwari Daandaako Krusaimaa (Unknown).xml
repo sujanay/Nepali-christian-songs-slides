@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-04-04T17:07:14">
+  <properties>
+    <titles>
+      <title>B485 - Kalwari Daandaako Krusaimaa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>कलवरी डाँडाको क्रूसैमा<br/>येशूले आफ्‍‌नो प्राण दिए<br/>(तिम्रो र मेरो पाप धुन,<br/>चोट सही रगत बगाए) २<br/><br/><tag name="y">kalwari DaaňDaa-ko krusai-maa<br/>yeshu-le aafno praaN diye<br/>(timro ra mero paap dhuna,<br/>coT sahi ragat bagaaye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>नठान उनी केवल मरे,<br/>बौरेर फेरि पनि उठे<br/>(रोक्‍‌न सकेन चिहानले,<br/>जित्‍‌न सकेन मृत्युले) २<br/><br/><tag name="y">na-Thaana uni kewal mare,<br/>baurera feri pani uThe<br/>(rokna sakena cihaan-le,<br/>jit-na sakena mrityu-le) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>मृत्यु र पापको डर छैन,<br/>विश्‍वास गर येशूमा<br/>(स्वर्गको बाटो येशू नै हुन्‌,<br/>सुम्पिदेऊ जीवन उनैमा) २<br/><br/><tag name="y">mrityu ra paap-ko Dar chaina,<br/>vishwaas gara yeshu-maa<br/>(sworga-ko baaTo yeshu nai hun,<br/>sumpi-deu jivan unai-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

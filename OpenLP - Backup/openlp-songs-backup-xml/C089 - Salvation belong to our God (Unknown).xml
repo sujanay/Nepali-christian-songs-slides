@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-04-18T16:44:58">
+  <properties>
+    <titles>
+      <title>C089 - Salvation belong to our God</title>
+    </titles>
+    <verseOrder>v1 o1 c1 v2 o1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>मुक्ति छ हाम्रो प्रभुमा,<br/>जो सिंहासनमा विराजमान् छन्<br/>उनै थुमालाई<br/><br/><tag name="y">Salvation belongs to our God<br/>Who sits upon the throne<br/>And unto the Lamb</tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>स्तुति, महिमा,<br/>ज्ञान, धन्यवाद,<br/>आदर, शक्ति र बल<br/><br/><tag name="y">Praise and glory, wisdom and thanks<br/>Honor and power and strength</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(येशूलाई होस् सदासर्वदा) ३<br/>आमिन।<br/><br/><tag name="y">(Be to our God, forever and ever) 3<br/>Amen</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उद्धार पाएकाहरू बलिया हुन्छन्,<br/>एकतामा घोषणा गर्दै<br/><br/><tag name="y">And we the redeemed shall be strong<br/>In purpose and unity<br/>Declaring aloud</tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-25T17:04:46">
+  <properties>
+    <titles>
+      <title>dhanya bhana prabhulai mero praan - 10000 reasons</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>धन्य भन प्रभुलाई मेरो प्राण<br/>आराधना पबित्र <br/>गाऊ कहिले नगाएझै<br/>मेरो प्राण, आराधना पबित्र</lines>
+    </verse>
+    <verse name="v2">
+      <lines>सुर्य उदाउछँ नयाँ दिन शुरु  हुन्छ <br/>यो संगै फेरि तिम्रो गीत गाउने<br/>जे बिते पनि जे अगि आएपनि<br/>गाई रहनेछु साझ जब आउनेछ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तिमि प्रेममा धनि रिसाउनामा ढिलो <br/>तिम्रो नाउ  महान हृदय दयालु <br/>तिम्रो भलाइको निम्ति गाइरहेछु <br/>दस हजार कारण हृदयले पाउँछ  </lines>
+    </verse>
+  </lyrics>
+</song>

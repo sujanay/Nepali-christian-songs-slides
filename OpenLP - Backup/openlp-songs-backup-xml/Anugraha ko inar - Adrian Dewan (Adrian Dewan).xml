@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-09-12T17:49:09">
+  <properties>
+    <titles>
+      <title>Anugraha ko inar - Adrian Dewan</title>
+    </titles>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>अनुग्रहको इनार ख्रीष्टको मण्डली (२)<br/>   जहाँबाट उघाएर पुर्याउनुछ देशभरी (२)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>१. खडेरी छ है चारैतिर आत्मा नै रुखाउने हो... हो... (२)<br/>   उकाली घाममा शीतल्ता नपाए यात्री कहाँ बिसाउने (२)<br/>   अनुग्रहको चौतारी हे मण्डली हो... हो... (२)<br/>   जहाँ आएर बिसाउँछ थकितले आफ्नो भारी (२)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>२. अँध्यारो छ है चारैतिर अन्धो नै भुल्याउने (२)<br/>   जीवनको यात्रा ज्योति नपाए कसरी कटाउने (२)<br/>   सामदामाथिको बत्ति हो मण्डली (२)<br/>   जहाँबाट चम्किएर छरिनु छ देशभरी (२)</lines>
+    </verse>
+  </lyrics>
+</song>

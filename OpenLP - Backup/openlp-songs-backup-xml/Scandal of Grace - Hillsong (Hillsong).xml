@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-04T15:29:32">
+  <properties>
+    <titles>
+      <title>Scandal of Grace - Hillsong</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 c1 v5 v6 v7 v8 c1 b1 c1 c1</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace, what have You done?<br/>Murdered for me on that cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Accused in absence of wrong<br/>My sin washed away in Your blood</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Too much to make sense of it all<br/>I know that Your love breaks my fall</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The scandal of grace<br/>You died in my place<br/>So my soul will live</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All to be like You<br/>Give all I have just to know You<br/>Jesus, there's no one besides You<br/>Forever the hope in my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Death, where is your sting?<br/>Your power is as dead as my sin</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The cross has taught me to live<br/>In mercy my heart now to sing</lines>
+    </verse>
+    <verse name="v7">
+      <lines>The day and it's troubles shall come<br/>I know that Your strength is enough</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The scandal of grace<br/>You died in my place<br/>So my soul will live</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And it's all because of You, Jesus<br/>It's all because of You, Jesus<br/>It's all because of Your love that my soul will live</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-26T16:07:21">
+  <properties>
+    <titles>
+      <title>Asal Mitra - Hephzibah</title>
+    </titles>
+    <authors>
+      <author>Hephzibah</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>जब ल्याउँछु यो तृषित हृदय<br/>तृप्‍त म हुन्छु <br/><br/><tag name="y">jaba lyaauň-chu yo trisit ridai<br/>tripta ma hun-chu</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जब आउँछु<br/>अनुभव गर्छु उपस्थित तिम्रो<br/><br/><tag name="y">jaba aauň-chu<br/>anubhab gar-chu upasthita timro</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(मेरो जीवनमा ज्योति दिने<br/>मेरो हृदयलाई चंगाइ गर्ने) २<br/><br/><tag name="y">(mero jivan-maa jyoti dine<br/>mero ridai-laai caňgaai garne) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशू असल मित्र<br/>(तिमी येशू असल मित्र) ३<br/><br/><tag name="y">yeshu asal mitra<br/>(timi yeshu asal mitra) 3</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(तिमी येशू असल मित्र) ...<br/>तिमी येशू मेरो मित्र...<br/><br/><tag name="y">(timi yeshu asal mitra) ...<br/>timi yeshu mero mitra ...</tag></lines>
+    </verse>
+  </lyrics>
+</song>

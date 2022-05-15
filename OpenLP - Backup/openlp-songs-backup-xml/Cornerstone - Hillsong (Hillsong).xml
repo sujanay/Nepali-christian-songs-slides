@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-04T15:13:44">
+  <properties>
+    <titles>
+      <title>Cornerstone - Hillsong</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 b1</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less<br/>Than Jesus blood and righteousness<br/>I dare not trust the sweetest friend<br/>But wholly trust in Jesus name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Christ alone<br/>Cornerstone<br/>Weak made strong<br/>In the Saviour's love</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Through the storm<br/>He is Lord<br/>Lord of all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When darkness seems to hide His face<br/>I rest on His unchanging grace<br/>In every high and stormy gale<br/>My anchor holds within the veil</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When He shall come with trumpet sound<br/>Oh, may I then in Him be found (Oh, yeah)<br/>Dressed in His righteousness alone<br/>Faultless stand before the throne</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You will always be, Lord, oh, yeah</lines>
+    </verse>
+  </lyrics>
+</song>

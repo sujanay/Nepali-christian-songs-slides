@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:41:38">
+  <properties>
+    <titles>
+      <title>Way maker - Leeland</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 e1 b1</verseOrder>
+    <authors>
+      <author>Leeland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are here, moving in our midst<br/>I worship You,  I worship You<br/>You are here, working in this place<br/>I worship You,  I worship You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are Way maker, miracle worker, <br/>promise keeper<br/>Light in the darkness,  my God<br/>That is who You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are here,  touching every heart<br/>I worship You,  I worship You<br/>You are here,  healing every heart<br/>I worship You,  I worship</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are here,  turning lives around<br/>I worship You, I worship You <br/>You are here,  mending every heart<br/>I worship You, I worship You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>That is who You are<br/>that is who You are<br/>that is who You are<br/>that is who You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even when I don't see it, You're working<br/>Even when I don't feel it, You're working<br/>You never stop, You never stop working<br/>You never stop, You never stop working</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-05-23T19:13:03">
+  <properties>
+    <titles>
+      <title>Halellujah paramprabhu raaj garnu huncha</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>हल्लेलुया<br/>परमप्रभु राजगर्नु हुन्छ ।<br/>पबित्र, परमप्रभु सर्बसक्तिमान <br/>योग्य छन थुमा</lines>
+    </verse>
+    <verse name="v2">
+      <lines>स्तुती गर्छु, आराधना गर्छु म तपाईंको<br/>मेरो लागि जो मर्नुभो, तेस्रो दिनमा बौरनुभो<br/>मेरो बिश्वासको आधार जो बन्नुभो, स्तुती गर्छु ।<br/>हा ल्ले लु या…..</lines>
+    </verse>
+  </lyrics>
+</song>

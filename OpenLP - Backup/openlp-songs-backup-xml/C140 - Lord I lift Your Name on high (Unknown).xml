@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-04-18T16:31:51">
+  <properties>
+    <titles>
+      <title>C140 - Lord I lift Your Name on high</title>
+    </titles>
+    <verseOrder>v1 c1 o1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभु तपाईंको नाउँ उचाल्छु म,<br/>स्तुति गाउन चाहन्छु तपाईंको,<br/>खुशी छु मेरो जीवनमा आउनुभो,<br/>खुशी छु मलाई बचाउन आउनुभो<br/><br/><tag name="y">Lord I lift Your Name on high<br/>Lord I love to sing Your praises<br/>I'm so glad You're in my life<br/>I'm so glad You came to save us<br/></tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>स्वर्गबाट धर्तीमा आउनुभो<br/>बाटो देखाउन, धर्तीबाट क्रूसमा<br/>मेरो ऋण तीर्न<br/><br/><tag name="y">You came from Heaven to earth<br/>To show the way<br/>From the earth to the cross<br/>My debt to pay<br/></tag></lines>
+    </verse>
+    <verse name="o1">
+      <lines>क्रूसबाट चिहानमा,<br/>चिहानबाट स्वर्गमा,<br/>प्रभु तपाईंकै नाउँ उच्चमा<br/><br/><tag name="y">From the cross to the grave<br/>From the grave to the sky<br/>Lord I lift Your Name on high<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

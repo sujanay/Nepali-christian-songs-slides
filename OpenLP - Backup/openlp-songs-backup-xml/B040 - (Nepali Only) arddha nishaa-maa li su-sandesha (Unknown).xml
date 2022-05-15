@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-12-20T20:03:19">
+  <properties>
+    <titles>
+      <title>B040 - (Nepali Only) arddha nishaa-maa li su-sandesha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(अर्द्ध निशामा लिई सुसन्देश,<br/>दीन बनी आयौँ हामी<br/>तिम्रो द्वारमा) २</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(दुर्दशा यो सब देखी संसारको<br/>पापको भारले मानव मिचेको) २<br/>(जिन्दगीको हाल सुधार्न भनी) २<br/>ईश्‍वर पुत्र जगमा आए संकोच नमानी।</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(ईश्‍वर र मानावबीचको पर्दा<br/>पापी मानवको पापले गर्दा) २<br/>(तोड़ी मानवलाई लान ईश्‍वरकहाँ) २<br/>आउनुभयो महान् ईश्‍वर दुष्ट संसारमा।</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(शहर येरुशलेम, गावैँ बेथलेहेम<br/>जन्मे गोठैमा बालक एक नरम) २<br/>(ख्रीष्ट जीवनधार, येशू तारणहार) २<br/>बिश्‍वास ल्याई आउने जति हुन्छन् मृत्युपार।</lines>
+    </verse>
+  </lyrics>
+</song>

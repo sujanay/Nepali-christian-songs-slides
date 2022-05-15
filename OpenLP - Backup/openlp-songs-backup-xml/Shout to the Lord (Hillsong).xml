@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-18T21:23:38">
+  <properties>
+    <titles>
+      <title>Shout to the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 c3 c4 v1 v2 c1 c2 c3 c4</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Jesus, my Savior<br/>Lord, there is none like You<br/>All of my days, I want to praise<br/>The wonders of Your mighty love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My comfort, my shelter<br/>Tower of refuge and strength<br/>Let every breath, all that I am<br/>Never cease to worship You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Shout to the Lord <br/>all the Earth,  let us sing<br/>Power and majesty, <br/>praise to the King</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mountains bow down <br/>and the seas will roar<br/>At the sound of Your name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>I sing for joy <br/>at the work of Your hands<br/>Forever I'll love You, <br/>forever I'll stand</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Nothing compares to the promise<br/>I have In You</lines>
+    </verse>
+  </lyrics>
+</song>

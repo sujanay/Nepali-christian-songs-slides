@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-14T17:18:59">
+  <properties>
+    <titles>
+      <title>C089 - (Nepali Only) mukti cha haamro prabhu-maa</title>
+    </titles>
+    <verseOrder>v1 o1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>मुक्ति छ हाम्रो प्रभुमा,<br/>जो सिंहासनमा विराजमान् छन्<br/>उनै थुमालाई</lines>
+    </verse>
+    <verse name="o1">
+      <lines>स्तुति, महिमा,<br/>ज्ञान, धन्यवाद,<br/>आदर, शक्ति र बल</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(येशूलाई होस् सदासर्वदा) ३<br/>आमिन।</lines>
+    </verse>
+    <verse name="v2">
+      <lines>उद्धार पाएकाहरू बलिया हुन्छन्,<br/>एकतामा घोषणा गर्दै<br/>स्तुति, महिमा, ज्ञान, धन्यवाद,<br/>आदर, शक्ति र बल</lines>
+    </verse>
+  </lyrics>
+</song>

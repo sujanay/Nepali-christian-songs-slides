@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-06T17:02:48">
+  <properties>
+    <titles>
+      <title>This is amazing grace (Nepali translated)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>पाप र अन्धकारको शक्ति कस्ले तोड्छन्<br/>कस्को प्रेम महान र शक्तिशालि<br/>महिमाको राजा, राजाहरुका राजा</lines>
+    </verse>
+    <verse name="v2">
+      <lines>पबित्राले पृथ्बि हल्लाऊछन्​<br/>र हामीलाइ अचम्मित तुल्याउछ्न्<br/>महिमाको राजा, राजाहरुका राजा</lines>
+    </verse>
+    <verse name="v3">
+      <lines>यो हो अच्चमको प्रेम्<br/>कहिले नटल्ने यो प्रेम्</lines>
+    </verse>
+    <verse name="v4">
+      <lines>जस्ले मेरो ठाँउ लियो<br/>त्यो क्रुशलाई उठाउन</lines>
+    </verse>
+    <verse name="v5">
+      <lines>आफ्नो जिबन दिय, ताकि म स्वतन्त्र हु<br/>येशु म गाउछु, मेरो निम्ति जे गर्नु भो</lines>
+    </verse>
+    <verse name="v6">
+      <lines>हाम्रो अन्यैलता कस्ले हटाउछन्<br/>कस्ले अनाथलाई सन्तान बनाउछन्</lines>
+    </verse>
+    <verse name="v7">
+      <lines>महिमाको राजा, राजाहरुका राजा<br/>कस्ले राज गर्छन्, सत्यता र न्यायमा</lines>
+    </verse>
+    <verse name="v8">
+      <lines>सुर्यझै चम्किन्छन उनि महिमामा<br/>महिमाको राजा, राजाहरुका राजा</lines>
+    </verse>
+    <verse name="v9">
+      <lines>योग्य छन थुमा जो मरे<br/>योग्य छन राजा जस्ले चिहान लाई जिते</lines>
+    </verse>
+  </lyrics>
+</song>

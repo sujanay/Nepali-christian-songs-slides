@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-12-06T20:25:33">
+  <properties>
+    <titles>
+      <title>B478 - (Nepali Only)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>हेर दाजै, हेर दाजै,<br/>मुक्तिको दिन आयो<br/>येशूमाथि भक्ति राखी,<br/>ध्यान राखी दिन रमाउने लौ आयो।</lines>
+    </verse>
+    <verse name="v1">
+      <lines>गोठालो जनले प्रभु हो बालक<br/>भनेर जानिलिए<br/>बेथलेहेम गोठमा चरण परी<br/>अवतार हो मानिलिए।</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>खबर पुरानो दूतगणले ल्याको<br/>कुरा यो साँचो हो<br/>विश्‍वास गरी येशूलाई लिनु<br/>सबैको खाँचो हो।</lines>
+    </verse>
+    <verse name="v2">
+      <lines>सबैले मागे, लिएर भागे<br/>तिमी र म रित्तो<br/>कर्मको चक्र, धर्मको फिक्री<br/>जुनी नै भो तीतो</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>आफैलाई दिन येशू नै मात्र<br/>धरतीमा हो आउने<br/>यही हो बेला भजेर येशू<br/>मनमा बोलाउने।</lines>
+    </verse>
+    <verse name="v3">
+      <lines>सारा भूलोकको मालिक हुन् येशू,<br/>बुझ्ने यो ज्ञान दिए<br/>गोठमा लड़े क्रूसमा चढे,<br/>आफ्नै त्यो ज्यान दिए</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>हटाउन कालो पापको मैलो<br/>अँधेरी जगत्‌को<br/>बगेर आयो, उर्लेर आयो<br/>खोला त्यो रगतको।</lines>
+    </verse>
+  </lyrics>
+</song>

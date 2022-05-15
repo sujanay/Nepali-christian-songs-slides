@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-07-18T16:46:01">
+  <properties>
+    <titles>
+      <title>how He loves us</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And He is jealous for me.<br/>Love's like a hurricane. I  am a tree,<br/>Bending beneath the weight of <br/>His wind and mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When all of a sudden,<br/>I am unaware of these afflictions eclipsed by glory.<br/>And I realize just how beautiful You are,<br/>And how great Your affections are for me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And, oh,  how He loves us, oh.<br/>Oh, how He loves us.<br/>How He loves us, oh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we are His portion and He is our prize,<br/>Drawn to redemption by the grace in His eyes.<br/>If His grace is an ocean, we're all sinking.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And Heaven meets earth like an unforeseen kiss.<br/>And my heart turns violently inside of my chest.<br/>I don't have time to maintain these regrets,<br/>When I think about the way...</lines>
+    </verse>
+  </lyrics>
+</song>

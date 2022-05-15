@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-21T19:58:19">
+  <properties>
+    <titles>
+      <title>B073 - (Nepali Only) bhajauň miTho naam, prabhu yeshu naam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>भजौँ मीठो नाम, प्रभु येशू नाम,<br/>प्यारो प्रभु येशूलाई,<br/>गरौं आदर मान, भजौँ मीठो नाम।</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सारा भूलोक भरका पापीहरूलाई,<br/>येशू मात्र छन् शुद्घ गर्नलाई।) २<br/>उनको मीठो वाणी सुन मन लगाई<br/>चढाउँदै हृदय भेटी उनलाई</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशू हाम्रोलागि संसारमा आए<br/>हाम्रो आत्मालाई अति प्रेम गरे) २<br/>क्रूसमा कोखाबाट रगत बगाए<br/>धुनलाई हाम्रो पापी हृदय ।</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(नरक भन्दा ठूलो दण्ड केही छैन<br/>जहाँ सधैँ आगो गन्धक निभ्दैन) २<br/>फर्कौं आज सबै चढाऔं ख्रीष्टलाई मन,<br/>रमाउँदै गरौं उनको भजन ।</lines>
+    </verse>
+  </lyrics>
+</song>

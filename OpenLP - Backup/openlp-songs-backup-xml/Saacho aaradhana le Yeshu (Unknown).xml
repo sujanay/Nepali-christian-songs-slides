@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-10T16:35:16">
+  <properties>
+    <titles>
+      <title>Saacho aaradhana le Yeshu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(साँचो आराधनाले येशू मेरो हृदय खोलिएको छ) (२)<br/>म शिशा झैँ फुटेको छु, म नदी झैँ बग्दछु । <br/>लिनुमा भन्दा दिनुमा असल छ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(बटुल्नुभन्दा छर्न असल छ) (२)<br/>(यही आराधना येशूले चाहेको) (२)</lines>
+    </verse>
+  </lyrics>
+</song>

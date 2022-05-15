@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-03-21T14:53:48">
+  <properties>
+    <titles>
+      <title>Bijay Bhana Mandali (Lai Bari Lai) - Adrian Dewan</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 c1</verseOrder>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(लैबरी लैबरी लैबरी लै लै...<br/>लैबरी लैबरी लैबरी लै... हो हो हो....) २<br/><tag name="y">(laibari laibari laibari lai lai...<br/>laibari laibari laibari lai... ho ho ho....) 2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(विजय भन मण्डली उनको राज्य आएको छ<br/>येशू हाम्रो माझमा महिमित बन्‍नुभएको छ) २<br/><tag name="y">(bijai bhana maNDali<br/>unko raajye aa-yeko cha<br/>yeshu haamro majha-maa<br/>mahimit bannu-bhayeko cha) 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हात उठाई स्वर खोलि आनन्दले गाइदेऊ<br/>एकतामा एउटै प्रेममा येशू नाउँमा आइदेऊ) २<br/>हो हो हो....<br/><tag name="y">(haat uThaai swor kholi aananda-le gaai-deu<br/>ekataa-maa yeuTai prem-maa yeshu nauň-maa aaideu) 2<br/>ho ho ho....</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(उनको वचनको शक्तिले बन्धनहरू खोलिएको छ<br/>मेरो थकित आत्माले नयाँ उमंग पाएको छ ) २<br/><tag name="y">(unko bachanko shaktile <br/>bandhan haru kholiyeko cha<br/>mero thakit aatmaa-le<br/>nayaaň umaňga paa-yeko cha ) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(तालि बजाई खुट्टा हलाई आनन्दले नाचिदेऊ<br/>एकतामा एउटै प्रेममा ख्रीष्ट नाता गासीदेऊ) २<br/>हो हो हो....<br/><tag name="y">(tali bajai khuTa halai anandale nachideu<br/>ekata ma eutai prem ma khrisT nata gasideu) 2<br/>ho ho ho....</tag></lines>
+    </verse>
+  </lyrics>
+</song>

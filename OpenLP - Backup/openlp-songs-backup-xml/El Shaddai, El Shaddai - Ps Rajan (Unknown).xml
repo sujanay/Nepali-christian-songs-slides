@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-17T16:55:59">
+  <properties>
+    <titles>
+      <title>El Shaddai, El Shaddai - Ps Rajan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Shaddai, El Shaddai, El-Elyon na Adonai<br/>Age to age You’re still the same. <br/>By the power of the name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Shaddai, El Shaddai, Erkahmka na Ado-nai<br/>We will praise and lift You high, El Shaddai</lines>
+    </verse>
+  </lyrics>
+</song>

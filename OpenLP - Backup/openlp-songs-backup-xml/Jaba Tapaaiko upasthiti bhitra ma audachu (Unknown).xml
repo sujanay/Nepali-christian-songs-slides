@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-10-31T16:05:39">
+  <properties>
+    <titles>
+      <title>Jaba Tapaaiko upasthiti bhitra ma audachu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>जब तपाईंको अपस्थितिभित्र म आउँदछु<br/>मेरो सबै खोजाईको अन्त हुन्छ<br/>जब तपाईंको अङ्गालोमा मलाई लिनुहुन्छ<br/>मेरो तृषित आत्मा तृप्त हुन्छ प्रभु</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(यसैले तपाईंलाई पर्खिरहन्छु सधैं<br/>प्रेम गर्नलाई आदर गर्नलाई<br/>महिमा दिनलाई<br/>उचाल्त तपाईं येशूलाई) (२)</lines>
+    </verse>
+  </lyrics>
+</song>
