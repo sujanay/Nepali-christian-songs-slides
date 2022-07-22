@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-07-22T20:10:08">
+  <properties>
+    <titles>
+      <title>Promises (feat. Joe L Barnes &amp; Naomi Raine) | Maverick City Music | TRIBL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 c1 c2 c3 v5 v6 v7 v8 c1 c2 c3 b1 c1 c2 c3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of Abraham, <br/>God of covenant <br/>and of faithful promises</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Time and time again <br/>You have proven <br/>You’ll do just what you said </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though the storms may come <br/>and the winds may blow <br/>I’ll remain steadfast </lines>
+    </verse>
+    <verse name="v4">
+      <lines>And let my heart learn <br/>when you speak a word <br/>it will come to pass</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Great is your faithfulness to me<br/>Great is your faithfulness to me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>From the rising sun<br/>to the setting same<br/>I will praise your name</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Great is your faithfulness to me </lines>
+    </verse>
+    <verse name="v5">
+      <lines>God from age to age,<br/>though the earth may pass away<br/>Your word remains the same</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Your history can prove <br/>there’s nothing You can’t do<br/>You’re faithful and True</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Though the storms may come<br/>and the winds may blow<br/>I’ll remain steadfast</lines>
+    </verse>
+    <verse name="v8">
+      <lines>And let my heart learn<br/>when you speak a word <br/>it will come to pass</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I put my faith in Jesus<br/>My anchor to the ground<br/>My hope and firm foundation<br/>He’ll never let me down</lines>
+    </verse>
+  </lyrics>
+</song>
