@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-03-30T18:14:23">
+  <properties>
+    <titles>
+      <title>JIban le aradhana garna chahanchu - Adrian Dewan (FINAL)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जीवनले आराधना गर्न चाहान्छु) 2<br/>(आज्ञाकारिताको बाटोमा) 2<br/><br/><tag name="y"> (jiwanale aaradhana garna chahanchu) x 2 <br/> (aagyakaritako batoma) 2 </tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(येशु तपाई सगै हिड्न चाहान्छु) 2<br/> (पवित्रताको यात्रामा) 2 <br/><br/> <tag name="y">(yeshu tapai sagai hidna chahanchhu) x 2 <br/> pawitratako yatrama </tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(तपाइको अग्गालोमा <br/>बिस्तारै म त बढ्दैछु)<br/><br/><tag name="y">tapaiko aggaloma <br/>bistarai ma marda chhu </tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(तपाई बढ्दै बढ्दै जानुहोस <br/>म घट्दै घट्दै जानेछु )x 2<br/><br/><tag name="y">tapai badhdai badhdai januhos <br/>ma ghatdai ghatdai janechhu </tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>(आज्ञाकारिताको बाटोमा) x2<br/> (पवित्रताको यात्रामा) x2 <br/><br/><tag name="y">(aagyakaritako batoma) x 2<br/>(pawitratako yatrama) x 2</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(जीवनले आराधना गर्न चाहान्छु) x2<br/>(आज्ञाकारिताको बाटोमा) x2 <br/><br/> <tag name="y">(jiwanale aaradhana garna chahanchu) 2 <br/> (aagya karitako batoma) x 2 </tag></lines>
+    </verse>
+  </lyrics>
+</song>
