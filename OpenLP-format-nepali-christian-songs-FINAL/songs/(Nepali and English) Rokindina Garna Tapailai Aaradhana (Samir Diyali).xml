@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2024-10-13T17:33:25">
+  <properties>
+    <titles>
+      <title>(Nepali and English) Rokindina Garna Tapailai Aaradhana</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Samir Diyali</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>रोकिँदिन गर्न तपाईंलाई आराधना<br/>म रोकिँदिन गर्न तपाइँलाई आराधना<br/>(आराधना, आराधना, आराधना<br/>येशूलाई) २<br/><tag name="y">rokiňdina garna tapaaiň-laai aaraadhanaa<br/>ma rokiňdina garna tapaaiň-laai aaraadhanaa<br/>(aaraadhanaa, aaraadhanaa, aaraadhanaa<br/>yeshu-laai) x2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>म रोकिँदिन गर्न तपाईंलाई आराधना<br/>म रोकिँदिन गर्न तपाइँलाई आराधना<br/>(आराधना, आराधना, आराधना<br/>येशूलाई) २<br/><tag name="y">ma rokiňdina garna tapaaiň-laai aaraadhanaa<br/>ma rokiňdina garna tapaaiň-laai aaraadhanaa<br/>(aaraadhanaa, aaraadhanaa, aaraadhanaa<br/>yeshu-laai) 2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(कसरी म चुप बस्छु येशू तपाईंको<br/>अनुग्रहलाई देखि<br/>कसरी पछि हट्छु म येशू तपाईंको<br/>बलिदानलाई सम्झि) २<br/>(<tag name="y">kasari ma cup baschu yeshu tapaaiň-ko<br/>anugrah-laai dekhi<br/>kasari pachi haTchu ma yeshu tapaaiň-ko<br/>balidaan-laai samjhi) 2<br/><br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>म रोकिँदिन गर्न तपाईंलाई आराधना<br/>म रोकिँदिन गर्न तपाइँलाई आराधना<br/>(आराधना, आराधना, आराधना<br/>येशूलाई) २<br/><tag name="y">ma rokiňdina garna tapaaiň-laai aaraadhanaa<br/>ma rokiňdina garna tapaaiň-laai aaraadhanaa<br/>(aaraadhanaa, aaraadhanaa, aaraadhanaa<br/>yeshu-laai) 2<br/><br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
