@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2024-06-10T02:31:07">
+  <properties>
+    <titles>
+      <title>(Nepali Only) Yeshu Mashi Tapaai Jasto Chaina Kohi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Originally Yeshua Band</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(येशू मसिह तपाईं जस्तो छैन कोही<br/>आसमान झुक्छ तपाईंको अघि<br/>महिमा गाउँछन् सारा पृथ्वी) २</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हामी गाउँछौं होसन्‍ना<br/>राजाहरूका तपाईं राजा<br/>तपाईंको महिमा होस् सदा<br/>तपाईं प्रभु हाम्रो राजा) २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(प्यारो पिता, कति महान् प्रेम गर्नुभो<br/>हामीलाई पापबाट छुटाउनलाई<br/>आफ्नो पुत्र बलि दिनुभो) २</lines>
+    </verse>
+  </lyrics>
+</song>
