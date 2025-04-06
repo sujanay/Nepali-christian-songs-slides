@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-04-06T17:15:49">
+  <properties>
+    <titles>
+      <title>C094- yeshu mathi uchaliyeko - FINAL</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशू माथि उचालिएको<br/>देख्‍‌न चाहन्छौं यो देशमा<br/><br/><tag name="y">yeshu mathi ucaliyeko<br/>dekhna chahanchau yo deshma</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>सबैले यो सत्य जानेको,<br/>उनी हुन बाटो स्वर्गको<br/><br/><tag name="y">sabai-le yo satye jaane-ko,<br/>uni hun baaTo sworga-ko</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>(चाहान्दछौं देख्‍‌नलाई, देख्‍‌नलाई,<br/>येशू उचालिएको) ~ 2<br/><br/><tag name="y">(chahandachau dekhnalai, dekhnalai,<br/>yeshu uchali-yeko) ~ 2</tag></lines>
+    </verse>
+    <verse name="b1">
+      <lines>पाइला पाइला टेकी अघि बढ्छौं,<br/>जग्गा आफ्‍‌नो गराउँदै,<br/><br/><tag name="y">Paila paila Teki aghi badhchau<br/>jagga aafno garaaudai,</tag></lines>
+    </verse>
+    <verse name="b2">
+      <lines>प्रार्थना हो शक्तिशाली हतियार<br/>किल्लाहरू फोर्दै भत्काउने, भत्काउने<br/><br/><tag name="y">prathna ho shakti saali hatiyar<br/>killaharu fordai bhatkaune, bhatkaune<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

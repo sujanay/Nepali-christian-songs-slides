@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-04-06T17:24:03">
+  <properties>
+    <titles>
+      <title>Jun Naaunmaa Cha Mukti - Nim Church - FINAL</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(जुन नाउँमा छ मुक्ति<br/>जुन नाउँमा छ शक्ति<br/><br/><tag name="y">jun naunma chha mukti <br/>jun naunma chha shakti </tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जुन नाउँमा छ शान्ति<br/>दिन्छन् उनले चङ्गाई) २<br/><br/><tag name="y"> jun naunma chha shanti <br/> dinchhan unale changai</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>जुन नाउँमा छ जिन्दगी<br/>येशू हो त्यो नाउँ<br/><br/><tag name="y">jun naunma chha jindagi <br/>yeshu ho tyo naun </tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>जुन नाउँमा छ छुटकारा<br/>येशू हो त्यो नाउँ<br/><br/><tag name="y">jun naunma chha chhutakara <br/>yeshu ho tyo naun</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशू तपाईंको नाउँ<br/>सबै भन्दा उच्च छ<br/><br/><tag name="y">yeshu tapaiko naun <br/>sabai bhanda uchcha chha </tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>येशू तपाईंको नाउँ<br/>सबै भन्दा उच्च छ<br/><br/><tag name="y">yeshu tapaiko naun <br/>sabai bhanda uchcha chha </tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(बिरामीबाट गरिबीबाट<br/>श्रापबाट छुटाउँछ<br/><br/><tag name="y">biramibat garibibat <br/>srapabat chhutaunchh</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>जुन नाउँले अन्धोलाई<br/>देख्न सक्ने गराउँछ) २<br/><br/><tag name="y">jun naunle andholai <br/>dekhna sakne garaunchha</tag></lines>
+    </verse>
+  </lyrics>
+</song>
