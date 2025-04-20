@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-04-20T01:55:38">
+  <properties>
+    <titles>
+      <title>C091 - Utsab Manaaun, Yeshuko Utsab Manaaun (Celebrate, Jesus, Celebrate) (FINAL)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(उत्सव मनाऔँ,<br/>येशूको उत्सव मनाउऔँ) २<br/><br/><tag name="y">(utsab manaauň,<br/>yeshu-ko utsab manaauň) 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उनी बौरी उठेका छन्,<br/>राज्य गर्छन् सदासर्वदा<br/><br/><tag name="y">uni bauri uThekaa chan,<br/>rajye garchan sadaa-sarvadaa</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>उनी बौरी उठेका छन्,<br/>आऊ हामी उत्सव मनाऔँ<br/><br/><tag name="y">uni bauri uThekaa chan,<br/>aau haami utsab manaauň</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>पुनरुत्थान हाम्रो प्रभुको<br/><br/><tag name="y">puna-rutthan haamro prabhu-ko.</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>आउ, हामी उत्सव मनाऔ <br/>उत्सव मनाऔ प्रेमदानको लागि<br/><br/><tag name="y">aau, hami utsab manaau <br/>utsab manaau premadanako lagi </tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>ईश्वरपुत्रले प्रेम गरी <br/>जीवन दिए <br/><br/><tag name="y">iswaraputrale prem gari <br/>jiwan diye</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>स्तुति चढाउँदछौं कसैले नदिने <br/>आनन्द दिनुभयो, भेटी लिएर आउँदछौँ <br/>उत्सवको स्तुतिमा <br/><br/><tag name="y">stuti chadhaudachau kasaile nadine <br/>ananda dinuvayo, bheti liera audachau<br/>utsabako stutima </tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>आउ हामी उत्सव मनाउ उत्सव मनाउ <br/>उत्सव मनाउँदै गाऔ x 2<br/>राजालाई<br/><br/><tag name="y">aau hami utsaw manau utsaw manau <br/>utsaw manaudai gaau x 2<br/>rajalai </tag></lines>
+    </verse>
+  </lyrics>
+</song>

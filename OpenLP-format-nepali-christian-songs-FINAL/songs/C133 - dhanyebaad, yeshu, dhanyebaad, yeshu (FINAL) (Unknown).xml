@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-04-20T01:59:39">
+  <properties>
+    <titles>
+      <title>C133 - dhanyebaad, yeshu, dhanyebaad, yeshu (FINAL)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(धन्यवाद, येशू, धन्यवाद, येशू,<br/>(धन्यवाद प्रेमको लागि) २<br/><br/><tag name="y">(dhanyebad, yeshu, dhanyebad, yeshu,<br/>dhanyebaad prem-ko laagi) 2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(कलवरी जानुभो, <br/>त्यहाँ तपाईं मर्नुभो,<br/>धन्यवाद प्रेमको लागि) २<br/><br/><tag name="y">(kalwari jaanubho, <br/>tyahaaň tapaaiň marnubho,<br/>dhanyebaad prem-ko laagi) 2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(तपाईं जिइउठ्‌नुभो,<br/>नयाँ जीवन दिनुभो,<br/>धन्यवाद प्रेमको लागि) २<br/><br/><tag name="y">(tapaaiň jii-uThnu-bho,<br/>nayaaň jivan dinubho,<br/>dhanyebaad prem-ko laagi) 2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>
