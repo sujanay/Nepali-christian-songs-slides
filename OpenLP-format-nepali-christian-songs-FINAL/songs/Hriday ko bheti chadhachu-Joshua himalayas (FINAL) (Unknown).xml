@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-05-11T16:32:06">
+  <properties>
+    <titles>
+      <title>Hriday ko bheti chadhachu-Joshua himalayas (FINAL)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>( ह्रदयको भेटी चडाउछु, <br/>आराधना मेरो येशुलाई )२<br/><br/><tag name="y">(Hridaya Ko Beti Chadauchu <br/>Aaradhana Mero Yeshulai)~2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(आराधना  आराधना  <br/>आराधना ) येशुलाई )~ 2<br/><br/><tag name="y">(Aaradhana Aaradhana<br/>Aaradhana Yeshu lai)~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>तपाईको अनुग्रह, <br/>हरेक समय नै, नयाँ नयाँ हुन्छ<br/><br/><tag name="y">Tapai ko Aanugrah<br/>Harek Samayehnai, Naya Naya Huncha<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>तपाईको प्रेमले, हरेक समय नै<br/>मलाई अंगालनु हुन्छ )२<br/><br/><tag name="y">Tapai Ko Premale Harek Samayenai <br/>Malai Angalnu Huncha)2<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>( म डराउदिन हे येशु<br/>तपाई मेरो साथमा )~2<br/><br/><tag name="y">(Mo Daraudina Hey Yeshu <br/>Tapai Mero Sathama)~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-05-18T18:42:53">
+  <properties>
+    <titles>
+      <title>Aru Kohi Chaina - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>अरु कोही छैन आदरको योग्य<br/>एकमात्र मालिक तपाईं<br/><br/><tag name="y">aru kohi chaina aadar-ko yogye<br/>ek-maatra maalik tapaaiň</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>अरु कोही छैन सिंहसनको योग्य<br/>एकमात्र राजा तपाईं<br/><br/><tag name="y">aru kohi chaina siňhasan-ko yogye<br/>ek-maatra raajaa tapaaiň</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सारा आदर, सारा महिमा<br/>       तिम्रै, तिम्रै) २<br/><br/><tag name="y">(sara aadar,  sara mahima<br/>timrai, timrai) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>अरु कोही छैन महिमाको योग्य<br/>एकमात्र प्रभु तपाईं<br/><br/><tag name="y">(aru kohi chaina mahimaa-ko yogye<br/>ek-maatra prabhu tapaaiň</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>अरु कोही छैन निष्कलङ पवित्र<br/>एकमात्र थुमा तपाईं<br/><br/><tag name="y">aru kohi chaina niskalang pavitra<br/>ek-maatra thumaa tapaaiň</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(सारा आदर, सारा महिमा<br/>तिम्रै, तिम्रै) २<br/><br/><tag name="y">(sara aadar,  sara mahima<br/>timrai, timrai) 2</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(नाउँ उनको उच्च) ३<br/>नाउँ येशू<br/><br/><tag name="y">(naauň unko ucca) 3<br/>naauň yeshu</tag></lines>
+    </verse>
+  </lyrics>
+</song>

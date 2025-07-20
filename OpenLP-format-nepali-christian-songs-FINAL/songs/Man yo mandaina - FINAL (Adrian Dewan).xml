@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-05-18T18:59:52">
+  <properties>
+    <titles>
+      <title>Man yo mandaina - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(मन यो मान्दैननि राजै मन यो मान्दैन<br/>येशूको निम्तिन गाए सम्म मन यो मान्दैन) ~ 2<br/><br/><tag name="y">(Man yo maandainani rajai man yo maandaina<br/>Yeshuko nimtin gaae samma man yo maandaina) ~ 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दिल यो मान्दैननि राजै दिल यो मान्दैन<br/>येशूको निम्तिन नाचे सम्म दिल यो मान्दैन<br/><br/><tag name="y">Dil yo maandainani rajai dil yo maandaina<br/>Yeshuko nimtin naache samma dil yo maandaina</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(गाउ है च्याङ्बा दिलै खोलि,<br/>नाचिदेऊ न कम्बरभचि) (२)<br/><br/><tag name="y">(Gau hai chyangba dilai kholi,<br/>Nachideu na kambarbhachi) (2)</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(छैन यो मौका अरु कसैलाई, <br/>मात्र हामिलाई) (२)<br/><br/><tag name="y">(Chhaina yo mauka aru kasailai, <br/>matra hamilai) (2)</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>शान्ति नै छैन नि मलाई शान्ति नै छैन<br/>येशूको निम्ति नगाए सम्म शान्ति नै छैन ।<br/><br/><tag name="y">Shanti nai chhaina ni malai shanti nai chhaina<br/>Yeshuko nimti nagaae samma shanti nai chhaina.</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>आरामै छैन नि मलाई आरामै छैन<br/>येशुको निम्ति ननाचे सम्म आरामै छैन ।<br/><br/><tag name="y">Aaramai chhaina ni malai aaramai chhaina<br/>Yeshuko nimti nanaache samma aaramai chhaina.</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(गाउ है च्याङ्बा ताली बजाई,<br/>सोरमा सोर मिलाई) (२)<br/><br/><tag name="y">(Gau hai chyangba tali bajai,<br/>Sorma sor milai) (2)</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>(छैन यो मौका अरु कसैलाई, मात्र हामिलाई) (२)<br/><br/><tag name="y">(Chhaina yo mauka aru kasailai, matra hamilai) (2)</tag></lines>
+    </verse>
+  </lyrics>
+</song>

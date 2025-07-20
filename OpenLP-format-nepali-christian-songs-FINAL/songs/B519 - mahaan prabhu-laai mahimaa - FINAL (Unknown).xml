@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-07-20T17:37:28">
+  <properties>
+    <titles>
+      <title>B519 - mahaan prabhu-laai mahimaa - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(महान्‌ प्रभुलाई महिमा,<br/>परमप्रभुलाई प्रशंसा) २<br/><br/><tag name="y">(mahaan prabhu-laai mahimaa,<br/>param-prabhu-laai prashaňsaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(यो मेरो जीवनको चाहना<br/>हल्लेलूयाह होसन्‍‌ना) २<br/><br/><tag name="y">(yo mero jivan-ko caahanaa<br/>halleluyaah hosannaa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(वर्तमान मेरो येशूको हातमा,<br/>भविष्य पनि तपाईंको साथमा) २<br/><br/><tag name="y">(bartamaan mero yeshu-ko haata-maa,<br/>bhabisye pani tapaaiň-ko saatha-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(आनन्दित छु, शान्तिमा छु,<br/>प्रभुहरूका प्रभुमा परमप्रभुमा) २<br/><br/><tag name="y">(aanandit chu, shaanti-maa chu,<br/>prabhu-haru-kaa prabhu-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(सर्वाङ्ग मेरो येशूको हातमा<br/>अर्पण गर्छु, धन्यवादसाथमा) २<br/><br/><tag name="y">(sarvaanga mero yeshu-ko haata-maa<br/>arpaNa garchu, dhanyebaad-saatha-maa) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(निश्चिन्त छु निर्धक्क छु,<br/>राजाहरूका राजामा) २<br/><br/><tag name="y">(nish-cinta chu nirdhakka chu,<br/>raajaa-haru-kaa raajaa-maa) ~2<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

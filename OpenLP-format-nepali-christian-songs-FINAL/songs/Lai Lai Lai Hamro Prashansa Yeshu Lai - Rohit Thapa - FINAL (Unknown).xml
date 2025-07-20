@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-07-20T17:43:33">
+  <properties>
+    <titles>
+      <title>Lai Lai Lai Hamro Prashansa Yeshu Lai - Rohit Thapa - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(लै लै लै लै लै लै लै<br/>हाम्रो प्रशंसा येशूलाई) २<br/>हुररर...हा हुररर...हा<br/><br/><tag name="y">(lai lai lai lai lai lai lai<br/>haamro prashaňsaa yeshu-laai) 2<br/>hurrr...haa hurrr...haa</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(लै लै लै लै लै लै लै<br/>हाम्रो आराधना येशूलाई) २<br/><br/><tag name="y">(lai lai lai lai lai lai lai<br/>haamro aaraadhnaa yeshu-laai) 2</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(सकिएर जान्छ संसारको राज्य<br/>येशूको राज्य तुर्दैन) २<br/><br/><tag name="y">(sakiyera jaancha sansaar-ko raajye<br/>yeshu-ko raajye turdaina) 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जातिहरूमा येशूको प्रेमको<br/>अन्त कहिल्यै हुँदैन) २<br/>हुररर...हा हुररर...हा<br/><br/><tag name="y">(jaati-haru-maa yeshu-ko prem-ko<br/>anta kahilyei huňdaina) 2<br/>hurrr...haa hurrr...haa</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(ढोका है खोलौं आराधनाले<br/>येशूको सामर्थ पाउँदै जाऊँ) २<br/><br/><tag name="y">(Dhokaa hai kholauň aaraadhanaa-le<br/>yeshu-ko saamartha paauňdai jaauň) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(हृदय जोडी लाजलाई तोडी<br/>येशूको आनन्दमा डुब्दै जाऊँ) २<br/>हुररर...हा हुररर...हा<br/><br/><tag name="y">(ridaya joDi laaja-laai toDi<br/>yeshu-ko aanand-maa Dubdai jaauň) 2<br/>hurrr...haa hurrr...haa</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(पुर्व र पश्‍चिम, उत्तर र दक्षिण<br/>आत्माको बतास चल्दैछ) २<br/><br/><tag name="y">(purba ra paschim, uttar ra dakchiN<br/>aatmaa-ko bataas cal-daicha) 2</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(रात जति हुन्छ आत्माको ज्योति<br/>झनै उज्यालो बल्दैछ) २<br/>हुररर...हा हुररर...हा<br/><br/><tag name="y">(raata jati huncha aatmaa-ko jyoti<br/>jhanai ujyaalo bal-daicha) 2<br/>hurrr...haa hurrr...haa</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>लै लै लै लै लै लै लै<br/>हाम्रो आराधना येशूलाई<br/>लै लै लै लै लै लै लै<br/>हाम्रो प्रशंसा येशूलाई<br/><br/><tag name="y">lai lai lai lai lai lai lai<br/>haamro aaraadhnaa yeshu-laai<br/>lai lai lai lai lai lai lai<br/>haamro prashaňsaa yeshu-laai</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>लै लै लै लै लै लै लै<br/>हाम्रो आराधना येशूलाई<br/><br/><tag name="y">lai lai lai lai lai lai lai<br/>haamro aaraadhnaa yeshu-laai</tag></lines>
+    </verse>
+  </lyrics>
+</song>

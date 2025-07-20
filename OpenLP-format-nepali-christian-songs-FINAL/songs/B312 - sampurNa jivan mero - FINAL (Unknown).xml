@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-07-20T17:29:37">
+  <properties>
+    <titles>
+      <title>B312 - sampurNa jivan mero - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 v3 v4 c1 c2 v5 v6 v7 v8 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>सम्पूर्ण जीवन मेरो<br/>प्रभु तपाईंकै हो<br/><br/><tag name="y">sampurNa jivan mero<br/>prabhu tapaaiň-kai ho<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>(राज गर्नुहोस् सदा<br/>तपाईंकै पूर्ण होस् इच्छा।) २<br/><br/><tag name="y">(raaj garnu-hos sadaa<br/>tapaaiň-kai purNa hos ichyaa.) ~2</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>महान् प्रभु तपाईको<br/>प्रेम अति गहिरो<br/><br/><tag name="y">mahaan prabhu tapaaiň-ko<br/>prem ati gahiro<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>सागरभन्दा चौड़ा छ यो<br/>आसमानभन्दा उच्च छ यो;<br/><br/><tag name="y">saagar-bhandaa cauDaa cha yo<br/>aasmaan-bhandaa ucca cha yo</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>निकम्मालाई चुनेर<br/>जीवन दान दिनुभो<br/><br/><tag name="y">nikammaa-laai cunera<br/>jivan daan dinubho</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>(ईच्छा, आशा, उद्देश्य<br/>प्रभु तपाईं नै हो मेरो) २<br/><br/><tag name="y">(ichyaa, aashaa, uddeshye<br/>prabhu tapaaiň nai ho mero) ~2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>दूतगणले गर्थे तपाईंको<br/>स्वर्गमा महिमा<br/><br/><tag name="y">dutgaN-le garthen tapaaiň-ko<br/>sworga-maa mahimaa<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>मानिसले गरे उनको<br/>निरादर र निन्दा<br/><br/><tag name="y">maanis-le gare una-ko<br/>niraadar ra nindaa</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>स्वर्गमा बस्ने येशू<br/>पिताको दाहिने हात<br/><br/><tag name="y">sworga-maa basne yeshu<br/>pitaa-ko daah'ne haat</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>(मानिसले राखे श्रापित<br/>क्रूसमा दुइ चोरको साथ)२<br/><br/><tag name="y">(maanis-le raakhe shraapita<br/>krusa-maa dui corko saath) ~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

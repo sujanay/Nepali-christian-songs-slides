@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-05-11T16:48:28">
+  <properties>
+    <titles>
+      <title>Saarwavoumik - Adrian Dewan (FINAL)</title>
+    </titles>
+    <authors>
+      <author>Adrian Dewan</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>तपाई जस्तो कोही छैन x 2 <br/>पवित्र पवित्र परमेश्वर <br/><br/><tag name="y">Tapai jasto kohi chaina<br/>Pavitra pavitra parameshwar</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आफैमा सर्वसम्पन्न,  <br/>आनन्द र प्रेमले पूर्ण <br/><br/><tag name="y">Aafaima sarvasampanna,<br/>aananda ra premle purna</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>कसैमा हुनुहुन्न निर्भर <br/><br/><tag name="y">Kasaima hunuhunnai nirbhar</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>आदिमा तपाई जब बोल्नुभो <br/>पृथ्वी उत्पन्न भए, <br/><br/><tag name="y">Aadima tapai jab bolnubho <br/>prithvi utpanna bhaye</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>ताराहरू र स्वर्गदुतहरू <br/>तपाईको ज्ञानले सृजिए <br/><br/><tag name="y">Taraharu ra swargadutaharu <br/>tapaiko gyanle srijie</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>(सार्वभौमिक सर्वज्ञानी पितालाई <br/>होस महिमा, स्तुति आदर आराधना) 2<br/><br/><tag name="y">(Sarvbhaumik sarvagyaani pitalai <br/>hos mahima, Stuti aadar aaradhana) 2</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>आफ्नो महिमा प्रकट गर्न,  <br/>माटोबाट मानिसलाई <br/>आफ्नै स्वरूपमा बनाउनुभो <br/><br/><tag name="y">Aafno mahima prakat garn,  <br/>matobata manislai <br/>Aafnai swaropma banaunubho</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>बिद्रोहि अनाज्ञाकारी <br/>हुँदा नी त्याग्नुभएन <br/>प्रेम गरिरहनुभयो<br/><br/><tag name="y">Bidrohi anagyakari <br/>hunda ni tyagnubhayen<br/>Prem garirahanubhayo</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>करारको शर्तको श्रापहरू, <br/>आफ्नो शरीरमा लिनुभो<br/><br/><tag name="y">Kararko shartako shrapaharu, <br/>aafno sharirama linubho</tag></lines>
+    </verse>
+    <verse name="v10">
+      <lines>र बिना शर्तको प्रेमले <br/>म पापीलाई प्रेम गर्नुभो <br/><br/><tag name="y">Ra bina shartako premle <br/>ma papilai prem garnubho</tag></lines>
+    </verse>
+    <verse name="v11">
+      <lines>(अनुग्रही आै दयालु येशूलाई <br/>होस महिमा स्तुति आदर आराधना) २<br/><br/><tag name="y">(Anugrahi au dayalu Yeshulai <br/>hos mahima Stuti aadar aaradhana) 2</tag></lines>
+    </verse>
+    <verse name="v12">
+      <lines>(सार्वभौमिक सर्वज्ञानी पितालाई <br/>होस महिमा, स्तुति आदर आराधना) 2<br/><br/><tag name="y">(Sarvbhaumik sarvagyaani pitalai <br/>hos mahima, Stuti aadar aaradhana) 2</tag></lines>
+    </verse>
+  </lyrics>
+</song>
