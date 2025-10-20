@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-10-19T18:43:03">
+  <properties>
+    <titles>
+      <title>B285 - maile yeshu mitra paayeň - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 v4 v5 v6 c1 v7 v8 v9 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>मैले येशू मित्र पाएँ,<br/>जो मेरो सब थोक हो,<br/>मेरो आत्माको लागि के उत्तम वर,<br/><br/><tag name="y">maile yeshu mitra paayeň,<br/>jo mero sab thok ho,<br/>mero aatmaa-ko laagi ke uttam bar,</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>त्यो सुन्दर फूल बाटोको,<br/>बिहानको त्यो तारा,<br/>मलाई शुद्ध चङ्गा पार्ने उत्तम वर।<br/><br/><tag name="y">tyo sundar ful baaTo-ko,<br/>bihaan-ko tyo taaraa,<br/>malaai shuddha cangaa paarne uttam bar.</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अफसोसमा मेरो हर्ष,<br/>दु:खमा मेरो आशा,<br/>भन्छन्‌ उनले शोच-फिक्री नगर।<br/><br/><tag name="y">afsos-maa mero harsa,<br/>dukha-maa mero aashaa,<br/>bhanchan unle shoca-fikri na-gara.</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>त्यो सुन्दर फूल बाटोको,<br/>बिहानको त्यो तारा<br/>कति उत्तम त्यो वर मेरो आत्माको<br/><br/><tag name="y">tyo sundar ful baaTo-ko,<br/>bihaan-ko tyo taaraa<br/>kati uttam tyo bar mero aatmaa-ko</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>उनले मेरो दु:ख सब लिए,<br/>सबै अफसोस पनि,<br/>परीक्षामा मेरो छ गढ बलियो,<br/><br/><tag name="y">unle mero dukha sab liye,<br/>sabai afsos pani,<br/>parikchya-ma mero cha gaDha baliyo,</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>सब उनको लागि बिर्सें,<br/>मेरो हृदयदेखि,<br/>उनको सँगमा बस्‍‌नलाई मलाई लिए,<br/><br/><tag name="y">sab un-ko laagi birseň,<br/>mero ridai-dekhi,<br/>unko saňga-maa basna-lai ma-lai liye,</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>संसारले मलाई छोड्‌दा,<br/>शैतानले दु:ख दिँदा,<br/>ख्रीष्ट प्रभु हुन्छन्‌ साथमा, शोक नगर।<br/><br/><tag name="y">sansaar-le ma-laai choDdaa,<br/>shaitaan-le dukha diňdaa,<br/>khrisT prabhu hunchan sath-ma, shok na-gara.</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>मलाई छोड्‌नेछैनन्‌ कैले,<br/>न भुल्‍‌नेछन्‌ मलाई,<br/>विश्‍वासमा बसी मान्‍‌नेछु उनैलाई,<br/><br/><tag name="y">malaai choDne-chainan kaile,<br/>na bhulnechan malaai,<br/>vishwaas-maa basi maan-nechu unai-laai,</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>अग्निको देवलभित्र,<br/>केही मलाई डर छैन,<br/>मन्‍‌न दिन्छन्‌ भोकाएको आत्मालाई,<br/><br/><tag name="y">agni-ko deol-bhitra,<br/>kehi malaai Dar chaina,<br/>manna dinchan bhokayeko atmaLai,</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>मुकुटले पहिर्‍याउँदा,<br/>दर्शन म गर्नेछु,<br/>बग्दछ जहाँ नदी आनन्दको।<br/><br/><tag name="y">mukuT-le pahiryaauňdaa,<br/>darshan ma garnechu,<br/>bagdacha jahaaň nadi aanand-ko.</tag></lines>
+    </verse>
+  </lyrics>
+</song>
