@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-12-07T18:17:04">
+  <properties>
+    <titles>
+      <title>B591 - Prabhuko janma bhayo - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>प्रभुको जन्म भयो<br/>बेथलेहेम गावैँमा<br/>डुँडैमा बालक येशू पस्रनुभो<br/><br/><tag name="y">prabhu-ko janma bhayo<br/>bethlehem gaawaiň-maa<br/>DuňRai-maa baalak yeshu pasranu-bho</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>रात अँधेरीमा<br/>मरियमको कोखैमा<br/>इम्मानुएल प्रभु जन्मनुभो।<br/><br/><tag name="y">raat aňderi-maa<br/>mariyem-ko kokhai-maa<br/>immaanu-yel prabhu janmanu-bho.</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(चमचम चम चम्किरहेका जून-तारागण<br/>बलिरहेका खुशीको साथ) २<br/><br/><tag name="y">(cam cam cam camki-rahekaa jun-taaraa-gaN<br/>bali-rahekaa khushi-ko saath) 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आऊँ शरणमा हामी,<br/>जाऊँ चरणमा हामी<br/>सुन्दर बालक जाऔं येशूकहाँ।<br/><br/><tag name="y">aauň sharaN-maa haami,<br/>jaauň caraN-maa haami<br/>sundara baalaka yeshu-kahaaň.</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>गोठालाहरूले, ज्योतिषीहरूले<br/>आएर हेरे येशू ख्रीष्टलाई) २<br/><br/><tag name="y">(goThaalaa-haru-le, jyotisi-haru-le<br/>aayera here yeshu khrisT-laai) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>आऊँ शरणमा हामी,<br/>जाऊँ चरणमा हामी<br/>सुन्दर बालक येशूकहाँ।<br/><br/><tag name="y">aauň sharaN-maa haami,<br/>jaauň caraN-maa haami<br/>sundara baalaka yeshu-kahaaň.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

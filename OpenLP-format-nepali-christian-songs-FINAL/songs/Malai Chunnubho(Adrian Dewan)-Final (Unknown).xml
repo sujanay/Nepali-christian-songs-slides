@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-12-21T21:12:38">
+  <properties>
+    <titles>
+      <title>Malai Chunnubho(Adrian Dewan)-Final</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(श्रीष्टिको स्वरूपमा बनिनको निश्चिै~ २<br/><br/><tag name="y">(Shrishtiko swarupma baninako) 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(जगतको उत्पत्तिभन्दा अघि मलाई चुनुभयो) २<br/>(पवित्र अनि निष्कलंक हुन) २<br/><br/><tag name="y">(Jagatko utpattibhanda agi malai chunubho) 2<br/>(Pabitra ani nishkalank hun) 2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(जगतको उत्पत्तिभन्दा अघि मलाई चुनुभयो) २<br/>(तपाईंको पूर्वज्ञान अनुसार मलाई<br/>हे परमप्रभु तपाईंले बोलाउनुभयो) २<br/><br/><tag name="y">(Jagatko utpattibhanda agi malai chunubho) 2<br/>(Tapaiko purvagyaan anusar malai<br/>He Paramprabhu tapaile bolaunubho) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>मेरो धर्मले र कर्मले होइन<br/>कुनै खुबी र योग्यताले होइन<br/>(तपाईंको अनुग्रहले नै म त चुनिएको हुँ) २<br/><br/><tag name="y">Mero dharmale ra karmale hoina<br/>Kunai khubi ra yogyatale hoina<br/>(Tapaiko anugrahle nai ma ta chuniyeko hu) 2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>आज्ञाकारी र नम्र भई हिँड्न<br/>न्यायलाई प्रेम गर्न धार्मिकतालाई खोज्न<br/>(तपाईंको रगतले येशु म त किन्निएको हुँ) २<br/><br/><tag name="y">Aagyaakari ra namra bhai hindna<br/>Nyayalai prem garna dharmikatalai khojna<br/>(Tapaiko ragatle Yeshu ma ta kinnieko hu) 2</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>तपाईंको पूर्वज्ञान अनुसार मलाई<br/>हे परमप्रभु तपाईंले बोलाउनुभयो<br/><br/><tag name="y">Tapaiko purvagyaan anusar malai<br/>He Paramprabhu tapaile bolaunubho</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>यसैले उच्चाल्छु प्रशंसामा यी हातहरू<br/>दण्डवत गर्छु तपाईंलाई येशु<br/><br/>Yasaile uchalchhu prashansama yi haathharu<br/>Dandawat garchhu tapailai Yeshu</lines>
+    </verse>
+    <verse name="v8">
+      <lines>यसैले जीवनभर आराधना म गर्नेछु<br/>धन्यवाद दिन्छु तपाईंलाई येशु<br/><br/><tag name="y">Yasaile jeevanbhar aaradhana ma garnechhu<br/>Dhanyabaad dinchhu tapailai Yeshu</tag></lines>
+    </verse>
+  </lyrics>
+</song>

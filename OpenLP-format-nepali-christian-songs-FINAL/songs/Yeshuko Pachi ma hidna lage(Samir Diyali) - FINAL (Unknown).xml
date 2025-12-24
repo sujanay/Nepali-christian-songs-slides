@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-10-26T19:51:12">
+  <properties>
+    <titles>
+      <title>Yeshuko Pachi ma hidna lage(Samir Diyali) - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>१: (येशूको पछि म हिड्न लागे<br/>येशूको पछि म हिड्न थाले)२<br/><br/><tag name="y">(Yeshu ko pachhi ma hidna lage<br/>Yeshu ko pachhi ma hidna thale)~2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(सबैथोकलाई बिर्सेर आज<br/>स्वर्ग तिर म बढ्न थाले)~२<br/><br/>(<tag name="y">Sabaithoklai birsera aaja<br/>Swarg tira ma badhna thale)~2</tag><br/><br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines>(हा.. हल्लेलुयाह हा... हल्लेलुयाह)२<br/><br/><tag name="y">(Ha.. Hallelujah ha... Hallelujah)~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(येशूको नजिक म जान थाले<br/>येशूको मुखार म देख्न थाले)२<br/><br/><tag name="y">(Yeshu ko najik ma jana thale<br/>Yeshu ko mukhar ma dekhna thale)~2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(संसारको माया बिर्सेर आज<br/>येशूको मायामा म जिउन थाले)२<br/><br/><tag name="y">(Sansarko maya birsera aaja<br/>Yeshu ko mayama ma jiuna thale)~2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(येशूको झरिले म भिज्दछु<br/>आत्माको बतासमा म उड्दै छु)२<br/>(चील झै माथि - माथि स्वर्ग छुने गरी)४<br/><br/><tag name="y">(Yeshu ko jharine ma bhijdaichu<br/>Atmako batasma ma udai chu)2<br/>(Chil jhai mathi - mathi swarg chhune gari)4</tag></lines>
+    </verse>
+  </lyrics>
+</song>

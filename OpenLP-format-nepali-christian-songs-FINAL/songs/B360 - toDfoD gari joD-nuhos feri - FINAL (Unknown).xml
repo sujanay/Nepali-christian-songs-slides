@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-12-07T18:11:46">
+  <properties>
+    <titles>
+      <title>B360 - toDfoD gari joD-nuhos feri - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 v3 v4 c1 c2 v5 v6 v7 v8 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>तोडफोड गरी जोड्नुहोस् फेरी<br/>ख्रीष्ट स्वयं जिउनुहोस्<br/><br/><tag name="y">toDfoD gari joD-nuhos feri<br/>khrisT swoyem jiu-nuhos<br/></tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(सृष्टि अघिको इच्छा तपाईंको,<br/>हे प्रभु पूर्ण होस् ।) २<br/><br/><tag name="y">(srisTi aghi-ko ichyaa tapaaiň-ko,<br/>he prabhu purNa hos.) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(स्वार्थमय जीवन जिएर कति<br/>तपाईंलाई रुवाँए) २<br/><br/><tag name="y">(swaartha-mai jivan jiyera kati<br/>tapaaiň-laai ruwaaň-ye) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तपाईंको आज्ञा तोडेर मैले<br/>धेर काँडा उमारेँ<br/><br/><tag name="y">tapaaiň-ko aagyaa toDera maile<br/>dher kaaňDaa umaareň<br/></tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>ती काँडाबाट एक मुकुट बनाई<br/>प्रभुलाई पहिर्‍याएँ<br/><br/><tag name="y">ti kaaňDaa-baaTa ek mukuT banaai<br/>prabhu-laai pahiryaa-yeň<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>पाप गर्दै यहाँ बाँचेर कैयौं<br/>बार क्रुसमा चढाएँ ।<br/><br/><tag name="y">paap gardai yahaaň baaňcera kaiyauň<br/>baar krus-maa caDhaayeň.<br/></tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(जिउन चाहन्‍नँ हारेको जीवन<br/>ख्रीष्टरहित भएर) २<br/><br/><tag name="y">(jiuna caahan-naň hareko jivan<br/>khrisT-rahit bhayera) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>जिउन चाहन्छु जयवन्त जीवन<br/>ख्रीष्टभित्र भएर<br/><br/><tag name="y">jiuna caahan-chu jaiwanta jivan<br/>khrisT-bhitra bhayera<br/></tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>यसकारण प्रभु हारपूर्ण जीवन<br/>तपाईंलाई अर्पन्छु<br/><br/><tag name="y">yes-kaaraN prabhu haar-purNa jivan<br/>tapaaiň-laai arpan-chu<br/></tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>मेरो सट्टामा येशू जिउनुहोस्<br/>यो विनय बिछाउँछु ।<br/><br/><tag name="y">mero saTTaa-maa yeshu jiu-nuhos<br/>yo binai bichaauň-chu.<br/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-11-23T21:09:01">
+  <properties>
+    <titles>
+      <title>(Nepali and English) Rokindina Garna Tapailai Aaradhana-FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+    <authors>
+      <author>Samir Diyali</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(म रोकिँदिन गर्न तपाईंलाई आराधना) ~ 2<br/>(आराधना, आराधना, आराधना येशूलाई) ~2<br/><br/><tag name="y">(ma rokiňdina garna tapaiň-laai aradhana) ~ 2<br/>(aradhana,aradhana,aradhana yeshu-laai)~ 2</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>(कसरी म चुप बस्छु येशू तपाईंको<br/>अनुग्रहलाई देखि<br/><br/><tag name="y">kasari ma cup baschu yeshu tapaaiň-ko<br/>anugrah-laai dekhi</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>कसरी पछि हट्छु म येशू तपाईंको<br/>बलिदानलाई सम्झि) २<br/><br/><tag name="y">kasari pachi haTchu ma yeshu tapaaiň-ko<br/>balidaan-laai samjhi) 2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

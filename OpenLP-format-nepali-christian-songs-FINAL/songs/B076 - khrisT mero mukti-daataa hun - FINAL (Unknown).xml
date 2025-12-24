@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-10-26T19:51:12">
+  <properties>
+    <titles>
+      <title>B076 - khrisT mero mukti-daataa hun - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>ख्रीष्ट मेरो मुक्तिदाता हुन्<br/>उनी हुन् मित्र पापीको<br/><br/><tag name="y">KhrisT mero mukti-daataa hun<br/>Uni hun mitra paapi-ko</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>सदा स्तुति होस्‌ प्रभुको<br/>आदर महिमा उनैको<br/><br/><tag name="y">Sadaa stuti hos prabhu-ko<br/>Aadar mahimaa unai-ko</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>येशू संसारका ज्योति हुन्<br/>येशू स्वर्गका बाटो हुन्<br/><br/><tag name="y">Yeshu sansaar-kaa jyoti hun<br/>Yeshu sworga-kaa baato hun</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>येशू तारणहार हुन्,<br/>पापीका केवल सहारा हुन्<br/><br/><tag name="y">Yeshu taaraNahaar hun<br/>Paapi-kaa keval sahaaraa hun</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>त्यागे येशूले स्वर्ग-सुख<br/>उठाउन पापीहरूका दु:ख<br/><br/><tag name="y">Tyaage yeshu-le sworga-sukh<br/>Uthauna paapiharu-kaa dukh</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>दिए येशूले क्रूसमा प्राण<br/>गराउन पापीहरूको त्राण<br/><br/><tag name="y">Diye yeshu-le krus-maa praaN<br/>Garauna paapi-haru-ko traaN</tag></lines>
+    </verse>
+  </lyrics>
+</song>
