@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-05-18T18:46:27">
+  <properties>
+    <titles>
+      <title>B418 - bihaan samai rop-chauň,dayaa-rupi biu-laai - FINAL</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>बिहान समय रोप्छौँ,<br/>दयारूपी वीउलाई<br/><br/><tag name="y">bihaan samai rop-chauň,<br/>dayaa-rupi biu-laai<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दिउँसो पनि रोप्छौँ,<br/>साँझ नपरूञ्‍जेल<br/><br/><tag name="y">diuňso pani rop-chauň,<br/>saaňjh na-parunje</tag>l</lines>
+    </verse>
+    <verse name="v3">
+      <lines>धीरजले काम गर्छौं,<br/>फलको आशा राखी<br/><br/><tag name="y">dhiraj-le kaam garchauň,<br/>fal-ko aasha raakhi</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>ल्याउनेछौँ रमाउँदै,<br/>कामको पूरो फल ।<br/><br/><tag name="y">lyaau-nechauň ramaauň-dai,<br/>kaam-ko puro fal.</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>कामको पूरो फल,<br/>कामको पूरो फल<br/><br/><tag name="y">kaam-ko puro fal,<br/>kaam-ko puro fal,</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>ल्याउनेछौँ रमाउँदै,<br/>कामको पूरो फल।<br/><br/><tag name="y">lyaau-nechauň ramaauň-dai,<br/>kaam-ko puro fal.</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>दु:ख सही रोप्छौँ,<br/>सुख भोगी रोप्छौँ<br/><br/><tag name="y">dukha sahi rop-chauň,<br/>sukha bhogi rop-chauň,</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>झरीमा, जाड़ोमा,<br/>रहन्छौँ अटल<br/><br/><tag name="y">jhari-maa, jaaRo-maa,<br/>rahan-chauň aTal</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>काट्‍‌ने बेला हामी,<br/>पाकेको फल पाउँछौँ<br/><br/><tag name="y">kaaTne belaa haami,<br/>paake-ko fal paauň-chauň<br/></tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>ल्याउनेछौँ रमाउँदै,<br/>कामको पूरो फल ।<br/><br/><tag name="y">lyaau-nechauň ramaauň-dai,<br/>kaam-ko puro fal.</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>प्रभु ख्रीष्टको लागि<br/>रुँदै पनि रोपौँ<br/><br/><tag name="y">prabhu khrisT-ko laagi<br/>ruňdai pani ropauň<br/></tag></lines>
+    </verse>
+    <verse name="v10">
+      <lines>हानिलाई देखेर,<br/>नबनौँ चञ्‍चल<br/><br/><tag name="y">hanilai dekhera <br/>nabanau chanchal</tag></lines>
+    </verse>
+    <verse name="v11">
+      <lines>दु:खको अन्त हुन्छ,<br/>इनाम पनि आउँछ<br/><br/><tag name="y">dukh-ko anta huncha,<br/>inaam pani aauň-cha,</tag></lines>
+    </verse>
+    <verse name="v12">
+      <lines>ल्याउनेछौँ रमाउँदै,<br/>कामको पूरो फल ।<br/><br/><tag name="y">lyaau-nechauň ramaauň-dai,<br/>kaam-ko puro fal.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

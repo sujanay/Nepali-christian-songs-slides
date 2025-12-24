@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-12-07T19:10:23">
+  <properties>
+    <titles>
+      <title>Lalupate Fulera Aayo - Christmas Song - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 v3 v4 c1 c2 v5 v6 v7 v8 c1 c2 v9 v10 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>लालुपाते फुलेर आयो, बड़ा दिनले खुशी ल्यायो<br/>बड़ा दिनको शुभकामना<br/><br/><tag name="y">Lalupate phuler ayo, bada dinle khushi lyaayo<br/>Bada dinko subhakamana</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>फुलेर आयो, बड़ा दिनले खुशी ल्यायो<br/>बड़ा दिनको शुभकामना<br/><br/><tag name="y">Phuler ayo, bada dinle khushi lyaayo<br/>Bada dinko subhakamana</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>यो जीवनमा नयाँ नयाँ धेरै गीत गाए<br/>बड़ा दिनको शुभकामना छँदै यहाँ आए<br/><br/><tag name="y">Yo jeevanma naya naya dherai geet gaaye<br/>Bada dinko subhakamana chadai yaha aaye</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>मादलको तालमा हजार सारंगीको धुन<br/>बालक येशू जन्मिदा लो के भयो है सुन<br/><br/><tag name="y">Madal ko talma hazar sarangiko dhun<br/>Balak Yeshu janmida lo ke bhayo hai sun</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>बालक येशू जन्मिए गोठमा<br/>गीत गुञ्जियो सबैको ओठमा<br/>गाइको गोठमा<br/><br/><tag name="y">Balak Yeshu janmiye gothma<br/>Geet gunjiyo sabeko othma<br/>Gaiko gothma</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>जन्मिए गोठमा<br/>गीत गुञ्जियो सबैको ओठमा<br/>गाइको गोठमा<br/><br/><tag name="y">Janmiye gothma<br/>Geet gunjiyo sabeko othma<br/>Gaiko gothma</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>आकाशमा ठूलो तारा ज्योतिषिले देखे<br/>पात्रो पल्टाई हेर्दै जाँदा राजा जन्म भेटे<br/><br/><tag name="y">Akashma thulo tara jyotishile dekhe<br/>Patro paltai herda janda raja janma bhete</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>भेट गर्न उपहार लिए तब-तयार भए<br/>उन्हलाई बाटो देखाउन तारा अघि गए<br/><br/><tag name="y">Bhet garna upahar liye tab-tayar bhae<br/>Unlai bato dekhauna tara aghi gaye</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>जाने हो कि तिमी र हामी<br/>भेट गर्न अलिअलि नमानी<br/>नभई बैमानी<br/><br/><tag name="y">Jane ho ki timi ra hami<br/>Bhet garna ali ali namani<br/>Nabhai baimani</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>तिमी र हामी<br/>भेट गर्न अलिअलि नमानी<br/>नभई बैमानी<br/><br/><tag name="y">Timi ra hami<br/>Bhet garna ali ali namani<br/>Nabhai baimani</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>गोठालाहरू भेरी गोठको हेर्छ गर्दै थिए<br/>स्वर्गीय दूत आकाशमा आई खबर छाडी गए<br/><br/><tag name="y">Gothalaharu bheri gothko hercha gardai thiye<br/>Swargiya dut akashma aai khabar chhadi gaye</tag></lines>
+    </verse>
+    <verse name="v10">
+      <lines>राजाहरूका राजा हेरे जन्मिए आज<br/>बालक येशू भेटाउनेछौ गाइको डुंड माझ<br/><br/><tag name="y">Rajaharuka raja here janmiye aaja<br/>Balak Yeshu bhetaundechhau gaiko dund maajh</tag></lines>
+    </verse>
+  </lyrics>
+</song>
