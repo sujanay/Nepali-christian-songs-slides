@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-11-30T21:01:35">
+  <properties>
+    <titles>
+      <title>C067-Sworgiya Pita Hami Prem Garchau-Final</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 b1 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>स्वर्गीय पिता हामी प्रेम गर्छौं<br/>उच्च पार्छौं तपाईंको नाउँ<br/><br/><tag name="y">sworgiya pitaa haami prem gar-chauň,<br/>ucca parchauň tapaaiň-ko naa-uň.</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हाम्रो स्तुतिमा स्थापित होस् त्यो राज्य<br/>जसै गर्छौं महान् कामको प्रचार<br/><br/><tag name="y">haamro stuti-maa sthaapit hos tyo raajye,<br/>jasai gar-chauň mahaan kaam-ko pracaar</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>धन्य होस् प्रभु महान् ईश्‍वर<br/>जो थिए, छन् र हुन आउँछन्<br/><br/><tag name="y">dhanye hos prabhu mahaan ishwor<br/>jo thiye, chan ra huna aauň-chan.</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>धन्य होस् प्रभु महान् ईश्‍वर<br/>राज गर्छन् जसले सदा ।<br/><br/><tag name="y">dhanye hos prabhu mahaan ishwor<br/>raaj garchan jas-le sadaa.</tag></lines>
+    </verse>
+    <verse name="b1">
+      <lines>(म उच्च पार्नेछु त्यो नाउँ) २<br/>म झन्डाझैँ उच्च पार्छु आकाशमा,<br/>म उच्च पार्नेछु त्यो नाउँ।<br/><br/><tag name="y">(ma ucca paar-nechu tyo naauň) 2<br/>ma jhanDa-jhaiň ucca parchu akash-ma,<br/>ma ucca paar-nechu tyo naauň.</tag></lines>
+    </verse>
+  </lyrics>
+</song>

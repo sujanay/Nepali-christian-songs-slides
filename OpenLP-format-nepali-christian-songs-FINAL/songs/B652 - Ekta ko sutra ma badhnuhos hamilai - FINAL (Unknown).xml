@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-11-16T20:15:31">
+  <properties>
+    <titles>
+      <title>B652 - Ekta ko sutra ma badhnuhos hamilai - FINAL</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines>(एकताको सूत्रमा<br/>बाँध्नुहोस् हामीलाई<br/>बाँध्नुहोस् हामीलाई<br/>प्रेमको डोरीले) २<br/><br/><tag name="y">(ektaa-ko sutra-maa<br/>baaňdh-nuhos haami-laai<br/>baaňdh-nuhos haami-laai<br/>prem-ko Dori-le) ~2</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>(नटुटोस् यो ख्रीष्टीय प्रेम हामीमा<br/>जबसम्म ख्रीष्टको आगमन हुन्‍न) २<br/><br/><tag name="y">(na-TuTos yo khrisTiye prem haami-maa<br/>jaba-samma khrisT-ko aagaman hunna) ~2</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines>(एउटै परमेश्‍वरको सन्तान हौँ हामी<br/>एउटै ख्रीष्टको रगतले किनिएका हामी) २<br/><br/><tag name="y">(yeuTai parmeshwor-ko santaan hauň haami<br/>yeuTai khrisT-ko ragat-le kiniye-kaa haami) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>एउटै नाउँमा बप्तिस्मा लिएका<br/>(बाँध्नुहोस् हामीलाई प्रेमको डोरीले) २<br/><br/><tag name="y">yeuTai naauň-maa baptismaa liyekaa<br/>(baaňdh-nuhos haami-laai prem-ko Dori-le) ~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(स्वर्गीय राज्यको सन्तान हौँ हामी<br/>क्रूसको झण्डा संसारमा फैलाउँदै) २<br/><br/><tag name="y">(sworgiye raajye-ko santaan hauň haami<br/>krusa-ko jhaNDaa sansaar-maa failaauň-dai) ~2<br/></tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>उच्च पार्ने महिमित नाउँ येशूको<br/>(बाँध्नुहोस् हामीलाई प्रेमको डोरीले) २<br/><br/><tag name="y">ucca paarne mahimit naauň yeshu-ko<br/>(baaňdh-nuhos haami-laai prem-ko Dori-le) ~2</tag></lines>
+    </verse>
+  </lyrics>
+</song>

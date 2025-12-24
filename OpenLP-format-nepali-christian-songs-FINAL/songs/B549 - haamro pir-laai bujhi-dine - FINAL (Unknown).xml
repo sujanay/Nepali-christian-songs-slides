@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-10-26T19:51:12">
+  <properties>
+    <titles>
+      <title>B549 - haamro pir-laai bujhi-dine - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(हाम्रो पीरलाई बुझिदिने<br/>प्रभु येशू हुनुहुन्छ) २<br/><br/>(haamro pir-laai bujhi-dine<br/>prabhu yeshu hunu-huncha) ~2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(हाम्रो आँसुलाई पुछिदिने<br/>ख्रीष्ट येशू हुनुहुन्छ) २<br/><br/><tag name="y">(haamro aaňsu-laai puchi-dine<br/>khrisT yeshu hunu-huncha) ~2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>हाम्रो पीरलाई बुझिदिने<br/>प्रभु येशू हुनुहुन्छ<br/><br/><tag name="y">haamro pir-laai bujhi-dine<br/>prabhu yeshu hunu-huncha</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(यो धरतीको मान्छेले<br/>कहिले शान्ति दिने होइन) २<br/><br/><tag name="y">(yo dharti-ko maanche-le<br/>kahile shaanti dine hoina) ~2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(यो नयनको आँसुलाई<br/>पीर भनेर बुझ्ने होइन) २<br/><br/><tag name="y">(yo nayen-ko aaňsu-laai<br/>pir bhanera bujhne hoina) ~2</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>हाम्रो पीरलाई बुझिदिने<br/>प्रभु येशू हुनुहुन्छ<br/><br/><tag name="y">haamro pir-laai bujhi-dine<br/>prabhu yeshu hunu-huncha</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(यो धरतीको हाँसोले<br/>पीरलाई लाने होइन) २<br/><br/><tag name="y">(yo dharti-ko haaňso-le<br/>pir-laai laane hoina) ~2</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>(यो जीवनको आनन्दले<br/>सधैँ साथ दिइराख्‍ने होइन) २<br/><br/><tag name="y">(yo jivan-ko aananda-le<br/>sadhaiň saath dii-raakhne hoina) ~2</tag></lines>
+    </verse>
+    <verse name="v9">
+      <lines>हाम्रो पीरलाई बुझिदिने<br/>प्रभु येशू हुनुहुन्छ<br/><br/><tag name="y">haamro pir-laai bujhi-dine<br/>prabhu yeshu hunu-huncha</tag></lines>
+    </verse>
+  </lyrics>
+</song>

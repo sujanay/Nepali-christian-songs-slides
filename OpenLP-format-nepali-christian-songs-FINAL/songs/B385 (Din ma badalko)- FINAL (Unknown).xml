@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-10-26T19:51:12">
+  <properties>
+    <titles>
+      <title>B385 (Din ma badalko)- FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v3 v4 c1 c2 v5 v6 c1 c2 v7 v8 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>(दिनमा बादलको खाँबो बनी,<br/>रातमा आगोको ज्वाला बनी) २<br/><br/><tag name="y">(dina-maa baadal-ko khaaňbo bani,<br/>raat-maa aago-ko jwaalaa bani) २</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>रक्षा गर्‍यौ हामीलाई,<br/>(प्रभुजी, सुख-शान्तिमा बिते दिन) २<br/><br/><tag name="y">rakchyaa garyau haami-laai,<br/>(prabhu-ji, sukha-shaanti-maa bite din) 2</tag><br/> </lines>
+    </verse>
+    <verse name="c1">
+      <lines>(धन्य, धन्य, धन्य प्रभुलाई<br/>जो दिनुभयो हामीलाई) २<br/><br/><tag name="y">(dhanye, dhanye, dhanye prabhu-laai<br/>jo dinu-bhayo haami-laai) 2</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>छत्रछायाँमा लुकाई,<br/>(प्रभुजी, दिनरात हर समयमा) २<br/><br/><tag name="y">chatra-chaayaaň-maa lukaai,<br/>(prabhu-ji, dina-raata har samai-maa) 2</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(वचनको मन्‍न दिनुभयो,<br/>चटान फुटाई पानी दियौ) २<br/><br/><tag name="y">(bacHan-ko manna dinu-bhayo,<br/>caTaan fuTaai paani diyau) 2</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines>आत्मामा भई हामीलाई,<br/>(प्रभुजी, तिम्रो बाटोमा डोर्‍यायौ) ~ २<br/><br/><tag name="y">aatmaa-maa bhai haami-laai,<br/>(prabhu-ji, timro baaTo-maa Doryaayau) 2</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>(यो नयाँ, सुन्दर सालमा पनि<br/>प्राण, आत्मा, शरीर र हृदय पनि) २<br/><br/><tag name="y">(yo nayaaň, sundar saal-maa pani<br/>praaN, aatmaa, sharir ra ridai pani) ~ 2</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>रक्षा गरिदिनुभो,<br/>(प्रभुजी, गरिदेऊ आत्मिक उन्‍‌नति) २<br/><br/><tag name="y">rakchyaa gari-dinubho,<br/>(prabhu-ji, gari-deu aatmik unnati) 2</tag></lines>
+    </verse>
+    <verse name="v7">
+      <lines>(स्वर्ग देशमा पुग्‍‌न पाऊँ,<br/>अनन्त भजन सुनाउन पाऊँ) २<br/><br/>(<tag name="y">sworga desh-maa pugna paauň,<br/>ananta bhajan sunaauna paauň) २</tag></lines>
+    </verse>
+    <verse name="v8">
+      <lines>सधैँ शरण परेर,<br/>(प्रभुजी, साष्‍टाङ्ग प्रणाम गर्न पाऊँ) २<br/><br/><tag name="y">sadhaiň sharaN parera,<br/>(prabhu-ji, saasTaanga praNaam garna paauň) 2</tag><br/> </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2025-07-20T17:42:22">
+  <properties>
+    <titles>
+      <title>B377 - ma yeshu-ko saath jyoti-maa hiňR-chu - FINAL</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v3 v4 c1 c2 v5 v6 c1 c2 v7 v8</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>म येशूको साथ ज्योतिमा हिँड़्छु,<br/>दिन र रात उनको पछि म हिँड़्‍‌नेछु<br/><br/><tag name="y">ma yeshu-ko saath jyoti-maa hiňR-chu<br/>din ra raat unko pachi ma hiňR-nechu<br/></tag>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>पछि हिँड़्‍‌नेछु, जय पाउनेछु,<br/>येशू ख्रष्टि मेरो बलिदान ।<br/><br/><tag name="y">pachi hiňR-nechu, jaya pau-nechu,<br/>yeshu khrisT mero balidaan</tag>.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>हिँड़्दै–हिँड़्दै ज्योतिमा येशूको साथ,<br/>हिँड़्दै–हिँड़्दै समात्छु येशूको हात<br/><br/><tag name="y">hiňRdai-hiňRdai jyoti-maa yeshu-ko saath,<br/>hiňRdai-hiňRdai samaat-chu yeshu-ko haat<br/></tag>.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>ज्योतिमा हिँड़्‍‌नेछु, जय पाउनेछु,<br/>येशू ख्रीष्ट मेरो बलिदान ।<br/><br/><tag name="y">jyoti-maa hiňR-nechu, jaya paau-nechu,<br/>yeshu khrisT mero balidaan</tag>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>म येशूको साथ ज्योतिमा हिँड़्छु,<br/>अन्धकारमा पनि म डराउँदिनँ<br/><br/><tag name="y">ma yeshu-ko saath jyoti-maa hiňR-chu<br/>andhakaar-maa pani ma Daraauň-dinaň<br/></tag>.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>कदम बढ़ाउँछु, मनले गाउनेछु,<br/>येशू ख्रीष्ट मेरो बलिदान ।<br/><br/><tag name="y">kadam baRhaauň-chu, man-le gaau-nechu,<br/>yeshu khrisT mero balidaan</tag>.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>म येशूको साथ ज्योतिमा हिँड़्छु,<br/>हेर्दैहेर्दै सब दिन गोहार पाउनेछु,<br/><br/><tag name="y">ma yeshu-ko saath jyoti-maa hiňR-chu<br/>herdai-herdai sab din gohaar paau-nechu<br/></tag>.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>शोक या खुशी होस्, नजीक छन् मेरो<br/>येशू ख्रीष्ट, मेरो बलिदान ।<br/><br/><tag name="y">shok yaa khushi hos, najik chan mero<br/>yeshu khrisT mero balidaan</tag>.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>म येशूको साथ ज्योतिमा हिँड़्छु,<br/>आफ्‍‌नो आँखा उनमा म लगाउनेछु<br/><br/><tag name="y">ma yeshu-ko saath jyoti-maa hiňR-chu<br/>aafno aaňkhaa un-maa ma lagaau-nechu<br/></tag>.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>हातमा छ क्रूस, झण्डा छ अद्‌भुत,<br/>येशू ख्रीष्ट मेरो बलिदान ।<br/><br/><tag name="y">haat-maa cha krus, jhanDaa cha adbhut,<br/>yeshu khrisT mero balidaan</tag>.</lines>
+    </verse>
+  </lyrics>
+</song>
